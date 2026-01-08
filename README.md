@@ -4,3 +4,4 @@ See the [index](https://github.com/IntroStats7e/IntroStats7e.github.io/blob/main
 
 To download a tab-delimited .txt file suitable for importing into statistical software, click the link to the uploaded .txt file in the dataset's folder, then click the download icon in the upper right corner menu. 
 
+
