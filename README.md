@@ -2,22 +2,17 @@
 
 Here is an index of datasets: 
 
-<table>
-  {% for row in site.data_index %}
-    {% if forloop.first %}
-    <tr>
-      {% for pair in row %}
-        <th>{{ pair[0] }}</th>
-      {% endfor %}
-    </tr>
-    {% endif %}
+<div id="table-container"></div>
 
-    {% tablerow pair in row %}
-      {{ pair[1] }}
-    {% endtablerow %}
-  {% endfor %}
-</table>
-
+<script>
+  CsvToHtmlTable.init({
+    csv_path: 'data_index.csv', // Path to your CSV file
+    element: 'table-container',
+    allow_download: true,
+    csv_options: { separator: ',', delimiter: '"' },
+    datatables_options: { paging: false }
+  });
+</script>
 
 To download a tab-delimited .txt file suitable for importing into statistical software, click the link to the uploaded .txt file in the dataset's folder, then click the download icon in the upper right corner menu. 
 
