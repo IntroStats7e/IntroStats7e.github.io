@@ -1,0 +1,152 @@
+Year	Year_no	Winner	Mins	Secs	Time.in.Sec	Distance..mi.	Speed	Jockey	Trainer	Owner
+1875	1	Aristides	2	37.75	157.75	1.5	34.231379	Oliver Lewis	Ansel Williamson	Hal Price McGrath
+1876	2	Vagrant	2	38.25	158.25	1.5	34.123223	Robert Swim	James Williams	William Astor Jr.
+1877	3	Baden-Baden	2	38	158	1.5	34.177215	Billy Walker	Ed Brown	Daniel Swigert
+1878	4	Day Star	2	37.25	157.25	1.5	34.340223	Jimmy Carter	Lee Paul	Thomas J. Nichols
+1879	5	Lord Murphy	2	37	157	1.5	34.394904	Charlie Shauer	George Rice	George W. Darden & Co.
+1880	6	Fonso	2	37.5	157.5	1.5	34.285714	George Lewis	Tice Hutsell	J.S. Shawhan
+1881	7	Hindoo	2	40	160	1.5	33.75	Jim McLaughlin	James Rowe Sr.	Dwyer Brothers
+1882	8	Apollo	2	40.25	160.25	1.5	33.697348	Babe Hurd	Green B. Morris	Green B. Morris, James D. Patton
+1883	9	Leonatus	2	43	163	1.5	33.128834	William Donohue	Raleigh Colston Sr.	Jack P. Chinn, George Morgan
+1884	10	Buchanan	2	40.25	160.25	1.5	33.697348	Isaac Murphy	William Bird	William Cottrill, Sam S. Brown
+1885	11	Joe Cotton	2	37.25	157.25	1.5	34.340223	Erskine Henderson	Abraham Perry	James T. Williams
+1886	12	Ben Ali	2	36.5	156.5	1.5	34.504792	Paul Duffy	Jim Murphy	James B. Haggin
+1887	13	Montrose	2	39.25	159.25	1.5	33.908948	Isaac Lewis	John McGinty	Labold Brothers
+1888	14	Macbeth II	2	38.25	158.25	1.5	34.123223	George Covington	John Campbell	Chicago Stable
+1889	15	Spokane	2	34.5	154.5	1.5	34.951456	Thomas Kiley	John Rodegap	Noah Armstrong
+1890	16	Riley	2	45	165	1.5	32.727273	Isaac Murphy	Edward Corrigan	Edward Corrigan
+1891	17	Kingman	2	52.25	172.25	1.5	31.349782	Isaac Murphy	Dudley Allen	Jacobin Stable
+1892	18	Azra	2	41.5	161.5	1.5	33.436533	Alonzo Clayton	John Morris	Bashford Manor Stable
+1893	19	Lookout	2	39.25	159.25	1.5	33.908948	Eddie Kunze	William McDaniel	J.E. Cushin, J. Orth
+1894	20	Chant	2	41	161	1.5	33.540373	Frank Goodale	Eugene Leigh	Eugene Leigh, Robert Rose
+1895	21	Halma	2	37.5	157.5	1.5	34.285714	James Perkins	Byron McClelland	Byron McClelland
+1896	22	Ben Brush	2	7.75	127.75	1.25	35.225049	Willie Simms	Hardy Campbell	Mike F. Dwyer
+1897	23	Typhoon II	2	12.5	132.5	1.25	33.962264	Buttons Garner	Julius C. Cahn	Julius C. Cahn
+1898	24	Plaudit	2	9	129	1.25	34.883721	Willie Simms	John E. Madden	John E. Madden
+1899	25	Manuel	2	12	132	1.25	34.090909	Fred Taral	Robert Walden	A. H. & D. H. Morris
+1900	26	Lieut. Gibson	2	6.25	126.25	1.25	35.643564	Jimmy Boland	Charles Hughes	Charles H. Smith
+1901	27	His Eminence	2	7.75	127.75	1.25	35.225049	Jimmy Winkfield	Frank B. Van Meter	Frank B. Van Meter
+1902	28	Alan-a-Dale	2	8.75	128.75	1.25	34.951456	Jimmy Winkfield	Thomas Clay McDowell	Thomas Clay McDowell
+1903	29	Judge Himes	2	9	129	1.25	34.883721	Harold Booker	John P. Mayberry	Charles R. Ellison
+1904	30	Elwood	2	8.5	128.5	1.25	35.019455	Shorty Prior	Charles Durnell	Laska Durnell
+1905	31	Agile	2	10.75	130.75	1.25	34.416826	Jack Martin	Robert Tucker	Samuel S. Brown
+1906	32	Sir Huon	2	8.8	128.8	1.25	34.937888	Roscoe Troxler	Peter Coyne	Bashford Manor Stable
+1907	33	Pink Star	2	12.6	132.6	1.25	33.936652	Andy Minder	William H. Fizer	J. Hal Woodford
+1908	34	Stone Street	2	15.2	135.2	1.25	33.284024	Arthur Pickens	John Hall	C. E. & J. W. Hamilton
+1909	35	Wintergreen	2	8.2	128.2	1.25	35.101404	Vincent Powers	Charles Mack	Jerome B. Respess
+1910	36	Donau	2	6.4	126.4	1.25	35.601266	Frederick Herbert	George Ham	William Gerst
+1911	37	Meridian	2	5	125	1.25	36	George Archibald	Albert Ewing	Richard F. Carman
+1912	38	Worth	2	9.4	129.4	1.25	34.775889	Carroll Shilling	Frank Taylor	Harry Hallenbeck
+1913	39	Donerail	2	4.8	124.8	1.25	36.057692	Roscoe Goose	Thomas P. Hayes	Thomas P. Hayes
+1914	40	Old Rosebud	2	3.4	123.4	1.25	36.466775	John McCabe	Frank Weir	Hamilton Applegate
+1915	41	Regret	2	5.4	125.4	1.25	35.885167	Joe Notter	James Rowe Sr.	Harry Payne Whitney
+1916	42	George Smith	2	4	124	1.25	36.290323	Johnny Loftus	Hollie Hughes	John Sanford
+1917	43	*Omar Khayyam	2	4.6	124.6	1.25	36.11557	Charles Borel	Charles T. Patterson	C.K.G. Billings, Frederick Johnson
+1918	44	Exterminator	2	10.8	130.8	1.25	34.40367	Willie Knapp	Henry McDaniel	Willis Sharpe Kilmer
+1919	45	Sir Barton	2	9.8	129.8	1.25	34.668721	Johnny Loftus	H. Guy Bedwell	J. K. L. Ross
+1920	46	Paul Jones	2	9	129	1.25	34.883721	Ted Rice	William Garth	Ral Parr
+1921	47	Behave Yourself	2	4.2	124.2	1.25	36.231884	Charles Thompson	Herbert J. Thompson	Edward R. Bradley
+1922	48	Morvich	2	4.6	124.6	1.25	36.11557	Albert Johnson	Fred Burlew	Ben Block
+1923	49	Zev	2	5.4	125.4	1.25	35.885167	Earl Sande	David Leary	Rancocas Stable
+1924	50	Black Gold	2	5.2	125.2	1.25	35.942492	John Mooney	Hanley Webb	Rosa Hoots
+1925	51	Flying Ebony	2	7.6	127.6	1.25	35.266458	Earl Sande	William Duke	Gifford Cochran
+1926	52	Bubbling Over	2	3.8	123.8	1.25	36.34895	Albert Johnson	Herbert J. Thompson	Edward R. Bradley (Idle Hour Stock Farm)
+1927	53	Whiskery	2	6	126	1.25	35.714286	Linus McAtee	Fred Hopkins	Harry Payne Whitney
+1928	54	Reigh Count	2	10.4	130.4	1.25	34.509202	Chick Lang	Bert Michell	Fannie Hertz
+1929	55	Clyde Van Dusen	2	10.8	130.8	1.25	34.40367	Linus McAtee	Clyde Van Dusen	Herbert Gardner
+1930	56	Gallant Fox	2	7.6	127.6	1.25	35.266458	Earl Sande	Jim Fitzsimmons	Belair Stud
+1931	57	Twenty Grand	2	1.8	121.8	1.25	36.945813	Charley Kurtsinger	James Rowe Jr.	Greentree Stable
+1932	58	Burgoo King	2	5.2	125.2	1.25	35.942492	Eugene James	Herbert J. Thompson	Edward R. Bradley
+1933	59	Brokers Tip	2	6.8	126.8	1.25	35.488959	Don Meade	Herbert J. Thompson	Edward R. Bradley
+1934	60	Cavalcade	2	4	124	1.25	36.290323	Mack Garner	Bob Smith	Brookmeade Stable
+1935	61	Omaha	2	5	125	1.25	36	Willie Saunders	Jim Fitzsimmons	Belair Stud
+1936	62	Bold Venture	2	3.6	123.6	1.25	36.407767	Ira Hanford	Max Hirsch	Morton Schwartz
+1937	63	War Admiral	2	3.2	123.2	1.25	36.525974	Charley Kurtsinger	George Conway	Glen Riddle Farms
+1938	64	Lawrin	2	4.8	124.8	1.25	36.057692	Eddie Arcaro	Ben Jones	Woolford Farm
+1939	65	Johnstown	2	3.4	123.4	1.25	36.466775	James Stout	Jim Fitzsimmons	Belair Stud
+1940	66	Gallahadion	2	5	125	1.25	36	Carroll Bierman	Roy Waldron	Milky Way Farm
+1941	67	Whirlaway	2	1.4	121.4	1.25	37.067545	Eddie Arcaro	Ben Jones	Calumet Farm
+1942	68	Shut Out	2	4.4	124.4	1.25	36.173633	Wayne Wright	John Gaver Sr.	Greentree Stable
+1943	69	Count Fleet	2	4	124	1.25	36.290323	Johnny Longden	Don Cameron	Fannie Hertz
+1944	70	Pensive	2	4.2	124.2	1.25	36.231884	Conn McCreary	Ben Jones	Calumet Farm
+1945	71	Hoop Jr.	2	7	127	1.25	35.433071	Eddie Arcaro	Ivan Parke	Fred Hooper
+1946	72	Assault	2	6.6	126.6	1.25	35.545024	Warren Mehrtens	Max Hirsch	King Ranch
+1947	73	Jet Pilot	2	6.8	126.8	1.25	35.488959	Eric Guerin	Tom Smith	Maine Chance Farm
+1948	74	Citation	2	5.4	125.4	1.25	35.885167	Eddie Arcaro	Ben Jones	Calumet Farm
+1949	75	Ponder	2	4.2	124.2	1.25	36.231884	Steve Brooks	Ben Jones	Calumet Farm
+1950	76	Middleground	2	1.6	121.6	1.25	37.006579	William Boland	Max Hirsch	King Ranch
+1951	77	Count Turf	2	2.6	122.6	1.25	36.704731	Conn McCreary	Sol Rutchick	Jack Amiel
+1952	78	Hill Gail	2	1.6	121.6	1.25	37.006579	Eddie Arcaro	Ben Jones	Calumet Farm
+1953	79	Dark Star	2	2	122	1.25	36.885246	Henry Moreno	Eddie Hayward	Cain Hoy Stable
+1954	80	Determine	2	3	123	1.25	36.585366	Raymond York	William Molter	Andy Crevolin
+1955	81	Swaps	2	1.8	121.8	1.25	36.945813	Bill Shoemaker	Mesh Tenney	Rex Ellsworth
+1956	82	Needles	2	3.4	123.4	1.25	36.466775	David Erb	Hugh Fontaine	D & H Stable
+1957	83	Iron Liege	2	2.2	122.2	1.25	36.824877	Bill Hartack	Jimmy Jones	Calumet Farm
+1958	84	Tim Tam	2	5	125	1.25	36	Ismael Valenzuela	Jimmy Jones	Calumet Farm
+1959	85	*Tomy Lee	2	2.2	122.2	1.25	36.824877	Bill Shoemaker	Frank Childs	Fred & Juliette Turner Jr.
+1960	86	Venetian Way	2	2.4	122.4	1.25	36.764706	Bill Hartack	Victor Sovinski	Sunny Blue Farm
+1961	87	Carry Back	2	4	124	1.25	36.290323	Johnny Sellers	Jack Price	Katherine Price
+1962	88	Decidedly	2	0.4	120.4	1.25	37.375415	Bill Hartack	Horatio Luro	El Peco Ranch
+1963	89	Chateaugay	2	1.8	121.8	1.25	36.945813	Braulio Baeza	James P. Conway	Darby Dan Farm
+1964	90	Northern Dancer	2	0	120	1.25	37.5	Bill Hartack	Horatio Luro	Windfields Farm
+1965	91	Lucky Debonair	2	1.2	121.2	1.25	37.128713	Bill Shoemaker	Frank Catrone	Ada Rice
+1966	92	Kauai King	2	2	122	1.25	36.885246	Don Brumfield	Henry Forrest	Ford Stable
+1967	93	Proud Clarion	2	0.6	120.6	1.25	37.313433	Bobby Ussery	Loyd Gentry Jr.	Darby Dan Farm
+1968	94	Forward Pass**	2	2.2	122.2	1.25	36.824877	Ismael Valenzuela	Henry Forrest	Calumet Farm
+1969	95	Majestic Prince	2	1.8	121.8	1.25	36.945813	Bill Hartack	Johnny Longden	Frank McMahon
+1970	96	Dust Commander	2	3.4	123.4	1.25	36.466775	Mike Manganello	Don Combs	Robert Lehmann
+1971	97	Canonero II	2	3.2	123.2	1.25	36.525974	Gustavo Ávila	Juan Arias	Edgar Caibett
+1972	98	Riva Ridge	2	1.8	121.8	1.25	36.945813	Ron Turcotte	Lucien Laurin	Meadow Stable
+1973	99	Secretariat	1	59.4	119.4	1.25	37.688442	Ron Turcotte	Lucien Laurin	Meadow Stable
+1974	100	Cannonade	2	4	124	1.25	36.290323	Ángel Cordero Jr.	Woody Stephens	John Olin
+1975	101	Foolish Pleasure	2	2	122	1.25	36.885246	Jacinto Vásquez	LeRoy Jolley	John Greer
+1976	102	Bold Forbes	2	1.6	121.6	1.25	37.006579	Ángel Cordero Jr.	Laz Barrera	E. Rodriguez Tizol
+1977	103	Seattle Slew	2	2.2	122.2	1.25	36.824877	Jean Cruguet	Billy Turner Jr.	Karen Taylor
+1978	104	Affirmed	2	1.2	121.2	1.25	37.128713	Steve Cauthen	Laz Barrera	Harbor View Farm
+1979	105	Spectacular Bid	2	2.2	122.2	1.25	36.824877	Ronnie Franklin	Bud Delp	Hawksworth Farm
+1980	106	Genuine Risk	2	2	122	1.25	36.885246	Jacinto Vásquez	LeRoy Jolley	Diana M. Firestone
+1981	107	Pleasant Colony	2	2	122	1.25	36.885246	Jorge Velásquez	John Campo	Buckland Farm
+1982	108	Gato Del Sol	2	2.4	122.4	1.25	36.764706	Eddie Delahoussaye	Edwin Gregson	Arthur B. Hancock III, Leone J. Peters
+1983	109	Sunny√ïs Halo	2	2.2	122.2	1.25	36.824877	Eddie Delahoussaye	David Cross Jr.	D.J. Foster Racing Stable
+1984	110	Swale	2	2.4	122.4	1.25	36.764706	Laffit Pincay Jr.	Woody Stephens	Claiborne Farm
+1985	111	Spend a Buck	2	0.2	120.2	1.25	37.437604	Ángel Cordero Jr.	Cam Gambolati	Hunter Farm
+1986	112	Ferdinand	2	2.8	122.8	1.25	36.644951	Bill Shoemaker	Charlie Whittingham	Elizabeth Keck
+1987	113	Alysheba	2	3.4	123.4	1.25	36.466775	Chris McCarron	Jack Van Berg	Dorothy & Pamela Scharbauer
+1988	114	Winning Colors	2	2.2	122.2	1.25	36.824877	Gary Stevens	D. Wayne Lukas	Eugene Klein
+1989	115	Sunday Silence	2	5	125	1.25	36	Pat Valenzuela	Charlie Whittingham	H-G-W Partners
+1990	116	Unbridled	2	2	122	1.25	36.885246	Craig Perret	Carl Nafzger	Frances A. Genter Stable
+1991	117	Strike the Gold	2	3	123	1.25	36.585366	Chris Antley	Nick Zito	Bill Condren, Joe Cornacchia, B. Giles Brophy
+1992	118	Lil E. Tee	2	3	123	1.25	36.585366	Pat Day	Lynn Whiting	Cal Partee
+1993	119	Sea Hero	2	2.4	122.4	1.25	36.764706	Jerry Bailey	MacKenzie Miller	Rokeby Stables
+1994	120	Go for Gin	2	3.6	123.6	1.25	36.407767	Chris McCarron	Nick Zito	Bill Condren, Joe Cornacchia
+1995	121	Thunder Gulch	2	1.2	121.2	1.25	37.128713	Gary Stevens	D. Wayne Lukas	Michael Tabor
+1996	122	Grindstone	2	1	121	1.25	37.190083	Jerry Bailey	D. Wayne Lukas	Overbrook Farm
+1997	123	Silver Charm	2	2.4	122.4	1.25	36.764706	Gary Stevens	Bob Baffert	Bob & Beverly Lewis
+1998	124	Real Quiet	2	4.2	124.2	1.25	36.231884	Kent Desormeaux	Bob Baffert	Michael E. Pegram
+1999	125	Charismatic	2	3.2	123.2	1.25	36.525974	Chris Antley	D. Wayne Lukas	Bob & Beverly Lewis
+2000	126	Fusaichi Pegasus	2	1	121	1.25	37.190083	Kent Desormeaux	Neil Drysdale	Fusao Sekiguchi
+2001	127	Monarchos	1	59.97	119.97	1.25	37.509377	Jorge Chavez	John Ward Jr.	John Oxley
+2002	128	War Emblem	2	1.1	121.1	1.25	37.159372	Victor Espinoza	Bob Baffert	The Thoroughbred Corp.
+2003	129	Funny Cide	2	1.19	121.19	1.25	37.131777	José Santos	Barclay Tagg	Sackatoga Stable
+2004	130	Smarty Jones	2	4.06	124.06	1.25	36.272771	Stewart Elliott	John Servis	Someday Farm
+2005	131	Giacomo	2	2.75	122.75	1.25	36.659878	Mike Smith	John Shirreffs	Jerry & Ann Moss
+2006	132	Barbaro	2	1.36	121.36	1.25	37.079763	Edgar Prado	Michael Matz	Lael Stables
+2007	133	Street Sense	2	2.17	122.17	1.25	36.83392	Calvin Borel	Carl Nafzger	Jim Tafel
+2008	134	Big Brown	2	1.82	121.82	1.25	36.939747	Kent Desormeaux	Rick Dutrow Jr.	IEAH Stables, Paul Pompa Jr.
+2009	135	Mine That Bird	2	2.66	122.66	1.25	36.686776	Calvin Borel	Bennie Woolley Jr.	Double Eagle Ranch, Buena Suerte Equine
+2010	136	Super Saver	2	4.04	124.04	1.25	36.27862	Calvin Borel	Todd Pletcher	WinStar Farm
+2011	137	Animal Kingdom	2	2.04	122.04	1.25	36.873156	John Velazquez	Graham Motion	Team Valor International
+2012	138	I'll Have Another	2	1.83	121.83	1.25	36.936715	Mario Gutierrez	Doug O'Neill	Reddam Racing
+2013	139	Orb	2	2.89	122.89	1.25	36.618114	Joel Rosario	Claude McGaughey III	Stuart S. Janney III, Phipps Stable
+2014	140	California Chrome2	2	3.66	123.66	1.25	36.390102	Victor Espinoza	Art Sherman	Steve Coburn & Perry Martin
+2015	141	American Pharoah	2	3.03	123.03	1.25	36.576445	Victor Espinoza	Bob Baffert	Zayat Stables
+2016	142	Nyquist	2	1.31	121.31	1.25	37.095046	Mario Gutierrez	Doug O'Neill	Reddam Racing
+2017	143	Always Dreaming	2	3.59	123.59	1.25	36.410713	John Velazquez	Todd Pletcher	MeB Racing, Brooklyn Boyz, Teresa Viola, St. Elias, Siena Farm, West Point Thoroughbreds
+2018	144	Justify	2	4.2	120.07	1.25	37.478138	Mike Smith	Bob Baffert	China Horse Club, Head of Plains Partners, Starlight Racing, WinStar Farm
+2019	145	Country House	2	3.93	120.065	1.25	37.479698	Flavien Prat	Bill Mott	Mrs. J.V. Shields Jr., E. J. M. McFadden Jr., LNJ Foxwoods
+2020	146	Authentic	2	0.61	120.61	1.25	37.310339	John Velazquez	Bob Baffert	Spendthrift Farm, MyRaceHorse Stable, Madaket Stables, Starlight Racing
+2021	147	Mandaloun	2	1.02	121.02	1.25	37.183937	Florent Geroux	Brad Cox	Juddmonte
+2022	148	Rich Strike	2	2.61	122.61	1.25	36.701737	Sonny Leon	Eric Reed	RED TR-Racing
+2023	149	Mage	2	1.57	121.57	1.25	37.015711	Javier Castellano	Gustavo Delgado	OGMA Investments, Ramiro Restrepo, Sterling Racing, CMNWLTH[46]
+2024	150	Mystik Dan	2	3.34	123.34	1.25	36.484514	Brian Hernandez Jr.	Kenneth G. McPeek	Lance Gasaway, 4 G Racing (Brent Gasaway), Daniel Hamby III, Valley View Farm
+2025	151	Sovereignty	2	2.31	122.31	1.25	36.7917586460633	Junior Alvarado	Bill Mott	Godolphin
