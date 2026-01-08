@@ -1,6 +1,6 @@
 # Kentucky Derby 2025
 
-This folder contains the Kentucky Derby 2025 data. The data are sourced from www.kentuckyderby.ag/kentuckyderby-results.php or https://en.wikipedia.org/wiki/Kentucky_Derby. 
+This folder contains the Kentucky Derby 2025 data. The data are sourced from https://en.wikipedia.org/wiki/Kentucky_Derby. 
 
 The variables in this dataset are: 
 
