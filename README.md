@@ -2,11 +2,22 @@
 
 Here is an index of datasets: 
 
-```{r echo=F}
-library(kableExtra) 
-index <- read.csv("https://github.com/IntroStats7e/IntroStats7e.github.io/blob/main/data_index.csv")
-kable(index)
-```
+<table>
+  {% for row in site.data_index %}
+    {% if forloop.first %}
+    <tr>
+      {% for pair in row %}
+        <th>{{ pair[0] }}</th>
+      {% endfor %}
+    </tr>
+    {% endif %}
+
+    {% tablerow pair in row %}
+      {{ pair[1] }}
+    {% endtablerow %}
+  {% endfor %}
+</table>
+
 
 To download a tab-delimited .txt file suitable for importing into statistical software, click the link to the uploaded .txt file in the dataset's folder, then click the download icon in the upper right corner menu. 
 
