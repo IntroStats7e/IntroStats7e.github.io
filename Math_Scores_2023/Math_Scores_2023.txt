@@ -1,0 +1,53 @@
+State	Score	Change from 2019
+Alabama	260	-5
+Alaska	266	-10
+Arizona	270	-9
+Arkansas	265	-7
+California	263	-6
+Colorado	274	-7
+Connecticut	276	-7
+Delaware	269	-9
+District of Columbia	260	-10
+Florida	270	-5
+Georgia	268	-7
+Hawaii	269	-6
+Idaho	274	-6
+Illinois	271	-8
+Indiana	271	-9
+Iowa	273	-7
+Kansas	271	-10
+Kentucky	268	-9
+Louisiana	259	-2
+Maine	275	-5
+Maryland	267	-10
+Massachusetts	282	-7
+Michigan	268	-7
+Minnesota	280	-7
+Mississippi	262	-4
+Missouri	270	-7
+Montana	274	-8
+Nebraska	273	-7
+Nevada	264	-6
+New Hampshire	279	-8
+New Jersey	276	-8
+New Mexico	259	-8
+New York	271	-9
+North Carolina	271	-7
+North Dakota	275	-6
+Ohio	271	-7
+Oklahoma	263	-8
+Oregon	271	-5
+Pennsylvania	274	-7
+Puerto Rico	216	-6
+Rhode Island	269	-9
+South Carolina	269	-6
+South Dakota	275	-5
+Tennessee	268	-5
+Texas	271	-6
+Utah	279	1
+Vermont	277	-6
+Virginia	272	-9
+Washington	274	-5
+West Virginia	259	-6
+Wisconsin	275	-7
+Wyoming	277	-7

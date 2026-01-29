@@ -1,0 +1,60 @@
+Super Bowl	Winner	Winners Score	Loser	Losers Score	Points	Edge
+I	Green Bay	35	Kansas City	10	45	25
+II	Green Bay	33	Oakland	14	47	19
+III	N.Y. Jets	16	Baltimore	7	23	9
+IV	Kansas City	23	Minnesota	7	30	16
+V	Baltimore	16	Dallas	13	29	3
+VI	Dallas	24	Miami	3	27	21
+VII	Miami	14	Washington	7	21	7
+VIII	Miami	24	Minnesota	7	31	17
+IX	Pittsburgh	16	Minnesota	6	22	10
+X	Pittsburgh	21	Dallas	17	38	4
+XI	Oakland	32	Minnesota	14	46	18
+XII	Dallas	27	Denver	10	37	17
+XIII	Pittsburgh	35	Dallas	31	66	4
+XIV	Pittsburgh	31	L.A. Rams	19	50	12
+XV	Oakland	27	Philadelphia	10	37	17
+XVI	San Francisco	26	Cincinnati	21	47	5
+XVII	Washington	27	Miami	17	44	10
+XVIII	L.A.	38	Washington	9	47	29
+XIX	San Francisco	38	Miami	16	54	22
+XX	Chicago	46	New England	10	56	36
+XXI	N.Y.	39	Denver	20	59	19
+XXII	Washington	42	Denver	10	52	32
+XXIII	San Francisco	20	Cincinnati	16	36	4
+XXIV	San Francisco	55	Denver	10	65	45
+XXV	N.Y.	20	Buffalo	19	39	1
+XXVI	Washington	37	Buffalo	24	61	13
+XXVII	Dallas	52	Buffalo	17	69	35
+XXVIII	Dallas	30	Buffalo	13	43	17
+XXIX	San Francisco	49	San Diego	26	75	23
+XXX	Dallas	27	Pittsburgh	17	44	10
+XXXI	Green Bay	35	New England	21	56	14
+XXXII	Denver	31	Green Bay	24	55	7
+XXXIII	Denver	34	Atlanta	19	53	15
+XXXIV	St. Louis	23	Tennessee	16	39	7
+XXXV	Baltimore	34	N.Y. Giants	7	41	27
+XXXVI	New England	20	St. Louis	17	37	3
+XXXVII	Tampa Bay	48	Oakland	21	69	27
+XXXVIII	New England	32	Carolina	29	61	3
+XXXIX	New England	24	Philadelphia	21	45	3
+XL	Pittsburgh	21	Seattle	10	31	11
+XLI	Indianapolis	29	Chicago	17	46	12
+XLII	N.Y. Giants	17	New England	14	31	3
+XLIII	Pittsburgh	27	Arizona	23	50	4
+XLIV	Saints	31	Colts	17	48	14
+XLV	Packers	31	Steelers	25	56	6
+XLVI	Giants	21	Patriots	17	38	4
+XLVII	Ravens	34	49ers	31	65	3
+XLVIII	Seahawks	43	Broncos	8	51	35
+XLIX	Patriots	28	Seahawks	24	52	4
+50	Broncos	24	Panthers	10	34	14
+LI	Patriots	34	Falcons	28	62	6
+LII	Philadelphia	41	Patriots	33	74	8
+LIII	Patriots	13	L.A. Rams	3	16	10
+LIV	Kansas City	31	San Francisco	20	51	11
+LV	Tampa Bay	31	Kansas City	9	40	22
+LVI	Los Angeles	23	Cincinnati	20	43	3
+LVII	Kansas City	38	Philadelphia	35	73	3
+LVIII	Kansas City	25	San Francisco	22	47	3
+LIX	Philadelphia	40	Kansas City	22	62	18
