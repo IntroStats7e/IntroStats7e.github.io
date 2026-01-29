@@ -1,0 +1,1 @@
+Region	Below	Above	Total(Thousands)Northeast	5742	52258	58000Midwest	7236	59764	67000South	16380	109620	126000West	8532	70468	79000

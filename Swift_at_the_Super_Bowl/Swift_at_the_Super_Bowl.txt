@@ -1,0 +1,4 @@
+SwiftEffect	Age18-34	Age35-54	Age55+
+Yes	174	98	48
+No	206	368	522
+Don't know/no opinion	31	43	33
