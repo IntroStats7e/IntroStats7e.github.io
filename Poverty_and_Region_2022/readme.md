@@ -10,3 +10,5 @@ Header | Description
 `Below` | 
 `Above` | 
 `Total.Thousands.` | 
+
+This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt

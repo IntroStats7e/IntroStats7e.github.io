@@ -1,22 +1,24 @@
 # Tour de France 2025
 
-This folder contains the Tour de France 2025 dataset. The data are sourced from http://bikeraceinfo.com/tdf/tdfstats.html. Here is the official website of the Tour de France race: https://www.letour.fr/en/ 
+The Tour de France is the most famous bicycle race in the world. It has been run every year since 1903, except for a few during wars. The data report facts about the winners including age, time, distance, and average speed. Lance Armstrong's 7 consecutive victories been disqualified due to the use of performance-enhancing drugs, but his statistics are still included here.  Note that in some instances, the reported Average Speed does not match the intuitive calculation (distance divided by time). In 2025, this has to do with a one-off change to how time was recorded: the timer was stopped early due to weather and a highly technical final stage. 
 
-The data are in `Tour_de_France_2025.txt`. 
+The data are in `Tour_de_France_2025.txt`
 
 The variables in this dataset are: 
 
 Header | Description
 ---|---------
-`Year` | Calendar year of race
-`Winner` | Name of winning cyclist
-`Country` | Winning cyclist's country of origin
-`Age` | Winning cyclist's age (years)
-`Team` | Winning cyclist's team
-`Total.Time.h.min.sec` | Winning time formated as specified in variable name
-`Total.Time.h` | Winning time (hours) 
-`Average.Speed` | Winning cyclist's average speed as reported by TDF; this may not precisely match Distance / Time due to details of how race officials start and stop the clock 
-`Stages` | Number of stages in the race
-`Total.Distance.Ridden` | Race distance (km) 
-`Starting.Riders` | Number of cyclists who started the race
-`Finishing.Riders` | Number of riders who completed the race
+`Year` | 
+`Winner` | 
+`Country` | 
+`Age` | 
+`Team` | 
+`Total.Time.h.min.sec.` | 
+`Total.Time.h.` | 
+`Average.Speed` | 
+`Stages` | 
+`Total.Distance.Ridden` | 
+`Starting.Riders` | 
+`Finishing.Riders` | 
+
+This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt

@@ -1,5 +1,7 @@
 # Student survey
 
+The dataset contains data from a class survey. All responses are self-reported.
+
 The data are in `Student_survey.txt`
 
 The variables in this dataset are: 
@@ -21,3 +23,5 @@ Header | Description
 `Politics.9Cat` | 
 `Politics.numeric` | 
 `Politics.3Cat` | 
+
+This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt

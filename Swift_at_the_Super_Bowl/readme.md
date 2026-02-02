@@ -10,3 +10,5 @@ Header | Description
 `Age18.34` | 
 `Age35.54` | 
 `Age55.` | 
+
+This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt

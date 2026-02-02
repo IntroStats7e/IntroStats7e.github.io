@@ -18,3 +18,5 @@ Header | Description
 `Injuries` | 
 `Damage..M.` | 
 `Deaths_total` | 
+
+This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt

@@ -45,3 +45,5 @@ Header | Description
 `FIRST_GEN` | 
 `FAMILY.INC` | 
 `MED.INC.AFT6` | 
+
+This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt

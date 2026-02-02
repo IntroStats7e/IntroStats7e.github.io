@@ -8,3 +8,5 @@ Header | Description
 ---|---------
 `Brewpubs` | 
 `Year` | 
+
+This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
