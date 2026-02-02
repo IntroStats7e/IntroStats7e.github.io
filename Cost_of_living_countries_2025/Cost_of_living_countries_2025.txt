@@ -1,0 +1,97 @@
+Country	Loaf of Fresh White Bread (500g)	Eggs (regular) (12)	Water (1.5 liter bottle)
+Albania	0.9	3.24	0.65
+Algeria	0.14	1.68	0.29
+Argentina	1.95	2.35	1.44
+Armenia	0.79	2.3	0.6
+Australia	2.34	4	1.51
+Austria	2.64	4.14	0.78
+Azerbaijan	0.44	1.39	0.6
+Bangladesh	0.6	1.21	0.27
+Belarus	0.56	1.28	0.56
+Belgium	2.16	3.51	0.94
+Bolivia	1.26	1.81	1.11
+Bosnia And Herzegovina	0.97	2.53	0.65
+Brazil	1.34	1.8	0.59
+Bulgaria	0.96	3.15	0.64
+Canada	2.55	3.33	1.71
+Chile	1.44	3.36	1.11
+China	1.63	1.62	0.54
+Colombia	1.32	2.02	0.73
+Costa Rica	3.08	3.44	2.41
+Croatia	1.42	3.33	1.03
+Cuba	1.16	3.11	1.05
+Cyprus	1.78	3.7	0.93
+Czech Republic	1.35	2.67	0.67
+Denmark	3.08	4.44	1.31
+Ecuador	1.63	2.09	1.1
+Egypt	0.63	1.45	0.19
+El Salvador	1.99	2.63	1.09
+Estonia	1.21	2.51	1
+Finland	2.54	3.06	1.74
+France	1.87	3.87	0.7
+Georgia	0.59	2.3	0.6
+Germany	1.97	3.32	0.86
+Greece	1.3	4.11	0.79
+Hong Kong (China)	2.31	3.36	1.66
+Hungary	1.29	2.42	0.45
+India	0.49	0.96	0.34
+Indonesia	1.18	1.58	0.43
+Iran	0.53	1.15	0.26
+Iraq	0.84	1.77	0.53
+Ireland	1.88	3.84	1.71
+Israel	2.54	3.94	1.38
+Italy	2.06	3.57	0.45
+Japan	1.45	2.01	0.84
+Jordan	0.5	2.04	0.57
+Kazakhstan	0.44	1.57	0.65
+Kenya	0.53	1.6	0.7
+Kuwait	1.08	2.24	0.47
+Latvia	1.45	2.69	0.81
+Libya	0.32	1.41	0.25
+Lithuania	1.52	2.55	0.83
+Malaysia	0.88	1.92	0.54
+Malta	1.2	3.22	0.81
+Mauritius	0.66	2.11	0.61
+Mexico	2.35	2.15	0.9
+Montenegro	0.89	2.85	0.77
+Morocco	0.46	1.77	0.57
+Nepal	0.49	1.53	0.26
+Netherlands	1.82	4.33	0.77
+New Zealand	1.81	6.09	1.09
+Nigeria	1.33	1.98	0.5
+North Macedonia	0.66	1.94	0.49
+Norway	2.93	3.89	1.89
+Oman	1.13	2.45	0.55
+Pakistan	0.59	1.2	0.38
+Palestine	0.92	2.64	0.77
+Panama	2.41	2.59	1.53
+Peru	2.25	2.52	0.77
+Philippines	1.23	2.01	0.71
+Poland	1.19	2.97	0.59
+Portugal	1.4	2.77	0.71
+Qatar	1.55	2.65	0.48
+Romania	1.11	2.94	0.75
+Russia	0.45	1.17	0.46
+Saudi Arabia	1.03	2.57	0.59
+Serbia	0.74	2.42	0.6
+Singapore	2.17	3.15	1.39
+Slovakia	1.39	3.31	0.8
+Slovenia	1.8	3.37	0.8
+South Africa	0.94	2.17	0.9
+South Korea	2.89	2.87	1.08
+Spain	1.34	2.61	0.69
+Sri Lanka	0.59	2.26	0.56
+Sweden	2.63	3.76	1.3
+Switzerland	3.57	6.73	1.08
+Taiwan	1.83	2.73	1.14
+Thailand	1.32	2.04	0.49
+Tunisia	0.16	1.47	0.28
+Turkey	0.96	1.65	0.35
+Ukraine	0.63	1.65	0.51
+United Arab Emirates	1.35	2.95	0.6
+United Kingdom	1.54	3.68	1.38
+United States	3.61	3.77	2.21
+Uruguay	2.45	3.79	1.55
+Uzbekistan	0.46	1.61	0.4
+Venezuela	1.86	2.54	1.56
+Vietnam	0.96	1.51	0.51
