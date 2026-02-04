@@ -48,11 +48,18 @@
     <script src="js/csv_to_html_table.js"></script>
 
     <script>
-        function format_link(link) {
-            if (link)
-                return "<a href='" + link + "' target='_blank'>" + link + "</a>";
-            else return "";
+        function format_link(input) {
+            if (!input) return "";
+        
+            const match = input.match(/^\[([^\]]+)\]\(([^)]+)\)$/);
+            if (!match) return "";
+        
+            const text = match[1];
+            const url = match[2];
+        
+            return `<a href="${url}" target="_blank" rel="noopener noreferrer">${text}</a>`;
         }
+
 
         CsvToHtmlTable.init({
             csv_path: "data_index.csv",
