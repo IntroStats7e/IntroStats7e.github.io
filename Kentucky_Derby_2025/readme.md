@@ -8,16 +8,17 @@ The variables in this dataset are:
 
 Header | Description
 ---|---------
-`Year` | 
-`Year_no` | 
-`Winner` | 
-`Mins` | 
-`Secs` | 
-`Time.in.Sec` | 
-`Distance..mi.` | 
-`Speed` | 
-`Jockey` | 
-`Trainer` | 
-`Owner` | 
+`Year` | Year of race
+`Year_no` | Years since 1875 
+`Winner` | Winning horse
+`Mins` | Minutes of winning time
+`Secs` | Seconds of winning time
+`Time.in.Sec` | Winning time (sec)
+`Distance..mi.` | Distance of that year's Kentucky Derby (miles)
+`Speed` | Speed of winning horse (miles per hour) 
+`Jockey` | Name of winning horse's jockey
+`Trainer` | Name of winning horse's trainer
+`Owner` | Name of winning horse's owner
+
 
 This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
