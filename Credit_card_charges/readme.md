@@ -7,7 +7,7 @@ The data are in `Credit_card_charges.txt`
 The variables in this dataset are: 
 
 Header | Description
----|---------
+---|--------
 `Charges...` | 
 
 This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt

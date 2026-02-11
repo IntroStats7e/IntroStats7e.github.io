@@ -5,7 +5,7 @@ The data are in `Industrial_experiment.txt`
 The variables in this dataset are: 
 
 Header | Description
----|---------
+---|--------
 `Distance` | 
 `Speed` | 
 

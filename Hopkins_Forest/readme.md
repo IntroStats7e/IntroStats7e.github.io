@@ -1,11 +1,13 @@
 # Hopkins Forest
 
+The Hopkins Memorial Forest is a 2500-acre reserve in Massachusetts, New York, and Vermont managed by the Williams College Center for Environmental Studies (CES). As part of its mission, the CES monitors forest resources and conditions over the long term.
+
 The data are in `Hopkins_Forest.txt`
 
 The variables in this dataset are: 
 
 Header | Description
----|---------
+---|--------
 `Date` | 
 `Year` | 
 `Month` | 

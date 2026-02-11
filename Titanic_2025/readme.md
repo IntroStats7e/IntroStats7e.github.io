@@ -7,7 +7,7 @@ The data are in `Titanic_2025.txt`
 The variables in this dataset are: 
 
 Header | Description
----|---------
+---|--------
 `Name` | 
 `Born` | 
 `Died` | 

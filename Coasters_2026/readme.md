@@ -7,7 +7,7 @@ The data are in `Coasters_2026.txt`
 The variables in this dataset are: 
 
 Header | Description
----|---------
+---|--------
 `X` | 
 `Roller.Coaster` | 
 `Amusement.Park` | 

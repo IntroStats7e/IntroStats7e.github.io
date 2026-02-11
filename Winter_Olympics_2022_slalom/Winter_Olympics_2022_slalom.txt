@@ -1,0 +1,46 @@
+Rank	Bib	Name	Country	Run1	Rank1	Run2	Rank2	TimeSec
+1	4	Clement Noel	France	54.3	6	49.79	1	104.1
+2	19	Johannes Strolz	Austria	53.92	1	50.78	13	104.7
+3	2	Sebastian Foss-Solevag	Norway	53.98	3	50.81	15	104.8
+4	3	Henrik Kristoffersen	Norway	53.94	2	50.94	18	104.9
+5	11	Loic Meillard	Switzerland	54.22	4	50.67	10	104.9
+6	15	Daniel Yule	Switzerland	55.06	13	49.89	2	105
+7	5	Linus Straber	Germany	54.25	5	50.77	12	105
+8	18	Giuliano Razzoli	Italy	54.79	12	50.26	4	105.1
+9	22	Albert Popov	Bulgaria	54.62	9	50.53	8	105.2
+10	21	Aleksandr Khoroshilov	ROC	54.63	10	50.54	9	105.2
+11	20	Tommaso Sala	Italy	54.37	8	51	19	105.4
+12	1	Ramon Zenhausern	Switzerland	54.72	11	50.75	11	105.5
+13	13	Dave Ryding	Great Britain	55.13	16	50.44	7	105.6
+14	17	Luca Aerni	Switzerland	55.63	19	50.2	3	105.8
+15	30	Samuel Kolega	Croatia	55.54	18	50.42	6	106
+16	8	Alexis Pinturault	France	55.12	15	51.03	20	106.2
+17	6	Marco Schwarz	Austria	56.26	25	50.35	5	106.6
+18	16	Filip Zubcic	Croatia	55.79	21	50.89	17	106.7
+19	39	Alexander Schmid	Germany	55.95	23	51.08	21	107
+20	27	Matej Vidovic	Croatia	56.57	26	50.79	14	107.4
+21	33	Jung Dong-hyun	South Korea	56.85	29	50.84	16	107.7
+22	24	Armand Marchant	Belgium	56.13	24	51.72	22	107.8
+23	49	Barnabas Szollos	Israel	56.83	28	51.88	23	108.7
+24	26	Erik Read	Canada	55.9	22	53.2	24	109.1
+25	42	Adam Zampa	Slovakia	57.76	32	53.25	25	111
+26	50	Aleksandr Andrienko	ROC	57.47	31	53.7	26	111.2
+27	53	Emir Lokmic	Bosnia and Herzegovina	58.86	35	53.94	27	112.8
+28	60	Denni Xhepa	Albania	58.32	34	54.96	29	113.3
+29	52	Ioannis Antoniou	Greece	59.48	36	54.81	28	114.3
+30	55	Casper Dyrbye Naested	Denmark	01:01.4	38	55.89	31	117.3
+31	23	Atle Lie McGrath	Norway	55.08	14	01:02.3	41	117.4
+32	66	Soso Japharidze	Georgia	01:02.0	41	55.87	30	117.9
+33	58	Marton Kekesi	Hungary	01:01.8	40	56.12	32	118
+34	73	Richardson Viano	Haiti	01:02.2	42	57.74	33	120
+35	64	Alexandru Stefanescu	Romania	01:01.7	39	58.7	35	120.4
+36	72	Zakhar Kuchin	Kazakhstan	01:03.7	43	58.98	37	122.7
+37	77	Albin Tahiri	Kosovo	01:04.0	44	58.93	36	122.9
+38	78	Cesar Arnouk	Lebanon	01:07.1	47	58.37	34	125.4
+39	82	Ricardo Brancal	Portugal	01:06.2	46	01:00.1	38	126.3
+40	68	Nicola Zanon	Thailand	01:05.7	45	01:02.2	40	128
+41	86	Mathieu Neumuller	Madagascar	01:07.9	48	01:02.9	43	130.8
+42	62	Eldar Salihovic	Montenegro	01:09.6	50	01:02.2	39	131.8
+43	83	Matteo Gatti	San Marino	01:08.5	49	01:03.4	44	131.9
+44	88	William Flaherty	Puerto Rico	01:09.9	51	01:02.6	42	132.4
+45	80	Yohan Goutt Goncalves	Timor-Leste	01:15.5	52	01:09.2	45	144.7

@@ -7,7 +7,7 @@ The data are in `Framingham.txt`
 The variables in this dataset are: 
 
 Header | Description
----|---------
+---|--------
 `Cholesterol` | 
 `Age` | 
 `Sex` | 

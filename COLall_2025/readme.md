@@ -7,7 +7,7 @@ The data are in `COLall_2025.txt`
 The variables in this dataset are: 
 
 Header | Description
----|---------
+---|--------
 `City` | 
 `Water.1.5.l.` | 
 `Eggs.dozen.` | 

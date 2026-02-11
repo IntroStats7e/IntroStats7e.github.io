@@ -7,7 +7,7 @@ The data are in `Traffic_fatalities_2013.txt`
 The variables in this dataset are: 
 
 Header | Description
----|---------
+---|--------
 `Year` | 
 `Total.traffic.fatalities` | 
 `Occupant.fatalities` | 

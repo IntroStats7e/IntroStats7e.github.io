@@ -7,7 +7,7 @@ The data are in `Companies.txt`
 The variables in this dataset are: 
 
 Header | Description
----|---------
+---|--------
 `Company` | 
 `Assets` | 
 `Sales` | 

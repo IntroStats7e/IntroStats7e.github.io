@@ -7,7 +7,7 @@ The data are in `Load_factors_2024.txt`
 The variables in this dataset are: 
 
 Header | Description
----|---------
+---|--------
 `Year` | 
 `Month` | 
 `Domestic.Load.Factor` | 

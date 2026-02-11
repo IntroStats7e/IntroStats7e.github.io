@@ -5,7 +5,7 @@ The data are in `Vineyards.txt`
 The variables in this dataset are: 
 
 Header | Description
----|---------
+---|--------
 `Vineyard` | 
 `Location` | 
 `CasePrice` | 

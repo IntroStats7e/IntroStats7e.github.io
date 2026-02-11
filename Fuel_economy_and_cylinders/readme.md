@@ -7,7 +7,7 @@ The data are in `Fuel_economy_and_cylinders.txt`
 The variables in this dataset are: 
 
 Header | Description
----|---------
+---|--------
 `Fuel.Efficiency..mpg.` | 
 `Cylinders` | 
 

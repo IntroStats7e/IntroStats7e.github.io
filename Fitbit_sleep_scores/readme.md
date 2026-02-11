@@ -5,7 +5,7 @@ The data are in `Fitbit_sleep_scores.txt`
 The variables in this dataset are: 
 
 Header | Description
----|---------
+---|--------
 `timestamp` | 
 `overall_score` | 
 `composition_score` | 

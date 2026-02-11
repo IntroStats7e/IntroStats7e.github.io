@@ -7,7 +7,7 @@ The data are in `Cereals.txt`
 The variables in this dataset are: 
 
 Header | Description
----|---------
+---|--------
 `name` | 
 `mfr` | 
 `calories` | 

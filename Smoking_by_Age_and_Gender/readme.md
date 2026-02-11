@@ -7,7 +7,7 @@ The data are in `Smoking_by_Age_and_Gender.txt`
 The variables in this dataset are: 
 
 Header | Description
----|---------
+---|--------
 `Age` | 
 `Gender` | 
 `X1974` | 

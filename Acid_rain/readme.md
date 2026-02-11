@@ -7,8 +7,8 @@ The data are in `Acid_rain.txt`
 The variables in this dataset are: 
 
 Header | Description
----|---------
-`Date` | 
-`pH` | 
+---|--------
+`Date` | Date of measurement 
+`pH` | pH of rain and snow in Allegheny County, Pennsylvania
 
 This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt

@@ -7,7 +7,7 @@ The data are in `MPG_2021.txt`
 The variables in this dataset are: 
 
 Header | Description
----|---------
+---|--------
 `Model.Year` | 
 `Region` | 
 `Highway.FE` | 

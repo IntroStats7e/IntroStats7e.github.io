@@ -5,7 +5,7 @@ The data are in `Tsunamis_2025.txt`
 The variables in this dataset are: 
 
 Header | Description
----|---------
+---|--------
 `ID` | 
 `Year` | 
 `Focal.depth` | 

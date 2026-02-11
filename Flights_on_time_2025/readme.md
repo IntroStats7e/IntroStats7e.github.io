@@ -7,7 +7,7 @@ The data are in `Flights_on_time_2025.txt`
 The variables in this dataset are: 
 
 Header | Description
----|---------
+---|--------
 `Year` | 
 `Month` | 
 `Onetime.Arrivals` | 

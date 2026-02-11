@@ -7,8 +7,8 @@ The data are in `A-Rod.txt`
 The variables in this dataset are: 
 
 Header | Description
----|---------
-`Year` | 
-`HR` | 
+---|--------
+`Year` | Season 
+`HR` | Number of home runs
 
 This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt

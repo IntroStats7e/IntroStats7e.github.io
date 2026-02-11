@@ -7,7 +7,7 @@ The data are in `CEO_Compensation_2024.txt`
 The variables in this dataset are: 
 
 Header | Description
----|---------
+---|--------
 `Ticker` | 
 `Company` | 
 `Median.Worker.Pay` | 

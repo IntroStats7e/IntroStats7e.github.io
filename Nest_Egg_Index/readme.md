@@ -5,7 +5,7 @@ The data are in `Nest_Egg_Index.txt`
 The variables in this dataset are: 
 
 Header | Description
----|---------
+---|--------
 `State` | 
 `Nest.Egg.Index` | 
 `Region` | 

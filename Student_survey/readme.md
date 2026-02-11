@@ -7,7 +7,7 @@ The data are in `Student_survey.txt`
 The variables in this dataset are: 
 
 Header | Description
----|---------
+---|--------
 `Gender` | 
 `Do.you.believe.in.God` | 
 `Pick.Random.Number` | 

@@ -5,7 +5,7 @@ The data are in `Cost_of_living_countries_2025.txt`
 The variables in this dataset are: 
 
 Header | Description
----|---------
+---|--------
 `Country` | 
 `Loaf.of.Fresh.White.Bread..500g.` | 
 `Eggs..regular...12.` | 

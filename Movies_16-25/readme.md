@@ -1,11 +1,13 @@
 # Movies 16-25
 
+Data about major movie releases in the years 2006 to 2015. Various summaries, displays, and analyses may be appropriate.
+
 The data are in `Movies_16-25.txt`
 
 The variables in this dataset are: 
 
 Header | Description
----|---------
+---|--------
 `Rank_In_Year` | 
 `Released` | 
 `Release_Year` | 

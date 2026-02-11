@@ -7,7 +7,7 @@ The data are in `Cost_of_living_cities_2025.txt`
 The variables in this dataset are: 
 
 Header | Description
----|---------
+---|--------
 `City` | 
 `Eggs..regular...12.` | 
 `Water..1.5.l.` | 

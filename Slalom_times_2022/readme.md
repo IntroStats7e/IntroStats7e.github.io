@@ -7,7 +7,7 @@ The data are in `Slalom_times_2022.txt`
 The variables in this dataset are: 
 
 Header | Description
----|---------
+---|--------
 `Rank` | 
 `Bib` | 
 `Name` | 

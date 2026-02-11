@@ -7,7 +7,7 @@ The data are in `Rock_concert_deaths.txt`
 The variables in this dataset are: 
 
 Header | Description
----|---------
+---|--------
 `Year` | 
 `Name` | 
 `Age` | 

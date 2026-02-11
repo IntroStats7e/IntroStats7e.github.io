@@ -7,7 +7,7 @@ The data are in `Passive_smoke.txt`
 The variables in this dataset are: 
 
 Header | Description
----|---------
+---|--------
 `cotinine` | 
 `smoke_exposure` | 
 
