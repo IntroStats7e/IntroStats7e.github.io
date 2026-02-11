@@ -8,9 +8,9 @@ The variables in this dataset are:
 
 Header | Description
 ---|--------
-`City` | 
-`Water.1.5.l.` | 
-`Eggs.dozen.` | 
-`Bread.white.500g.` | 
+`City` | City name 
+`Water.1.5.l.` | Cost of a 1.5 liter bottle of water
+`Eggs.dozen.` | Cost of a dozen eggs
+`Bread.white.500g.` | Cost of a 500g loaf of white bread
 
 This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt

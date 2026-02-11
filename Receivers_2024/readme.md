@@ -4,5 +4,25 @@ NFL data from the 2024 football season reported the number of yards gained by al
 
 The data are in `Receivers_2024.txt`
 
+The variables in this dataset are: 
+
+Header | Description
+---|--------
+`PlayerName` | 
+`Team` | 
+`Position` | 
+`GamesPlayed` | 
+`Receptions` | 
+`RecTargets` | 
+`Yards` | 
+`AvgYds` | 
+`TDs` | 
+`LongRec` | 
+`Plays20Plus` | 
+`YdsPerGame` | 
+`Fumbles` | 
+`FumblesLost` | 
+`YdsAfterCatch` | 
+`FirstDowns` | 
 
 This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt

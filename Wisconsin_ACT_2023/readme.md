@@ -4,5 +4,14 @@ The data give the mean ACT composite scores for all Wisconsin public schools in 
 
 The data are in `Wisconsin_ACT_2023.txt`
 
+The variables in this dataset are: 
+
+Header | Description
+---|--------
+`SCHOOL` | 
+`DISTRICT` | 
+`CHARTER` | 
+`ACT.COMPOSITE` | 
+`TEST.TAKERS` | 
 
 This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt

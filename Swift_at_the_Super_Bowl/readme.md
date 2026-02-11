@@ -1,5 +1,7 @@
 # Swift at the Super Bowl
 
+The Super Bowl is one of the most significant sporting events of the year in the United States. In 2024, there was an extra draw: pop star Taylor Swift attended to support her boyfriend, Travis Kelce, who played for the Kansas City Chiefs. The Seton Hall Sports Poll asked 1,523 U.S. adults whether their decision to watch the game would be affected by Taylor Swift's presence. 
+
 The data are in `Swift_at_the_Super_Bowl.txt`
 
 The variables in this dataset are: 

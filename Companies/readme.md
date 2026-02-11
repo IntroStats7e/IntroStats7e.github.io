@@ -8,14 +8,14 @@ The variables in this dataset are:
 
 Header | Description
 ---|--------
-`Company` | 
+`Company` | Company name 
 `Assets` | 
 `Sales` | 
 `Market.Value` | 
 `Profits` | 
 `Cash.Flow` | 
-`Employees` | 
-`sector` | 
-`Banks` | 
+`Employees` | Number of employees (thousands) 
+`sector` | Business sector
+`Banks` | Indicator that company is a bank (1=yes, 0=no)
 
 This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt

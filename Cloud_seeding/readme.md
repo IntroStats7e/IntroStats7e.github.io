@@ -8,7 +8,7 @@ The variables in this dataset are:
 
 Header | Description
 ---|--------
-`Unseeded.Clouds` | 
-`Seeded.Clouds` | 
+`Unseeded.Clouds` | Rainfall from unseeded clouds (acre-feet) 
+`Seeded.Clouds` | Rainfall from clouds seeded with silver iodide (acre-feet)
 
 This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt

@@ -1,5 +1,7 @@
 # Cups
 
+
+
 The data are in `Cups.txt`
 
 The variables in this dataset are: 

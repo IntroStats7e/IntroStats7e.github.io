@@ -8,9 +8,9 @@ The variables in this dataset are:
 
 Header | Description
 ---|--------
-`City` | 
-`Index` | 
-`Nonfarm.employment` | 
-`Size` | 
+`City` | City name
+`Index` | Job growth index (availability of employment)
+`Nonfarm.employment` | Number of non-farm jobs (in thousands) 
+`Size` | "Large" areas have a current nonfarm employment base of at least 450,000 jobs. "Midsize" areas range from 150,000 to 450,000 jobs. "Small" areas have as many as 150,000 jobs.
 
 This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt

@@ -8,13 +8,13 @@ The variables in this dataset are:
 
 Header | Description
 ---|--------
-`Rank` | 
-`City` | 
-`Cost.of.Living.Index` | 
-`Rent.Index` | 
-`Cost.of.Living.Plus.Rent.Index` | 
-`Groceries.Index` | 
-`Restaurant.Price.Index` | 
-`Local.Purchasing.Power.Index` | 
+`Rank` | Cost of living rank 
+`City` | City name
+`Cost.of.Living.Index` | Cost of living (% of New York City's COL)
+`Rent.Index` | Price of renting an apartment (% of NYC)
+`Cost.of.Living.Plus.Rent.Index` | Estimate of consumer goods prices + rent relative to NYC
+`Groceries.Index` | Estimate of grocery prices in the city relative to NYC
+`Restaurant.Price.Index` | Estimate of prices of meals and drinks at restaurants and bars relative to NYC 
+`Local.Purchasing.Power.Index` | Relative purchasing power of a certain salary relative to NYC
 
 This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
