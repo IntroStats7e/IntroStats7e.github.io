@@ -1,0 +1,1079 @@
+Model.Year	Mfr	Division	Car.line	Class	CityMPG	HighwayMPG	CombinedMPG	Guzzler	Displacement	Cylinders	Transmission	Gears	CityCO2	HighwayCO2	CombinedCO2
+2026	BMW	BMW	228 Gran Coupe	2-Wheel Drive, Front	27	39	31		2	4	Auto(AM-S7)	7	323	225	279
+2026	BMW	BMW	228 xDrive Gran Coupe	All Wheel Drive	26	38	30		2	4	Auto(AM-S7)	7	333	233	288
+2026	BMW	BMW	230i Coupe	2-Wheel Drive, Rear	26	35	30		2	4	Auto(S8)	8	333	251	296
+2026	BMW	BMW	230i xDrive Coupe	All Wheel Drive	25	33	28		2	4	Auto(S8)	8	355	262	313
+2026	BMW	BMW	330i Sedan	2-Wheel Drive, Rear	28	35	31		2	4	Auto(S8)	8	317	248	286
+2026	BMW	BMW	330i xDrive Sedan	All Wheel Drive	26	34	29		2	4	Auto(S8)	8	332	256	298
+2026	BMW	BMW	430i Convertible	2-Wheel Drive, Rear	27	35	30		2	4	Auto(S8)	8	329	253	295
+2026	BMW	BMW	430i Coupe	2-Wheel Drive, Rear	28	36	31		2	4	Auto(S8)	8	315	248	285
+2026	BMW	BMW	430i Gran Coupe	2-Wheel Drive, Rear	27	35	30		2	4	Auto(S8)	8	320	252	290
+2026	BMW	BMW	430i xDrive Convertible	All Wheel Drive	24	33	28		2	4	Auto(S8)	8	359	263	316
+2026	BMW	BMW	430i xDrive Coupe	All Wheel Drive	27	34	30		2	4	Auto(S8)	8	325	256	294
+2026	BMW	BMW	430i xDrive Gran Coupe	All Wheel Drive	25	34	29		2	4	Auto(S8)	8	345	257	305
+2026	BMW	BMW	530i Sedan	2-Wheel Drive, Rear	28	35	31		2	4	Auto(S8)	8	315	249	285
+2026	BMW	BMW	530i xDrive Sedan	All Wheel Drive	27	35	30		2	4	Auto(S8)	8	325	253	292
+2026	BMW	BMW	540i xDrive Sedan	All Wheel Drive	26	32	28		3	6	Auto(S8)	8	338	271	308
+2026	BMW	BMW	740i Sedan	2-Wheel Drive, Rear	25	31	28		3	6	Auto(S8)	8	347	279	317
+2026	BMW	BMW	740i xDrive Sedan	All Wheel Drive	24	31	27		3	6	Auto(S8)	8	359	285	326
+2026	BMW	BMW	760i xDrive Sedan	All Wheel Drive	18	25	20		4.4	8	Auto(S8)	8	494	344	427
+2026	BMW	BMW	840i Convertible	2-Wheel Drive, Rear	21	29	24		3	6	Auto(S8)	8	420	305	368
+2026	BMW	BMW	840i Coupe	2-Wheel Drive, Rear	21	29	24		3	6	Auto(S8)	8	420	305	368
+2026	BMW	BMW	840i Gran Coupe	2-Wheel Drive, Rear	21	29	24		3	6	Auto(S8)	8	420	305	368
+2026	BMW	BMW	840i xDrive Convertible	All Wheel Drive	21	29	24		3	6	Auto(S8)	8	426	308	373
+2026	BMW	BMW	840i xDrive Coupe	All Wheel Drive	21	29	24		3	6	Auto(S8)	8	426	308	373
+2026	BMW	BMW	840i xDrive Gran Coupe	All Wheel Drive	21	29	24		3	6	Auto(S8)	8	426	308	373
+2026	BMW	BMW	ALPINA XB7	All Wheel Drive	16	20	17		4.4	8	Auto(S8)	8	564	434	506
+2026	BMW	Mini	Cooper C 2 Door	2-Wheel Drive, Front	27	39	32		2	4	Auto(AM-S7)	7	320	227	278
+2026	BMW	Mini	Cooper C 4 Door	2-Wheel Drive, Front	28	39	32		2	4	Auto(AM-S7)	7	318	225	276
+2026	BMW	Mini	Cooper C Convertible	2-Wheel Drive, Front	27	37	30		2	4	Auto(AM-S7)	7	327	238	287
+2026	BMW	Mini	Cooper S 2 Door	2-Wheel Drive, Front	28	39	32		2	4	Auto(AM-S7)	7	315	225	275
+2026	BMW	Mini	Cooper S 4 Door	2-Wheel Drive, Front	28	39	32		2	4	Auto(AM-S7)	7	311	226	273
+2026	BMW	Mini	Cooper S Convertible	2-Wheel Drive, Front	26	36	30		2	4	Auto(AM-S7)	7	330	245	292
+2026	BMW	Mini	Countryman S ALL4	All Wheel Drive	24	32	27		2	4	Auto(AM-S7)	7	366	273	324
+2026	BMW	Mini	JCW 2 Door	2-Wheel Drive, Front	27	37	30		2	4	Auto(AM-S7)	7	328	238	288
+2026	BMW	Mini	JCW Convertible	2-Wheel Drive, Front	26	35	30		2	4	Auto(AM-S7)	7	335	247	296
+2026	BMW	Mini	JCW Countryman ALL4	All Wheel Drive	23	30	25		2	4	Auto(AM-S7)	7	389	288	344
+2026	BMW	BMW	M2 Coupe	2-Wheel Drive, Rear	16	23	19		3	6	Manual(M6)	6	552	377	473
+2026	BMW	BMW	M2 Coupe	2-Wheel Drive, Rear	16	23	19		3	6	Auto(S8)	8	535	381	466
+2026	BMW	BMW	M2 Coupe CS	2-Wheel Drive, Rear	16	23	19		3	6	Auto(S8)	8	551	382	475
+2026	BMW	BMW	M235 xDrive Gran Coupe	All Wheel Drive	24	33	27		2	4	Auto(AM-S7)	7	368	264	321
+2026	BMW	BMW	M240i Coupe	2-Wheel Drive, Rear	23	32	26		3	6	Auto(S8)	8	391	276	339
+2026	BMW	BMW	M240i xDrive Coupe	All Wheel Drive	23	32	26		3	6	Auto(S8)	8	387	274	336
+2026	BMW	BMW	M3 Competition M xDrive Sedan	All Wheel Drive	16	23	18		3	6	Auto(S8)	8	556	381	477
+2026	BMW	BMW	M3 Competition Sedan	2-Wheel Drive, Rear	16	23	19		3	6	Auto(S8)	8	541	383	470
+2026	BMW	BMW	M3 Sedan	2-Wheel Drive, Rear	16	23	19		3	6	Manual(M6)	6	548	379	472
+2026	BMW	BMW	M340i Sedan	2-Wheel Drive, Rear	27	33	29		3	6	Auto(S8)	8	326	265	299
+2026	BMW	BMW	M340i xDrive Sedan	All Wheel Drive	26	33	29		3	6	Auto(S8)	8	336	264	304
+2026	BMW	BMW	M4 Competition Coupe	2-Wheel Drive, Rear	16	23	19		3	6	Auto(S8)	8	541	383	470
+2026	BMW	BMW	M4 Competition M xDrive Coupe	All Wheel Drive	16	23	18		3	6	Auto(S8)	8	547	381	472
+2026	BMW	BMW	M4 Coupe	2-Wheel Drive, Rear	16	23	19		3	6	Manual(M6)	6	548	379	472
+2026	BMW	BMW	M440i Convertible	2-Wheel Drive, Rear	27	33	29		3	6	Auto(S8)	8	327	266	300
+2026	BMW	BMW	M440i Coupe	2-Wheel Drive, Rear	27	34	30		3	6	Auto(S8)	8	323	262	296
+2026	BMW	BMW	M440i Gran Coupe	2-Wheel Drive, Rear	26	32	28		3	6	Auto(S8)	8	342	275	312
+2026	BMW	BMW	M440i xDrive Convertible	All Wheel Drive	25	32	28		3	6	Auto(S8)	8	344	273	312
+2026	BMW	BMW	M440i xDrive Coupe	All Wheel Drive	26	33	29		3	6	Auto(S8)	8	332	263	301
+2026	BMW	BMW	M440i xDrive Gran Coupe	All Wheel Drive	25	31	27		3	6	Auto(S8)	8	350	284	320
+2026	BMW	BMW	M4CompetitionMxDriveConvertible	All Wheel Drive	16	22	18		3	6	Auto(S8)	8	553	388	479
+2026	BMW	BMW	M850i xDrive Convertible	All Wheel Drive	17	24	19		4.4	8	Auto(S8)	8	526	371	456
+2026	BMW	BMW	M850i xDrive Coupe	All Wheel Drive	17	24	19		4.4	8	Auto(S8)	8	526	371	456
+2026	BMW	BMW	M850i xDrive Gran Coupe	All Wheel Drive	17	24	19		4.4	8	Auto(S8)	8	526	371	456
+2026	BMW	TOYOTA	Supra 2.0	2-Wheel Drive, Rear	25	31	27		2	4	Auto(S8)	8	350	288	322
+2026	BMW	TOYOTA	Supra 3.0	2-Wheel Drive, Rear	22	29	25		3	6	Auto(S8)	8	391	298	349
+2026	BMW	TOYOTA	Supra 3.0	2-Wheel Drive, Rear	19	26	21		3	6	Manual(M6)	6	468	334	408
+2026	BMW	BMW	X1 M35i	All Wheel Drive	24	32	27		2	4	Auto(AM-S7)	7	370	275	327
+2026	BMW	BMW	X1 xDrive28i	All Wheel Drive	25	34	28		2	4	Auto(AM-S7)	7	352	259	311
+2026	BMW	BMW	X2 M35i	All Wheel Drive	23	31	26		2	4	Auto(AM-S7)	7	385	281	338
+2026	BMW	BMW	X2 xDrive28i	All Wheel Drive	24	34	28		2	4	Auto(AM-S7)	7	359	259	314
+2026	BMW	BMW	X3 M50	All Wheel Drive	25	30	27		3	6	Auto(S8)	8	346	288	320
+2026	BMW	BMW	X3 xDrive30	All Wheel Drive	27	33	29		2	4	Auto(S8)	8	327	265	299
+2026	BMW	BMW	X5 M Competition	All Wheel Drive	13	18	15		4.4	8	Auto(S8)	8	678	481	589
+2026	BMW	BMW	X5 M60i xDrive	All Wheel Drive	17	22	19		4.4	8	Auto(S8)	8	512	391	458
+2026	BMW	BMW	X5 sDrive40i	2-Wheel Drive, Rear	23	27	25		3	6	Auto(S8)	8	383	331	360
+2026	BMW	BMW	X5 xDrive40i	All Wheel Drive	23	27	25		3	6	Auto(S8)	8	375	323	352
+2026	BMW	BMW	X6 M Competition	All Wheel Drive	13	18	15		4.4	8	Auto(S8)	8	678	481	589
+2026	BMW	BMW	X6 M60i xDrive	All Wheel Drive	17	22	19		4.4	8	Auto(S8)	8	512	391	458
+2026	BMW	BMW	X6 xDrive40i	All Wheel Drive	22	26	23		3	6	Auto(S8)	8	406	332	372
+2026	BMW	BMW	X7 M60i xDrive	All Wheel Drive	16	20	18		4.4	8	Auto(S8)	8	550	435	498
+2026	BMW	BMW	X7 xDrive40i	All Wheel Drive	21	25	23		3	6	Auto(S8)	8	420	346	387
+2026	BMW	BMW	Z4 M40i	2-Wheel Drive, Rear	23	29	25		3	6	Auto(S8)	8	386	297	346
+2026	BMW	BMW	Z4 M40i	2-Wheel Drive, Rear	19	26	22		3	6	Manual(M6)	6	469	332	407
+2026	BMW	BMW	Z4 sDrive30i	2-Wheel Drive, Rear	25	33	28		2	4	Auto(S8)	8	351	266	312
+2026	BMW	BMW	i5 eDrive40 Sedan (19'' Wheels)	2-Wheel Drive, Rear	114	106	110	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	i5 eDrive40 Sedan (19'' Wheels)	2-Wheel Drive, Rear	30	32	31	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	i5 eDrive40 Sedan (20'' Wheels)	2-Wheel Drive, Rear	110	102	106	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	i5 eDrive40 Sedan (20'' Wheels)	2-Wheel Drive, Rear	31	33	32	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	i5 eDrive40 Sedan (21'' Wheels)	2-Wheel Drive, Rear	102	93	98	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	i5 eDrive40 Sedan (21'' Wheels)	2-Wheel Drive, Rear	33	36	34	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	i5 xDrive40 Sedan (19'' Wheels)	All Wheel Drive	99	97	98	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	i5 xDrive40 Sedan (19'' Wheels)	All Wheel Drive	34	35	34	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	i5 xDrive40 Sedan (20'' Wheels)	All Wheel Drive	97	94	96	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	i5 xDrive40 Sedan (20'' Wheels)	All Wheel Drive	35	36	35	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	i5 xDrive40 Sedan (21'' Wheels)	All Wheel Drive	92	88	91	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	i5 xDrive40 Sedan (21'' Wheels)	All Wheel Drive	36	38	37	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	i7 M70 xDrive Sedan (20'' Wheels)	All Wheel Drive	72	78	75	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	i7 M70 xDrive Sedan (20'' Wheels)	All Wheel Drive	47	43	45	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	i7 M70 xDrive Sedan (21'' Wheels)	All Wheel Drive	77	83	79	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	i7 M70 xDrive Sedan (21'' Wheels)	All Wheel Drive	44	41	42	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	i7 eDrive50 Sedan (19'' Wheels)	2-Wheel Drive, Rear	85	93	88	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	i7 eDrive50 Sedan (19'' Wheels)	2-Wheel Drive, Rear	40	36	38	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	i7 eDrive50 Sedan (20'' Wheels)	2-Wheel Drive, Rear	82	88	85	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	i7 eDrive50 Sedan (20'' Wheels)	2-Wheel Drive, Rear	41	38	40	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	i7 eDrive50 Sedan (21'' Wheels)	2-Wheel Drive, Rear	84	90	87	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	i7 eDrive50 Sedan (21'' Wheels)	2-Wheel Drive, Rear	40	37	39	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	i7 xDrive60 Sedan (19'' Wheels)	All Wheel Drive	85	91	88	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	i7 xDrive60 Sedan (19'' Wheels)	All Wheel Drive	39	37	38	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	i7 xDrive60 Sedan (20'' Wheels)	All Wheel Drive	81	85	83	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	i7 xDrive60 Sedan (20'' Wheels)	All Wheel Drive	42	39	41	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	i7 xDrive60 Sedan (21'' Wheels)	All Wheel Drive	85	89	87	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	i7 xDrive60 Sedan (21'' Wheels)	All Wheel Drive	40	38	39	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	iX M70 (21'' Wheels)	All Wheel Drive	79	82	80	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	iX M70 (21'' Wheels)	All Wheel Drive	43	41	42	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	iX M70 (22'' Wheels)	All Wheel Drive	74	78	76	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	iX M70 (22'' Wheels)	All Wheel Drive	46	43	44	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	iX M70 (23'' Wheels)	All Wheel Drive	74	76	75	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	iX M70 (23'' Wheels)	All Wheel Drive	45	44	45	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	iX xDrive45 (20'' Wheels)	All Wheel Drive	94	93	94	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	iX xDrive45 (20'' Wheels)	All Wheel Drive	36	36	36	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	iX xDrive45 (21'' Wheels)	All Wheel Drive	91	88	89	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	iX xDrive45 (21'' Wheels)	All Wheel Drive	37	38	38	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	iX xDrive45 (22'' Wheels)	All Wheel Drive	85	82	84	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	iX xDrive45 (22'' Wheels)	All Wheel Drive	40	41	40	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	iX xDrive45 (23'' Wheels)	All Wheel Drive	89	85	87	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	iX xDrive45 (23'' Wheels)	All Wheel Drive	38	39	39	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	iX xDrive60 (20'' Wheels)	All Wheel Drive	99	94	97	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	iX xDrive60 (20'' Wheels)	All Wheel Drive	34	36	35	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	iX xDrive60 (21'' Wheels)	All Wheel Drive	92	89	91	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	iX xDrive60 (21'' Wheels)	All Wheel Drive	37	38	37	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	iX xDrive60 (22'' Wheels)	All Wheel Drive	90	85	88	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	iX xDrive60 (22'' Wheels)	All Wheel Drive	38	40	39	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	iX xDrive60 (23'' Wheels)	All Wheel Drive	87	83	85	NA	0	NA	Auto(A1)	1	0	0	0
+2026	BMW	BMW	iX xDrive60 (23'' Wheels)	All Wheel Drive	39	40	40	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Bugatti Rimac LLC	Bugatti Rimac	Nevera R	4-Wheel Drive	50	51	51	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Bugatti Rimac LLC	Bugatti Rimac	Nevera R	4-Wheel Drive	67	66	66	NA	0	NA	Auto(A1)	1	0	0	0
+2026	FCA US LLC	RAM	1500 4X2	2-Wheel Drive, Rear	18	25	21		3	6	Auto(A8)	8	497	356	433
+2026	FCA US LLC	RAM	1500 4X2	2-Wheel Drive, Rear	20	25	22		3.6	6	Auto(A8)	8	451	353	407
+2026	FCA US LLC	RAM	1500 4X4	4-Wheel Drive	18	24	20		3	6	Auto(A8)	8	500	375	444
+2026	FCA US LLC	RAM	1500 4X4	4-Wheel Drive	19	24	21		3.6	6	Auto(A8)	8	457	368	417
+2026	FCA US LLC	RAM	1500 4X4	4-Wheel Drive	16	20	18		5.7	8	Auto(A8)	8	555	437	502
+2026	FCA US LLC	RAM	1500 HO 4x4	4-Wheel Drive	15	21	17		3	6	Auto(A8)	8	593	434	521
+2026	FCA US LLC	RAM	1500 RHO 4x4	4-Wheel Drive	14	16	15		3	6	Auto(A8)	8	634	564	602
+2026	FCA US LLC	Dodge	Charger Daytona R/T AWD 245/55ZR18	All Wheel Drive	91	78	85	NA	0	NA	Auto(A1)	1	0	0	0
+2026	FCA US LLC	Dodge	Charger Daytona R/T AWD 245/55ZR18	All Wheel Drive	37	43	40	NA	0	NA	Auto(A1)	1	0	0	0
+2026	FCA US LLC	Dodge	Charger Daytona R/T AWD 255/45R20	All Wheel Drive	100	89	95	NA	0	NA	Auto(A1)	1	0	0	0
+2026	FCA US LLC	Dodge	Charger Daytona R/T AWD 255/45R20	All Wheel Drive	34	38	36	NA	0	NA	Auto(A1)	1	0	0	0
+2026	FCA US LLC	Dodge	Charger Daytona R/T AWD 275/40R20	All Wheel Drive	89	76	83	NA	0	NA	Auto(A1)	1	0	0	0
+2026	FCA US LLC	Dodge	Charger Daytona R/T AWD 275/40R20	All Wheel Drive	38	44	41	NA	0	NA	Auto(A1)	1	0	0	0
+2026	FCA US LLC	Dodge	Charger Daytona R/T AWD 305/35ZR20	All Wheel Drive	93	79	86	NA	0	NA	Auto(A1)	1	0	0	0
+2026	FCA US LLC	Dodge	Charger Daytona R/T AWD 305/35ZR20	All Wheel Drive	36	43	39	NA	0	NA	Auto(A1)	1	0	0	0
+2026	FCA US LLC	Dodge	Charger Daytona Scat Pack AWD 305/35ZR20	All Wheel Drive	93	79	86	NA	0	NA	Auto(A1)	1	0	0	0
+2026	FCA US LLC	Dodge	Charger Daytona Scat Pack AWD 305/35ZR20	All Wheel Drive	36	43	39	NA	0	NA	Auto(A1)	1	0	0	0
+2026	FCA US LLC	Dodge	Charger Daytona Scat Pack AWD 325/35ZR20 Rear	All Wheel Drive	77	68	72	NA	0	NA	Auto(A1)	1	0	0	0
+2026	FCA US LLC	Dodge	Charger Daytona Scat Pack AWD 325/35ZR20 Rear	All Wheel Drive	44	50	47	NA	0	NA	Auto(A1)	1	0	0	0
+2026	FCA US LLC	Dodge	Charger Daytona Scat Pack AWD 325/35ZR20 Rear A/S	All Wheel Drive	82	73	78	NA	0	NA	Auto(A1)	1	0	0	0
+2026	FCA US LLC	Dodge	Charger Daytona Scat Pack AWD 325/35ZR20 Rear A/S	All Wheel Drive	41	46	43	NA	0	NA	Auto(A1)	1	0	0	0
+2026	FCA US LLC	Jeep	Compass 4X4	All Wheel Drive	23	31	26		2	4	Auto(A8)	8	379	282	335
+2026	FCA US LLC	Dodge	Durango AWD	All Wheel Drive	17	24	20		3.6	6	Auto(A8)	8	510	374	449
+2026	FCA US LLC	Dodge	Durango AWD	All Wheel Drive	14	21	16		5.7	8	Auto(A8)	8	643	415	541
+2026	FCA US LLC	Dodge	Durango RWD	2-Wheel Drive, Rear	18	25	20		3.6	6	Auto(A8)	8	499	355	434
+2026	FCA US LLC	ALFA ROMEO	Giulia AWD	All Wheel Drive	23	31	26		2	4	Auto(A8)	8	395	291	348
+2026	FCA US LLC	Jeep	Gladiator 4X4	4-Wheel Drive	17	22	19		3.6	6	Auto(A8)	8	518	409	469
+2026	FCA US LLC	Chrysler	Pacifica	2-Wheel Drive, Front	19	28	22		3.6	6	Auto(A9)	9	469	317	401
+2026	FCA US LLC	ALFA ROMEO	Stelvio AWD	All Wheel Drive	22	28	24		2	4	Auto(A8)	8	407	311	364
+2026	FCA US LLC	Chrysler	Voyager	2-Wheel Drive, Front	19	28	22		3.6	6	Auto(A9)	9	469	317	401
+2026	FCA US LLC	Jeep	Wrangler 2dr 4X4	4-Wheel Drive	20	23	21		2	4	Auto(A8)	8	439	387	416
+2026	FCA US LLC	Jeep	Wrangler 2dr 4X4	4-Wheel Drive	17	23	19		3.6	6	Manual(M6)	6	525	386	462
+2026	FCA US LLC	Jeep	Wrangler 4dr 4X4	4-Wheel Drive	20	22	21		2	4	Auto(A8)	8	452	394	426
+2026	FCA US LLC	Jeep	Wrangler 4dr 4X4	4-Wheel Drive	18	23	20		3.6	6	Auto(A8)	8	507	382	451
+2026	FCA US LLC	Jeep	Wrangler 4dr 4X4	4-Wheel Drive	16	22	19		3.6	6	Manual(M6)	6	542	396	476
+2026	Ferrari	Ferrari S.p.A.	12Cilindri	2-Wheel Drive, Rear	12	19	14	G	6.5	12	Auto(AM8)	8	736	477	619
+2026	Ferrari	Ferrari S.p.A.	12Cilindri Spider	2-Wheel Drive, Rear	12	17	14	G	6.5	12	Auto(AM8)	8	735	508	633
+2026	Ferrari	Ferrari S.p.A.	Purosangue	All Wheel Drive	11	15	12	G	6.5	12	Auto(AM8)	8	825	573	711
+2026	Ferrari	Ferrari S.p.A.	Roma Spider	2-Wheel Drive, Rear	17	22	19		3.9	8	Auto(AM8)	8	524	397	467
+2026	Ford Motor Company	Lincoln	AVIATOR AWD	Part-time 4-Wheel Drive	17	25	20		3	6	Auto(S10)	10	521	358	447
+2026	Ford Motor Company	Lincoln	AVIATOR RWD	2-Wheel Drive, Rear	18	25	21		3	6	Auto(S10)	10	486	355	423
+2026	Ford Motor Company	Lincoln	CORSAIR AWD	All Wheel Drive	21	28	24		2	4	Auto(S8)	8	425	316	376
+2026	Ford Motor Company	Lincoln	CORSAIR FWD	2-Wheel Drive, Front	22	30	25		2	4	Auto(S8)	8	406	298	358
+2026	Ford Motor Company	Ford	ESCAPE AWD	All Wheel Drive	23	31	26		2	4	Auto(A8)	8	386	287	342
+2026	Ford Motor Company	Ford	ESCAPE AWD	All Wheel Drive	26	32	28		1.5	3	Auto(A8)	8	347	278	317
+2026	Ford Motor Company	Ford	ESCAPE AWD HEV	Part-time 4-Wheel Drive	42	36	39		2.5	4	Auto(AV)	1	208	246	225
+2026	Ford Motor Company	Ford	ESCAPE FWD	2-Wheel Drive, Front	27	34	30		1.5	3	Auto(A8)	8	332	256	298
+2026	Ford Motor Company	Ford	EXPLORER AWD	Part-time 4-Wheel Drive	18	25	20		3	6	Auto(S10)	10	503	361	439
+2026	Ford Motor Company	Ford	EXPLORER AWD	Part-time 4-Wheel Drive	20	27	23		2.3	4	Auto(A10)	10	448	329	394
+2026	Ford Motor Company	Ford	EXPLORER RWD	2-Wheel Drive, Rear	18	25	21		3	6	Auto(S10)	10	486	355	423
+2026	Ford Motor Company	Ford	EXPLORER RWD	2-Wheel Drive, Rear	20	29	24		2.3	4	Auto(A10)	10	433	308	377
+2026	Ford Motor Company	Ford	EXPLORER TREMOR AWD	Part-time 4-Wheel Drive	17	22	19		3	6	Auto(S10)	10	523	403	467
+2026	Ford Motor Company	Ford	EXPLORER TREMOR AWD	Part-time 4-Wheel Drive	19	23	21		2.3	4	Auto(S10)	10	460	378	424
+2026	Ford Motor Company	Ford	MUSTANG	2-Wheel Drive, Rear	16	24	19		5	8	Auto(S10)	10	558	370	468
+2026	Ford Motor Company	Ford	MUSTANG	2-Wheel Drive, Rear	15	23	18		5	8	Manual(M6)	6	586	386	494
+2026	Ford Motor Company	Ford	MUSTANG	2-Wheel Drive, Rear	22	33	26		2.3	4	Auto(A10)	10	404	269	341
+2026	Ford Motor Company	Ford	MUSTANG DARK HORSE	2-Wheel Drive, Rear	14	22	17	G	5	8	Auto(S10)	10	619	410	525
+2026	Ford Motor Company	Ford	MUSTANG DARK HORSE	2-Wheel Drive, Rear	14	22	17	G	5	8	Manual(M6)	6	638	405	533
+2026	Ford Motor Company	Lincoln	NAUTILUS AWD	All Wheel Drive	21	29	24		2	4	Auto(A8)	8	425	306	369
+2026	Ford Motor Company	Lincoln	NAUTILUS HEV AWD	Part-time 4-Wheel Drive	29	31	30		2	4	Auto(AV)	1	334	282	311
+2026	General Motors	GMC	ACADIA AWD	All Wheel Drive	20	23	21		2.5	4	Auto(A8)	8	454	387	423
+2026	General Motors	GMC	ACADIA FWD	2-Wheel Drive, Front	20	26	22		2.5	4	Auto(A8)	8	440	342	404
+2026	General Motors	Chevrolet	BLAZER AWD	All Wheel Drive	18	25	21		3.6	6	Auto(A9)	9	485	349	424
+2026	General Motors	Chevrolet	BLAZER AWD	All Wheel Drive	22	27	24		2	4	Auto(A9)	9	401	329	368
+2026	General Motors	Chevrolet	BLAZER EV AWD	All Wheel Drive	92	77	85	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Chevrolet	BLAZER EV AWD	All Wheel Drive	36	44	40	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Chevrolet	BLAZER EV AWD	All Wheel Drive	102	86	94	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Chevrolet	BLAZER EV AWD	All Wheel Drive	33	39	36	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Chevrolet	BLAZER EV FWD	2-Wheel Drive, Front	114	95	104	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Chevrolet	BLAZER EV FWD	2-Wheel Drive, Front	30	36	32	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Chevrolet	BLAZER EV FWD 22IN TIRE	2-Wheel Drive, Front	103	86	95	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Chevrolet	BLAZER EV FWD 22IN TIRE	2-Wheel Drive, Front	33	39	36	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Chevrolet	BLAZER FWD	2-Wheel Drive, Front	19	26	22		3.6	6	Auto(A9)	9	467	342	411
+2026	General Motors	Chevrolet	BLAZER FWD	2-Wheel Drive, Front	22	29	25		2	4	Auto(A9)	9	414	316	370
+2026	General Motors	Cadillac	CADILLAC OPTIQ AWD V SERIES 11kW Charger 15 modes	All Wheel Drive	103	81	92	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Cadillac	CADILLAC OPTIQ AWD V SERIES 11kW Charger 15 modes	All Wheel Drive	33	42	37	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Cadillac	CADILLAC OPTIQ AWD V SERIES 19kW charger 15 modes	All Wheel Drive	92	74	83	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Cadillac	CADILLAC OPTIQ AWD V SERIES 19kW charger 15 modes	All Wheel Drive	37	46	41	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	GMC	CANYON 2WD	2-Wheel Drive, Rear	19	23	20		2.7	4	Auto(A8)	8	462	387	443
+2026	General Motors	GMC	CANYON 4WD	4-Wheel Drive	17	22	19		2.7	4	Auto(A8)	8	511	404	462
+2026	General Motors	GMC	CANYON AT4X 4WD	4-Wheel Drive	17	17	17		2.7	4	Auto(A8)	8	531	522	527
+2026	General Motors	GMC	CANYON AT4X AEV 4WD	4-Wheel Drive	16	16	16		2.7	4	Auto(A8)	8	559	570	564
+2026	General Motors	Chevrolet	COLORADO 2WD	2-Wheel Drive, Rear	19	24	21		2.7	4	Auto(A8)	8	462	367	420
+2026	General Motors	Chevrolet	COLORADO 4WD	4-Wheel Drive	17	22	19		2.7	4	Auto(A8)	8	511	404	462
+2026	General Motors	Chevrolet	COLORADO 4WD MUD TERRAIN TIRES	4-Wheel Drive	17	20	18		2.7	4	Auto(A8)	8	529	451	494
+2026	General Motors	Chevrolet	COLORADO ZR2 4WD	4-Wheel Drive	17	17	17		2.7	4	Auto(A8)	8	531	522	527
+2026	General Motors	Chevrolet	COLORADO ZR2 BISON 4WD	4-Wheel Drive	16	16	16		2.7	4	Auto(A8)	8	559	570	564
+2026	General Motors	Chevrolet	CORVETTE	2-Wheel Drive, Rear	16	25	19		6.2	8	Auto(S8)	8	571	356	474
+2026	General Motors	Chevrolet	CORVETTE E-RAY	All Wheel Drive	16	24	19		6.2	8	Auto(S8)	8	566	368	477
+2026	General Motors	Chevrolet	CORVETTE Z06	2-Wheel Drive, Rear	12	21	15	G	5.5	8	Auto(S8)	8	731	433	597
+2026	General Motors	Chevrolet	CORVETTE Z06 CARBON AERO	2-Wheel Drive, Rear	12	19	14	G	5.5	8	Auto(S8)	8	755	479	631
+2026	General Motors	Chevrolet	CORVETTE ZR1	2-Wheel Drive, Rear	12	18	14	G	5.5	8	Auto(S8)	8	738	495	629
+2026	General Motors	Cadillac	CT4	2-Wheel Drive, Rear	21	31	25		2.7	4	Auto(S10)	10	412	287	356
+2026	General Motors	Cadillac	CT4	2-Wheel Drive, Rear	22	32	26		2	4	Auto(S8)	8	401	276	345
+2026	General Motors	Cadillac	CT4 AWD	All Wheel Drive	21	29	24		2.7	4	Auto(S10)	10	425	305	371
+2026	General Motors	Cadillac	CT4 AWD 	All Wheel Drive	21	31	25		2	4	Auto(S8)	8	415	287	357
+2026	General Motors	Cadillac	CT4 V	2-Wheel Drive, Rear	20	29	23		2.7	4	Auto(S10)	10	443	309	383
+2026	General Motors	Cadillac	CT4 V	2-Wheel Drive, Rear	16	24	19		3.6	6	Auto(S10)	10	568	368	478
+2026	General Motors	Cadillac	CT4 V	2-Wheel Drive, Rear	15	23	18		3.6	6	Manual(M6)	6	591	387	493
+2026	General Motors	Cadillac	CT4 V AWD	All Wheel Drive	20	28	23		2.7	4	Auto(S10)	10	445	318	387
+2026	General Motors	Cadillac	CT5	2-Wheel Drive, Rear	19	28	22		3	6	Auto(S10)	10	466	318	399
+2026	General Motors	Cadillac	CT5	2-Wheel Drive, Rear	22	31	26		2	4	Auto(S10)	10	399	282	346
+2026	General Motors	Cadillac	CT5 AWD	All Wheel Drive	18	27	21		3	6	Auto(S10)	10	488	334	418
+2026	General Motors	Cadillac	CT5 AWD	All Wheel Drive	21	30	24		2	4	Auto(S10)	10	416	294	370
+2026	General Motors	Cadillac	CT5 V	2-Wheel Drive, Rear	18	27	21		3	6	Auto(S10)	10	499	330	423
+2026	General Motors	Cadillac	CT5 V	2-Wheel Drive, Rear	13	20	15	G	6.2	8	Auto(S10)	10	697	437	580
+2026	General Motors	Cadillac	CT5 V	2-Wheel Drive, Rear	13	20	15	G	6.2	8	Manual(M6)	6	708	438	587
+2026	General Motors	Cadillac	CT5 V AWD	All Wheel Drive	17	26	20		3	6	Auto(S10)	10	523	342	445
+2026	General Motors	Buick	ENCLAVE AWD	All Wheel Drive	20	24	21		2.5	4	Auto(A8)	8	454	370	423
+2026	General Motors	Buick	ENCLAVE FWD	2-Wheel Drive, Front	20	25	22		2.5	4	Auto(A8)	8	444	356	404
+2026	General Motors	Buick	ENCORE GX AWD	All Wheel Drive	26	28	27		1.3	3	Auto(A9)	9	347	309	327
+2026	General Motors	Buick	ENCORE GX FWD	2-Wheel Drive, Front	29	31	30		1.3	3	Auto(AV)	1	302	287	297
+2026	General Motors	Buick	ENCORE GX FWD (Flex Fuel)	2-Wheel Drive, Front	30	31	30		1.2	3	Auto(AV)	1	296	287	297
+2026	General Motors	Buick	ENVISION AWD	All Wheel Drive	22	28	25		2	4	Auto(S9)	9	397	317	361
+2026	General Motors	Buick	ENVISTA	2-Wheel Drive, Front	28	32	30		1.2	3	Auto(A6)	6	316	277	296
+2026	General Motors	Buick	ENVISTA (Flex Fuel)	2-Wheel Drive, Front	28	32	30		1.2	3	Auto(A6)	6	314	277	297
+2026	General Motors	Chevrolet	EQUINOX AWD	All Wheel Drive	25	29	26		1.5	4	Auto(A8)	8	358	305	342
+2026	General Motors	Chevrolet	EQUINOX EV AWD	All Wheel Drive	112	95	103	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Chevrolet	EQUINOX EV AWD	All Wheel Drive	30	36	33	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Chevrolet	EQUINOX EV AWD	All Wheel Drive	103	88	96	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Chevrolet	EQUINOX EV AWD	All Wheel Drive	33	38	35	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Chevrolet	EQUINOX EV FWD	2-Wheel Drive, Front	117	100	108	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Chevrolet	EQUINOX EV FWD	2-Wheel Drive, Front	29	34	31	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Chevrolet	EQUINOX FWD	2-Wheel Drive, Front	26	29	27		1.5	4	Auto(AV)	1	342	305	329
+2026	General Motors	Cadillac	ESCALADE 4WD	4-Wheel Drive	14	18	16		6.2	8	Auto(A10)	10	634	495	572
+2026	General Motors	Cadillac	ESCALADE V AWD	4-Wheel Drive	11	17	13		6.2	8	Auto(S10)	10	793	526	691
+2026	General Motors	Cadillac	LYRIQ	2-Wheel Drive, Rear	100	83	92	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Cadillac	LYRIQ	2-Wheel Drive, Rear	34	41	37	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Cadillac	LYRIQ	2-Wheel Drive, Rear	100	83	91	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Cadillac	LYRIQ	2-Wheel Drive, Rear	34	41	37	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Cadillac	LYRIQ AWD	All Wheel Drive	93	77	85	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Cadillac	LYRIQ AWD	All Wheel Drive	36	44	40	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Cadillac	LYRIQ PAWD	All Wheel Drive	98	80	89	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Cadillac	LYRIQ PAWD	All Wheel Drive	34	42	38	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Cadillac	LYRIQ PAWD V SERIES (11 kW Charger)	All Wheel Drive	87	72	80	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Cadillac	LYRIQ PAWD V SERIES (11 kW Charger)	All Wheel Drive	39	47	42	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Cadillac	LYRIQ PAWD V SERIES (19 kW Charger)	All Wheel Drive	87	72	80	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Cadillac	LYRIQ PAWD V SERIES (19 kW Charger)	All Wheel Drive	39	47	42	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Cadillac	OPTIQ AWD	All Wheel Drive	110	88	99	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Cadillac	OPTIQ AWD	All Wheel Drive	31	38	34	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Cadillac	OPTIQ AWD	All Wheel Drive	110	88	99	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Cadillac	OPTIQ AWD	All Wheel Drive	31	38	34	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Cadillac	OPTIQ RWD	2-Wheel Drive, Rear	117	93	105	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Cadillac	OPTIQ RWD	2-Wheel Drive, Rear	29	36	32	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Cadillac	OPTIQ RWD	2-Wheel Drive, Rear	117	93	105	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Cadillac	OPTIQ RWD	2-Wheel Drive, Rear	29	36	32	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	GMC	SIERRA 2WD	2-Wheel Drive, Rear	16	20	17		5.3	8	Auto(A10)	10	562	456	514
+2026	General Motors	GMC	SIERRA 2WD	2-Wheel Drive, Rear	23	28	25		3	6	Auto(A10)	10	437	360	402
+2026	General Motors	GMC	SIERRA 2WD 3M	2-Wheel Drive, Rear	18	21	20		2.7	4	Auto(A8)	8	501	419	464
+2026	General Motors	GMC	SIERRA 2WD CAB CHASSIS	2-Wheel Drive, Rear	15	18	16		5.3	8	Auto(A10)	10	590	504	551
+2026	General Motors	GMC	SIERRA 2WD M5	2-Wheel Drive, Rear	17	21	19		2.7	4	Auto(A8)	8	509	426	472
+2026	General Motors	GMC	SIERRA 2WD with Sport Mode	2-Wheel Drive, Rear	16	21	18		5.3	8	Auto(A10)	10	554	423	495
+2026	General Motors	GMC	SIERRA 4WD	4-Wheel Drive	22	26	24		3	6	Auto(A10)	10	459	391	428
+2026	General Motors	GMC	SIERRA 4WD  (5.3 L)	4-Wheel Drive	15	18	16		5.3	8	Auto(A10)	10	598	492	550
+2026	General Motors	GMC	SIERRA 4WD  (Flex Fuel)	4-Wheel Drive	15	19	17		5.3	8	Auto(A10)	10	576	462	524
+2026	General Motors	GMC	SIERRA 4WD (6.2L)	4-Wheel Drive	15	19	16		6.2	8	Auto(A10)	10	606	457	539
+2026	General Motors	GMC	SIERRA 4WD (Municipal)	4-Wheel Drive	15	19	16		5.3	8	Auto(A10)	10	604	475	546
+2026	General Motors	GMC	SIERRA 4WD 4M	4-Wheel Drive	17	20	18		2.7	4	Auto(A8)	8	524	450	491
+2026	General Motors	GMC	SIERRA 4WD AT4X	4-Wheel Drive	14	16	15		6.2	8	Auto(A10)	10	638	557	601
+2026	General Motors	GMC	SIERRA 4WD AT4X	4-Wheel Drive	19	20	19		3	6	Auto(A10)	10	530	516	524
+2026	General Motors	GMC	SIERRA 4WD CAB CHASSIS	4-Wheel Drive	14	16	15		5.3	8	Auto(A10)	10	633	542	592
+2026	General Motors	GMC	SIERRA 4WD M6	4-Wheel Drive	17	18	17		2.7	4	Auto(A8)	8	535	486	513
+2026	General Motors	GMC	SIERRA 4WD MUD TERRAIN TIRES	4-Wheel Drive	14	17	15		6.2	8	Auto(A10)	10	636	523	593
+2026	General Motors	GMC	SIERRA 4WD MUD TERRAIN TIRES	4-Wheel Drive	14	17	16		5.3	8	Auto(A10)	10	612	512	567
+2026	General Motors	GMC	SIERRA 4WD MUD TERRAIN TIRES	4-Wheel Drive	21	24	23		3	6	Auto(A10)	10	475	421	451
+2026	General Motors	GMC	SIERRA 4WD MUD TERRAIN TIRES (Flex Fuel)	4-Wheel Drive	15	19	17		5.3	8	Auto(A10)	10	576	462	524
+2026	General Motors	GMC	SIERRA 4WD MUD TERRAIN TIRES (Municipal)	4-Wheel Drive	15	19	16		5.3	8	Auto(A10)	10	604	475	546
+2026	General Motors	GMC	SIERRA 4WD MUD TERRAIN TIRES 4M	4-Wheel Drive	16	17	17		2.7	4	Auto(A8)	8	552	517	536
+2026	General Motors	GMC	SIERRA 4WD MUD TERRAIN TIRES with Sport Mode	4-Wheel Drive	15	18	16		5.3	8	Auto(A10)	10	605	508	561
+2026	General Motors	GMC	SIERRA 4WD with Sport Mode	4-Wheel Drive	15	19	17		5.3	8	Auto(A10)	10	574	458	522
+2026	General Motors	GMC	SIERRA EV	4-Wheel Drive	75	61	68	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	GMC	SIERRA EV	4-Wheel Drive	45	55	50	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	GMC	SIERRA EV	4-Wheel Drive	69	59	64	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	GMC	SIERRA EV	4-Wheel Drive	49	57	52	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	GMC	SIERRA EV	4-Wheel Drive	74	60	67	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	GMC	SIERRA EV	4-Wheel Drive	45	56	50	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Chevrolet	SILVERADO 2WD 	2-Wheel Drive, Rear	23	28	25		3	6	Auto(A10)	10	437	360	402
+2026	General Motors	Chevrolet	SILVERADO 2WD (5.3L with Sport Mode)	2-Wheel Drive, Rear	16	21	18		5.3	8	Auto(A10)	10	539	429	490
+2026	General Motors	Chevrolet	SILVERADO 2WD (5.3L)	2-Wheel Drive, Rear	16	20	17		5.3	8	Auto(A10)	10	562	454	513
+2026	General Motors	Chevrolet	SILVERADO 2WD 3M	2-Wheel Drive, Rear	18	21	20		2.7	4	Auto(A8)	8	502	420	465
+2026	General Motors	Chevrolet	SILVERADO 2WD CAB CHASSIS	2-Wheel Drive, Rear	15	18	16		5.3	8	Auto(A10)	10	590	504	551
+2026	General Motors	Chevrolet	SILVERADO 2WD M5	2-Wheel Drive, Rear	17	21	19		2.7	4	Auto(A8)	8	509	426	472
+2026	General Motors	Chevrolet	SILVERADO 4WD	4-Wheel Drive	15	20	17		6.2	8	Auto(A10)	10	593	450	528
+2026	General Motors	Chevrolet	SILVERADO 4WD	4-Wheel Drive	22	26	24		3	6	Auto(A10)	10	459	391	428
+2026	General Motors	Chevrolet	SILVERADO 4WD	4-Wheel Drive	22	25	23		3	6	Auto(A10)	10	463	399	434
+2026	General Motors	Chevrolet	SILVERADO 4WD  (Flex Fuel)	4-Wheel Drive	15	19	17		5.3	8	Auto(A10)	10	576	462	524
+2026	General Motors	Chevrolet	SILVERADO 4WD (5.3 L)	4-Wheel Drive	15	19	17		5.3	8	Auto(A10)	10	576	475	531
+2026	General Motors	Chevrolet	SILVERADO 4WD 4M	4-Wheel Drive	17	21	19		2.7	4	Auto(A8)	8	513	424	473
+2026	General Motors	Chevrolet	SILVERADO 4WD CAB CHASSIS	4-Wheel Drive	14	16	15		5.3	8	Auto(A10)	10	633	542	592
+2026	General Motors	Chevrolet	SILVERADO 4WD M6 with Sport Mode	4-Wheel Drive	17	20	18		2.7	4	Auto(A8)	8	509	443	479
+2026	General Motors	Chevrolet	SILVERADO 4WD MUD TERRAIN TIRE	4-Wheel Drive	15	18	16		5.3	8	Auto(A10)	10	595	501	552
+2026	General Motors	Chevrolet	SILVERADO 4WD MUD TERRAIN TIRE  (Flex Fuel)	4-Wheel Drive	15	19	17		5.3	8	Auto(A10)	10	576	462	524
+2026	General Motors	Chevrolet	SILVERADO 4WD MUD TERRAIN TIRE (6.2 L)	4-Wheel Drive	14	17	15		6.2	8	Auto(A10)	10	635	524	593
+2026	General Motors	Chevrolet	SILVERADO 4WD MUD TERRAIN TIRE 4M	4-Wheel Drive	16	17	17		2.7	4	Auto(A8)	8	552	517	536
+2026	General Motors	Chevrolet	SILVERADO 4WD MUD TERRAIN TIRE M6	4-Wheel Drive	16	17	17		2.7	4	Auto(A8)	8	551	516	535
+2026	General Motors	Chevrolet	SILVERADO 4WD MUD TERRAIN TIRE with Sport Mode	4-Wheel Drive	15	18	16		5.3	8	Auto(A10)	10	595	503	553
+2026	General Motors	Chevrolet	SILVERADO 4WD MUD TERRAIN TIRES	4-Wheel Drive	21	24	23		3	6	Auto(A10)	10	475	421	451
+2026	General Motors	Chevrolet	SILVERADO 4WD MUD TERRAIN TIRES	4-Wheel Drive	21	24	23		3	6	Auto(A10)	10	474	418	448
+2026	General Motors	Chevrolet	SILVERADO 4WD ZR2	4-Wheel Drive	14	17	15		6.2	8	Auto(A10)	10	638	535	591
+2026	General Motors	Chevrolet	SILVERADO 4WD ZR2	4-Wheel Drive	20	23	21		3	6	Auto(A10)	10	504	451	480
+2026	General Motors	Chevrolet	SILVERADO 4WD with Sport Mode	4-Wheel Drive	16	20	17		5.3	8	Auto(A10)	10	562	456	514
+2026	General Motors	Chevrolet	SILVERADO EV	4-Wheel Drive	78	63	70	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Chevrolet	SILVERADO EV	4-Wheel Drive	43	53	48	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Chevrolet	SILVERADO EV	4-Wheel Drive	75	61	68	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Chevrolet	SILVERADO EV	4-Wheel Drive	45	55	49	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Chevrolet	SILVERADO EV	4-Wheel Drive	75	61	68	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Chevrolet	SILVERADO EV	4-Wheel Drive	45	55	50	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Chevrolet	SILVERADO EV	4-Wheel Drive	69	59	64	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Chevrolet	SILVERADO EV	4-Wheel Drive	49	57	52	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Chevrolet	SILVERADO EV	4-Wheel Drive	75	61	68	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Chevrolet	SILVERADO EV	4-Wheel Drive	45	55	50	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Chevrolet	SILVERADO EV	4-Wheel Drive	74	60	67	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Chevrolet	SILVERADO EV	4-Wheel Drive	45	56	50	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Chevrolet	SUBURBAN 2WD	2-Wheel Drive, Rear	15	19	16		6.2	8	Auto(A10)	10	605	470	544
+2026	General Motors	Chevrolet	SUBURBAN 2WD	2-Wheel Drive, Rear	15	20	17		5.3	8	Auto(A10)	10	592	453	530
+2026	General Motors	Chevrolet	SUBURBAN 2WD	2-Wheel Drive, Rear	21	26	23		3	6	Auto(A10)	10	485	385	442
+2026	General Motors	Chevrolet	SUBURBAN 4WD	4-Wheel Drive	14	18	16		6.2	8	Auto(A10)	10	634	495	572
+2026	General Motors	Chevrolet	SUBURBAN 4WD	4-Wheel Drive	14	19	16		5.3	8	Auto(A10)	10	646	481	571
+2026	General Motors	Chevrolet	SUBURBAN 4WD	4-Wheel Drive	20	24	22		3	6	Auto(A10)	10	496	416	460
+2026	General Motors	Chevrolet	TAHOE 2WD	2-Wheel Drive, Rear	15	20	17		6.2	8	Auto(A10)	10	587	444	523
+2026	General Motors	Chevrolet	TAHOE 2WD	2-Wheel Drive, Rear	15	20	17		5.3	8	Auto(A10)	10	592	453	530
+2026	General Motors	Chevrolet	TAHOE 2WD	2-Wheel Drive, Rear	22	26	24		3	6	Auto(A10)	10	457	391	427
+2026	General Motors	Chevrolet	TAHOE 4WD	4-Wheel Drive	20	24	22		3	6	Auto(A10)	10	496	416	460
+2026	General Motors	Chevrolet	TAHOE 4WD (5.3L)	4-Wheel Drive	15	19	17		5.3	8	Auto(A10)	10	596	462	536
+2026	General Motors	Chevrolet	TAHOE 4WD (6.2L)	4-Wheel Drive	14	18	16		6.2	8	Auto(A10)	10	634	495	572
+2026	General Motors	GMC	TERRAIN AWD	All Wheel Drive	24	28	25		1.5	4	Auto(A8)	8	370	319	356
+2026	General Motors	GMC	TERRAIN AWD Denali / AT4	All Wheel Drive	24	26	25		1.5	4	Auto(A8)	8	376	335	358
+2026	General Motors	GMC	TERRAIN FWD	2-Wheel Drive, Front	26	28	27		1.5	4	Auto(AV)	1	342	318	329
+2026	General Motors	Chevrolet	TRAILBLAZER AWD	All Wheel Drive	26	29	27		1.3	3	Auto(A9)	9	342	306	329
+2026	General Motors	Chevrolet	TRAILBLAZER FWD	2-Wheel Drive, Front	29	33	31		1.3	3	Auto(AV)	1	307	270	287
+2026	General Motors	Chevrolet	TRAILBLAZER FWD (Flex Fuel)	2-Wheel Drive, Front	30	31	30		1.2	3	Auto(AV)	1	296	287	297
+2026	General Motors	Chevrolet	TRAVERSE AWD	All Wheel Drive	20	24	21		2.5	4	Auto(A8)	8	454	370	423
+2026	General Motors	Chevrolet	TRAVERSE FWD	2-Wheel Drive, Front	20	26	22		2.5	4	Auto(A8)	8	440	342	404
+2026	General Motors	Chevrolet	TRAX	2-Wheel Drive, Front	28	31	29		1.2	3	Auto(A6)	6	323	277	302
+2026	General Motors	Chevrolet	TRAX (Flex Fuel)	2-Wheel Drive, Front	28	32	30		1.2	3	Auto(A6)	6	318	277	296
+2026	General Motors	Cadillac	VISTIQ (11 kW Charger)	All Wheel Drive	93	78	86	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Cadillac	VISTIQ (11 kW Charger)	All Wheel Drive	36	43	39	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Cadillac	VISTIQ (19 kW Charger)	All Wheel Drive	93	78	86	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Cadillac	VISTIQ (19 kW Charger)	All Wheel Drive	36	43	39	NA	0	NA	Auto(A1)	1	0	0	0
+2026	General Motors	Cadillac	XT5 AWD	All Wheel Drive	18	26	21		3.6	6	Auto(S9)	9	486	348	424
+2026	General Motors	Cadillac	XT5 AWD	All Wheel Drive	21	27	23		2	4	Auto(S9)	9	423	329	386
+2026	General Motors	Cadillac	XT5 FWD	2-Wheel Drive, Front	19	26	21		3.6	6	Auto(S9)	9	468	339	423
+2026	General Motors	Cadillac	XT5 FWD	2-Wheel Drive, Front	22	29	24		2	4	Auto(S9)	9	403	303	370
+2026	General Motors	GMC	YUKON 2WD	2-Wheel Drive, Rear	15	20	17		6.2	8	Auto(A10)	10	587	444	523
+2026	General Motors	GMC	YUKON 2WD	2-Wheel Drive, Rear	15	20	17		5.3	8	Auto(A10)	10	592	453	530
+2026	General Motors	GMC	YUKON 2WD	2-Wheel Drive, Rear	21	26	23		3	6	Auto(A10)	10	485	385	442
+2026	General Motors	GMC	YUKON 4WD	4-Wheel Drive	14	18	16		6.2	8	Auto(A10)	10	634	495	572
+2026	General Motors	GMC	YUKON 4WD	4-Wheel Drive	15	19	17		5.3	8	Auto(A10)	10	596	462	536
+2026	General Motors	GMC	YUKON 4WD	4-Wheel Drive	20	24	22		3	6	Auto(A10)	10	496	416	460
+2026	General Motors	GMC	YUKON XL 2WD	2-Wheel Drive, Rear	15	19	16		6.2	8	Auto(A10)	10	605	470	544
+2026	General Motors	GMC	YUKON XL 2WD	2-Wheel Drive, Rear	15	20	17		5.3	8	Auto(A10)	10	592	453	530
+2026	General Motors	GMC	YUKON XL 2WD	2-Wheel Drive, Rear	21	26	23		3	6	Auto(A10)	10	485	385	442
+2026	General Motors	GMC	YUKON XL 4WD	4-Wheel Drive	14	18	16		6.2	8	Auto(A10)	10	634	495	572
+2026	General Motors	GMC	YUKON XL 4WD	4-Wheel Drive	14	19	16		5.3	8	Auto(A10)	10	646	481	571
+2026	General Motors	GMC	YUKON XL 4WD	4-Wheel Drive	20	24	22		3	6	Auto(A10)	10	496	416	460
+2026	Honda	Honda	CIVIC 4Dr	2-Wheel Drive, Front	27	37	31		1.5	4	Manual(M6)	6	323	239	285
+2026	Honda	Honda	CIVIC 4Dr	2-Wheel Drive, Front	32	41	36		2	4	Auto(AV)	1	276	215	248
+2026	Honda	Honda	CIVIC 4Dr	2-Wheel Drive, Front	31	39	34		2	4	Auto(AV-S7)	7	281	226	260
+2026	Honda	Honda	CIVIC 4Dr	2-Wheel Drive, Front	50	47	49		2	4	Auto(AV)	1	176	188	181
+2026	Honda	Honda	CIVIC 5Dr	2-Wheel Drive, Front	30	38	34		2	4	Auto(AV-S7)	7	295	233	268
+2026	Honda	Honda	CIVIC 5Dr	2-Wheel Drive, Front	50	45	48		2	4	Auto(AV)	1	177	196	186
+2026	Honda	Honda	CR-V AWD	All Wheel Drive	27	31	29		1.5	4	Auto(AV)	1	329	286	310
+2026	Honda	Honda	CR-V AWD	All Wheel Drive	40	34	37		2	4	Auto(AV)	1	218	259	237
+2026	Honda	Honda	CR-V AWD TrailSport	All Wheel Drive	38	33	35		2	4	Auto(AV)	1	236	272	252
+2026	Honda	Honda	CR-V FWD	2-Wheel Drive, Front	28	33	30		1.5	4	Auto(AV)	1	318	269	296
+2026	Honda	Honda	CR-V FWD	2-Wheel Drive, Front	43	36	40		2	4	Auto(AV)	1	205	246	223
+2026	Honda	Honda	HR-V AWD	All Wheel Drive	25	30	27		2	4	Auto(AV)	1	357	292	328
+2026	Honda	Honda	HR-V FWD	2-Wheel Drive, Front	26	32	28		2	4	Auto(AV)	1	338	278	311
+2026	Honda	Acura	INTEGRA	2-Wheel Drive, Front	29	37	32		1.5	4	Auto(AV-S7)	7	302	238	278
+2026	Honda	Acura	INTEGRA	2-Wheel Drive, Front	21	28	24		2	4	Manual(M6)	6	419	312	371
+2026	Honda	Acura	INTEGRA A-SPEC	2-Wheel Drive, Front	29	37	32		1.5	4	Auto(AV-S7)	7	301	240	277
+2026	Honda	Acura	INTEGRA A-SPEC	2-Wheel Drive, Front	26	36	30		1.5	4	Manual(M6)	6	339	241	293
+2026	Honda	Acura	MDX AWD	All Wheel Drive	19	25	21		3.5	6	Auto(S10)	10	477	357	423
+2026	Honda	Acura	MDX AWD Type-S	All Wheel Drive	17	21	19		3	6	Auto(S10)	10	523	414	474
+2026	Honda	Acura	MDX FWD	2-Wheel Drive, Front	19	26	22		3.5	6	Auto(S10)	10	470	339	411
+2026	Honda	Honda	ODYSSEY FWD	2-Wheel Drive, Front	19	28	22		3.5	6	Auto(S10)	10	457	319	395
+2026	Honda	Honda	PASSPORT AWD	All Wheel Drive	19	25	21		3.5	6	Auto(S10)	10	469	356	424
+2026	Honda	Honda	PASSPORT AWD Trailsport	All Wheel Drive	18	23	20		3.5	6	Auto(S10)	10	496	387	446
+2026	Honda	Acura	RDX AWD	All Wheel Drive	21	27	23		2	4	Auto(S10)	10	415	322	385
+2026	Honda	Acura	RDX AWD A-SPEC	All Wheel Drive	21	26	23		2	4	Auto(S10)	10	423	342	386
+2026	Honda	Honda	RIDGELINE AWD	All Wheel Drive	18	24	21		3.5	6	Auto(S9)	9	494	375	441
+2026	Honda	Honda	RIDGELINE AWD TrailSport	All Wheel Drive	18	23	20		3.5	6	Auto(S9)	9	496	386	446
+2026	Honda	Acura	ZDX AWD	All Wheel Drive	98	81	89	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Honda	Acura	ZDX AWD	All Wheel Drive	34	42	38	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Honda	Acura	ZDX AWD Type S	All Wheel Drive	90	76	83	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Honda	Acura	ZDX AWD Type S	All Wheel Drive	38	44	41	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Honda	Acura	ZDX RWD	2-Wheel Drive, Rear	100	83	91	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Honda	Acura	ZDX RWD	2-Wheel Drive, Rear	34	41	37	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Elantra	2-Wheel Drive, Front	28	35	31		1.6	4	Auto(AM-S7)	7	316	254	288
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Elantra Hybrid	2-Wheel Drive, Front	49	52	50		1.6	4	Auto(AM-S6)	6	180	172	177
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Elantra Hybrid Blue	2-Wheel Drive, Front	51	58	54		1.6	4	Auto(AM-S6)	6	174	154	165
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Elantra N	2-Wheel Drive, Front	20	27	23		2	4	Auto(AM-S8)	8	446	326	392
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Elantra N	2-Wheel Drive, Front	21	29	24		2	4	Manual(M6)	6	414	307	366
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Elantra non-ISG	2-Wheel Drive, Front	30	40	34		2	4	Auto(AV-S1)	1	296	222	263
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Elantra w/ Stop-Start	2-Wheel Drive, Front	31	40	35		2	4	Auto(AV-S1)	1	281	221	254
+2026	Hyundai	GENESIS	Electrified G80	All Wheel Drive	99	93	96	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	GENESIS	Electrified G80	All Wheel Drive	34	36	35	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	GENESIS	Electrified GV70 19'' AWD	All Wheel Drive	103	88	96	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	GENESIS	Electrified GV70 19'' AWD	All Wheel Drive	33	38	35	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	GENESIS	Electrified GV70 20'' AWD	All Wheel Drive	96	80	88	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	GENESIS	Electrified GV70 20'' AWD	All Wheel Drive	35	42	38	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	GENESIS	G70 AWD	All Wheel Drive	17	23	19		3.3	6	Auto(S8)	8	528	389	466
+2026	Hyundai	GENESIS	G70 AWD	All Wheel Drive	20	28	23		2.5	4	Auto(S8)	8	440	319	385
+2026	Hyundai	GENESIS	G70 RWD	2-Wheel Drive, Rear	17	25	20		3.3	6	Auto(S8)	8	526	355	449
+2026	Hyundai	GENESIS	G70 RWD	2-Wheel Drive, Rear	21	29	24		2.5	4	Auto(S8)	8	429	304	373
+2026	Hyundai	GENESIS	G80 AWD	All Wheel Drive	20	29	23		2.5	4	Auto(S8)	8	439	311	382
+2026	Hyundai	GENESIS	G80 AWD	All Wheel Drive	15	24	18		3.5	6	Auto(S8)	8	574	377	485
+2026	Hyundai	GENESIS	G90 AWD	All Wheel Drive	18	26	21		3.5	6	Auto(S8)	8	491	347	426
+2026	Hyundai	GENESIS	G90 MHEV	All Wheel Drive	17	24	20		3.5	6	Auto(S8)	8	505	363	441
+2026	Hyundai	GENESIS	GV60 AWD Advanced with 20''	All Wheel Drive	102	89	96	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	GENESIS	GV60 AWD Advanced with 20''	All Wheel Drive	33	38	35	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	GENESIS	GV60 AWD Performance	All Wheel Drive	97	83	90	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	GENESIS	GV60 AWD Performance	All Wheel Drive	35	41	37	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	GENESIS	GV60 AWD with 19''	All Wheel Drive	107	93	100	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	GENESIS	GV60 AWD with 19''	All Wheel Drive	31	36	34	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	GENESIS	GV60 RWD	2-Wheel Drive, Rear	119	101	110	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	GENESIS	GV60 RWD	2-Wheel Drive, Rear	28	33	31	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	GENESIS	GV70 AWD	All Wheel Drive	18	25	21		3.5	6	Auto(S8)	8	497	355	433
+2026	Hyundai	GENESIS	GV70 AWD w/ 4-mode transmission	All Wheel Drive	20	28	23		2.5	4	Auto(S8)	8	451	322	393
+2026	Hyundai	GENESIS	GV70 AWD w/ 5-mode transmission (Sport+)	All Wheel Drive	20	26	22		2.5	4	Auto(S8)	8	453	339	402
+2026	Hyundai	GENESIS	GV80 AWD	All Wheel Drive	19	24	21		2.5	4	Auto(S8)	8	474	369	427
+2026	Hyundai	GENESIS	GV80 AWD	All Wheel Drive	16	22	19		3.5	6	Auto(S8)	8	538	395	473
+2026	Hyundai	GENESIS	GV80 MHEV	All Wheel Drive	17	22	19		3.5	6	Auto(S8)	8	513	410	467
+2026	Hyundai	GENESIS	GV80 RWD	2-Wheel Drive, Rear	20	26	22		2.5	4	Auto(S8)	8	449	346	403
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Ioniq 5 AWD (19inch Wheels)	All Wheel Drive	116	96	106	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Ioniq 5 AWD (19inch Wheels)	All Wheel Drive	29	35	32	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Ioniq 5 AWD (20inch Wheels)	All Wheel Drive	108	88	98	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Ioniq 5 AWD (20inch Wheels)	All Wheel Drive	31	39	34	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Ioniq 5 AWD XRT	All Wheel Drive	103	85	94	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Ioniq 5 AWD XRT	All Wheel Drive	33	40	36	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Ioniq 5 N	All Wheel Drive	84	72	78	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Ioniq 5 N	All Wheel Drive	40	47	43	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Ioniq 5 RWD	2-Wheel Drive, Rear	129	100	114	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Ioniq 5 RWD	2-Wheel Drive, Rear	26	34	30	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Ioniq 5 Robo taxi	2-Wheel Drive, Rear	73	69	71	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Ioniq 5 Robo taxi	2-Wheel Drive, Rear	46	49	48	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Ioniq 5 Standard range	2-Wheel Drive, Rear	131	100	115	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Ioniq 5 Standard range	2-Wheel Drive, Rear	26	34	29	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Ioniq 9 AWD	All Wheel Drive	98	78	88	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Ioniq 9 AWD	All Wheel Drive	34	43	38	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Ioniq 9 AWD Performance	All Wheel Drive	91	79	85	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Ioniq 9 AWD Performance	All Wheel Drive	37	43	40	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Ioniq 9 RWD	2-Wheel Drive, Rear	103	81	92	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Ioniq 9 RWD	2-Wheel Drive, Rear	33	41	37	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Kona AWD	All Wheel Drive	26	29	27		2	4	Auto(AV-S1)	1	341	300	323
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Kona AWD SX2 1.6T 8AT AWD	All Wheel Drive	25	28	26		1.6	4	Auto(S8)	8	362	313	340
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Kona AWD w/ STOP-START	All Wheel Drive	27	29	28		2	4	Auto(AV-S1)	1	332	302	319
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Kona FWD	2-Wheel Drive, Front	28	35	31		2	4	Auto(AV-S1)	1	316	255	288
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Kona FWD SX2 1.6T 8AT FWD	2-Wheel Drive, Front	26	31	28		1.6	4	Auto(S8)	8	348	286	320
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Kona FWD w/ STOP-START	2-Wheel Drive, Front	29	34	31		2	4	Auto(AV-S1)	1	305	258	284
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Palisade AWD	All Wheel Drive	18	24	20		3.5	6	Auto(S8)	8	500	375	444
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Palisade FWD	2-Wheel Drive, Front	19	25	21		3.5	6	Auto(S8)	8	476	348	418
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Palisade Hybrid AWD	All Wheel Drive	29	30	29		2.5	4	Auto(AM-S6)	6	307	291	300
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Palisade Hybrid FWD	2-Wheel Drive, Front	31	32	31		2.5	4	Auto(AM-S6)	6	287	277	283
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Palisade Hybrid FWD Blue	2-Wheel Drive, Front	33	35	34		2.5	4	Auto(AM-S6)	6	262	253	258
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Palisade XRT Pro	All Wheel Drive	16	22	19		3.5	6	Auto(S8)	8	542	402	479
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Santa Cruz AWD  NX4 OB 2.5 AWD 8AT	All Wheel Drive	21	29	24		2.5	4	Auto(S8)	8	415	309	367
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Santa Cruz AWD NX4 OB 2.5T AWD 8AT	All Wheel Drive	18	25	20		2.5	4	Auto(S8)	8	497	356	433
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Santa Cruz FWD	2-Wheel Drive, Front	22	30	25		2.5	4	Auto(S8)	8	405	296	356
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Santa Cruz XRT AWD	All Wheel Drive	18	25	20		2.5	4	Auto(S8)	8	498	357	435
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Santa Fe AWD	All Wheel Drive	20	28	23		2.5	4	Auto(S8)	8	450	314	389
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Santa Fe AWD XRT	All Wheel Drive	19	25	21		2.5	4	Auto(S8)	8	477	353	421
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Santa Fe FWD	2-Wheel Drive, Front	20	29	24		2.5	4	Auto(S8)	8	431	303	374
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Santa Fe Hybrid AWD	All Wheel Drive	35	34	34		1.6	4	Auto(AM-S6)	6	255	262	258
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Santa Fe Hybrid FWD	2-Wheel Drive, Front	37	36	36		1.6	4	Auto(AM-S6)	6	241	247	244
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Sonata AWD	All Wheel Drive	24	33	27		2.5	4	Auto(S8)	8	376	267	327
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Sonata FWD	2-Wheel Drive, Front	25	36	29		2.5	4	Auto(S8)	8	362	246	310
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Sonata FWD	2-Wheel Drive, Front	23	32	27		2.5	4	Auto(AM-S8)	8	378	277	333
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Sonata FWD w/ STOP-START	2-Wheel Drive, Front	28	38	32		2.5	4	Auto(S8)	8	322	232	281
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Sonata Hybrid	2-Wheel Drive, Front	44	51	47		2	4	Auto(AM-S6)	6	199	174	188
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Sonata Hybrid Blue	2-Wheel Drive, Front	47	56	51		2	4	Auto(AM-S6)	6	189	158	175
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Tucson AWD	All Wheel Drive	24	30	26		2.5	4	Auto(S8)	8	371	296	337
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Tucson FWD	2-Wheel Drive, Front	25	33	28		2.5	4	Auto(S8)	8	361	274	322
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Tucson Hybrid	All Wheel Drive	36	37	36		1.6	4	Auto(AM-S6)	6	246	240	243
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Tucson Hybrid Blue	All Wheel Drive	38	38	38		1.6	4	Auto(AM-S6)	6	232	235	234
+2026	Hyundai	HYUNDAI MOTOR COMPANY	Venue	2-Wheel Drive, Front	29	33	31		1.6	4	Auto(AV-S1)	1	304	274	291
+2026	Jaguar Land Rover L	Land Rover	Defender 110	4-Wheel Drive	18	22	20		2	4	Auto(S8)	8	494	400	452
+2026	Jaguar Land Rover L	Land Rover	Defender 110	4-Wheel Drive	14	18	16		5	8	Auto(S8)	8	644	489	574
+2026	Jaguar Land Rover L	Land Rover	Defender 110 MHEV	4-Wheel Drive	18	22	20		3	6	Auto(S8)	8	496	400	453
+2026	Jaguar Land Rover L	Land Rover	Defender 110 MHEV	4-Wheel Drive	15	19	17		4.4	8	Auto(S8)	8	597	458	534
+2026	Jaguar Land Rover L	Land Rover	Defender 110 Trophy MHEV	4-Wheel Drive	17	18	17		3	6	Auto(S8)	8	524	497	512
+2026	Jaguar Land Rover L	Land Rover	Defender 130	4-Wheel Drive	14	19	16		5	8	Auto(S8)	8	644	474	567
+2026	Jaguar Land Rover L	Land Rover	Defender 130 Outbound	4-Wheel Drive	17	19	18		3	6	Auto(S8)	8	538	453	500
+2026	Jaguar Land Rover L	Land Rover	Defender 130 P300 MHEV	4-Wheel Drive	17	21	19		3	6	Auto(S8)	8	515	411	468
+2026	Jaguar Land Rover L	Land Rover	Defender 130 P400 MHEV	4-Wheel Drive	16	20	18		3	6	Auto(S8)	8	538	432	491
+2026	Jaguar Land Rover L	Land Rover	Defender 90	4-Wheel Drive	18	21	19		2	4	Auto(S8)	8	493	431	465
+2026	Jaguar Land Rover L	Land Rover	Defender 90	4-Wheel Drive	15	19	16		5	8	Auto(S8)	8	615	471	550
+2026	Jaguar Land Rover L	Land Rover	Defender 90 MHEV	4-Wheel Drive	18	23	20		3	6	Auto(S8)	8	500	385	448
+2026	Jaguar Land Rover L	Land Rover	Discovery MHEV	4-Wheel Drive	17	23	19		3	6	Auto(S8)	8	514	388	457
+2026	Jaguar Land Rover L	Land Rover	Discovery Sport	All Wheel Drive	19	23	20		2	4	Auto(S9)	9	482	381	437
+2026	Jaguar Land Rover L	Jaguar	F-PACE	All Wheel Drive	22	27	24		2	4	Auto(S8)	8	409	335	376
+2026	Jaguar Land Rover L	Jaguar	F-PACE MHEV	4-Wheel Drive	19	25	21		3	6	Auto(S8)	8	471	354	418
+2026	Jaguar Land Rover L	Jaguar	F-PACE SVR	All Wheel Drive	15	21	17		5	8	Auto(S8)	8	592	430	519
+2026	Jaguar Land Rover L	Land Rover	Range Rover Evoque	All Wheel Drive	20	27	22		2	4	Auto(S9)	9	451	334	398
+2026	Jaguar Land Rover L	Land Rover	Range Rover LWB MHEV	4-Wheel Drive	16	22	18		4.4	8	Auto(S8)	8	574	411	501
+2026	Jaguar Land Rover L	Land Rover	Range Rover MHEV	4-Wheel Drive	16	23	19		4.4	8	Auto(S8)	8	549	389	477
+2026	Jaguar Land Rover L	Land Rover	Range Rover P400 LWB MHEV	4-Wheel Drive	19	24	21		3	6	Auto(S8)	8	471	375	428
+2026	Jaguar Land Rover L	Land Rover	Range Rover P400 MHEV	4-Wheel Drive	19	24	21		3	6	Auto(S8)	8	471	375	428
+2026	Jaguar Land Rover L	Land Rover	Range Rover SV LWB MHEV	4-Wheel Drive	16	22	18		4.4	8	Auto(S8)	8	574	411	501
+2026	Jaguar Land Rover L	Land Rover	Range Rover SV MHEV	4-Wheel Drive	16	23	18		4.4	8	Auto(S8)	8	566	390	487
+2026	Jaguar Land Rover L	Land Rover	Range Rover Sport MHEV	4-Wheel Drive	16	23	19		4.4	8	Auto(S8)	8	549	389	477
+2026	Jaguar Land Rover L	Land Rover	Range Rover Sport SVR MHEV	4-Wheel Drive	16	22	18		4.4	8	Auto(S8)	8	568	410	497
+2026	Jaguar Land Rover L	Land Rover	Range Rover Velar	All Wheel Drive	22	26	23		2	4	Auto(S8)	8	415	339	381
+2026	Jaguar Land Rover L	Land Rover	Range Rover Velar P340 MHEV	4-Wheel Drive	19	26	22		3	6	Auto(S8)	8	460	343	407
+2026	Jaguar Land Rover L	Land Rover	Range Rover Velar P400 MHEV	4-Wheel Drive	19	25	21		3	6	Auto(S8)	8	473	354	420
+2026	Kia	KIA	Carnival	2-Wheel Drive, Front	18	25	21		3.5	6	Auto(S8)	8	489	354	428
+2026	Kia	KIA	Carnival Hybrid	2-Wheel Drive, Front	34	31	32		1.6	4	Auto(AM-S6)	6	264	288	275
+2026	Kia	KIA	EV9 GT	All Wheel Drive	83	72	78	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Kia	KIA	EV9 GT	All Wheel Drive	40	47	43	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Kia	KIA	EV9 Long Range AWD	All Wheel Drive	94	75	84	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Kia	KIA	EV9 Long Range AWD	All Wheel Drive	36	45	40	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Kia	KIA	EV9 Long Range AWD GT-Line	All Wheel Drive	92	72	82	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Kia	KIA	EV9 Long Range AWD GT-Line	All Wheel Drive	37	47	41	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Kia	KIA	EV9 Long Range RWD	2-Wheel Drive, Rear	100	78	89	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Kia	KIA	EV9 Long Range RWD	2-Wheel Drive, Rear	34	43	38	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Kia	KIA	EV9 Standard Range RWD	2-Wheel Drive, Rear	101	76	88	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Kia	KIA	EV9 Standard Range RWD	2-Wheel Drive, Rear	34	44	38	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Kia	KIA	K5	2-Wheel Drive, Front	25	36	29		2.5	4	Auto(S8)	8	361	247	310
+2026	Kia	KIA	K5	2-Wheel Drive, Front	23	33	27		2.5	4	Auto(AM-S8)	8	380	273	331
+2026	Kia	KIA	K5 AWD	All Wheel Drive	24	33	27		2.5	4	Auto(S8)	8	377	270	329
+2026	Kia	KIA	K5 w/ Stop-Start	2-Wheel Drive, Front	26	37	30		2.5	4	Auto(S8)	8	347	238	298
+2026	Kia	KIA	Niro	2-Wheel Drive, Front	53	45	49		1.6	4	Auto(AM-S6)	6	168	196	181
+2026	Kia	KIA	Niro Electric	2-Wheel Drive, Front	126	101	113	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Kia	KIA	Niro Electric	2-Wheel Drive, Front	27	33	30	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Kia	KIA	Niro FE	2-Wheel Drive, Front	53	54	53		1.6	4	Auto(AM-S6)	6	168	165	167
+2026	Kia	KIA	Seltos AWD (1.6L)	All Wheel Drive	24	27	25		1.6	4	Auto(S8)	8	368	327	350
+2026	Kia	KIA	Seltos AWD (2.0L)	All Wheel Drive	27	31	29		2	4	Auto(AV-S8)	8	331	282	309
+2026	Kia	KIA	Sorento AWD	All Wheel Drive	23	28	25		2.5	4	Auto(S8)	8	387	321	357
+2026	Kia	KIA	Sorento AWD	All Wheel Drive	20	27	23		2.5	4	Auto(AM-S8)	8	436	329	388
+2026	Kia	KIA	Sorento FWD	2-Wheel Drive, Front	23	31	26		2.5	4	Auto(S8)	8	380	289	339
+2026	Kia	KIA	Sorento FWD	2-Wheel Drive, Front	20	29	23		2.5	4	Auto(AM-S8)	8	441	311	382
+2026	Kia	KIA	Sorento Hybrid AWD	All Wheel Drive	32	35	34		1.6	4	Auto(AM-S6)	6	272	254	264
+2026	Kia	KIA	Sorento Hybrid FWD	2-Wheel Drive, Front	37	36	37		1.6	4	Auto(AM-S6)	6	236	245	240
+2026	Kia	KIA	Sportage AWD	All Wheel Drive	24	30	26		2.5	4	Auto(S8)	8	374	296	339
+2026	Kia	KIA	Sportage FWD	2-Wheel Drive, Front	25	33	28		2.5	4	Auto(S8)	8	357	269	317
+2026	Kia	KIA	Sportage Hybrid AWD	All Wheel Drive	35	36	35		1.6	4	Auto(AM-S6)	6	252	250	251
+2026	Kia	KIA	Sportage Hybrid FWD	2-Wheel Drive, Front	41	44	42		1.6	4	Auto(AM-S6)	6	216	202	209
+2026	Kia	KIA	Sportage X-pro	All Wheel Drive	23	26	24		2.5	4	Auto(S8)	8	394	349	374
+2026	Lucid USA, Inc	Lucid USA Inc.	Air G Touring XR AWD w/19" wheels	All Wheel Drive	129	126	128	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Air G Touring XR AWD w/19" wheels	All Wheel Drive	26	27	26	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Air G Touring XR AWD w/20" wheels	All Wheel Drive	122	117	120	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Air G Touring XR AWD w/20" wheels	All Wheel Drive	28	29	28	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Air G Touring XR AWD w/21" wheels	All Wheel Drive	114	109	112	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Air G Touring XR AWD w/21" wheels	All Wheel Drive	30	31	30	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Air Pure RWD w/19" wheels	2-Wheel Drive, Rear	149	142	146	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Air Pure RWD w/19" wheels	2-Wheel Drive, Rear	23	24	23	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Air Pure RWD w/20" wheels	2-Wheel Drive, Rear	132	125	129	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Air Pure RWD w/20" wheels	2-Wheel Drive, Rear	25	27	26	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Air Sapphire AWD	All Wheel Drive	108	101	105	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Air Sapphire AWD	All Wheel Drive	31	33	32	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Air Touring AWD w/19" wheels	All Wheel Drive	136	132	134	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Air Touring AWD w/19" wheels	All Wheel Drive	25	26	25	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Air Touring AWD w/20" wheels	All Wheel Drive	126	121	123	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Air Touring AWD w/20" wheels	All Wheel Drive	27	28	27	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Gravity Dream w/20F21R wheels (3R)	All Wheel Drive	101	98	99	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Gravity Dream w/20F21R wheels (3R)	All Wheel Drive	33	35	34	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Gravity Dream w/21F22R wheels (3R)	All Wheel Drive	91	87	90	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Gravity Dream w/21F22R wheels (3R)	All Wheel Drive	37	39	38	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Gravity Dream w/22F23R wheels (3R)	All Wheel Drive	91	87	90	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Gravity Dream w/22F23R wheels (3R)	All Wheel Drive	37	39	38	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Gravity GT w/20F21R wheels (2R)	All Wheel Drive	113	103	108	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Gravity GT w/20F21R wheels (2R)	All Wheel Drive	30	33	31	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Gravity GT w/20F21R wheels (3R)	All Wheel Drive	108	100	104	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Gravity GT w/20F21R wheels (3R)	All Wheel Drive	31	34	32	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Gravity GT w/21F22R wheels (2R)	All Wheel Drive	102	94	98	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Gravity GT w/21F22R wheels (2R)	All Wheel Drive	33	36	34	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Gravity GT w/21F22R wheels (3R)	All Wheel Drive	96	89	92	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Gravity GT w/21F22R wheels (3R)	All Wheel Drive	35	38	36	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Gravity GT w/22F23R wheels (2R)	All Wheel Drive	102	94	98	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Gravity GT w/22F23R wheels (2R)	All Wheel Drive	33	36	34	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Gravity GT w/22F23R wheels (3R)	All Wheel Drive	96	89	92	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Lucid USA, Inc	Lucid USA Inc.	Gravity GT w/22F23R wheels (3R)	All Wheel Drive	35	38	36	NA	0	NA	Auto(A1)	1	0	0	0
+2026	MAZDA	MAZDA	CX-30 4WD	4-Wheel Drive	24	31	27		2.5	4	Auto(S6)	6	365	285	329
+2026	MAZDA	MAZDA	CX-30 4WD	4-Wheel Drive	22	30	25		2.5	4	Auto(S6)	6	398	299	353
+2026	MAZDA	MAZDA	MAZDA CX-50 4WD	4-Wheel Drive	23	29	25		2.5	4	Auto(S6)	6	393	309	355
+2026	MAZDA	MAZDA	MAZDA CX-50 4WD	4-Wheel Drive	39	37	38		2.5	4	Auto(AV)	1	226	241	233
+2026	MAZDA	MAZDA	MAZDA CX-50 4WD	4-Wheel Drive	24	30	26		2.5	4	Auto(S6)	6	379	302	344
+2026	MAZDA	MAZDA	MAZDA CX-90 4WD	4-Wheel Drive	23	28	25		3.3	6	Auto(S8)	8	386	324	358
+2026	MAZDA	MAZDA	MAZDA CX-90 4WD	4-Wheel Drive	23	28	25		3.3	6	Auto(S8)	8	386	314	354
+2026	MAZDA	MAZDA	MAZDA3 4-Door 2WD	2-Wheel Drive, Front	27	36	30		2.5	4	Auto(S6)	6	331	248	294
+2026	MAZDA	MAZDA	MAZDA3 4-Door 4WD	4-Wheel Drive	26	34	29		2.5	4	Auto(S6)	6	345	257	306
+2026	MAZDA	MAZDA	MAZDA3 4-Door 4WD	4-Wheel Drive	23	32	27		2.5	4	Auto(S6)	6	382	274	334
+2026	MAZDA	MAZDA	MAZDA3 5-Door 2WD	2-Wheel Drive, Front	25	34	28		2.5	4	Manual(M6)	6	359	260	314
+2026	MAZDA	MAZDA	MAZDA3 5-Door 2WD	2-Wheel Drive, Front	26	34	29		2.5	4	Auto(S6)	6	339	257	302
+2026	MAZDA	MAZDA	MAZDA3 5-Door 4WD	4-Wheel Drive	25	34	28		2.5	4	Auto(S6)	6	351	263	317
+2026	MAZDA	MAZDA	MAZDA3 5-Door 4WD	4-Wheel Drive	23	31	26		2.5	4	Auto(S6)	6	380	285	337
+2026	Maserati	MASERATI	Grancabrio	All Wheel Drive	17	26	20		3	6	Auto(A8)	8	512	330	430
+2026	Maserati	MASERATI	Grancabrio Trofeo	All Wheel Drive	17	26	20		3	6	Auto(A8)	8	512	330	430
+2026	Maserati	MASERATI	Granturismo	All Wheel Drive	18	27	21		3	6	Auto(A8)	8	489	318	412
+2026	Maserati	MASERATI	Granturismo Trofeo	All Wheel Drive	18	27	21		3	6	Auto(A8)	8	489	318	412
+2026	Maserati	MASERATI	Grecale Modena V6	All Wheel Drive	18	25	20		3	6	Auto(A8)	8	495	354	432
+2026	Maserati	MASERATI	Grecale Trofeo	All Wheel Drive	18	25	20		3	6	Auto(A8)	8	495	354	432
+2026	Mercedes-Benz	Mercedes-Benz	AMG C 43 4MATIC	All Wheel Drive	19	27	22		2	4	Auto(A9)	9	468	329	405
+2026	Mercedes-Benz	Mercedes-Benz	AMG CLA 35 4MATIC	All Wheel Drive	22	29	25		2	4	Auto(AM8)	8	406	305	361
+2026	Mercedes-Benz	Mercedes-Benz	AMG CLA 45 S 4MATIC	All Wheel Drive	20	28	23		2	4	Auto(AM8)	8	438	308	379
+2026	Mercedes-Benz	Mercedes-Benz	AMG CLE 53 4MATIC+ (convertible)	All Wheel Drive	19	26	22		3	6	Auto(A9)	9	459	346	408
+2026	Mercedes-Benz	Mercedes-Benz	AMG CLE 53 4MATIC+ (coupe)	All Wheel Drive	20	27	23		3	6	Auto(A9)	9	444	327	391
+2026	Mercedes-Benz	Mercedes-Benz	AMG EQE 4MATIC+	All Wheel Drive	69	71	70	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	AMG EQE 4MATIC+	All Wheel Drive	49	48	48	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	AMG EQE 4MATIC+ (SUV)	All Wheel Drive	76	72	74	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	AMG EQE 4MATIC+ (SUV)	All Wheel Drive	44	47	46	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	AMG G 63	4-Wheel Drive	14	16	15		4	8	Auto(A9)	9	654	553	608
+2026	Mercedes-Benz	Mercedes-Benz	AMG GLA 35 4MATIC	All Wheel Drive	22	30	25		2	4	Auto(AM8)	8	395	296	350
+2026	Mercedes-Benz	Mercedes-Benz	AMG GLB 35 4MATIC	All Wheel Drive	21	27	23		2	4	Auto(AM8)	8	432	333	387
+2026	Mercedes-Benz	Mercedes-Benz	AMG GLC 43 4MATIC	All Wheel Drive	19	26	22		2	4	Auto(A9)	9	459	342	406
+2026	Mercedes-Benz	Mercedes-Benz	AMG GLC 43 4MATIC (coupe)	All Wheel Drive	19	25	22		2	4	Auto(A9)	9	463	348	411
+2026	Mercedes-Benz	Mercedes-Benz	AMG GLE 53 4MATIC+	All Wheel Drive	18	23	20		3	6	Auto(A9)	9	484	384	439
+2026	Mercedes-Benz	Mercedes-Benz	AMG GLE 53 4MATIC+ (coupe)	All Wheel Drive	18	22	20		3	6	Auto(A9)	9	497	401	454
+2026	Mercedes-Benz	Mercedes-Benz	AMG GLE 63 S 4MATIC+	All Wheel Drive	15	20	17		4	8	Auto(A9)	9	606	434	528
+2026	Mercedes-Benz	Mercedes-Benz	AMG GLE 63 S 4MATIC+ (coupe)	All Wheel Drive	15	21	17		4	8	Auto(A9)	9	598	432	523
+2026	Mercedes-Benz	Mercedes-Benz	AMG GLS 63 4MATIC+	All Wheel Drive	15	20	17		4	8	Auto(A9)	9	614	445	538
+2026	Mercedes-Benz	Mercedes-Benz	AMG GT 43 (coupe)	2-Wheel Drive, Rear	19	27	22		2	4	Auto(A9)	9	464	333	405
+2026	Mercedes-Benz	Mercedes-Benz	AMG GT 43 4MATIC+	All Wheel Drive	19	24	21		3	6	Auto(A9)	9	464	369	421
+2026	Mercedes-Benz	Mercedes-Benz	AMG GT 53 4MATIC+	All Wheel Drive	19	24	21		3	6	Auto(A9)	9	467	368	422
+2026	Mercedes-Benz	Mercedes-Benz	AMG GT 55 4MATIC+ (coupe)	All Wheel Drive	14	20	16	G	4	8	Auto(A9)	9	657	436	558
+2026	Mercedes-Benz	Mercedes-Benz	AMG GT 63 4MATIC+	All Wheel Drive	15	21	17		4	8	Auto(A9)	9	579	430	512
+2026	Mercedes-Benz	Mercedes-Benz	AMG GT 63 4MATIC+ (coupe)	All Wheel Drive	14	20	16	G	4	8	Auto(A9)	9	657	436	558
+2026	Mercedes-Benz	Mercedes-Benz	AMG GT 63 PRO 4MATIC+ (coupe)	All Wheel Drive	14	20	16	G	4	8	Auto(A9)	9	657	436	558
+2026	Mercedes-Benz	Mercedes-Benz	AMG SL 43	2-Wheel Drive, Rear	19	27	22		2	4	Auto(A9)	9	459	329	400
+2026	Mercedes-Benz	Mercedes-Benz	AMG SL 55 4MATIC+	All Wheel Drive	14	21	16	G	4	8	Auto(A9)	9	651	430	552
+2026	Mercedes-Benz	Mercedes-Benz	AMG SL 63 4MATIC+	All Wheel Drive	14	21	16	G	4	8	Auto(A9)	9	651	430	552
+2026	Mercedes-Benz	Mercedes-Benz	C 300	2-Wheel Drive, Rear	25	35	29		2	4	Auto(A9)	9	352	252	307
+2026	Mercedes-Benz	Mercedes-Benz	C 300 4MATIC	All Wheel Drive	24	33	27		2	4	Auto(A9)	9	379	268	329
+2026	Mercedes-Benz	Mercedes-Benz	CLA 250	2-Wheel Drive, Front	26	36	30		2	4	Auto(AM8)	8	339	247	298
+2026	Mercedes-Benz	Mercedes-Benz	CLA 250 4MATIC	All Wheel Drive	25	34	29		2	4	Auto(AM8)	8	353	260	311
+2026	Mercedes-Benz	Mercedes-Benz	CLA 250+ with EQ Technology	2-Wheel Drive, Rear	112	105	109	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	CLA 250+ with EQ Technology	2-Wheel Drive, Rear	30	32	31	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	CLA 250+ with EQ Technology (R22)	2-Wheel Drive, Rear	127	124	126	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	CLA 250+ with EQ Technology (R22)	2-Wheel Drive, Rear	26	27	27	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	CLA 350 4MATIC with EQ Technology	All Wheel Drive	120	115	118	NA	0	NA	Auto(A2)	2	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	CLA 350 4MATIC with EQ Technology	All Wheel Drive	28	29	29	NA	0	NA	Auto(A2)	2	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	CLE 300 4MATIC (Coupe)	All Wheel Drive	24	33	27		2	4	Auto(A9)	9	368	268	323
+2026	Mercedes-Benz	Mercedes-Benz	CLE 300 4MATIC (convertible)	All Wheel Drive	23	32	26		2	4	Auto(A9)	9	389	279	340
+2026	Mercedes-Benz	Mercedes-Benz	CLE 450 4MATIC (Convertible)	All Wheel Drive	23	32	26		3	6	Auto(A9)	9	386	279	338
+2026	Mercedes-Benz	Mercedes-Benz	CLE 450 4MATIC (Coupe)	All Wheel Drive	23	33	26		3	6	Auto(A9)	9	394	271	339
+2026	Mercedes-Benz	Mercedes-Benz	E 350	2-Wheel Drive, Rear	25	33	28		2	4	Auto(A9)	9	359	264	316
+2026	Mercedes-Benz	Mercedes-Benz	E 350 4MATIC	All Wheel Drive	24	33	27		2	4	Auto(A9)	9	375	269	327
+2026	Mercedes-Benz	Mercedes-Benz	E 450 4MATIC	All Wheel Drive	22	31	25		3	6	Auto(A9)	9	409	290	355
+2026	Mercedes-Benz	Mercedes-Benz	E 450 4MATIC All-Terrain Wagon	All Wheel Drive	22	31	25		3	6	Auto(A9)	9	402	289	351
+2026	Mercedes-Benz	Mercedes-Benz	EQE 320 4MATIC	All Wheel Drive	87	85	86	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	EQE 320 4MATIC	All Wheel Drive	39	39	39	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	EQE 320 4MATIC (SUV)	All Wheel Drive	84	78	81	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	EQE 320 4MATIC (SUV)	All Wheel Drive	40	43	42	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	EQE 320+	2-Wheel Drive, Rear	94	94	94	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	EQE 320+	2-Wheel Drive, Rear	36	36	36	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	EQE 320+ (SUV)	2-Wheel Drive, Rear	98	87	93	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	EQE 320+ (SUV)	2-Wheel Drive, Rear	34	39	36	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	EQS 400 4MATIC (SUV)	All Wheel Drive	80	78	79	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	EQS 400 4MATIC (SUV)	All Wheel Drive	42	43	43	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	EQS 450 4MATIC	All Wheel Drive	91	93	92	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	EQS 450 4MATIC	All Wheel Drive	37	36	37	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	EQS 450+	2-Wheel Drive, Rear	98	98	98	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	EQS 450+	2-Wheel Drive, Rear	34	34	34	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	EQS 550 4MATIC (SUV)	All Wheel Drive	82	78	80	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	EQS 550 4MATIC (SUV)	All Wheel Drive	41	43	42	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	EQS 580 4MATIC	All Wheel Drive	93	93	93	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	EQS 580 4MATIC	All Wheel Drive	36	36	36	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	EQS 680 4MATIC Maybach (SUV)	All Wheel Drive	84	84	84	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	EQS 680 4MATIC Maybach (SUV)	All Wheel Drive	40	40	40	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	G 550	4-Wheel Drive	17	19	18		3	6	Auto(A9)	9	510	465	490
+2026	Mercedes-Benz	Mercedes-Benz	G 580 with EQ Technology	4-Wheel Drive	68	56	62	NA	0	NA	Auto(A2)	2	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	G 580 with EQ Technology	4-Wheel Drive	50	60	54	NA	0	NA	Auto(A2)	2	0	0	0
+2026	Mercedes-Benz	Mercedes-Benz	GLA 250	2-Wheel Drive, Front	26	34	29		2	4	Auto(AM8)	8	344	260	306
+2026	Mercedes-Benz	Mercedes-Benz	GLA 250 4MATIC	All Wheel Drive	25	33	28		2	4	Auto(AM8)	8	353	269	315
+2026	Mercedes-Benz	Mercedes-Benz	GLB 250	2-Wheel Drive, Front	25	33	28		2	4	Auto(AM8)	8	348	265	311
+2026	Mercedes-Benz	Mercedes-Benz	GLB 250 4MATIC	All Wheel Drive	24	33	27		2	4	Auto(AM8)	8	368	270	324
+2026	Mercedes-Benz	Mercedes-Benz	GLC 300	2-Wheel Drive, Rear	24	32	27		2	4	Auto(A9)	9	365	273	323
+2026	Mercedes-Benz	Mercedes-Benz	GLC 300 4MATIC	All Wheel Drive	23	31	26		2	4	Auto(A9)	9	380	287	338
+2026	Mercedes-Benz	Mercedes-Benz	GLC 300 4MATIC (Coupe)	All Wheel Drive	23	31	26		2	4	Auto(A9)	9	379	287	337
+2026	Mercedes-Benz	Mercedes-Benz	GLE 350	2-Wheel Drive, Rear	21	28	23		2	4	Auto(A9)	9	434	318	382
+2026	Mercedes-Benz	Mercedes-Benz	GLE 350 4MATIC	All Wheel Drive	19	26	22		2	4	Auto(A9)	9	461	347	410
+2026	Mercedes-Benz	Mercedes-Benz	GLE 450 4MATIC	All Wheel Drive	19	25	21		3	6	Auto(A9)	9	474	363	424
+2026	Mercedes-Benz	Mercedes-Benz	GLE 450 4MATIC (coupe)	All Wheel Drive	19	25	21		3	6	Auto(A9)	9	474	363	424
+2026	Mercedes-Benz	Mercedes-Benz	GLE 580 4MATIC	All Wheel Drive	15	21	18		4	8	Auto(A9)	9	575	422	506
+2026	Mercedes-Benz	Mercedes-Benz	GLS 450 4MATIC	All Wheel Drive	19	24	21		3	6	Auto(A9)	9	481	364	428
+2026	Mercedes-Benz	Mercedes-Benz	GLS 580 4MATIC	All Wheel Drive	14	20	16		4	8	Auto(A9)	9	623	435	539
+2026	Mercedes-Benz	Mercedes-Benz	GLS 600 4MATIC Maybach	All Wheel Drive	13	18	15		4	8	Auto(A9)	9	666	487	585
+2026	Mercedes-Benz	Mercedes-Benz	S 500 4MATIC	All Wheel Drive	20	29	23		3	6	Auto(A9)	9	438	309	380
+2026	Mercedes-Benz	Mercedes-Benz	S 580 4MATIC	All Wheel Drive	17	27	20		4	8	Auto(A9)	9	532	324	438
+2026	Mercedes-Benz	Mercedes-Benz	S 580 4MATIC Maybach	All Wheel Drive	16	27	20		4	8	Auto(A9)	9	549	330	451
+2026	Mercedes-Benz	Mercedes-Benz	S 680 4MATIC Maybach	All Wheel Drive	12	20	15	G	6	12	Auto(A9)	9	741	435	603
+2026	Mercedes-Benz	Mercedes-Benz	SL 680 Maybach	All Wheel Drive	13	20	16	G	4	8	Auto(A9)	9	659	434	558
+2026	Mitsubishi Motors Co	Mitsubishi Motors Corporation	ECLIPSE CROSS 4WD	4-Wheel Drive	25	26	25		1.5	4	Auto(AV-S8)	8	354	338	353
+2026	Mitsubishi Motors Co	Mitsubishi Motors Corporation	ECLIPSE CROSS ES 4WD	4-Wheel Drive	25	28	26		1.5	4	Auto(AV-S8)	8	354	312	339
+2026	Nissan	NISSAN	ARMADA 2WD	2-Wheel Drive, Rear	16	20	18		3.5	6	Auto(S9)	9	556	444	506
+2026	Nissan	NISSAN	ARMADA 4WD	4-Wheel Drive	16	19	17		3.5	6	Auto(S9)	9	557	469	524
+2026	Nissan	NISSAN	ARMADA 4WD PRO-4X	4-Wheel Drive	15	18	16		3.5	6	Auto(S9)	9	594	488	556
+2026	Nissan	NISSAN	FRONTIER 2WD	2-Wheel Drive, Rear	19	24	21		3.8	6	Auto(S9)	9	465	371	423
+2026	Nissan	NISSAN	FRONTIER 4WD	Part-time 4-Wheel Drive	17	21	19		3.8	6	Auto(S9)	9	525	424	479
+2026	Nissan	NISSAN	FRONTIER 4WD PRO-4X	Part-time 4-Wheel Drive	16	20	18		3.8	6	Auto(S9)	9	557	440	504
+2026	Nissan	NISSAN	KICKS	2-Wheel Drive, Front	28	35	31		2	4	Auto(AV)	1	318	255	287
+2026	Nissan	NISSAN	KICKS AWD	All Wheel Drive	27	34	30		2	4	Auto(AV)	1	330	261	299
+2026	Nissan	NISSAN	LEAF 75kWh (18 inch alloy wheels)	2-Wheel Drive, Front	122	105	114	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Nissan	NISSAN	LEAF 75kWh (18 inch alloy wheels)	2-Wheel Drive, Front	28	32	30	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Nissan	NISSAN	LEAF 75kWh (18 inch steel wheels)	2-Wheel Drive, Front	131	111	121	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Nissan	NISSAN	LEAF 75kWh (18 inch steel wheels)	2-Wheel Drive, Front	26	30	28	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Nissan	NISSAN	LEAF 75kWh (19 inch wheels)	2-Wheel Drive, Front	110	96	103	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Nissan	NISSAN	LEAF 75kWh (19 inch wheels)	2-Wheel Drive, Front	31	35	33	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Nissan	NISSAN	MURANO AWD	All Wheel Drive	21	27	23		2	4	Auto(S9)	9	424	330	387
+2026	Nissan	INFINITI	QX60 AWD	All Wheel Drive	22	27	24		2	4	Auto(S9)	9	411	330	374
+2026	Nissan	INFINITI	QX60 FWD	2-Wheel Drive, Front	22	28	24		2	4	Auto(S9)	9	405	318	371
+2026	Nissan	INFINITI	QX80 2WD	2-Wheel Drive, Rear	16	20	18		3.5	6	Auto(S9)	9	557	440	504
+2026	Nissan	INFINITI	QX80 4WD	4-Wheel Drive	16	19	17		3.5	6	Auto(S9)	9	569	464	522
+2026	Nissan	NISSAN	ROGUE AWD	All Wheel Drive	28	35	31		1.5	3	Auto(AV-S8)	8	318	258	291
+2026	Nissan	NISSAN	ROGUE AWD ROCK CREEK	All Wheel Drive	27	32	29		1.5	3	Auto(AV-S8)	8	330	274	307
+2026	Nissan	NISSAN	ROGUE FWD	2-Wheel Drive, Front	29	36	32		1.5	3	Auto(AV-S8)	8	303	251	279
+2026	Nissan	NISSAN	Z	2-Wheel Drive, Rear	18	24	20		3	6	Manual(M6)	6	489	368	435
+2026	Nissan	NISSAN	Z	2-Wheel Drive, Rear	19	28	22		3	6	Auto(S9)	9	469	318	405
+2026	Nissan	NISSAN	Z NISMO	2-Wheel Drive, Rear	17	24	19		3	6	Auto(S9)	9	524	371	469
+2026	Polestar Performanc	Polestar Automotive USA Inc	Polestar 4 Long Range Dual Motor	All Wheel Drive	90	80	85	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Polestar Performanc	Polestar Automotive USA Inc	Polestar 4 Long Range Dual Motor	All Wheel Drive	38	42	40	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Polestar Performanc	Polestar Automotive USA Inc	Polestar 4 Long Range Dual Motor Performance	All Wheel Drive	80	74	77	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Polestar Performanc	Polestar Automotive USA Inc	Polestar 4 Long Range Dual Motor Performance	All Wheel Drive	42	46	44	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Polestar Performanc	Polestar Automotive USA Inc	Polestar 4 Long Range Single Motor	2-Wheel Drive, Rear	100	90	95	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Polestar Performanc	Polestar Automotive USA Inc	Polestar 4 Long Range Single Motor	2-Wheel Drive, Rear	34	37	35	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Porsche	Porsche	911 Carrera	2-Wheel Drive, Rear	18	25	21		3	6	Auto(AM-S8)	8	486	348	424
+2026	Porsche	Porsche	911 Carrera 4 GTS	All Wheel Drive	17	23	19		3.6	6	Auto(AM-S8)	8	523	387	468
+2026	Porsche	Porsche	911 Carrera 4 GTS Cabriolet	All Wheel Drive	17	23	19		3.6	6	Auto(AM-S8)	8	520	388	469
+2026	Porsche	Porsche	911 Carrera 4S	All Wheel Drive	17	24	20		3	6	Auto(AM-S8)	8	521	369	453
+2026	Porsche	Porsche	911 Carrera 4S Cabriolet	All Wheel Drive	17	24	20		3	6	Auto(AM-S8)	8	513	364	446
+2026	Porsche	Porsche	911 Carrera Cabriolet	2-Wheel Drive, Rear	18	25	21		3	6	Auto(AM-S8)	8	489	354	429
+2026	Porsche	Porsche	911 Carrera GTS	2-Wheel Drive, Rear	17	24	20		3.6	6	Auto(AM-S8)	8	522	367	453
+2026	Porsche	Porsche	911 Carrera GTS Cabriolet	2-Wheel Drive, Rear	17	23	19		3.6	6	Auto(AM-S8)	8	522	386	467
+2026	Porsche	Porsche	911 Carrera S	2-Wheel Drive, Rear	17	24	20		3	6	Auto(AM-S8)	8	524	371	445
+2026	Porsche	Porsche	911 Carrera S Cabriolet	2-Wheel Drive, Rear	17	24	20		3	6	Auto(AM-S8)	8	524	372	455
+2026	Porsche	Porsche	911 Carrera T	2-Wheel Drive, Rear	17	25	20		3	6	Manual(M6)	6	523	356	448
+2026	Porsche	Porsche	911 Carrera T Cabriolet	2-Wheel Drive, Rear	17	25	19		3	6	Manual(M6)	6	526	356	469
+2026	Porsche	Porsche	911 Targa 4 GTS	All Wheel Drive	17	23	19		3.6	6	Auto(AM-S8)	8	523	385	467
+2026	Porsche	Porsche	911 Targa 4S	All Wheel Drive	17	24	20		3	6	Auto(AM-S8)	8	514	365	447
+2026	Porsche	Porsche	Cayenne	All Wheel Drive	17	23	19		3	6	Auto(S8)	8	524	388	469
+2026	Porsche	Porsche	Cayenne Coupe	All Wheel Drive	17	23	19		3	6	Auto(S8)	8	524	386	469
+2026	Porsche	Porsche	Cayenne GTS	All Wheel Drive	15	22	18		4	8	Auto(S8)	8	595	410	512
+2026	Porsche	Porsche	Cayenne GTS Coupe	All Wheel Drive	16	22	18		4	8	Auto(S8)	8	557	405	489
+2026	Porsche	Porsche	Cayenne S	All Wheel Drive	16	21	18		4	8	Auto(S8)	8	549	423	492
+2026	Porsche	Porsche	Cayenne S Coupe	All Wheel Drive	16	21	18		4	8	Auto(S8)	8	549	423	492
+2026	Porsche	Porsche	Cayenne Turbo GT	All Wheel Drive	15	20	17		4	8	Auto(S8)	8	583	444	521
+2026	Porsche	Porsche	Macan	All Wheel Drive	19	25	21		2	4	Auto(AM-S7)	7	468	352	423
+2026	Porsche	Porsche	Macan GTS	All Wheel Drive	17	22	19		2.9	6	Auto(AM-S7)	7	521	403	466
+2026	Porsche	Porsche	Macan S	All Wheel Drive	17	23	19		2.9	6	Auto(AM-S7)	7	520	381	465
+2026	Porsche	Porsche	Macan T	All Wheel Drive	19	25	21		2	4	Auto(AM-S7)	7	468	361	423
+2026	Porsche	Porsche	Panamera	2-Wheel Drive, Rear	18	25	21		2.9	6	Auto(AM-S8)	8	493	355	431
+2026	Porsche	Porsche	Panamera 4	All Wheel Drive	18	25	21		2.9	6	Auto(AM-S8)	8	496	356	425
+2026	Rivian Automotive L	Rivian	R1S All-Terrain Dual Large (20in)	4-Wheel Drive	82	70	76	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S All-Terrain Dual Large (20in)	4-Wheel Drive	41	48	44	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S All-Terrain Dual Large Plus (20in)	4-Wheel Drive	76	67	72	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S All-Terrain Dual Large Plus (20in)	4-Wheel Drive	44	50	47	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S All-Terrain Dual Max (20in)	Part-time 4-Wheel Drive	82	73	78	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S All-Terrain Dual Max (20in)	Part-time 4-Wheel Drive	41	46	43	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S All-Terrain Performance  Dual Max (20in)	Part-time 4-Wheel Drive	82	73	78	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S All-Terrain Performance  Dual Max (20in)	Part-time 4-Wheel Drive	41	46	43	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S All-Terrain Performance Dual Large (20in)	4-Wheel Drive	82	70	76	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S All-Terrain Performance Dual Large (20in)	4-Wheel Drive	41	48	44	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S All-Terrain Performance Dual Large Plus (20in)	4-Wheel Drive	76	67	72	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S All-Terrain Performance Dual Large Plus (20in)	4-Wheel Drive	44	50	47	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S All-Terrain Tri Max (20in)	4-Wheel Drive	72	63	68	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S All-Terrain Tri Max (20in)	4-Wheel Drive	47	53	50	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Dual Large (20in)	4-Wheel Drive	85	72	79	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Dual Large (20in)	4-Wheel Drive	40	47	43	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Dual Large (22in)	4-Wheel Drive	94	77	85	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Dual Large (22in)	4-Wheel Drive	36	44	39	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Dual Large Plus (20in)	4-Wheel Drive	85	72	78	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Dual Large Plus (20in)	4-Wheel Drive	40	47	43	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Dual Large Plus (22in)	4-Wheel Drive	89	75	82	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Dual Large Plus (22in)	4-Wheel Drive	38	45	41	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Dual Max (20in)	Part-time 4-Wheel Drive	86	74	80	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Dual Max (20in)	Part-time 4-Wheel Drive	39	46	42	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Dual Max (22in)	Part-time 4-Wheel Drive	91	77	84	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Dual Max (22in)	Part-time 4-Wheel Drive	37	44	40	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Dual Standard (20in)	Part-time 4-Wheel Drive	85	72	79	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Dual Standard (20in)	Part-time 4-Wheel Drive	40	47	43	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Dual Standard (22in)	Part-time 4-Wheel Drive	92	77	85	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Dual Standard (22in)	Part-time 4-Wheel Drive	37	44	40	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Performance Dual Large (20in)	4-Wheel Drive	85	72	79	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Performance Dual Large (20in)	4-Wheel Drive	40	47	43	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Performance Dual Large (22in)	4-Wheel Drive	94	77	85	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Performance Dual Large (22in)	4-Wheel Drive	36	44	39	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Performance Dual Large Plus (20in)	4-Wheel Drive	85	72	78	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Performance Dual Large Plus (20in)	4-Wheel Drive	40	47	43	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Performance Dual Large Plus (22in)	4-Wheel Drive	89	75	82	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Performance Dual Large Plus (22in)	4-Wheel Drive	38	45	41	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Performance Dual Max (20in)	Part-time 4-Wheel Drive	86	74	80	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Performance Dual Max (20in)	Part-time 4-Wheel Drive	39	46	42	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Performance Dual Max (22in)	Part-time 4-Wheel Drive	91	77	84	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Performance Dual Max (22in)	Part-time 4-Wheel Drive	37	44	40	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Quad Max (20in AT)	4-Wheel Drive	71	63	67	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Quad Max (20in AT)	4-Wheel Drive	47	53	50	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Quad Max (22in UHP)	4-Wheel Drive	75	67	71	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Quad Max (22in UHP)	4-Wheel Drive	45	51	47	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Quad Max (22in)	4-Wheel Drive	80	71	76	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Quad Max (22in)	4-Wheel Drive	42	47	44	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Tri Max (22in)	4-Wheel Drive	81	70	76	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1S Tri Max (22in)	4-Wheel Drive	42	48	45	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T All-Terrain Dual Large (20in)	4-Wheel Drive	82	70	76	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T All-Terrain Dual Large (20in)	4-Wheel Drive	41	48	44	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T All-Terrain Dual Large Plus (20in)	4-Wheel Drive	76	67	72	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T All-Terrain Dual Large Plus (20in)	4-Wheel Drive	44	50	47	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T All-Terrain Dual Max (20in)	Part-time 4-Wheel Drive	82	73	78	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T All-Terrain Dual Max (20in)	Part-time 4-Wheel Drive	41	46	43	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T All-Terrain Performance Dual Large (20in)	4-Wheel Drive	82	70	76	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T All-Terrain Performance Dual Large (20in)	4-Wheel Drive	41	48	44	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T All-Terrain Performance Dual Large Plus (20in)	4-Wheel Drive	76	67	72	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T All-Terrain Performance Dual Large Plus (20in)	4-Wheel Drive	44	50	47	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T All-Terrain Performance Dual Max (20in)	Part-time 4-Wheel Drive	82	73	78	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T All-Terrain Performance Dual Max (20in)	Part-time 4-Wheel Drive	41	46	43	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T All-Terrain Tri Max (20in)	4-Wheel Drive	72	63	68	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T All-Terrain Tri Max (20in)	4-Wheel Drive	47	53	50	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Dual Large (20in)	4-Wheel Drive	85	72	79	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Dual Large (20in)	4-Wheel Drive	40	47	43	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Dual Large (22in)	4-Wheel Drive	94	77	85	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Dual Large (22in)	4-Wheel Drive	36	44	39	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Dual Large Plus (20in)	4-Wheel Drive	85	72	78	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Dual Large Plus (20in)	4-Wheel Drive	40	47	43	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Dual Large Plus (22in)	4-Wheel Drive	89	75	82	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Dual Large Plus (22in)	4-Wheel Drive	38	45	41	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Dual Max (20in)	Part-time 4-Wheel Drive	86	74	80	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Dual Max (20in)	Part-time 4-Wheel Drive	39	46	42	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Dual Max (22in)	Part-time 4-Wheel Drive	93	80	87	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Dual Max (22in)	Part-time 4-Wheel Drive	36	42	39	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Dual Standard (20in)	Part-time 4-Wheel Drive	85	72	79	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Dual Standard (20in)	Part-time 4-Wheel Drive	40	47	43	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Dual Standard (22in)	Part-time 4-Wheel Drive	92	77	85	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Dual Standard (22in)	Part-time 4-Wheel Drive	37	44	40	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Performance Dual Large (20in)	4-Wheel Drive	85	72	79	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Performance Dual Large (20in)	4-Wheel Drive	40	47	43	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Performance Dual Large (22in)	4-Wheel Drive	94	77	85	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Performance Dual Large (22in)	4-Wheel Drive	36	44	39	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Performance Dual Large Plus (20in)	4-Wheel Drive	85	72	78	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Performance Dual Large Plus (20in)	4-Wheel Drive	40	47	43	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Performance Dual Large Plus (22in)	4-Wheel Drive	89	75	82	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Performance Dual Large Plus (22in)	4-Wheel Drive	38	45	41	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Performance Dual Max (20in)	Part-time 4-Wheel Drive	86	74	80	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Performance Dual Max (20in)	Part-time 4-Wheel Drive	39	46	42	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Performance Dual Max (22in)	Part-time 4-Wheel Drive	93	80	87	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Performance Dual Max (22in)	Part-time 4-Wheel Drive	36	42	39	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Quad Max (20in AT)	4-Wheel Drive	71	63	67	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Quad Max (20in AT)	4-Wheel Drive	47	53	50	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Quad Max (22in UHP)	4-Wheel Drive	75	67	71	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Quad Max (22in UHP)	4-Wheel Drive	45	51	47	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Quad Max (22in)	4-Wheel Drive	80	71	76	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Quad Max (22in)	4-Wheel Drive	42	47	44	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Tri Max (22in)	4-Wheel Drive	81	70	76	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rivian Automotive L	Rivian	R1T Tri Max (22in)	4-Wheel Drive	42	48	45	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rolls-Royce	Rolls-Royce Motor Cars Limited	Black Badge Cullinan	All Wheel Drive	12	19	14		6.7	12	Auto(S8)	8	732	459	609
+2026	Rolls-Royce	Rolls-Royce Motor Cars Limited	Black Badge Ghost	All Wheel Drive	12	19	14	G	6.7	12	Auto(S8)	8	732	459	609
+2026	Rolls-Royce	Rolls-Royce Motor Cars Limited	Black Badge Spectre (22'' Wheels)	All Wheel Drive	70	80	74	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rolls-Royce	Rolls-Royce Motor Cars Limited	Black Badge Spectre (22'' Wheels)	All Wheel Drive	48	42	45	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rolls-Royce	Rolls-Royce Motor Cars Limited	Black Badge Spectre (23'' Wheels)	All Wheel Drive	67	74	70	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rolls-Royce	Rolls-Royce Motor Cars Limited	Black Badge Spectre (23'' Wheels)	All Wheel Drive	50	46	48	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rolls-Royce	Rolls-Royce Motor Cars Limited	Cullinan	All Wheel Drive	12	19	14		6.7	12	Auto(S8)	8	732	459	609
+2026	Rolls-Royce	Rolls-Royce Motor Cars Limited	Ghost	All Wheel Drive	12	19	14	G	6.7	12	Auto(S8)	8	732	459	609
+2026	Rolls-Royce	Rolls-Royce Motor Cars Limited	Ghost Extended	All Wheel Drive	12	19	14	G	6.7	12	Auto(S8)	8	732	459	609
+2026	Rolls-Royce	Rolls-Royce Motor Cars Limited	Phantom	2-Wheel Drive, Rear	12	19	14	G	6.7	12	Auto(S8)	8	732	459	609
+2026	Rolls-Royce	Rolls-Royce Motor Cars Limited	Phantom Extended	2-Wheel Drive, Rear	12	19	14	G	6.7	12	Auto(S8)	8	732	459	609
+2026	Rolls-Royce	Rolls-Royce Motor Cars Limited	Spectre (22'' Wheels)	All Wheel Drive	74	82	77	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rolls-Royce	Rolls-Royce Motor Cars Limited	Spectre (22'' Wheels)	All Wheel Drive	46	41	44	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rolls-Royce	Rolls-Royce Motor Cars Limited	Spectre (23'' Wheels)	All Wheel Drive	67	75	70	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Rolls-Royce	Rolls-Royce Motor Cars Limited	Spectre (23'' Wheels)	All Wheel Drive	50	45	48	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Subaru	Subaru	ASCENT AWD	All Wheel Drive	19	26	22		2.4	4	Auto(AV-S8)	8	456	343	405
+2026	Subaru	Subaru	ASCENT LIMITED/TOURING/ONYX EDITION AWD	All Wheel Drive	19	25	21		2.4	4	Auto(AV-S8)	8	478	351	421
+2026	Subaru	Subaru	BRZ	2-Wheel Drive, Rear	20	27	22		2.4	4	Manual(M6)	6	453	333	399
+2026	Subaru	Subaru	BRZ	2-Wheel Drive, Rear	21	30	25		2.4	4	Auto(S6)	6	419	292	362
+2026	Subaru	Subaru	CROSSTREK AWD	All Wheel Drive	26	33	29		2.5	4	Auto(AV-S8)	8	339	268	307
+2026	Subaru	Subaru	CROSSTREK HYBRID AWD	All Wheel Drive	36	36	36		2.5	4	Auto(AV-S6)	6	244	247	246
+2026	Subaru	Subaru	CROSSTREK WILDERNESS AWD	All Wheel Drive	24	29	26		2.5	4	Auto(AV-S8)	8	364	305	337
+2026	Subaru	Subaru	FORESTER AWD	All Wheel Drive	26	33	29		2.5	4	Auto(AV-S8)	8	343	269	310
+2026	Subaru	Subaru	FORESTER SPORT/TOURING AWD	All Wheel Drive	25	32	28		2.5	4	Auto(AV-S8)	8	350	278	317
+2026	Subaru	Subaru	FORESTER WILDERNESS AWD	All Wheel Drive	24	28	26		2.5	4	Auto(AV-S8)	8	374	315	347
+2026	Subaru	Subaru	IMPREZA	All Wheel Drive	27	33	29		2	4	Auto(AV-S8)	8	331	264	301
+2026	Subaru	Subaru	IMPREZA	All Wheel Drive	26	33	29		2.5	4	Auto(AV-S8)	8	343	272	311
+2026	Subaru	Subaru	OUTBACK AWD	All Wheel Drive	25	31	27		2.5	4	Auto(AV-S8)	8	363	289	330
+2026	Subaru	Subaru	OUTBACK AWD	All Wheel Drive	21	29	24		2.4	4	Auto(AV-S8)	8	414	313	369
+2026	Subaru	Subaru	OUTBACK WILDERNESS AWD	All Wheel Drive	21	27	23		2.4	4	Auto(AV-S8)	8	426	336	385
+2026	Subaru	Subaru	SOLTERRA 20 AWD	All Wheel Drive	128	105	117	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Subaru	Subaru	SOLTERRA 20 AWD	All Wheel Drive	26	32	29	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Subaru	Subaru	SOLTERRA AWD	All Wheel Drive	131	109	120	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Subaru	Subaru	SOLTERRA AWD	All Wheel Drive	26	31	28	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Tesla	Tesla Motors	Cybertruck AWD	All Wheel Drive	85	72	79	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Tesla	Tesla Motors	Cybertruck AWD	All Wheel Drive	40	47	43	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Tesla	Tesla Motors	Model 3 Performance	All Wheel Drive	120	107	114	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Tesla	Tesla Motors	Model 3 Performance	All Wheel Drive	28	31	30	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Tesla	Tesla Motors	Model 3 Premium AWD	All Wheel Drive	133	122	128	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Tesla	Tesla Motors	Model 3 Premium AWD	All Wheel Drive	25	28	26	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Tesla	Tesla Motors	Model 3 Premium RWD	2-Wheel Drive, Rear	145	128	137	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Tesla	Tesla Motors	Model 3 Premium RWD	2-Wheel Drive, Rear	23	26	25	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Tesla	Tesla Motors	Model S	All Wheel Drive	132	116	124	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Tesla	Tesla Motors	Model S	All Wheel Drive	26	29	27	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Tesla	Tesla Motors	Model S Plaid	All Wheel Drive	114	105	110	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Tesla	Tesla Motors	Model S Plaid	All Wheel Drive	29	32	31	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Tesla	Tesla Motors	Model X	All Wheel Drive	110	99	105	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Tesla	Tesla Motors	Model X	All Wheel Drive	31	34	32	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Tesla	Tesla Motors	Model X Plaid	All Wheel Drive	105	94	100	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Tesla	Tesla Motors	Model X Plaid	All Wheel Drive	32	36	34	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Tesla	Tesla Motors	Model Y Long Range AWD	All Wheel Drive	130	115	123	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Tesla	Tesla Motors	Model Y Long Range AWD	All Wheel Drive	26	29	27	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Tesla	Tesla Motors	Model Y Long Range RWD	2-Wheel Drive, Rear	144	123	134	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Tesla	Tesla Motors	Model Y Long Range RWD	2-Wheel Drive, Rear	23	27	25	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Tesla	Tesla Motors	Model Y Standard RWD (18in Wheels)	2-Wheel Drive, Rear	148	129	138	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Tesla	Tesla Motors	Model Y Standard RWD (18in Wheels)	2-Wheel Drive, Rear	23	26	24	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Tesla	Tesla Motors	Model Y Standard RWD (19in Wheels)	2-Wheel Drive, Rear	142	120	131	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Tesla	Tesla Motors	Model Y Standard RWD (19in Wheels)	2-Wheel Drive, Rear	24	28	26	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Toyota	TOYOTA	CAMRY HEV AWD LE	All Wheel Drive	50	49	50		2.5	4	Auto(AV-S6)	6	175	181	178
+2026	Toyota	TOYOTA	CAMRY HEV AWD SE/XLE	All Wheel Drive	46	46	46		2.5	4	Auto(AV-S6)	6	191	194	192
+2026	Toyota	TOYOTA	CAMRY HEV AWD XSE	All Wheel Drive	43	43	43		2.5	4	Auto(AV-S6)	6	205	205	205
+2026	Toyota	TOYOTA	CAMRY HEV FF LE	2-Wheel Drive, Front	52	49	51		2.5	4	Auto(AV-S6)	6	168	179	173
+2026	Toyota	TOYOTA	CAMRY HEV FF SE/XLE/XSE	2-Wheel Drive, Front	47	45	46		2.5	4	Auto(AV-S6)	6	188	195	191
+2026	Toyota	TOYOTA	COROLLA	2-Wheel Drive, Front	32	41	35		2	4	Auto(AV)	1	277	216	254
+2026	Toyota	TOYOTA	COROLLA	2-Wheel Drive, Front	31	40	34		2	4	Auto(AV)	1	286	223	257
+2026	Toyota	TOYOTA	COROLLA	2-Wheel Drive, Front	31	38	34		2	4	Auto(AV-S10)	10	292	232	265
+2026	Toyota	TOYOTA	COROLLA CROSS	2-Wheel Drive, Front	31	33	32		2	4	Auto(AV-S10)	10	283	267	276
+2026	Toyota	TOYOTA	COROLLA CROSS AWD	All Wheel Drive	29	31	30		2	4	Auto(AV-S10)	10	307	284	295
+2026	Toyota	TOYOTA	COROLLA CROSS HYBRID AWD	All Wheel Drive	46	39	42		2	4	Auto(AV-S6)	6	192	227	211
+2026	Toyota	TOYOTA	COROLLA HATCHBACK	2-Wheel Drive, Front	32	41	35		2	4	Auto(AV-S10)	10	278	217	254
+2026	Toyota	TOYOTA	COROLLA HATCHBACK FX	2-Wheel Drive, Front	30	38	33		2	4	Auto(AV-S10)	10	292	237	267
+2026	Toyota	TOYOTA	COROLLA HATCHBACK XSE	2-Wheel Drive, Front	30	38	33		2	4	Auto(AV-S10)	10	295	230	266
+2026	Toyota	TOYOTA	COROLLA HYBRID	2-Wheel Drive, Front	50	43	47		1.8	4	Auto(AV)	1	173	204	186
+2026	Toyota	TOYOTA	COROLLA HYBRID	2-Wheel Drive, Front	53	46	50		1.8	4	Auto(AV)	1	165	191	176
+2026	Toyota	TOYOTA	COROLLA HYBRID AWD	All Wheel Drive	47	41	44		1.8	4	Auto(AV)	1	186	214	199
+2026	Toyota	TOYOTA	COROLLA HYBRID AWD	All Wheel Drive	51	44	48		1.8	4	Auto(AV)	1	172	200	183
+2026	Toyota	TOYOTA	GRAND HIGHLANDER AWD LE/XLE	All Wheel Drive	21	27	23		2.4	4	Auto(S8)	8	424	325	379
+2026	Toyota	TOYOTA	GRAND HIGHLANDER AWD LIMITED/PLATINUM	All Wheel Drive	20	26	22		2.4	4	Auto(S8)	8	433	338	400
+2026	Toyota	TOYOTA	GRAND HIGHLANDER HYBRID	2-Wheel Drive, Front	37	34	36		2.5	4	Auto(AV-S6)	6	237	258	246
+2026	Toyota	TOYOTA	GRAND HIGHLANDER HYBRID AWD	All Wheel Drive	36	32	34		2.5	4	Auto(AV-S6)	6	246	276	260
+2026	Toyota	TOYOTA	GRAND HIGHLANDER HYBRID AWD	All Wheel Drive	26	27	27		2.4	4	Auto(S6)	6	338	325	332
+2026	Toyota	TOYOTA	GRAND HIGHLANDER LE/XLE	2-Wheel Drive, Front	21	28	24		2.4	4	Auto(S8)	8	419	313	371
+2026	Toyota	TOYOTA	GRAND HIGHLANDER LIMITED	2-Wheel Drive, Front	21	28	24		2.4	4	Auto(S8)	8	410	312	366
+2026	Toyota	TOYOTA	LAND CRUISER	4-Wheel Drive	22	25	23		2.4	4	Auto(S8)	8	398	355	379
+2026	Toyota	LEXUS	LC 500	2-Wheel Drive, Rear	16	24	18		5	8	Auto(S10)	10	573	368	481
+2026	Toyota	LEXUS	LC 500 CONVERTIBLE	2-Wheel Drive, Rear	15	25	18		5	8	Auto(S10)	10	598	356	489
+2026	Toyota	LEXUS	NX 350 AWD	All Wheel Drive	21	28	24		2.4	4	Auto(S8)	8	413	317	370
+2026	Toyota	LEXUS	NX 350 AWD F SPORT	All Wheel Drive	21	28	24		2.4	4	Auto(S8)	8	420	309	370
+2026	Toyota	LEXUS	NX 350h	2-Wheel Drive, Front	42	38	40		2.5	4	Auto(AV-S6)	6	207	233	220
+2026	Toyota	LEXUS	NX 350h AWD	All Wheel Drive	41	37	39		2.5	4	Auto(AV-S6)	6	212	235	225
+2026	Toyota	TOYOTA	PRIUS	2-Wheel Drive, Front	57	56	57		2	4	Auto(AV)	1	154	158	155
+2026	Toyota	TOYOTA	PRIUS AWD	All Wheel Drive	53	54	54		2	4	Auto(AV)	1	166	163	163
+2026	Toyota	TOYOTA	PRIUS AWD XLE/LTD	All Wheel Drive	49	50	49		2	4	Auto(AV)	1	179	176	179
+2026	Toyota	TOYOTA	PRIUS XLE/LTD	2-Wheel Drive, Front	52	52	52		2	4	Auto(AV)	1	168	169	169
+2026	Toyota	LEXUS	RX 350	2-Wheel Drive, Front	22	29	25		2.4	4	Auto(S8)	8	396	303	354
+2026	Toyota	LEXUS	RX 350 AWD	All Wheel Drive	21	28	24		2.4	4	Auto(S8)	8	417	312	370
+2026	Toyota	LEXUS	RX 350h AWD	All Wheel Drive	37	34	36		2.5	4	Auto(AV-S6)	6	234	256	244
+2026	Toyota	LEXUS	RX 500h AWD	All Wheel Drive	27	28	27		2.4	4	Auto(S6)	6	326	314	321
+2026	Toyota	TOYOTA	SEQUOIA 2WD	2-Wheel Drive, Rear	21	24	22		3.4	6	Auto(S10)	10	418	366	395
+2026	Toyota	TOYOTA	SEQUOIA 2WD	2-Wheel Drive, Rear	21	24	22		3.4	6	Auto(S10)	10	418	366	395
+2026	Toyota	TOYOTA	SEQUOIA 4WD	Part-time 4-Wheel Drive	19	22	20		3.4	6	Auto(S10)	10	473	397	439
+2026	Toyota	TOYOTA	SEQUOIA 4WD	Part-time 4-Wheel Drive	19	22	20		3.4	6	Auto(S10)	10	473	397	439
+2026	Toyota	TOYOTA	TOYOTA CROWN AWD	All Wheel Drive	29	32	30		2.4	4	Auto(AV-S6)	6	303	272	293
+2026	Toyota	TOYOTA	TOYOTA CROWN AWD Hybrid	All Wheel Drive	42	41	41		2.5	4	Auto(AV)	1	209	214	214
+2026	Toyota	TOYOTA	TUNDRA 2WD	2-Wheel Drive, Rear	18	23	20		3.4	6	Auto(S10)	10	498	392	450
+2026	Toyota	TOYOTA	TUNDRA 2WD	2-Wheel Drive, Rear	18	23	20		3.4	6	Auto(S10)	10	490	387	444
+2026	Toyota	TOYOTA	TUNDRA 2WD HYBRID TRD Perf	2-Wheel Drive, Rear	20	24	22		3.4	6	Auto(S10)	10	441	366	407
+2026	Toyota	TOYOTA	TUNDRA 2WD Hybrid	2-Wheel Drive, Rear	20	24	22		3.4	6	Auto(S10)	10	441	366	407
+2026	Toyota	TOYOTA	TUNDRA 2WD TRD Perf	2-Wheel Drive, Rear	18	23	20		3.4	6	Auto(S10)	10	490	387	444
+2026	Toyota	TOYOTA	TUNDRA 4WD	Part-time 4-Wheel Drive	17	22	19		3.4	6	Auto(S10)	10	518	408	468
+2026	Toyota	TOYOTA	TUNDRA 4WD	Part-time 4-Wheel Drive	17	22	19		3.4	6	Auto(S10)	10	512	400	462
+2026	Toyota	TOYOTA	TUNDRA 4WD HYBRID TRD Per	Part-time 4-Wheel Drive	19	22	20		3.4	6	Auto(S10)	10	473	397	439
+2026	Toyota	TOYOTA	TUNDRA 4WD Hybrid	Part-time 4-Wheel Drive	19	22	20		3.4	6	Auto(S10)	10	473	397	439
+2026	Toyota	TOYOTA	TUNDRA 4WD PRO HYBRID TRD Perf	Part-time 4-Wheel Drive	18	20	19		3.4	6	Auto(S10)	10	483	435	461
+2026	Toyota	TOYOTA	TUNDRA 4WD PRO Hybrid	Part-time 4-Wheel Drive	18	20	19		3.4	6	Auto(S10)	10	483	435	461
+2026	Toyota	TOYOTA	TUNDRA 4WD TRD Perf	Part-time 4-Wheel Drive	17	22	19		3.4	6	Auto(S10)	10	512	400	462
+2026	Toyota	LEXUS	TX 350	2-Wheel Drive, Front	21	27	23		2.4	4	Auto(S8)	8	418	326	382
+2026	Toyota	LEXUS	TX 350 AWD	All Wheel Drive	20	26	23		2.4	4	Auto(S8)	8	432	333	387
+2026	Toyota	LEXUS	TX 500h AWD	All Wheel Drive	27	28	27		2.4	4	Auto(S6)	6	326	316	322
+2026	Toyota	TOYOTA	bZ	2-Wheel Drive, Front	144	117	130	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Toyota	TOYOTA	bZ	2-Wheel Drive, Front	23	29	26	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Toyota	TOYOTA	bZ	2-Wheel Drive, Front	143	119	131	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Toyota	TOYOTA	bZ	2-Wheel Drive, Front	24	28	26	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Toyota	TOYOTA	bZ AWD	All Wheel Drive	131	109	120	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Toyota	TOYOTA	bZ AWD	All Wheel Drive	26	31	28	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Toyota	TOYOTA	bZ AWD LIMITED	All Wheel Drive	128	105	117	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Toyota	TOYOTA	bZ AWD LIMITED	All Wheel Drive	26	32	29	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Toyota	TOYOTA	bZ LIMITED	2-Wheel Drive, Front	134	111	123	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Toyota	TOYOTA	bZ LIMITED	2-Wheel Drive, Front	25	30	27	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Toyota	TOYOTA	bZ LIMITED	2-Wheel Drive, Front	138	113	125	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Toyota	TOYOTA	bZ LIMITED	2-Wheel Drive, Front	24	30	27	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Volkswagen Group of	Audi	A3 quattro	All Wheel Drive	24	34	28		2	4	Auto(AM-S7)	7	370	265	323
+2026	Volkswagen Group of	Audi	A6 Sedan	All Wheel Drive	20	29	23		3	6	Auto(AM-S7)	7	455	304	387
+2026	Volkswagen Group of	Audi	A6 allroad quattro	All Wheel Drive	21	30	24		3	6	Auto(AM-S7)	7	418	300	365
+2026	Volkswagen Group of	Audi	A8 quattro	All Wheel Drive	19	27	22		3	6	Auto(S8)	8	480	334	414
+2026	Volkswagen Group of	Volkswagen	Atlas	2-Wheel Drive, Front	20	27	23		2	4	Auto(S8)	8	438	331	390
+2026	Volkswagen Group of	Volkswagen	Atlas 4Motion Peak Edition	All Wheel Drive	19	25	21		2	4	Auto(S8)	8	476	355	421
+2026	Volkswagen Group of	Volkswagen	Atlas Cross Sport	2-Wheel Drive, Front	20	27	23		2	4	Auto(S8)	8	438	331	390
+2026	Volkswagen Group of	Volkswagen	Atlas Cross Sport 4Motion	All Wheel Drive	20	26	22		2	4	Auto(S8)	8	456	348	407
+2026	Volkswagen Group of	Volkswagen	Atlas SE 4Motion	All Wheel Drive	20	26	22		2	4	Auto(S8)	8	456	348	407
+2026	Volkswagen Group of	Volkswagen	Atlas SEL 4Motion	All Wheel Drive	19	25	21		2	4	Auto(S8)	8	468	355	417
+2026	Volkswagen Group of	Bentley	Bentayga	All Wheel Drive	14	21	16		4	8	Auto(S8)	8	650	433	553
+2026	Volkswagen Group of	Bentley	Bentayga EWB	All Wheel Drive	14	21	16		4	8	Auto(S8)	8	650	433	553
+2026	Volkswagen Group of	Volkswagen	GLI	2-Wheel Drive, Front	26	35	29		2	4	Auto(AM-S7)	7	348	256	307
+2026	Volkswagen Group of	Volkswagen	GLI	2-Wheel Drive, Front	26	36	29		2	4	Manual(M6)	6	346	247	306
+2026	Volkswagen Group of	Volkswagen	GTI	2-Wheel Drive, Front	24	32	27		2	4	Auto(AM-S7)	7	365	278	326
+2026	Volkswagen Group of	Volkswagen	Golf R	All Wheel Drive	22	31	25		2	4	Auto(AM-S7)	7	397	289	349
+2026	Volkswagen Group of	Volkswagen	ID.4	2-Wheel Drive, Rear	122	104	113	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Volkswagen Group of	Volkswagen	ID.4	2-Wheel Drive, Rear	28	33	30	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Volkswagen Group of	Volkswagen	ID.4 AWD	All Wheel Drive	108	96	102	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Volkswagen Group of	Volkswagen	ID.4 AWD	All Wheel Drive	31	35	33	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Volkswagen Group of	Volkswagen	Jetta	2-Wheel Drive, Front	29	40	34		1.5	4	Auto(S8)	8	302	220	265
+2026	Volkswagen Group of	Volkswagen	Jetta Sport/SE/SEL	2-Wheel Drive, Front	29	40	33		1.5	4	Auto(S8)	8	310	224	271
+2026	Volkswagen Group of	Audi	Q4 45 e-tron	2-Wheel Drive, Rear	125	104	115	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Volkswagen Group of	Audi	Q4 45 e-tron	2-Wheel Drive, Rear	27	32	29	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Volkswagen Group of	Audi	Q7	All Wheel Drive	20	26	22		2	4	Auto(S8)	8	453	347	405
+2026	Volkswagen Group of	Audi	Q7 quattro	All Wheel Drive	18	23	20		3	6	Auto(S8)	8	492	380	442
+2026	Volkswagen Group of	Audi	Q8 quattro	All Wheel Drive	17	23	19		3	6	Auto(S8)	8	514	392	459
+2026	Volkswagen Group of	Audi	RS 3	All Wheel Drive	20	29	23		2.5	5	Auto(AM-S7)	7	450	310	387
+2026	Volkswagen Group of	Audi	RS 6 Avant	All Wheel Drive	14	21	16	G	4	8	Auto(S8)	8	645	422	545
+2026	Volkswagen Group of	Audi	RS 7	All Wheel Drive	14	21	16	G	4	8	Auto(S8)	8	645	422	545
+2026	Volkswagen Group of	Audi	RS Q8 Performance	All Wheel Drive	14	20	16		4	8	Auto(S8)	8	622	454	547
+2026	Volkswagen Group of	Lamborghini	Revuelto	All Wheel Drive	10	17	12	G	6.5	12	Auto(AM-S8)	8	928	540	753
+2026	Volkswagen Group of	Audi	S3	All Wheel Drive	23	31	26		2	4	Auto(AM-S7)	7	394	288	346
+2026	Volkswagen Group of	Audi	S8	All Wheel Drive	15	24	18		4	8	Auto(S8)	8	605	377	502
+2026	Volkswagen Group of	Audi	SQ7	All Wheel Drive	14	20	16		4	8	Auto(S8)	8	615	448	540
+2026	Volkswagen Group of	Audi	SQ8	All Wheel Drive	14	20	16		4	8	Auto(S8)	8	623	439	540
+2026	Volkswagen Group of	Volkswagen	Taos	2-Wheel Drive, Front	28	36	31		1.5	4	Auto(S8)	8	312	247	287
+2026	Volkswagen Group of	Volkswagen	Taos 4Motion	4-Wheel Drive	25	33	28		1.5	4	Auto(S8)	8	355	274	318
+2026	Volkswagen Group of	Lamborghini	Temerario	All Wheel Drive	14	19	16	G	4	8	Auto(S8)	8	636	458	556
+2026	Volkswagen Group of	Volkswagen	Tiguan	2-Wheel Drive, Front	25	32	28		2	4	Auto(S8)	8	355	277	320
+2026	Volkswagen Group of	Volkswagen	Tiguan 4Motion	All Wheel Drive	22	30	25		2	4	Auto(S8)	8	398	294	351
+2026	Volkswagen Group of	Volkswagen	Tiguan S	2-Wheel Drive, Front	26	34	29		2	4	Auto(S8)	8	345	260	307
+2026	Volkswagen Group of	Volkswagen	Tiguan SEL 4Motion	All Wheel Drive	22	29	25		2	4	Auto(S8)	8	406	304	360
+2026	Volvo	Volvo Cars of North America, LLC	EC40	2-Wheel Drive, Rear	118	95	106	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Volvo	Volvo Cars of North America, LLC	EC40	2-Wheel Drive, Rear	29	35	32	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Volvo	Volvo Cars of North America, LLC	EC40 Twin	All Wheel Drive	105	88	97	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Volvo	Volvo Cars of North America, LLC	EC40 Twin	All Wheel Drive	32	38	35	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Volvo	Volvo Cars of North America, LLC	EX30 Cross Country (18 Inch wheels)	All Wheel Drive	95	83	89	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Volvo	Volvo Cars of North America, LLC	EX30 Cross Country (18 Inch wheels)	All Wheel Drive	36	41	38	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Volvo	Volvo Cars of North America, LLC	EX30 Cross Country (19 Inch wheels)	All Wheel Drive	106	92	99	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Volvo	Volvo Cars of North America, LLC	EX30 Cross Country (19 Inch wheels)	All Wheel Drive	32	37	34	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Volvo	Volvo Cars of North America, LLC	EX30 Single motor extended range	2-Wheel Drive, Rear	127	104	116	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Volvo	Volvo Cars of North America, LLC	EX30 Single motor extended range	2-Wheel Drive, Rear	27	32	29	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Volvo	Volvo Cars of North America, LLC	EX30 Twin Performance	All Wheel Drive	116	100	109	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Volvo	Volvo Cars of North America, LLC	EX30 Twin Performance	All Wheel Drive	29	34	31	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Volvo	Volvo Cars of North America, LLC	EX40	2-Wheel Drive, Rear	118	94	106	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Volvo	Volvo Cars of North America, LLC	EX40	2-Wheel Drive, Rear	28	36	32	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Volvo	Volvo Cars of North America, LLC	EX40 Twin	All Wheel Drive	103	85	94	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Volvo	Volvo Cars of North America, LLC	EX40 Twin	All Wheel Drive	33	40	36	NA	0	NA	Auto(A1)	1	0	0	0
+2026	Volvo	Volvo Cars of North America, LLC	S90 B5	2-Wheel Drive, Front	24	34	28		2	4	Auto(S8)	8	365	261	318
+2026	Volvo	Volvo Cars of North America, LLC	V60CC B5 AWD	All Wheel Drive	23	31	26		2	4	Auto(S8)	8	380	286	338
+2026	Volvo	Volvo Cars of North America, LLC	V90CC B6 AWD	All Wheel Drive	22	29	25		2	4	Auto(S8)	8	399	307	358
+2026	Volvo	Volvo Cars of North America, LLC	XC40 B4	2-Wheel Drive, Front	25	32	27		2	4	Auto(S8)	8	362	281	326
+2026	Volvo	Volvo Cars of North America, LLC	XC40 B5 AWD	All Wheel Drive	23	30	26		2	4	Auto(S8)	8	381	296	343
+2026	Volvo	Volvo Cars of North America, LLC	XC60 B5 AWD	All Wheel Drive	23	30	26		2	4	Auto(S8)	8	384	292	343
+2026	Volvo	Volvo Cars of North America, LLC	XC90 B5 AWD	All Wheel Drive	22	27	24		2	4	Auto(S8)	8	405	325	369
+2026	Volvo	Volvo Cars of North America, LLC	XC90 B6 AWD	All Wheel Drive	20	26	23		2	4	Auto(S8)	8	435	342	393
+2026	aston martin	Aston Martin Lagonda Ltd	DB12 V8	2-Wheel Drive, Rear	15	22	17		4	8	Auto(A8)	8	599	395	507
+2026	aston martin	Aston Martin Lagonda Ltd	DBX 707	4-Wheel Drive	15	20	17		4	8	Auto(A9)	9	602	457	537
+2026	aston martin	Aston Martin Lagonda Ltd	DBX 727	4-Wheel Drive	14	19	16		4	8	Auto(A9)	9	620	456	546
+2026	aston martin	Aston Martin Lagonda Ltd	Vanquish	2-Wheel Drive, Rear	13	21	16	G	5.2	12	Auto(A8)	8	671	431	563
+2026	aston martin	Aston Martin Lagonda Ltd	Vanquish Volante	2-Wheel Drive, Rear	13	20	16	G	5.2	12	Auto(A8)	8	669	444	568
+2026	aston martin	Aston Martin Lagonda Ltd	Vantage	2-Wheel Drive, Rear	15	22	18		4	8	Auto(A8)	8	579	399	498

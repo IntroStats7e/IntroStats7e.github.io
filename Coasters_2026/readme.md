@@ -8,15 +8,14 @@ The variables in this dataset are:
 
 Header | Description
 ---|--------
-`Roller.Coaster` |  Coaster name
-`Amusement.Park` |  Amusement park where coaster is located
-`Angle` | 
+`Name` |  Coaster name
+`Park` |  Amusement park where coaster is located
 `Inversions` | Number of times the riders are upside down 
 `Duration` | Length of ride (seconds)
-`track_type` | Material of track (steel or wood) 
-`speed_mph` | Maximum speed attained (miles per hour)
-`height_ft` | Height of coaster structure (feet) 
-`drop_ft` | Maximum vertical drop (feet) 
-`length_ft` | Length of roller coaster track (feet) 
+`Track` | Material of track (steel or wood) 
+`Speed` | Maximum speed attained (miles per hour)
+`Height` | Height of coaster structure (feet) 
+`Drop` | Maximum vertical drop (feet) 
+`Length` | Length of roller coaster track (feet) 
 
 This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
