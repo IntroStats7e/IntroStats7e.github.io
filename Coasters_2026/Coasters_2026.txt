@@ -1,661 +1,606 @@
-Name	Park	Inversions	Duration	Track	Speed	Height	Drop	Length	Source	Name_Park
-1066	Festyland	0	60	Steel	40.4	65.6	55.8	1312.3	CL	1066_Festyland
-Abismo	Parque de Atracciones de Madrid	2	60	Steel	65.2	151.6	160.8	1476.4	CL	Abismo_Parque de Atracciones de Madrid
-Abyss	Adventure World	3	120	Steel	52.8	98.4	100	2066.9	CC	Abyss_Adventure World
-Abyssus	Energylandia	3	120	Steel	59	131.2	131.2	3478	CL	Abyssus_Energylandia
-Acrobat	Nagashima Spa Land	4	180	Steel	55.9	141.1	141	3349.8	CL	Acrobat_Nagashima Spa Land
-Adventure Express	Kings Island	0	140	Steel	35	63	47	2963	CL	Adventure Express_Kings Island
-Afterburn	Carowinds	6	167	Steel	62	113	113	2956	CL	Afterburn_Carowinds
-Aladdin Coaster	Sinbad Land	0	135	Steel	29.1	42.7	42.7	1377.9	CL	Aladdin Coaster_Sinbad Land
-Alap Alap	Dunia Fantasi	0	58	Steel	19.9	19.7	20	652.9	CL	Alap Alap_Dunia Fantasi
-AlpenFury	Canada's Wonderland	7	80	Steel	71.5	164	154.2	3280.8	CC	AlpenFury_Canada's Wonderland
-Alpengeist	Busch Gardens Williamsburg	6	190	Steel	67	195	170	3828	CC	Alpengeist_Busch Gardens Williamsburg
-Alpengeist	Busch Gardens Williamsburg	6	195	Steel	67	195	170	3828	CL	Alpengeist_Busch Gardens Williamsburg
-American Eagle	Six Flags Great America	0	143	Wood	66	127	147	4650	CC	American Eagle_Six Flags Great America
-Anaconda	Gold Reef City	5	100	Steel	55.9	111.6	160.8	2447.5	CL	Anaconda_Gold Reef City
-Anaconda	Luna Park Tel Aviv	3	108	Steel	47	116.5	116	935	CL	Anaconda_Luna Park Tel Aviv
-Anaconda	Kings Dominion	6	180	Steel	50	128	144	2700	CL	Anaconda_Kings Dominion
-Apocalypse	Six Flags Magic Mountain	0	120	Wood	50	105	100	2900	CL	Apocalypse_Six Flags Magic Mountain
-Apocalypse the Ride	Six Flags Magic Mountain	0	180	Wood	50.1	95	87.3	2877	CC	Apocalypse the Ride_Six Flags Magic Mountain
-Apollo's Chariot	Busch Gardens Williamsburg	0	135	Steel	73	170	210	4882	CC	Apollo's Chariot_Busch Gardens Williamsburg
-Apollo's Chariot	Busch Gardens Williamsburg	0	185	Steel	73	170	210	4882	CL	Apollo's Chariot_Busch Gardens Williamsburg
-Arashi	Nagashima Spa Land	0	60	Steel	38	120	54	1019	CL	Arashi_Nagashima Spa Land
-ArieForce One	Fun Spot America Atlanta	4	100	Steel	64	155	146	3400	CL	ArieForce One_Fun Spot America Atlanta
-Arthur - The Ride	Europa Park	2	180	Steel	26.1	54.1	54	3020	CL	Arthur - The Ride_Europa Park
-Astro Storm	Brean Theme Park	0	90	Steel	40	59	59	1476.4	CL	Astro Storm_Brean Theme Park
-Atlantica SuperSplash	Europa Park	0	200	Steel	49.7	98.4	98	1279.5	CL	Atlantica SuperSplash_Europa Park
-Atlantis Adventure	Lotte World Adventure	0	108	Steel	46.6	72.2	72.2	2198.1	CL	Atlantis Adventure_Lotte World Adventure
-AtmosFear	Liseberg	0	120	Steel	80	256	256	1180	CL	AtmosFear_Liseberg
-Aurora	Hossoland	0	63	Steel	34.2	65.6	66	1295.9	CL	Aurora_Hossoland
-Avengers Assemble: Flight Force	Disneyland Paris - Walt Disney Studios Park	3	70	Steel	57	80	80	3267.7	CL	Avengers Assemble: Flight Force_Disneyland Paris - Walt Disney Studios Park
-Backlot Stunt Coaster	Canada's Wonderland	0	64	Steel	40	45.2	31.2	1960	CC	Backlot Stunt Coaster_Canada's Wonderland
-Backlot Stunt Coaster	Kings Dominion	0	120	Steel	40	50	50	1960	CL	Backlot Stunt Coaster_Kings Dominion
-Balagos	Avonturenpark Hellendoorn	2	68	Steel	37.3	82	82	1509.2	CL	Balagos_Avonturenpark Hellendoorn
-Balder	Liseberg	0	128	Wood	55.9	118.1	100	3510.5	CL	Balder_Liseberg
-Bandit	Movie Park Germany	0	90	Wood	49.7	91.2	81.7	3605.7	CC	Bandit_Movie Park Germany
-Bandit	Yomiuriland	0	138	Steel	68.4	167.3	256	5118.1	CL	Bandit_Yomiuriland
-Banshee	Kings Island	7	160	Steel	68	167	150	4124	CC	Banshee_Kings Island
-Banshee	Kings Island	7	175	Steel	68	167	150	4124	CL	Banshee_Kings Island
-Barnstormer	Walt Disney World - Magic Kingdom	0	60	Steel	25	30	25	794	CL	Barnstormer_Walt Disney World - Magic Kingdom
-Baron 1898	Efteling	2	130	Steel	55.9	98.4	123	1643.7	CC	Baron 1898_Efteling
-Baron 1898	Efteling	2	90	Steel	56.2	121.4	121	1640	CL	Baron 1898_Efteling
-Bat	Canada's Wonderland	3	108	Steel	47	116.5	116	935	CL	Bat_Canada's Wonderland
-Bat	Kings Island	0	112	Steel	51	78	70	2352	CL	Bat_Kings Island
-Bat	Lagoon	0	90	Steel	26	48.6	49	1122	CL	Bat_Lagoon
-Batgirl Batarang	Six Flags Mexico	3	108	Steel	47	116.5	125	935	CL	Batgirl Batarang_Six Flags Mexico
-Batman - The Dark Knight	Six Flags New England	5	140	Steel	55	117.8	117	2600	CL	Batman - The Dark Knight_Six Flags New England
-Batman Gotham City Escape	Parque Warner Madrid	4	111	Steel	64	147.6	147	3313.6	CL	Batman Gotham City Escape_Parque Warner Madrid
-Batman The Ride	Six Flags Great Adventure	5	90	Steel	50	105	80	2693	CL	Batman The Ride_Six Flags Great Adventure
-Batman The Ride	Six Flags Great America	5	120	Steel	50	100	85	2700	CL	Batman The Ride_Six Flags Great America
-Batman The Ride	Six Flags Magic Mountain	5	120	Steel	50	105	85	2700	CL	Batman The Ride_Six Flags Magic Mountain
-Batman The Ride	Six Flags St. Louis	5	120	Steel	50	105	85	2693	CL	Batman The Ride_Six Flags St. Louis
-Battle of Blue Fire	Quancheng Euro Park	4	150	Steel	62.1	124.7	125	3464.5	CL	Battle of Blue Fire_Quancheng Euro Park
-Battlestar Galactica	Universal Studios Singapore	5	90	Steel	55.9	140.1	140	3185.7	CL	Battlestar Galactica_Universal Studios Singapore
-Bear Coaster	Higashiyama Zoo and Botanical Gardens	0	80	Steel	15.5	15.9	16	479	CL	Bear Coaster_Higashiyama Zoo and Botanical Gardens
-Beast	Kings Island	0	250	Wood	64.8	110	141	7361	CC	Beast_Kings Island
-Beast	Kings Island	0	270	Wood	65	110	137	7359	CL	Beast_Kings Island
-Behemoth	Canada's Wonderland	0	180	Steel	77	230	226	5318	CL	Behemoth_Canada's Wonderland
-Big Apple Coaster	New York, New York Hotel & Casino	2	160	Steel	67	203	144	4777	CC	Big Apple Coaster_New York, New York Hotel & Casino
-Big Bad John	Magic Springs Theme and Water Park	0	180	Steel	37	32	41	2349	CC	Big Bad John_Magic Springs Theme and Water Park
-Big Bang	Freizeitpark Familienland	0	38	Steel	40.4	72.2	72	1738.8	CL	Big Bang_Freizeitpark Familienland
-Big Boom	Nasu Highland Park	1	184	Steel	54.7	126	95	2132.6	CL	Big Boom_Nasu Highland Park
-Big One	Pleasure Beach Resort	0	180	Steel	74	213	205	5497	CC	Big One_Pleasure Beach Resort
-Big One	Blackpool Pleasure Beach	0	160	Steel	74.2	235	205	5497	CL	Big One_Blackpool Pleasure Beach
-Big Thunder Mountain	Disneyland Paris - Disneyland Park	0	236	Steel	40.4	72.2	39.3	3953.4	CC	Big Thunder Mountain_Disneyland Paris - Disneyland Park
-Bizarro	Six Flags Great Adventure	5	170	Steel	61	137	125	3985	CL	Bizarro_Six Flags Great Adventure
-Black Hole 2000	Seoul Land	2	165	Steel	52.8	113.8	114	3195.5	CL	Black Hole 2000_Seoul Land
-Black Mamba	Phantasialand	4	60	Steel	49.7	85.3	88.6	2519.7	CL	Black Mamba_Phantasialand
-Blue Hawk	Six Flags Over Georgia	5	80	Steel	52	122	122	2739.5	CL	Blue Hawk_Six Flags Over Georgia
-Blue Streak	Cedar Point	0	105	Wood	40	78	72	2558	CC	Blue Streak_Cedar Point
-Blue Streak	Cedar Point	0	120	Wood	40	78	72	2558	CL	Blue Streak_Cedar Point
-Blue Tornado	Gardaland	5	102	Steel	49.7	109.3	109	2509.8	CL	Blue Tornado_Gardaland
-Boardwalk Bullet	Kemah Boardwalk	0	105	Wood	51	96	92	3236	CL	Boardwalk Bullet_Kemah Boardwalk
-Bob Express	Bobbejaanland	0	150	Steel	22.4	32.8	33	1709.3	CL	Bob Express_Bobbejaanland
-Bobbahn	Heide Park Resort	0	100	Steel	32.9	88.6	88.6	3248	CL	Bobbahn_Heide Park Resort
-Boomerang	Family Fun	3	108	Steel	47	116.5	116	935	CL	Boomerang_Family Fun
-Boomerang	Six Flags Darien Lake	3	108	Steel	47	116.5	125	935	CL	Boomerang_Six Flags Darien Lake
-Boomerang-Roller Coaster	Al-Shallal Theme Park	3	108	Steel	47	116.5	116	935	CL	Boomerang-Roller Coaster_Al-Shallal Theme Park
-Boulder Dash	Lake Compounce	0	150	Wood	60	115	115	4725	CL	Boulder Dash_Lake Compounce
-Bravely Traversing Tresure Island	Dinosaur Town	5	110	Steel	55	113.8	114	2329.4	CL	Bravely Traversing Tresure Island_Dinosaur Town
-Bruco Miniottovolante	Zoosafari Fasanolandia	0	40	Steel	13.4	12.2	12	393.7	CL	Bruco Miniottovolante_Zoosafari Fasanolandia
-Bullet Train	Gingko Lake Amusement Park	0	155	Steel	33.2	65.6	65.6	2673.9	CL	Bullet Train_Gingko Lake Amusement Park
-Bumerang	Tashkentland	3	108	Steel	47	116.5	116	935	CL	Bumerang_Tashkentland
-Búmeran	Parque Diversiones	3	108	Steel	47	116.5	116	935	CL	Búmeran_Parque Diversiones
-Cagliostro	MagicLand	0	75	Steel	36	55.8	56	1410.8	CL	Cagliostro_MagicLand
-Calamity Mine	Walibi Belgium	0	180	Steel	32	50	50	1700	CL	Calamity Mine_Walibi Belgium
-Candymonium	Hersheypark	0	180	Steel	76	210	210	4636	CL	Candymonium_Hersheypark
-Cannibal	Lagoon	0	150	Steel	70	208	208	2735	CL	Cannibal_Lagoon
-Cannon Ball	Lake Winnepesaukah	0	92	Wood	50	70	70	2272	CL	Cannon Ball_Lake Winnepesaukah
-Canyon Blaster	Adventuredome	4	90	Steel	41	94	66	2423	CC	Canyon Blaster_Adventuredome
-Carolina Cyclone	Carowinds	4	90	Steel	41	95	65	2100	CC	Carolina Cyclone_Carowinds
-Carolina Cyclone	Carowinds	4	160	Steel	45	95	85	2100	CL	Carolina Cyclone_Carowinds
-Cedar Creek Mine Ride	Cedar Point	0	180	Steel	35	48	48	2540	CL	Cedar Creek Mine Ride_Cedar Point
-Cheetah Hunt	Busch Gardens Tampa Bay	0	210	Steel	60	102	102	4429	CL	Cheetah Hunt_Busch Gardens Tampa Bay
-Chip & Dale's Gadget Coaster	Disneyland	0	44	Steel	21.7	27.9	28	679.1	CL	Chip & Dale's Gadget Coaster_Disneyland
-Chupacabra	Six Flags Fiesta Texas	5	120	Steel	50	105	80	2693	CC	Chupacabra_Six Flags Fiesta Texas
-Circus Coaster	Luna Park	0	90	Steel	18.6	29.5	29.5	574.2	CL	Circus Coaster_Luna Park
-Classic Coaster	Washington State Fair	0	105	Wood	50	55	52	2650	CC	Classic Coaster_Washington State Fair
-Coaster Blu	Tetysblu Theme Park	0	66	Steel	28.5	42.7	43	1099.1	CL	Coaster Blu_Tetysblu Theme Park
-Coaster Express	Parque Warner Madrid	0	120	Wood	59	120	120	4574	CC	Coaster Express_Parque Warner Madrid
-Coaster Through the Clouds	Nanchang Sunac Land	0	252	Steel	84.5	242.8	255.9	5105	CC	Coaster Through the Clouds_Nanchang Sunac Land
-Cobra	Djurs Sommerland	3	90	Steel	55.9	85	85	2952	CL	Cobra_Djurs Sommerland
-Cobra's Curse	Busch Gardens Tampa Bay	1	165	Steel	40	70	70	2100	CL	Cobra's Curse_Busch Gardens Tampa Bay
-Colorado Adventure	Phantasialand	0	175	Steel	31.1	85.3	85.3	4199.5	CL	Colorado Adventure_Phantasialand
-Colossos - Kampf der Giganten	Heide Park Resort	0	145	Wood	68.4	164	159.1	4409.4	CC	Colossos - Kampf der Giganten_Heide Park Resort
-Colossus	Six Flags Qiddiya City	0	120	Wood	50.2	94.5	88.6	2918.6	CL	Colossus_Six Flags Qiddiya City
-Colossus	Thorpe Park	10	100	Steel	40.4	98.4	98.4	2790	CL	Colossus_Thorpe Park
-Columbia Double Loop Coaster	Seoul Land	2	135	Steel	52.8	105	105	2913.4	CL	Columbia Double Loop Coaster_Seoul Land
-Comet	Hersheypark	0	105	Wood	50	84	78	3360	CC	Comet_Hersheypark
-Comet	Six Flags Great Escape	0	120	Wood	55	95	87	4197	CC	Comet_Six Flags Great Escape
-Comet	Waldameer	0	84	Wood	25	37	25	1300	CC	Comet_Waldameer
-Comet	Hersheypark	0	150	Wood	48	78	78	3360	CL	Comet_Hersheypark
-Copperhead Strike	Carowinds	5	144	Steel	50	82	80	3255	CL	Copperhead Strike_Carowinds
-Corkscrew	Valleyfair!	3	90	Steel	50	85	85	1950	CL	Corkscrew_Valleyfair!
-Corkscrew	Rusutsu Resort	2	80	Steel	39.1	69.9	70	1254.9	CL	Corkscrew_Rusutsu Resort
-Corkscrew	Cedar Point	3	120	Steel	48	85	75	2050	CL	Corkscrew_Cedar Point
-Correcaminos Bip, Bip	Parque Warner Madrid	0	76	Steel	37.3	52.5	53	1574.8	CL	Correcaminos Bip, Bip_Parque Warner Madrid
-Corsaire	Cobac Parc	0	60	Steel	24.9	32.8	32.2	984.3	CL	Corsaire_Cobac Parc
-CraZanity	Six Flags Magic Mountain	0	120	Steel	75	170	170	3000	CL	CraZanity_Six Flags Magic Mountain
-Crazy Bats	Phantasialand	0	240	Steel	28.9	38.4	38	3855	CL	Crazy Bats_Phantasialand
-Crazy Cab Coaster	Trans Studio Mini	0	44	Steel	21.7	27.9	28	679.1	CL	Crazy Cab Coaster_Trans Studio Mini
-Crazy Crab	Steel Pier	0	95	Steel	37.3	49.2	49	1312.3	CL	Crazy Crab_Steel Pier
-Crazy Mine	Hansa-Park	0	70	Steel	28	49.3	49.3	1213.9	CL	Crazy Mine_Hansa-Park
-Crazy Scooter	Happy Valley	2	47	Steel	43.5	49.3	49	1036.7	CL	Crazy Scooter_Happy Valley
-Crouching Tiger Hidden Dragon	Yanji Dinosaur Kingdom	1	120	Steel	63.4	191.3	161.7	2854.3	CL	Crouching Tiger Hidden Dragon_Yanji Dinosaur Kingdom
-Crystal Wing	Happy Valley	2	140	Steel	51	106	100	2798	CL	Crystal Wing_Happy Valley
-Cyclone	Luna Park	0	110	Wood	60	75	85	2850.3	CL	Cyclone_Luna Park
-Cyclone	City Park of Culture and Rest	0	80	Steel	34.2	39.3	39	1099	CL	Cyclone_City Park of Culture and Rest
-Cyclops	Mt. Olympus Water & Theme Park	0	60	Wood	58	70	75	1900	CC	Cyclops_Mt. Olympus Water & Theme Park
-Cú Chulainn Coaster	Emerald Park	0	165	Wood	56	105	105.8	3590	CC	Cú Chulainn Coaster_Emerald Park
-Dark Knight	Six Flags Great Adventure	0	108	Steel	30	53	53	1267	CL	Dark Knight_Six Flags Great Adventure
-Das Große LEGO Rennen	Legoland Deutschland	0	90	Steel	35	51.8	49.8	1312.3	CC	Das Große LEGO Rennen_Legoland Deutschland
-De Vliegende Hollander	Efteling	0	180	Steel	27.3	42.7	42.7	2001	CL	De Vliegende Hollander_Efteling
-Death Rail	Al Zawraa Land	5	96	Steel	49.7	109.3	85	2260.5	CL	Death Rail_Al Zawraa Land
-Decepticoaster	Universal Studios Beijing	7	155	Steel	63.8	121.7	105	4150.3	CL	Decepticoaster_Universal Studios Beijing
-Defiance	Glenwood Caverns Adventure Park	2	56	Steel	56	75	110	1082.7	CL	Defiance_Glenwood Caverns Adventure Park
-Demon	Six Flags Great America	4	105	Steel	50	103.7	90	2130	CC	Demon_Six Flags Great America
-Demon	California's Great America	4	105	Steel	50	102	90	2130	CC	Demon_California's Great America
-Desafío	Parque de la Costa	5	96	Steel	49.7	109.3	85	2260.5	CL	Desafío_Parque de la Costa
-Desmo Race	Mirabilandia	0	60	Steel	49.7	72.2	72.2	1722.4	CL	Desmo Race_Mirabilandia
-Desperado	Buffalo Bill's Resort	0	165	Steel	80	209	225	5843	CL	Desperado_Buffalo Bill's Resort
-Devil's Loop	Legendia Śląskie Wesołe Miasteczko	2	87	Steel	43.5	65.6	66	1148	CL	Devil's Loop_Legendia Śląskie Wesołe Miasteczko
-Diabolik	Movieland Park	3	90	Steel	50	131.3	131	1013.8	CL	Diabolik_Movieland Park
-Diamondback	Frontier City	1	66	Steel	45	56	47	635	CC	Diamondback_Frontier City
-Diamondback	Kings Island	0	180	Steel	80	230	215	5282	CC	Diamondback_Kings Island
-Diamondback	Kings Island	0	195	Steel	80	230	215	5282	CL	Diamondback_Kings Island
-Diavlo	Himeji Central Park	5	108	Steel	48.5	108.3	85	2606	CL	Diavlo_Himeji Central Park
-Diving Coaster: Vanish	Yokohama Cosmoworld	0	118	Steel	62.1	115	121.4	2441.5	CC	Diving Coaster: Vanish_Yokohama Cosmoworld
-Dizzy Love & Whirling Passion	Discoveryland	4	130	Steel	49.7	108.3	95.2	2624.7	CC	Dizzy Love & Whirling Passion_Discoveryland
-Dominator	Kings Dominion	5	180	Steel	55	161	148	4210	CL	Dominator_Kings Dominion
-Drachenritt	Belantis	0	90	Steel	44	59	59	1641	CL	Drachenritt_Belantis
-DrageKongen	Djurs Sommerland	0	120	Steel	52.8	98.4	98.4	2706.7	CL	DrageKongen_Djurs Sommerland
-Dragekongen	Fårup Sommerland	0	90	Steel	55.9	95.1	75.5	2625	CL	Dragekongen_Fårup Sommerland
-Dragon Fyre	Canada's Wonderland	4	90	Steel	50	78	76	2160	CC	Dragon Fyre_Canada's Wonderland
-Dragon Khan	PortAventura Park	8	105	Steel	65	148	161	4165	CC	Dragon Khan_PortAventura Park
-Dragon Mountain	Marineland	4	105	Steel	56	186	186	5500	CL	Dragon Mountain_Marineland
-Dragon in Clouds	Happy Valley	4	92	Steel	53.7	117.8	111.8	2454.1	CC	Dragon in Clouds_Happy Valley
-Dragon in Snowfield	Happy Valley	0	140	Steel	30.1	45.9	46	2575.5	CL	Dragon in Snowfield_Happy Valley
-Dream Coaster	Kamine Park	0	120	Steel	42.3	85.3	85.3	1542	CL	Dream Coaster_Kamine Park
-Dream Coaster	Dream City	3	45	Steel	43.5	82	82	1263.1	CL	Dream Coaster_Dream City
-Dwervelwind	Toverland	0	112	Steel	43.5	65.6	66	1515.7	CL	Dwervelwind_Toverland
-Dæmonen	Tivoli Gardens	3	106	Steel	48	91.9	65.6	1850.4	CC	Dæmonen_Tivoli Gardens
-Ednor - L'Attaque	La Ronde	5	96	Steel	49.7	109.3	85	2260.5	CL	Ednor - L'Attaque_La Ronde
-El Condor	Walibi Holland	5	96	Steel	49.7	109.3	85	2260	CL	El Condor_Walibi Holland
-El Toro	Six Flags Great Adventure	0	102	Wood	70	181	176	4400	CC & CL	El Toro_Six Flags Great Adventure
-Emperor	SeaWorld San Diego	3	95	Steel	60	153	143	2411	CC	Emperor_SeaWorld San Diego
-Emperor	SeaWorld San Diego	4	150	Steel	60	153	143	2500	CL	Emperor_SeaWorld San Diego
-Euro Mir	Europa Park	0	273	Steel	49.7	92	86	3215.3	CL	Euro Mir_Europa Park
-Eurosat - CanCan Coaster	Europa Park	0	198	Steel	37.3	83.7	84	3024.8	CL	Eurosat - CanCan Coaster_Europa Park
-Excalibur	Valleyfair!	0	137	Steel	54.5	100	105	2415	CC	Excalibur_Valleyfair!
-Excalibur	Funtown Splashtown U.S.A.	0	118	Wood	55	100	82	2700	CC	Excalibur_Funtown Splashtown U.S.A.
-Expedition Everest	Walt Disney World - Disney's Animal Kingdom	0	170	Steel	50	112	80	3884.5	CC	Expedition Everest_Walt Disney World - Disney's Animal Kingdom
-Expedition GeForce	Holiday Park	0	165	Steel	74.6	190	177	4839	CL	Expedition GeForce_Holiday Park
-Exterminator	Kennywood	0	108	Steel	29.1	42.7	43	1377.9	CL	Exterminator_Kennywood
-Fahrenheit	Hersheypark	6	85	Steel	58	121	121	2700	CL	Fahrenheit_Hersheypark
-Falcon	Wuxi Sunac Land	4	120	Steel	73.3	197.5	196.9	4192.9	CL	Falcon_Wuxi Sunac Land
-Falcon's Flight	Six Flags Qiddiya City	0	180	Steel	155	525	550	13714	CL	Falcon's Flight_Six Flags Qiddiya City
-Falcons Flight	Six Flags Qiddiya City	0	196	Steel	155.3	534.8	518.4	13943.6	CC	Falcons Flight_Six Flags Qiddiya City
-Family Coaster	Children's Grand Park	0	62	Steel	34.2	64.3	64	1295.9	CL	Family Coaster_Children's Grand Park
-Famous Jack	Bagatelle	0	90	Steel	29.1	42.7	42.7	1377.9	CL	Famous Jack_Bagatelle
-Firewhip	Beto Carrero World	5	96	Steel	49.7	109.3	85	2260.5	CL	Firewhip_Beto Carrero World
-Fjord Flying Dragon	Happy Valley	0	90	Wood	54.1	111.6	91.8	3989.5	CC	Fjord Flying Dragon_Happy Valley
-Flagermusen	Fårup Sommerland	0	90	Steel	29.1	42.7	43	1377.9	CL	Flagermusen_Fårup Sommerland
-Flash	Lewa Adventure	2	128	Steel	71.5	200.2	190.3	4176.5	CC	Flash_Lewa Adventure
-Flashback	Six Flags New England	3	108	Steel	47	116.5	115	935	CL	Flashback_Six Flags New England
-Flashback	Six Flags Great Escape	3	108	Steel	47	116.5	116	935	CL	Flashback_Six Flags Great Escape
-Flight Deck	California's Great America	3	146	Steel	50	102	91	2260	CC	Flight Deck_California's Great America
-Flight Deck	California's Great America	5	96	Steel	49.7	109.3	85	2260.5	CL	Flight Deck_California's Great America
-Flight of Fear	Kings Island	4	60	Steel	54	74.2	74	2705	CL	Flight of Fear_Kings Island
-Fluch des Kraken	Freizeit-Land Geiselwind	3	108	Steel	47	116.5	116	935	CL	Fluch des Kraken_Freizeit-Land Geiselwind
-Flucht von Novgorod	Hansa-Park	1	120	Steel	62.1	131.2	131.2	2296.6	CL	Flucht von Novgorod_Hansa-Park
-Fly	Canada's Wonderland	0	90	Steel	35	51.8	49.8	1312.3	CC	Fly_Canada's Wonderland
-Flying Aces	Ferrari World Abu Dhabi	5	150	Steel	75	207.5	207	4223	CL	Flying Aces_Ferrari World Abu Dhabi
-Flying Cobras	Carowinds	3	108	Steel	47	116.5	116	935	CL	Flying Cobras_Carowinds
-Flying Eagle	Legoland Billund	0	90	Steel	26.1	49.2	49.2	1050	CL	Flying Eagle_Legoland Billund
-Formula Rossa	Ferrari World Abu Dhabi	0	92	Steel	149.1	170.6	171	6804.5	CC	Formula Rossa_Ferrari World Abu Dhabi
-Formula Rossa	Ferrari World Abu Dhabi	0	92	Steel	149.1	171	171	6562	CL	Formula Rossa_Ferrari World Abu Dhabi
-Freestyle	Cavallino Matto	1	92	Steel	51	88	84	2210	CC	Freestyle_Cavallino Matto
-Freischütz	Bayern-Park	4	50	Steel	49.7	78.7	78.7	1584.7	CL	Freischütz_Bayern-Park
-Fujiyama	Fuji-Q Highland	0	216	Steel	80.8	259.2	229.7	6708.7	CC	Fujiyama_Fuji-Q Highland
-Full Throttle	Six Flags Magic Mountain	3	60	Steel	70	160	160	2000	CL	Full Throttle_Six Flags Magic Mountain
-Fury 325	Carowinds	0	205	Steel	95	325	320	6602	CC	Fury 325_Carowinds
-Fury 325	Carowinds	0	195	Steel	95	325	320	6602	CL	Fury 325_Carowinds
-Fēnix	Toverland	4	120	Steel	40.4	131.2	131	2887	CL	Fēnix_Toverland
-GateKeeper	Cedar Point	6	160	Steel	67	170	164	4164	CC	GateKeeper_Cedar Point
-Gatekeeper	Cedar Point	6	180	Steel	67	170	164	4164	CL	Gatekeeper_Cedar Point
-Gemini	Cedar Point	0	140	Steel	60	125.3	118	3935	CC	Gemini_Cedar Point
-Gemini	Cedar Point	0	150	Steel	65	125	118	3935	CL	Gemini_Cedar Point
-Georgia Scorcher	Six Flags Over Georgia	2	84	Steel	54	107	101	3000	CC	Georgia Scorcher_Six Flags Over Georgia
-Gesengte Sau	Wiener Prater	0	120	Steel	37.3	78.7	79	2001.3	CL	Gesengte Sau_Wiener Prater
-GhostRider	Knott's Berry Farm	0	160	Wood	56	118	108	4533	CC	GhostRider_Knott's Berry Farm
-Ghoster Coaster	Canada's Wonderland	0	80	Wood	35	41	39	1356	CC	Ghoster Coaster_Canada's Wonderland
-Ghostrider	Knott's Berry Farm	0	165	Wood	56	118	108	4533	CL	Ghostrider_Knott's Berry Farm
-Giant Dipper	Santa Cruz Beach Boardwalk	0	112	Wood	55	70	65	2640	CC	Giant Dipper_Santa Cruz Beach Boardwalk
-Giant Splash	Lotte World Adventure Busan - Magic Forest	0	78	Steel	62.8	147.6	146.3	711.9	CL	Giant Splash_Lotte World Adventure Busan - Magic Forest
-Gold Rush	Kijima Kogen Park	0	129	Steel	28.1	42.7	43	1715.9	CL	Gold Rush_Kijima Kogen Park
-Gold Rusher	Six Flags Magic Mountain	0	150	Steel	35	70	70	2590	CL	Gold Rusher_Six Flags Magic Mountain
-Golden Loop	Gold Reef City	1	30	Steel	57	137.8	138	863	CL	Golden Loop_Gold Reef City
-Golden Wings over the Snowfield	Happy Valley	4	92	Steel	53.7	117.8	111.8	2454.1	CC	Golden Wings over the Snowfield_Happy Valley
-Goliath	Six Flags Magic Mountain	0	180	Steel	85	235	255	4500	CC	Goliath_Six Flags Magic Mountain
-Goliath	Walibi Holland	0	92	Steel	65.9	153.7	150.9	3982.9	CC	Goliath_Walibi Holland
-Goliath	Six Flags Over Georgia	0	210	Steel	70	200	175	4480	CL	Goliath_Six Flags Over Georgia
-Goliath	La Ronde	0	100	Steel	68.3	174.8	170.6	4038.8	CL	Goliath_La Ronde
-Goliath	Six Flags Great America	3	105	Wood	72	165	180	3100	CL	Goliath_Six Flags Great America
-Goliath	Six Flags Magic Mountain	0	195	Steel	85	255	255	4500	CL	Goliath_Six Flags Magic Mountain
-Goliath	Walibi Holland	0	180	Steel	60.9	151.2	150	3642	CL	Goliath_Walibi Holland
-Good Gravy!	Holiday World	0	65	Steel	37	77	77	721.8	CL	Good Gravy!_Holiday World
-Gotham City Gauntlet Escape from Arkham Asylum	Six Flags New England	0	92	Steel	28	49.3	49	1213.9	CL	Gotham City Gauntlet Escape from Arkham Asylum_Six Flags New England
-Goudurix	Parc Astérix	7	80	Steel	55.9	118.1	108	3116.8	CC	Goudurix_Parc Astérix
-Grand National	Blackpool Pleasure Beach	0	180	Wood	35	62	56	2700	CL	Grand National_Blackpool Pleasure Beach
-Grand Showman	Oriental Heritage	4	130	Steel	49.7	108.3	95.1	2624.7	CC	Grand Showman_Oriental Heritage
-Great American Scream Machine	Six Flags Over Georgia	0	120	Wood	57	105	89	3450	CC	Great American Scream Machine_Six Flags Over Georgia
-Great Bear	Hersheypark	4	175	Steel	58	90	124	2800	CC	Great Bear_Hersheypark
-Great Bear	Hersheypark	4	170	Steel	61	90	124	2800	CL	Great Bear_Hersheypark
-Great Lego Race	Legoland Florida	0	95	Steel	35	51.8	49.8	1312.3	CC	Great Lego Race_Legoland Florida
-Great Nor'Easter	Morey's Piers	5	125	Steel	55	115	95	2168.6	CC	Great Nor'Easter_Morey's Piers
-Great White	SeaWorld San Antonio	5	120	Steel	50	108	81.2	2562	CC	Great White_SeaWorld San Antonio
-Great White	Morey's Piers	0	120	Wood	50	110	100	3300	CC	Great White_Morey's Piers
-Green Lantern	Six Flags Great Adventure	4	180	Steel	63	154	130	2258	CL	Green Lantern_Six Flags Great Adventure
-Green Lantern: First Flight	Six Flags Magic Mountain	3	90	Steel	50	113	100	1650	CL	Green Lantern: First Flight_Six Flags Magic Mountain
-Griffon	Busch Gardens Williamsburg	2	180	Steel	71	205	205	3108	CL	Griffon_Busch Gardens Williamsburg
-Grizzly	Kings Dominion	0	155	Wood	55	87	94	3150	CL	Grizzly_Kings Dominion
-Gwazi	Lion Park Resort	1	120	Steel	47.8	80.4	80	1942.3	CL	Gwazi_Lion Park Resort
-Hagrid's Magical Creatures	Islands of Adventure	0	200	Steel	50	65	65	5053	CL	Hagrid's Magical Creatures_Islands of Adventure
-Hakugei	Nagashima Spa Land	0	170	Steel	66.5	180	180	5443.6	CL	Hakugei_Nagashima Spa Land
-Hangman	Wild Adventures	3	108	Steel	47	116.5	116	935	CL	Hangman_Wild Adventures
-Harley Quinn Crazy Train	Six Flags Great Adventure	0	65	Steel	22.4	26.3	25	1181.1	CL	Harley Quinn Crazy Train_Six Flags Great Adventure
-Heidi The Ride	Plopsaland Belgium	0	90	Wood	44.3	72.2	67.3	2057.1	CL	Heidi The Ride_Plopsaland Belgium
-Helix	Liseberg	7	145	Steel	70	130	130	4313	CL	Helix_Liseberg
-Hochschaubahn	Wiener Prater	0	210	Wood	34.2	49.3	49	1476.4	CL	Hochschaubahn_Wiener Prater
-Hollyhock and Roll	Kentucky Kingdom	0	50	Steel	21.7	27.9	28	679.1	CL	Hollyhock and Roll_Kentucky Kingdom
-Hot Wheels Nitro	Imagicaa	5	150	Steel	65.2	132	132	2800	CL	Hot Wheels Nitro_Imagicaa
-Huracan	Belantis	5	90	Steel	52.8	105	105	1837.3	CL	Huracan_Belantis
-Hurler	Carowinds	0	120	Wood	50	75	83	3157	CL	Hurler_Carowinds
-Hurricane	Race City PCB	0	86	Steel	35	59	59	1427	CL	Hurricane_Race City PCB
-Hydra the Revenge	Dorney Park & Wildwater Kingdom	7	155	Steel	53	95	105	3198	CC	Hydra the Revenge_Dorney Park & Wildwater Kingdom
-Hyper Coaster	Land of Legends	0	180	Steel	70.2	167.4	164	4199	CL	Hyper Coaster_Land of Legends
-Hyperia	Thorpe Park	0	90	Steel	80	236	236	2635	CL	Hyperia_Thorpe Park
-Hyperion	Energylandia	0	155	Steel	88.5	252	252	4534	CL	Hyperion_Energylandia
-Icon	Pleasure Beach Resort	1	161	Steel	52.8	88.5	82	3750	CC	Icon_Pleasure Beach Resort
-Icon	Blackpool Pleasure Beach	0	120	Steel	53.4	88.6	88	4039	CL	Icon_Blackpool Pleasure Beach
-Il Tempo Extra Gigante	Hunderfossen Eventyrpark	0	90	Steel	40.4	82	82	1755.3	CL	Il Tempo Extra Gigante_Hunderfossen Eventyrpark
-Incredible Hulk	Universal Studios Islands of Adventure	7	135	Steel	67	110	104.9	3700	CC	Incredible Hulk_Universal Studios Islands of Adventure
-Incredicoaster	Disney California Adventure Park	1	156	Steel	55	108	108	6072	CL	Incredicoaster_Disney California Adventure Park
-Inflaming Beatles	Suzhou Yangcheng Peninsula Theme Park	0	140	Steel	32.4	64	64	1640.4	CL	Inflaming Beatles_Suzhou Yangcheng Peninsula Theme Park
-Infusion	Pleasure Beach Resort	5	83	Steel	49.7	109.3	109	2260.5	CL	Infusion_Pleasure Beach Resort
-Intimidator	Carowinds	0	210	Steel	75	232	211	5316	CL	Intimidator_Carowinds
-InvadR	Busch Gardens Williamsburg	0	95	Wood	48	74	74	2200	CL	InvadR_Busch Gardens Williamsburg
-Invertigo	California's Great America	6	108	Steel	43.5	138	138	1322	CL	Invertigo_California's Great America
-Iron Dragon	Cedar Point	0	120	Steel	40	76	76	2800	CL	Iron Dragon_Cedar Point
-Iron Gwazi	Busch Gardens Tampa Bay	2	110	Steel	76	206	206	4075	CC	Iron Gwazi_Busch Gardens Tampa Bay
-Iron Gwazi	Busch Gardens Tampa Bay	0	145	Steel	76	206	206	4075	CL	Iron Gwazi_Busch Gardens Tampa Bay
-Iron Menace	Dorney Park & Wildwater Kingdom	4	90	Steel	64	160	152	2169	CC	Iron Menace_Dorney Park & Wildwater Kingdom
-Iron Rattler	Six Flags Fiesta Texas	1	110	Steel	70	179	171	3266	CL	Iron Rattler_Six Flags Fiesta Texas
-Jack Rabbit	Kennywood	0	96	Wood	45	40	70	2132	CC	Jack Rabbit_Kennywood
-Jaguar!	Knott's Berry Farm	0	120	Steel	35	65	45	2602	CC	Jaguar!_Knott's Berry Farm
-Jersey Devil Coaster	Six Flags Great Adventure	3	150	Steel	57.7	130	130	3000	CL	Jersey Devil Coaster_Six Flags Great Adventure
-Jet Coaster	Tochinoki Family Land	0	180	Steel	41.3	54.2	54	2339.3	CL	Jet Coaster_Tochinoki Family Land
-Joker	Six Flags Mexico	0	111	Steel	31	53	27	1351	CC	Joker_Six Flags Mexico
-Joker	Six Flags Great Adventure	0	63	Steel	38	120	54	1019	CL	Joker_Six Flags Great Adventure
-Joker	Six Flags Mexico	3	108	Steel	47	116.5	116	935	CL	Joker_Six Flags Mexico
-Jolly Rancher Remix	Hersheypark	3	108	Steel	47	116.5	116	935	CL	Jolly Rancher Remix_Hersheypark
-Joris en de Draak	Efteling	0	180	Wood	31.1	55.8	55.8	2720	CL	Joris en de Draak_Efteling
-Joyride	PowerPark	0	75	Steel	31	52.5	52.5	918.7	CL	Joyride_PowerPark
-Judge Roy Scream	Six Flags Over Texas	0	90	Wood	45	71	65	2670	CC	Judge Roy Scream_Six Flags Over Texas
-Judge Roy Scream	Six Flags Over Texas	0	120	Wood	53	65	64	2670	CL	Judge Roy Scream_Six Flags Over Texas
-Jul's RollerSkates	Julianatoren	0	104	Steel	21.7	27.9	28	679.1	CL	Jul's RollerSkates_Julianatoren
-Jungle Trailblazer	Fantawild Dreamland	0	90	Wood	54.1	111.6	91.8	3989.5	CC	Jungle Trailblazer_Fantawild Dreamland
-Jungle Trailblazer	Oriental Heritage	1	150	Wood	55.2	106	104	3264.4	CC	Jungle Trailblazer_Oriental Heritage
-Jungle Trailblazer	Fantawild Asian Legend	0	130	Wood	54.1	108.3	100.8	3198.8	CL	Jungle Trailblazer_Fantawild Asian Legend
-Junior Coaster	Gero Land	0	66	Steel	28.5	42.7	43	1099.1	CL	Junior Coaster_Gero Land
-Jurassic World VelociCoaster	Universal Studios Hollywood	4	155	Steel	70	155	155	4700	CL	Jurassic World VelociCoaster_Universal Studios Hollywood
-Juvelen	Djurs Sommerland	1	90	Steel	56.5	98.4	98.4	2296	CL	Juvelen_Djurs Sommerland
-K2	Karls Erlebnis-Dorf Elstal	0	200	Steel	37.3	78.7	42.7	1738.8	CC	K2_Karls Erlebnis-Dorf Elstal
-Kaffeekannen-Express	Karls Erlebnis-Dorf Rövershagen	0	154	Steel	18.6	26.9	6.6	652.9	CC	Kaffeekannen-Express_Karls Erlebnis-Dorf Rövershagen
-Katun	Mirabilandia	6	142	Steel	64.6	164	147.6	3937	CC	Katun_Mirabilandia
-Kawasemi	Tobu Zoo Park	0	90	Steel	52.8	101.7	98.4	2477	CL	Kawasemi_Tobu Zoo Park
-Kenny's Forest Flyer	Dreamworld	0	90	Steel	26	48.6	49	1122	CL	Kenny's Forest Flyer_Dreamworld
-Kilaueya	Six Flags Mexico	0	105	Steel	43.5	65.6	66	1600	CL	Kilaueya_Six Flags Mexico
-Kingda Ka	Six Flags Great Adventure	1	28	Steel	128	456	418	3118	CL	Kingda Ka_Six Flags Great Adventure
-Kondaa	Walibi Belgium	0	90	Steel	70.2	164	164	3937	CL	Kondaa_Walibi Belgium
-Kong	Six Flags Discovery Kingdom	5	96	Steel	49.7	109.3	85	2260.5	CL	Kong_Six Flags Discovery Kingdom
-Kopermijn	Drievliet Family Park	0	95	Steel	28	49.3	49	1213.9	CL	Kopermijn_Drievliet Family Park
-Kraken	SeaWorld Orlando	7	122	Steel	65	149	144	4177	CC	Kraken_SeaWorld Orlando
-Kraken	SeaWorld Orlando	7	175	Steel	65	149	144	4177	CL	Kraken_SeaWorld Orlando
-Krampus Expédition	Nigloland	0	240	Steel	49.1	91.9	91.9	1968.5	CL	Krampus Expédition_Nigloland
-Kráter	Parque del Café	3	60	Steel	52	100	100	1246	CL	Kráter_Parque del Café
-Kumali	Flamingo Land	4	92	Steel	54.9	117.8	111.8	2201.4	CC	Kumali_Flamingo Land
-Kumba	Busch Gardens Tampa Bay	7	174	Steel	60	143	135	3978	CC	Kumba_Busch Gardens Tampa Bay
-Kumba	Busch Gardens Tampa Bay	7	175	Steel	60	143	135	3978	CL	Kumba_Busch Gardens Tampa Bay
-Kvasten	Gröna Lund	0	63	Steel	34.2	65.6	65.6	1295.9	CL	Kvasten_Gröna Lund
-Käpt'n Jack's Wilde Maus	Eifelpark	0	94	Steel	28	49.3	49.3	1213.9	CL	Käpt'n Jack's Wilde Maus_Eifelpark
-Kärnan	Hansa-Park	0	180	Steel	77.4	240	227	3900	CL	Kärnan_Hansa-Park
-La Vibora	Six Flags Over Texas	0	120	Steel	50	60	57	2050	CL	La Vibora_Six Flags Over Texas
-Lady Bird Coaster	New Reoma World	0	150	Steel	21.8	28.8	29	912.1	CL	Lady Bird Coaster_New Reoma World
-Laff Trakk	Hersheypark	0	120	Steel	30	50	50	1500	CL	Laff Trakk_Hersheypark
-Launch Coaster	Colourful Yunnan Paradise	4	150	Steel	62.1	118.1	118	3464.5	CL	Launch Coaster_Colourful Yunnan Paradise
-Lech Coaster	Energylandia	2	180	Steel	60	165	153	3907	CL	Lech Coaster_Energylandia
-Legend	Holiday World	0	120	Wood	59	99	113	4042	CC	Legend_Holiday World
-Leviathan	Canada's Wonderland	0	128	Steel	92	306	306	5486	CC	Leviathan_Canada's Wonderland
-Leviathan	Canada's Wonderland	0	195	Steel	92	306	306	5486	CL	Leviathan_Canada's Wonderland
-Light-Speed Coaster	Hot Go Park - Happy Jungle World	4	130	Steel	49.7	108.3	95.2	2624.7	CC	Light-Speed Coaster_Hot Go Park - Happy Jungle World
-Lightning Racer	Hersheypark	0	140	Wood	51.1	91.6	90	3393	CC	Lightning Racer_Hersheypark
-Lightning Rod	Dollywood	0	130	Wood	73	168	165	3800	CL	Lightning Rod_Dollywood
-Lisebergbanan	Liseberg	0	180	Steel	54.1	98.4	98.4	4035	CL	Lisebergbanan_Liseberg
-Loch Ness Monster	Busch Gardens Williamsburg	2	130	Steel	60	130	114.2	3240	CC	Loch Ness Monster_Busch Gardens Williamsburg
-Loco Motion	St. Louis Union Station	0	117	Steel	15.5	16.7	17	403.5	CL	Loco Motion_St. Louis Union Station
-Lost Gravity	Walibi Holland	2	143	Steel	54.1	105	105	2231	CL	Lost Gravity_Walibi Holland
-Loup-Garou	Walibi Belgium	0	125	Wood	49.7	91.8	77.1	3395.7	CC	Loup-Garou_Walibi Belgium
-Loup-Garou	Walibi Belgium	0	150	Wood	56.2	98.4	85	3280	CL	Loup-Garou_Walibi Belgium
-Magnum XL-200	Cedar Point	0	120	Steel	72	205	194.7	5106	CC	Magnum XL-200_Cedar Point
-Magnum XL-200	Cedar Point	0	180	Steel	72	205	195	5106	CL	Magnum XL-200_Cedar Point
-Mako	SeaWorld Orlando	0	180	Steel	73	200	200	4760	CL	Mako_SeaWorld Orlando
-Mamba	Worlds of Fun	0	180	Steel	75	205	205	5600	CC & CL	Mamba_Worlds of Fun
-Mammut	Gardaland	0	165	Steel	31.1	45.9	46	3264.4	CL	Mammut_Gardaland
-Manta	SeaWorld Orlando	4	155	Steel	56	140	113	3359	CC	Manta_SeaWorld Orlando
-Manta	SeaWorld San Diego	0	120	Steel	43	30	54	2800	CC	Manta_SeaWorld San Diego
-Manta	SeaWorld Orlando	4	150	Steel	56	140	113	3359	CL	Manta_SeaWorld Orlando
-Matterhorn Blitz	Europa Park	0	185	Steel	35	52.5	53	1256.6	CL	Matterhorn Blitz_Europa Park
-Maverick	Cedar Point	2	150	Steel	70	105	100	4450	CC	Maverick_Cedar Point
-Maverick	Cedar Point	2	155	Steel	70	105	100	4450	CL	Maverick_Cedar Point
-Max & Moritz	Efteling	0	120	Steel	27.3	46.9	46.9	1706	CL	Max & Moritz_Efteling
-Maya Adventure	Formosan Aboriginal Culture Village	5	96	Steel	49.7	109.3	85	2260.5	CL	Maya Adventure_Formosan Aboriginal Culture Village
-Medusa	Six Flags Great Adventure	7	140	Steel	61	142	132	3985	CC	Medusa_Six Flags Great Adventure
-Medusa	Six Flags Discovery Kingdom	7	195	Steel	65	150	150	3937	CC	Medusa_Six Flags Discovery Kingdom
-Medusa	Six Flags Discovery Kingdom	7	180	Steel	65	150	150	3937	CL	Medusa_Six Flags Discovery Kingdom
-Medusa Steel Coaster	Six Flags Mexico	7	180	Steel	63	150	141	3985	CL	Medusa Steel Coaster_Six Flags Mexico
-Megablitz	Wiener Prater	0	90	Steel	43.5	62.3	62	1804.5	CL	Megablitz_Wiener Prater
-Mighty Canadian Minebuster	Canada's Wonderland	0	122	Wood	55.9	90	87	3828	CC	Mighty Canadian Minebuster_Canada's Wonderland
-Millennium Force	Cedar Point	0	140	Steel	93	310	300	6595	CC	Millennium Force_Cedar Point
-Millennium Force	Cedar Point	0	180	Steel	93	310	300	6595	CL	Millennium Force_Cedar Point
-Mind Eraser	Six Flags America	5	96	Steel	49.7	109.3	85	2260.5	CL	Mind Eraser_Six Flags America
-Mine Blower	Fun Spot America	1	90	Wood	48.5	83	80.5	2290	CL	Mine Blower_Fun Spot America
-Mine Express	Discovery World	0	66	Steel	28.5	42.7	43	1099.1	CL	Mine Express_Discovery World
-Mine Expressen	Fårup Sommerland	0	66	Steel	28.5	42.7	43	1099.1	CL	Mine Expressen_Fårup Sommerland
-Mine Train Ulven	Bakken	0	70	Steel	40.4	60.7	61	1312	CL	Mine Train Ulven_Bakken
-Montu	Busch Gardens Tampa Bay	7	180	Steel	60	150	128	3983	CC	Montu_Busch Gardens Tampa Bay
-Montu	Busch Gardens Tampa Bay	7	180	Steel	60	150	130	3983	CL	Montu_Busch Gardens Tampa Bay
-Mr. Freeze	Six Flags Over Texas	1	55	Steel	70	218	200	1300	CL	Mr. Freeze_Six Flags Over Texas
-Mr. Freeze Reverse Blast	Six Flags St. Louis	1	55	Steel	70	218	200	1300	CL	Mr. Freeze Reverse Blast_Six Flags St. Louis
-Muntanya Russa	Tibidabo	0	120	Steel	49.7	82	101.7	2339.2	CL	Muntanya Russa_Tibidabo
-Mystery Mine	Dollywood	2	150	Steel	43.5	85.3	85	1804.5	CL	Mystery Mine_Dollywood
-Mystic Timbers	Kings Island	0	150	Wood	53	109	109	3265	CL	Mystic Timbers_Kings Island
-NDH Flying Lion Coaster	Nandaihe International Amusement Center	4	130	Steel	49.7	108.3	95.2	2624.7	CC	NDH Flying Lion Coaster_Nandaihe International Amusement Center
-Nefeskesen	Vialand	6	105	Steel	56	140	140	2520	CL	Nefeskesen_Vialand
-Nemesis Inferno	Thorpe Park	4	103	Steel	47.8	95.2	92	2460.7	CL	Nemesis Inferno_Thorpe Park
-Nemesis Reborn	Alton Towers	4	80	Steel	50	42.6	104	2349	CC	Nemesis Reborn_Alton Towers
-Nemesis Reborn	Alton Towers	4	120	Steel	50	42.7	104	2349.1	CL	Nemesis Reborn_Alton Towers
-Nessie	Hansa-Park	1	130	Steel	49.1	85.3	85.3	2431.1	CL	Nessie_Hansa-Park
-New Mexico Rattler	Cliff's Amusement Park	0	75	Wood	47	80	75	2750	CC	New Mexico Rattler_Cliff's Amusement Park
-New Revolution	Six Flags Magic Mountain	1	132	Steel	55	113	113	3457	CL	New Revolution_Six Flags Magic Mountain
-New Texas Giant	Six Flags Over Texas	0	205	Steel	65	153	147	4200	CL	New Texas Giant_Six Flags Over Texas
-Nighthawk	Carowinds	5	180	Steel	51	115	115	2766	CL	Nighthawk_Carowinds
-Ninja	Six Flags Magic Mountain	0	195	Steel	55	55	55	2700	CL	Ninja_Six Flags Magic Mountain
-Nitro	Six Flags Great Adventure	0	140	Steel	80	230	215	5394	CC	Nitro_Six Flags Great Adventure
-Nitro	Six Flags Great Adventure	0	180	Steel	80	230	215	5394	CL	Nitro_Six Flags Great Adventure
-Now You See Me: High Roller	Motiongate	0	103	Steel	43.5	55.8	56	1702.8	CL	Now You See Me: High Roller_Motiongate
-Oblivion	Alton Towers	0	75	Steel	68	65	180	1222	CC	Oblivion_Alton Towers
-Odyssey	Fantasy Island	5	172	Steel	62	167	141	2923.2	CC	Odyssey_Fantasy Island
-Oki Doki	Bobbejaanland	0	62	Steel	36	53.5	54	1430.4	CL	Oki Doki_Bobbejaanland
-Orion	Kings Island	0	180	Steel	91	287	300	5321	CC	Orion_Kings Island
-Orion	Kings Island	0	155	Steel	91	287	300	5321	CL	Orion_Kings Island
-Outlaw	Adventureland	0	120	Wood	48	67	67	2800	CL	Outlaw_Adventureland
-Outlaw Run	Silver Dollar City	3	87	Wood	68	107	162	2937	CC	Outlaw Run_Silver Dollar City
-Outlaw Run	Silver Dollar City	3	110	Wood	68	107	162	2937	CL	Outlaw Run_Silver Dollar City
-PAW Patrol To The Rescue	Mirabilandia	0	108	Steel	21.3	19.7	19.7	442.9	CL	PAW Patrol To The Rescue_Mirabilandia
-Pandemonium	Six Flags Over Texas	0	111	Steel	31	53	27	1351	CC	Pandemonium_Six Flags Over Texas
-Pandemonium	Six Flags St. Louis	0	90	Steel	31	48	27	1351	CL	Pandemonium_Six Flags St. Louis
-Pantheon	Busch Gardens Williamsburg	4	90	Steel	73	180	180	3327	CL	Pantheon_Busch Gardens Williamsburg
-Pantherian	Kings Dominion	0	180	Steel	90	305	300	5100	CC & CL	Pantherian_Kings Dominion
-Patriot	Worlds of Fun	4	138	Steel	60	149	123	3081	CC	Patriot_Worlds of Fun
-Patriot	California's Great America	2	134	Steel	45	91	91	1920	CL	Patriot_California's Great America
-Pepsi Orange Streak	Nickelodeon Universe	0	150	Steel	30	60	40	2680	CC	Pepsi Orange Streak_Nickelodeon Universe
-Phaethon	Gyeongju World	6	140	Steel	55.9	147.7	148	3280.8	CL	Phaethon_Gyeongju World
-Phantom's Revenge	Kennywood	0	117	Steel	85	160	228	3200	CC	Phantom's Revenge_Kennywood
-Phantom's Revenge	Kennywood	0	105	Steel	82	160	228	3500	CL	Phantom's Revenge_Kennywood
-Phoenix	Knoebels Amusement Resort	0	120	Wood	45	78	72	3200	CC	Phoenix_Knoebels Amusement Resort
-Pierre de Tonnerre	Parc du Petit Prince	0	90	Steel	18.6	23	23	711.9	CL	Pierre de Tonnerre_Parc du Petit Prince
-Pikajuna	Linnanmäki	0	95	Steel	23	23	23	961.3	CL	Pikajuna_Linnanmäki
-Pine Tree Rocket	Fantawild Wonderland	0	56	Steel	28.6	38.4	38	833.3	CL	Pine Tree Rocket_Fantawild Wonderland
-Pipeline: The Surf Coaster	SeaWorld Orlando	1	110	Steel	60	110	110	2950	CL	Pipeline: The Surf Coaster_SeaWorld Orlando
-Piraten	Djurs Sommerland	0	120	Steel	37.3	82	82	2756	CL	Piraten_Djurs Sommerland
-Poseidon	Europa Park	0	240	Steel	43.5	75.5	76	2742.8	CL	Poseidon_Europa Park
-Powder Keg: A Blast in the Wilderness	Silver Dollar City	0	173	Steel	64	98	110	3506	CC	Powder Keg: A Blast in the Wilderness_Silver Dollar City
-Prairie Screamer	Prairie Playland	0	116	Steel	50	90	80	2600	CC	Prairie Screamer_Prairie Playland
-Predator	Six Flags Darien Lake	0	110	Wood	50	95	87	3400	CL	Predator_Six Flags Darien Lake
-Prowler	Worlds of Fun	0	150	Wood	51.2	102.3	84.9	3074	CC	Prowler_Worlds of Fun
-Psyké Underground	Walibi Belgium	1	90	Steel	50	90	90	1300	CL	Psyké Underground_Walibi Belgium
-Pulsar	Walibi Belgium	0	150	Steel	54	115	115	1640	CL	Pulsar_Walibi Belgium
-Pyrenees	Parque Espana-Shima Spain Village	6	113	Steel	62.1	147.7	148	4048.6	CL	Pyrenees_Parque Espana-Shima Spain Village
-Python	Efteling	2	100	Steel	39.8	73.8	73.8	1280	CL	Python_Efteling
-Pégase Express	Parc Astérix	0	180	Steel	32.3	68.8	68.8	3044.6	CL	Pégase Express_Parc Astérix
-Queen City Stunt Coaster	Kings Island	0	64	Steel	40	45.2	31.2	1960	CC	Queen City Stunt Coaster_Kings Island
-Quimera	Six Flags Mexico	7	150	Steel	65	105	105	2753	CL	Quimera_Six Flags Mexico
-Racer	Kennywood	0	92	Wood	40	72.5	50	4500	CC	Racer_Kennywood
-Racer	Kings Island	0	180	Wood	53	88	80	6300	CL	Racer_Kings Island
-Racer 75	Kings Dominion	0	150	Wood	53	88	86	3870	CL	Racer 75_Kings Dominion
-Raging Bull	Six Flags Great America	0	150	Steel	73	202	208	5057	CC	Raging Bull_Six Flags Great America
-Raging Bull	Six Flags Great America	2	210	Steel	73	202	180	5057	CL	Raging Bull_Six Flags Great America
-RailBlazer	California's Great America	3	90	Steel	52	106	100	1800	CL	RailBlazer_California's Great America
-Rapterra	Kings Dominion	3	89	Steel	65	145	145	3086	CL	Rapterra_Kings Dominion
-Raptor	Cedar Point	6	136	Steel	57	137	119	3790	CC	Raptor_Cedar Point
-Raptor	Gardaland	3	90	Steel	55.9	108.3	108	2526.3	CL	Raptor_Gardaland
-Raptor	Cedar Point	6	150	Steel	57	137	119	3790	CL	Raptor_Cedar Point
-Raven	Holiday World	0	90	Wood	48	80	85	2800	CC	Raven_Holiday World
-Ravine Flyer II	Waldameer	0	90	Wood	57	80	118	2900	CC	Ravine Flyer II_Waldameer
-Recoil	Wonderla Amusement Park Hyderabad	3	108	Steel	47	116.5	116	935	CL	Recoil_Wonderla Amusement Park Hyderabad
-Red Force	Ferrari Land	0	39	Steel	111.8	367.3	345	2887.2	CC	Red Force_Ferrari Land
-Renegade	Valleyfair!	0	120	Wood	51.3	97.5	91.4	3113	CC	Renegade_Valleyfair!
-Revolution	Pleasure Beach Resort	1	66	Steel	45	56	47	635	CC	Revolution_Pleasure Beach Resort
-Revolution	Bobbejaanland	0	140	Steel	31.1	60.8	61	2362.2	CL	Revolution_Bobbejaanland
-Revolution	Blackpool Pleasure Beach	1	90	Steel	50	80	80	2250	CL	Revolution_Blackpool Pleasure Beach
-Revolution	Six Flags Magic Mountain	1	150	Steel	55	113	113	3457	CL	Revolution_Six Flags Magic Mountain
-Rhombus Express	Fantasy Island	0	86	Steel	28.8	17.1	17	967.8	CL	Rhombus Express_Fantasy Island
-Ricochet	Carowinds	0	110	Steel	28	45.9	46	1213.9	CL	Ricochet_Carowinds
-RidderStrijd	Avonturenpark Hellendoorn	0	90	Steel	29.1	42.7	42.7	1377.9	CL	RidderStrijd_Avonturenpark Hellendoorn
-Riddler's Revenge	Six Flags Magic Mountain	6	180	Steel	65	156	146	4370	CC & CL	Riddler's Revenge_Six Flags Magic Mountain
-Ride of Steel	Six Flags Darien Lake	0	122	Steel	73	208	205	5400	CC	Ride of Steel_Six Flags Darien Lake
-Ride to Happiness	Plopsaland De Panne	5	105	Steel	55.9	114.8	114.8	3087	CL	Ride to Happiness_Plopsaland De Panne
-Rita	Alton Towers	0	25	Steel	61.1	68.8	68.8	2099.7	CL	Rita_Alton Towers
-River King Mine Train	Six Flags St. Louis	0	180	Steel	37	32	41	2500	CC	River King Mine Train_Six Flags St. Louis
-Road Runner Express	Six Flags Magic Mountain	0	44	Steel	21.7	27.9	28	679.1	CL	Road Runner Express_Six Flags Magic Mountain
-Roar	Six Flags Discovery Kingdom	0	150	Wood	55	96	83	3200	CL	Roar_Six Flags Discovery Kingdom
-Roaring Timbers	Sun World Hon Thom - Exotica Village	0	130	Wood	49.7	106.3	106	2919.9	CL	Roaring Timbers_Sun World Hon Thom - Exotica Village
-Robin Hood	Walibi Holland	0	150	Wood	54	98.4	85	3478	CL	Robin Hood_Walibi Holland
-Roller Coaster	Dream Park	5	102	Steel	49.7	109.3	109.3	2509.8	CL	Roller Coaster_Dream Park
-Roller Coaster	Great Yarmouth Pleasure Beach	0	210	Wood	45	70	70	3223.1	CL	Roller Coaster_Great Yarmouth Pleasure Beach
-Roller Skater	Kijima Kogen Park	0	50	Steel	21.7	27.9	28	679.1	CL	Roller Skater_Kijima Kogen Park
-Ronde des Rondins	Fraispertuis City	0	48	Steel	16.2	10.8	11	197.5	CL	Ronde des Rondins_Fraispertuis City
-Rougarou	Cedar Point	4	160	Steel	60	145	137	3900	CC	Rougarou_Cedar Point
-Rougarou	Cedar Point	7	165	Steel	60	145	137	3910	CL	Rougarou_Cedar Point
-Royal Scotsman	Hansa-Park	0	70	Steel	31.1	52.5	52.5	1712.6	CL	Royal Scotsman_Hansa-Park
-Runaway Mine Train	Six Flags Great Adventure	0	180	Steel	32	42	42	2434	CL	Runaway Mine Train_Six Flags Great Adventure
-Runaway Mountain	Six Flags Over Texas	0	120	Steel	45	51	51	2330	CL	Runaway Mountain_Six Flags Over Texas
-SCOOBY-DOO! Spooky Coaster	Warner Bros. Movie World	0	253	Steel	28	55.8	7	1738.8	CC	SCOOBY-DOO! Spooky Coaster_Warner Bros. Movie World
-SLC	Wuxi Sunac Land	5	96	Steel	49.7	109.3	85	2260.5	CL	SLC_Wuxi Sunac Land
-SOS Tournevis	Parc Astérix	0	90	Steel	19.9	19.7	19.7	652.9	CL	SOS Tournevis_Parc Astérix
-Sahara Twist	Leofoo Village Theme Park	0	60	Steel	24.9	26.3	26.3	1246.8	CL	Sahara Twist_Leofoo Village Theme Park
-Sapphire Speedster Coaster	Merimbula's Magic Mountain	0	89	Steel	22.4	26.3	26.3	1099.1	CL	Sapphire Speedster Coaster_Merimbula's Magic Mountain
-Saw - The Ride	Thorpe Park	3	100	Steel	50	100	100	2000	CL	Saw - The Ride_Thorpe Park
-Scream	Six Flags Magic Mountain	7	180	Steel	63	150	141	3985	CL	Scream_Six Flags Magic Mountain
-Scream!	Six Flags Magic Mountain	7	180	Steel	63	150	141	3985	CC	Scream!_Six Flags Magic Mountain
-Screamin' Eagle	Six Flags St. Louis	0	150	Wood	62	110	92	3872	CC	Screamin' Eagle_Six Flags St. Louis
-Sea Dragon	Columbus Zoo and Aquarium	0	90	Wood	25	35	35	1320	CL	Sea Dragon_Columbus Zoo and Aquarium
-Sea Serpent	Morey's Piers	3	108	Steel	47	116.5	116	935	CL	Sea Serpent_Morey's Piers
-Sea Stallion	Six Flags Qiddiya City	0	63	Steel	43.5	39.4	39	1673.2	CL	Sea Stallion_Six Flags Qiddiya City
-Seis Banderas	Six Flags Mexico	0	180	Steel	32	42	42	1969	CL	Seis Banderas_Six Flags Mexico
-Serial Thriller	Dalmaland	5	96	Steel	49.7	109.3	85	2260.5	CL	Serial Thriller_Dalmaland
-Serpent Dragon	Sochi Park	4	150	Steel	62.1	124.7	124.7	3464.5	CL	Serpent Dragon_Sochi Park
-Shambhala	PortAventura Park	0	180	Steel	83.3	249.3	255.9	5131.3	CC	Shambhala_PortAventura Park
-Shambhala	PortAventura Park	0	180	Steel	83.5	249	256	4921.3	CL	Shambhala_PortAventura Park
-SheiKra	Busch Gardens Tampa Bay	2	180	Steel	60	200	200	3188	CL	SheiKra_Busch Gardens Tampa Bay
-Shock	MagicLand	1	80	Steel	59	114.8	115	2460.7	CL	Shock_MagicLand
-Shockwave	Six Flags Over Texas	3	165	Steel	55	116	106	3287	CL	Shockwave_Six Flags Over Texas
-Sidewinder	Elitch Gardens	1	66	Steel	45	56	47	635	CC	Sidewinder_Elitch Gardens
-Sidewinder	Elitch Gardens	3	108	Steel	47	116.5	116	935	CL	Sidewinder_Elitch Gardens
-Sierra Sidewinder	Knott's Berry Farm	0	116	Steel	36.9	64	41	1505.9	CC	Sierra Sidewinder_Knott's Berry Farm
-Silver Bullet	Knott's Berry Farm	6	150	Steel	55	146	109	3125	CC	Silver Bullet_Knott's Berry Farm
-Silver Star	Europa Park	0	195	Steel	78.3	239	220	5500	CL	Silver Star_Europa Park
-Silver Streak	Canada's Wonderland	0	76	Steel	26	48.6	49	1122	CL	Silver Streak_Canada's Wonderland
-Sirocco Tower	Six Flags Qiddiya City	0	60	Steel	50	300	300	1800	CL	Sirocco Tower_Six Flags Qiddiya City
-Skatteøen	Djurs Sommerland	0	90	Steel	43.5	91.9	72.2	1492.8	CL	Skatteøen_Djurs Sommerland
-Skull Mountain	Six Flags Great Adventure	0	84	Steel	33	40.5	37	1377	CC	Skull Mountain_Six Flags Great Adventure
-Skull Mountain	Six Flags Great Adventure	0	90	Steel	30	43	43	1380	CL	Skull Mountain_Six Flags Great Adventure
-Sky Scream	Plopsaland Deutschland	1	47	Steel	62	150	150	863	CL	Sky Scream_Plopsaland Deutschland
-SkyScreamer	Six Flags Mexico	0	120	Steel	75	242	242	200	CL	SkyScreamer_Six Flags Mexico
-Skyrush	Hersheypark	4	115	Steel	75	200	212	3600	CL	Skyrush_Hersheypark
-Snoopy's Racing Railway	Canada's Wonderland	0	60	Steel	31.1	40	40	1312.3	CL	Snoopy's Racing Railway_Canada's Wonderland
-Soaring Dragon	Fantawild Oriental Legend	5	120	Steel	57.8	160.8	161	3015.1	CL	Soaring Dragon_Fantawild Oriental Legend
-SooperDooperLooper	Hersheypark	1	180	Steel	45	62.5	62.5	2614	CL	SooperDooperLooper_Hersheypark
-Souris Mécaniques	Jardin d'Acclimatation	0	90	Steel	18.6	23	23	711.9	CL	Souris Mécaniques_Jardin d'Acclimatation
-Space Mountain	Walt Disney World - Magic Kingdom	0	155	Steel	27	90	39	3186	CL	Space Mountain_Walt Disney World - Magic Kingdom
-Space Shuttle	Enchanted Kingdom	3	108	Steel	47	116.5	116	935	CL	Space Shuttle_Enchanted Kingdom
-Speed Monster	TusenFryd	3	69	Steel	55.9	101.8	102	2263.8	CL	Speed Monster_TusenFryd
-Speed of Sound	Walibi Holland	3	108	Steel	47	116.5	116	935	CL	Speed of Sound_Walibi Holland
-Speedy Bob	Bobbejaanland	0	85	Steel	28	45.9	46	1213.9	CL	Speedy Bob_Bobbejaanland
-Spider	Lagoon	0	70	Steel	37.3	50.8	53	1391.1	CL	Spider_Lagoon
-Spin Mouse	Greenland	0	116	Steel	29.1	42.7	43	1377.9	CL	Spin Mouse_Greenland
-Spinturn Coaster	Nasu Highland Park	0	123	Steel	29.2	69.9	70	1640.4	CL	Spinturn Coaster_Nasu Highland Park
-SpongeBob SquarePants Rock Bottom Plunge	Nickelodeon Universe	2	120	Steel	43.5	74.5	75	1371.4	CL	SpongeBob SquarePants Rock Bottom Plunge_Nickelodeon Universe
-Sprocket Rockets	Six Flags Great America	0	44	Steel	21.7	27.9	28	679.1	CL	Sprocket Rockets_Six Flags Great America
-Stampida	PortAventura Park	0	100	Wood	46	84	88	3127	CL	Stampida_PortAventura Park
-Star Flyer	Star City	2	65	Steel	38	65.6	66	1148.3	CL	Star Flyer_Star City
-Starry Sky Ripper	Joyland	5	126	Steel	54.7	131.3	104.3	2805.1	CC	Starry Sky Ripper_Joyland
-Stealth	Thorpe Park	0	40	Steel	80	205	205	1312	CL	Stealth_Thorpe Park
-Steamin' Demon	Six Flags Great Escape	3	90	Steel	40	85	65	1565	CC	Steamin' Demon_Six Flags Great Escape
-Steel Curtain	Kennywood	8	120	Steel	75	220	205	4000	CL	Steel Curtain_Kennywood
-Steel Dolphin	Shanghai Haichang Ocean Park	0	75	Steel	52.8	108.3	108.3	3372.7	CL	Steel Dolphin_Shanghai Haichang Ocean Park
-Steel Dragon	Waldameer	0	84	Steel	37.3	50.8	51	1391.1	CL	Steel Dragon_Waldameer
-Steel Dragon 2000	Nagashima Spa Land	0	240	Steel	95	318.2	306.8	8133.2	CC	Steel Dragon 2000_Nagashima Spa Land
-Steel Eel	SeaWorld San Antonio	0	100	Steel	65	150	150	3700	CC	Steel Eel_SeaWorld San Antonio
-Steel Force	Dorney Park & Wildwater Kingdom	0	180	Steel	75	200	205	5600	CC	Steel Force_Dorney Park & Wildwater Kingdom
-Steel Force	Dorney Park	0	180	Steel	75	205	205	5600	CL	Steel Force_Dorney Park
-Steel Vengeance	Cedar Point	4	150	Steel	74	205	200	5740	CC & CL	Steel Vengeance_Cedar Point
-Storm	Magic Park Land	0	55	Steel	28	36.1	36	1066.3	CL	Storm_Magic Park Land
-Storm Chaser	Paultons Park	0	116	Steel	36.9	64	41	1505.9	CC	Storm Chaser_Paultons Park
-Storm Chaser	Kentucky Kingdom	3	120	Steel	58	100	100	2915	CL	Storm Chaser_Kentucky Kingdom
-Storm Runner	Hersheypark	3	50	Steel	72	150	180	2600	CC	Storm Runner_Hersheypark
-Storm Runner	Hersheypark	4	45	Steel	72	150	150	2700	CL	Storm Runner_Hersheypark
-Stress Express	Fantawild Asian Legend	3	108	Steel	47	116.5	116	935	CL	Stress Express_Fantawild Asian Legend
-Studio Tour	Movie Park Germany	0	120	Steel	37.3	39.4	39	1745.4	CL	Studio Tour_Movie Park Germany
-Super Cyclone	Santa's Village Amusement and Water Park	0	80	Steel	30	32.8	33	1148.3	CL	Super Cyclone_Santa's Village Amusement and Water Park
-Superman - Ultimate Flight	Six Flags Over Georgia	2	120	Steel	51	106	100	2759	CC	Superman - Ultimate Flight_Six Flags Over Georgia
-Superman - Ultimate Flight	Six Flags Great Adventure	2	126	Steel	51	106	100	2759	CC	Superman - Ultimate Flight_Six Flags Great Adventure
-Superman - Ultimate Flight	Six Flags Great America	2	180	Steel	51	106	100	2798	CC	Superman - Ultimate Flight_Six Flags Great America
-Superman Krypton Coaster	Six Flags Fiesta Texas	6	155	Steel	70	168	168	4025	CL	Superman Krypton Coaster_Six Flags Fiesta Texas
-Superman el Último Escape	Six Flags Mexico	0	184	Steel	74.6	219.8	205	5577.4	CC	Superman el Último Escape_Six Flags Mexico
-Superman the Ride	Six Flags New England	0	155	Steel	77	208	221	5400	CC	Superman the Ride_Six Flags New England
-Superman: El Ultimo Escape	Six Flags Mexico	5	155	Steel	49.7	109.3	85	2260	CL	Superman: El Ultimo Escape_Six Flags Mexico
-Superman: Escape from Krypton	Six Flags Magic Mountain	0	28	Steel	104	415	328	1315	CL	Superman: Escape from Krypton_Six Flags Magic Mountain
-Superman: The Ride	Six Flags New England	0	180	Steel	77	208	221	5400	CL	Superman: The Ride_Six Flags New England
-Superman: Tower of Power	Six Flags Over Texas	0	60	Steel	70	325	250	200	CL	Superman: Tower of Power_Six Flags Over Texas
-Superman: Ultimate Flight	Six Flags Great Adventure	4	150	Steel	60	106	100	2759	CL	Superman: Ultimate Flight_Six Flags Great Adventure
-Superman: Ultimate Flight	Six Flags Discovery Kingdom	0	63	Steel	38	120	54	1019	CL	Superman: Ultimate Flight_Six Flags Discovery Kingdom
-Swamp Fox	Family Kingdom Amusement Park	0	120	Wood	50	72	62	2640	CL	Swamp Fox_Family Kingdom Amusement Park
-Swarm	Thorpe Park	4	85	Steel	49.7	127	127	2362	CL	Swarm_Thorpe Park
-Symbolica	Efteling	0	300	Steel	15	40	40	880	CL	Symbolica_Efteling
-T3	Kentucky Kingdom	5	96	Steel	49.7	109.3	85	2260.5	CL	T3_Kentucky Kingdom
-Taiga	Linnanmäki	4	90	Steel	65.9	170.6	105	3622	CL	Taiga_Linnanmäki
-Talon	Dorney Park & Wildwater Kingdom	4	120	Steel	58	135	120	3110	CL	Talon_Dorney Park & Wildwater Kingdom
-Taron	Phantasialand	0	155	Steel	72.7	98	98	4300	CL	Taron_Phantasialand
-Tatsu	Six Flags Magic Mountain	4	200	Steel	62	170	111	3602	CL	Tatsu_Six Flags Magic Mountain
-Tempesto	Busch Gardens Williamsburg	3	60	Steel	63	157	154	1378	CL	Tempesto_Busch Gardens Williamsburg
-Tennessee Tornado	Dollywood	3	108	Steel	63	163	128	2682	CC	Tennessee Tornado_Dollywood
-Tentomushi	Tobu Zoo Park	0	90	Steel	19.9	19.7	20	652.9	CL	Tentomushi_Tobu Zoo Park
-Terror Twister	Nantong Adventure Land	2	50	Steel	65.3	151.6	152	492.2	CL	Terror Twister_Nantong Adventure Land
-Texas Giant	Six Flags Over Texas	0	180	Wood	62	143	137	4920	CL	Texas Giant_Six Flags Over Texas
-Texas Stingray	SeaWorld San Antonio	0	150	Wood	55	96	100	3379	CL	Texas Stingray_SeaWorld San Antonio
-The Polar X-plorer	Legoland Billund	0	150	Steel	35	75	75	1247	CL	The Polar X-plorer_Legoland Billund
-Thunder Dolphin	Tokyo Dome City	0	90	Steel	80.8	262.5	218.2	3500	CC	Thunder Dolphin_Tokyo Dome City
-Thunder Run	Canada's Wonderland	0	84	Steel	40	33	33	1083	CL	Thunder Run_Canada's Wonderland
-Thunder Striker	Carowinds	0	213	Steel	75	232	211	5316	CC	Thunder Striker_Carowinds
-Thunderbird	PowerPark	0	93	Wood	48	82	80	2713	CC	Thunderbird_PowerPark
-Thunderbird	Holiday World	4	78	Steel	60	140	125	3035	CL	Thunderbird_Holiday World
-Thunderbolt	Kennywood	0	101	Wood	55	70	90	3250	CC	Thunderbolt_Kennywood
-Thunderhawk	Dorney Park & Wildwater Kingdom	0	78	Wood	45	80	65	2767	CC	Thunderhawk_Dorney Park & Wildwater Kingdom
-Thunderhawk	Michigan's Adventure	5	96	Steel	49.7	109.3	85	2260.5	CL	Thunderhawk_Michigan's Adventure
-Tiger Express	Mer de Sable	0	85	Steel	28	45.9	46	1213.9	CL	Tiger Express_Mer de Sable
-Tiki-Waka	Walibi Belgium	0	90	Steel	41	75	75	1400	CL	Tiki-Waka_Walibi Belgium
-Timber	Walibi Rhône-Alpes	0	32	Wood	40	55.8	54.8	1464	CL	Timber_Walibi Rhône-Alpes
-Timber Terror	Silverwood Theme Park	0	92	Steel	55	85	81	2700	CL	Timber Terror_Silverwood Theme Park
-Timber Wolf	Worlds of Fun	0	133	Wood	53	100	95	4230	CC	Timber Wolf_Worlds of Fun
-Time Traveler	Silver Dollar City	3	117	Steel	50.3	100	90	3020	CC	Time Traveler_Silver Dollar City
-Titan	Six Flags Over Texas	0	210	Steel	85	245	255	5312	CC & CL	Titan_Six Flags Over Texas
-Tom y Jerry	Parque Warner Madrid	0	65	Steel	22.4	26.3	26.3	1181.1	CL	Tom y Jerry_Parque Warner Madrid
-Tonnerre 2 Zeus	Parc Astérix	0	125	Wood	52	98	98	4044	CL	Tonnerre 2 Zeus_Parc Astérix
-Toos-Express	Toverland	0	52	Steel	37.3	39.3	39.3	1049.9	CL	Toos-Express_Toverland
-Top Thrill 2	Cedar Point	0	30	Steel	120	420	400	3422	CC	Top Thrill 2_Cedar Point
-Top Thrill 2	Cedar Point	1	35	Steel	120	420	400	3000	CL	Top Thrill 2_Cedar Point
-Top Thrill Dragster	Cedar Point	0	17	Steel	120	420	400	2800	CL	Top Thrill Dragster_Cedar Point
-Tornado	Adventureland	0	120	Wood	58	93	93	2840	CL	Tornado_Adventureland
-Tornado	Parque de Atracciones de Madrid	3	120	Steel	49.7	98	98	2624.7	CL	Tornado_Parque de Atracciones de Madrid
-Tornado	Särkänniemi Amusement Park	5	94	Steel	46.6	82	82	2296.6	CL	Tornado_Särkänniemi Amusement Park
-Toxic Garden	Heide Park Resort	5	96	Steel	49.7	109.3	85	2260.5	CL	Toxic Garden_Heide Park Resort
-Train de la Mine	La Coccinelle	0	60	Steel	24.9	32.8	31.2	984.3	CC	Train de la Mine_La Coccinelle
-Tremors	Silverwood Theme Park	0	100	Steel	50	85	99	3158	CC	Tremors_Silverwood Theme Park
-Tren Minero	Fantasilandia	0	180	Steel	30.1	45.9	46	2575.5	CL	Tren Minero_Fantasilandia
-Troy	Toverland	0	110	Wood	54	104.5	100.7	3534	CC	Troy_Toverland
-Troy	Toverland	0	150	Wood	54.1	118.1	110	3769	CL	Troy_Toverland
-Tsunami	Six Flags Mexico	0	75	Steel	50	60	60	1400	CL	Tsunami_Six Flags Mexico
-Tumbili	Kings Dominion	3	95	Steel	48	112	112	1558	CL	Tumbili_Kings Dominion
-Turbine	Walibi Belgium	1	35	Steel	53	137.8	138	722	CL	Turbine_Walibi Belgium
-Turbo Track	Ferrari World Abu Dhabi	0	40	Steel	102	131.2	50	656	CL	Turbo Track_Ferrari World Abu Dhabi
-Twist	Le Pal	0	90	Steel	43.5	72.2	72	1542	CL	Twist_Le Pal
-Twisted Colossus	Six Flags Magic Mountain	2	220	Steel	57	121	128	4990	CC	Twisted Colossus_Six Flags Magic Mountain
-Twisted Colossus	Six Flags Magic Mountain	0	180	Steel	57	121	128	4990	CL	Twisted Colossus_Six Flags Magic Mountain
-Twisted Cyclone	Six Flags Over Georgia	3	120	Steel	50	100	100	2400	CL	Twisted Cyclone_Six Flags Over Georgia
-Twisted Timbers	Kings Dominion	0	90	Steel	54	109	109	3351	CL	Twisted Timbers_Kings Dominion
-Twisted Typhoon	Wild Adventures	5	96	Steel	49.7	109.3	85	2260.5	CL	Twisted Typhoon_Wild Adventures
-Twister	Knoebels Amusement Resort	0	130	Wood	51.5	101.6	89.6	3900	CC	Twister_Knoebels Amusement Resort
-Twister	Quancheng Euro Park	4	160	Steel	46.6	105	105	2585.3	CL	Twister_Quancheng Euro Park
-Twister	Gröna Lund	0	90	Wood	38	51	46	1544	CL	Twister_Gröna Lund
-Untamed	Walibi Holland	4	106	Steel	57.2	119.8	116.1	3559.7	CC	Untamed_Walibi Holland
-Untamed	Walibi Holland	3	140	Steel	57.2	118.1	118	2575	CL	Untamed_Walibi Holland
-V2: Vertical Velocity	Six Flags Discovery Kingdom	0	60	Steel	68	150	150	630	CL	V2: Vertical Velocity_Six Flags Discovery Kingdom
-Valkyria	Liseberg	3	90	Steel	65.2	154.2	164	2296.6	CL	Valkyria_Liseberg
-Valravn	Cedar Point	3	140	Steel	75	223	214	3415	CL	Valravn_Cedar Point
-Vampire	Walibi Belgium	5	96	Steel	49.7	109.3	85	2260	CL	Vampire_Walibi Belgium
-Vapor Trail	Sesame Place	0	180	Steel	27	43	56	1299.2	CC	Vapor Trail_Sesame Place
-Velocicoaster	Islands of Adventure	4	155	Steel	70	155	155	4700	CL	Velocicoaster_Islands of Adventure
-Velociraptor	IMG Worlds of Adventure	2	75	Steel	62.1	117.3	117	1476	CL	Velociraptor_IMG Worlds of Adventure
-Verbolten	Busch Gardens Williamsburg	0	110	Steel	53	88	88	3000	CL	Verbolten_Busch Gardens Williamsburg
-Vertical Velocity	Six Flags Great America	0	60	Steel	68	185	185	630	CL	Vertical Velocity_Six Flags Great America
-Vertigo	Zoomarine	1	90	Steel	47.8	80.4	80	1942.3	CL	Vertigo_Zoomarine
-Vindfald	Tivoli Friheden	2	70	Steel	44.7	75.5	65.6	984.3	CC	Vindfald_Tivoli Friheden
-Viper	Six Flags Magic Mountain	7	150	Steel	70	188	171	3830	CC	Viper_Six Flags Magic Mountain
-Viper	Six Flags Darien Lake	5	124	Steel	50	121	75	3100	CC	Viper_Six Flags Darien Lake
-Viper	Six Flags Great America	0	105	Wood	50	100	80	3458	CC	Viper_Six Flags Great America
-Viper	Darien Lake	5	108	Steel	50.3	120	115	2800	CL	Viper_Darien Lake
-Viper	Six Flags Magic Mountain	7	180	Steel	70	188	171	3830	CL	Viper_Six Flags Magic Mountain
-Vogel Rok	Efteling	0	101	Steel	40.4	65.6	62.3	2460.6	CC	Vogel Rok_Efteling
-Vogel Rok	Efteling	0	120	Steel	26.1	41.3	41.3	2365	CL	Vogel Rok_Efteling
-Vortex	Canada's Wonderland	0	96	Steel	55	91	85	2361	CC	Vortex_Canada's Wonderland
-Vortex	Canada's Wonderland	3	108	Steel	47	116.5	116	935	CL	Vortex_Canada's Wonderland
-Vortex	Carowinds	0	105	Steel	60	90	90	2040	CL	Vortex_Carowinds
-Voyage	Holiday World	0	165	Wood	67	159	154	6442	CC	Voyage_Holiday World
-Voyage	Holiday World	0	163	Wood	67	159	154	6442	CL	Voyage_Holiday World
-Vuelta al Mundo en 80 Dias	Six Flags Mexico	0	180	Steel	32	42	42	2200	CL	Vuelta al Mundo en 80 Dias_Six Flags Mexico
-Vuoristorata	Linnanmäki	0	130	Wood	37.3	75.2	75.2	3149.6	CL	Vuoristorata_Linnanmäki
-West Coast Racers	Six Flags Magic Mountain	4	180	Steel	55	67	67	4000	CL	West Coast Racers_Six Flags Magic Mountain
-White Lightning	Fun Spot America	0	75	Wood	44.3	69.7	67.2	2032	CC	White Lightning_Fun Spot America
-Whizzer	Six Flags Great America	0	120	Steel	42	70	64	3100	CC	Whizzer_Six Flags Great America
-Wicked Cyclone	Six Flags New England	3	150	Steel	55	111	109	3320	CL	Wicked Cyclone_Six Flags New England
-Wild Chipmunk	Lakeside Amusement Park	0	48	Steel	21	41	41	1150	CL	Wild Chipmunk_Lakeside Amusement Park
-Wild Mouse	Antibes Land	0	80	Steel	28	45.9	45.9	1213.9	CL	Wild Mouse_Antibes Land
-Wild Mouse	Nagashima Spa Land	0	88	Steel	28	45.9	46	1213.9	CL	Wild Mouse_Nagashima Spa Land
-Wild Rider	Panorama Mountain Resort	0	180	Steel	24.9	541	541	5977.7	CL	Wild Rider_Panorama Mountain Resort
-Wild Thing	Valleyfair!	0	180	Steel	74	207	196	5460	CC & CL	Wild Thing_Valleyfair!
-Wild West Coaster	Winnoland	0	56	Steel	28.6	38.4	38	833.3	CL	Wild West Coaster_Winnoland
-Wildcat	Frontier City	0	130	Wood	46	75	65	2653	CC	Wildcat_Frontier City
-Wildcat	Lake Compounce	0	75	Wood	48	85	78	2746	CC	Wildcat_Lake Compounce
-Wildcat	Hersheypark	0	100	Steel	48	140	140	3183	CL	Wildcat_Hersheypark
-Wilde Beast	Canada's Wonderland	0	122	Wood	56	82	78	3150	CC	Wilde Beast_Canada's Wonderland
-Wilde Maus	Wiener Prater	0	70	Steel	28	49.3	49	1213.9	CL	Wilde Maus_Wiener Prater
-Wildfire	Silver Dollar City	5	136	Steel	66	120	155	3073	CC	Wildfire_Silver Dollar City
-Wildfire	Kolmården	3	120	Wood	71.5	183.8	160.8	4150.3	CC	Wildfire_Kolmården
-Wildfire	Kolmården Wildlife Park	3	155	Steel	71	183	164	3540	CL	Wildfire_Kolmården Wildlife Park
-Wipeout	Walibi Holland	0	120	Steel	25	50	50	900	CL	Wipeout_Walibi Holland
-Wodan - Timbur Coaster	Europa Park	0	180	Wood	62.1	131.2	130	3280	CL	Wodan - Timbur Coaster_Europa Park
-Wonder Woman Flight of Courage	Six Flags Magic Mountain	3	120	Steel	52	131	130	3300	CL	Wonder Woman Flight of Courage_Six Flags Magic Mountain
-Wonder Woman Golden Lasso Coaster	Six Flags Fiesta Texas	3	90	Steel	52	113	100	1800	CL	Wonder Woman Golden Lasso Coaster_Six Flags Fiesta Texas
-Wonder Woman: Lasso of Truth	Six Flags Great Adventure	0	120	Steel	75	200	200	3000	CL	Wonder Woman: Lasso of Truth_Six Flags Great Adventure
-Wooden Dragons Roller Coaster	Jinan Sunac Land	0	90	Wood	46	75.5	73.2	2644.4	CC	Wooden Dragons Roller Coaster_Jinan Sunac Land
-Wooden Warrior	Quassy Amusement Park	0	60	Wood	35	32	36	1239	CL	Wooden Warrior_Quassy Amusement Park
-Woodstock Express	Carowinds	0	90	Steel	30	35	35	1300	CL	Woodstock Express_Carowinds
-Woodstock Express	Kings Island	0	90	Steel	23	33	33	1350	CL	Woodstock Express_Kings Island
-Wrath of Rakshasa	Six Flags Great America	5	120	Steel	67	180	171	3239	CL	Wrath of Rakshasa_Six Flags Great America
-X-Flight	Six Flags Great America	5	175	Steel	54	120	120	3000	CL	X-Flight_Six Flags Great America
-X-treme Racers	Legoland Billund	0	90	Steel	35	51.8	49.8	1312.3	CL	X-treme Racers_Legoland Billund
-X2	Six Flags Magic Mountain	2	210	Steel	76	175	215	3610	CL	X2_Six Flags Magic Mountain
-Xcelerator	Knott's Berry Farm	0	62	Steel	82	205	205	2202	CL	Xcelerator_Knott's Berry Farm
-Xpress: Platform 13	Walibi Holland	3	75	Steel	55.9	84.7	85	3267.7	CL	Xpress: Platform 13_Walibi Holland
-Yas Waterworld Roller Coaster	Yas Waterworld	0	95	Steel	25	60	60	1312	CL	Yas Waterworld Roller Coaster_Yas Waterworld
-YoY	Walibi Holland	6	90	Steel	51	95.1	88.6	2149	CL	YoY_Walibi Holland
-Young Star Coaster	Farglory Ocean Park	0	44	Steel	21.7	27.9	28	679.1	CL	Young Star Coaster_Farglory Ocean Park
-Yukon Striker	Canada's Wonderland	4	205	Steel	80.8	223	245	3625	CC	Yukon Striker_Canada's Wonderland
-Yukon Striker	Canada's Wonderland	4	180	Steel	81	223	245	3625	CL	Yukon Striker_Canada's Wonderland
-Zadra	Energylandia	3	175	Steel	75	207	206	4180	CL	Zadra_Energylandia
-Zeus	Mt. Olympus Water & Theme Park	0	85	Wood	60	90	85	2900	CC	Zeus_Mt. Olympus Water & Theme Park
-Zimerman	Glorious Fantasyland	3	80	Steel	55	70	65	1565	CC	Zimerman_Glorious Fantasyland
-Zippin Pippin	Bay Beach Amusement Park	0	90	Wood	42	70	63	2347	CC	Zippin Pippin_Bay Beach Amusement Park
-blue fire Megacoaster	Europa Park	4	150	Steel	62.1	124.7	125	3464.5	CL	blue fire Megacoaster_Europa Park
+Name	Park	Inversions	Duration	Track	Speed	Height	Drop	Length
+1066	Festyland	0	60	Steel	40.4	65.6	55.8	1312.3
+Abismo	Parque de Atracciones de Madrid	2	60	Steel	65.2	151.6	160.8	1476.4
+Abyss	Adventure World	3	120	Steel	52.8	98.4	100	2066.9
+Abyssus	Energylandia	3	120	Steel	59	131.2	131.2	3478
+Acrobat	Nagashima Spa Land	4	180	Steel	55.9	141.1	141	3349.8
+Adventure Express	Kings Island	0	140	Steel	35	63	47	2963
+Afterburn	Carowinds	6	167	Steel	62	113	113	2956
+Aladdin Coaster	Sinbad Land	0	135	Steel	29.1	42.7	42.7	1377.9
+Alap Alap	Dunia Fantasi	0	58	Steel	19.9	19.7	20	652.9
+AlpenFury	Canada's Wonderland	7	80	Steel	71.5	164	154.2	3280.8
+Alpengeist	Busch Gardens Williamsburg	6	190	Steel	67	195	170	3828
+American Eagle	Six Flags Great America	0	143	Wood	66	127	147	4650
+Anaconda	Gold Reef City	5	100	Steel	55.9	111.6	160.8	2447.5
+Anaconda	Luna Park Tel Aviv	3	108	Steel	47	116.5	116	935
+Anaconda	Kings Dominion	6	180	Steel	50	128	144	2700
+Apocalypse	Six Flags Magic Mountain	0	120	Wood	50	105	100	2900
+Apocalypse the Ride	Six Flags Magic Mountain	0	180	Wood	50.1	95	87.3	2877
+Apollo's Chariot	Busch Gardens Williamsburg	0	135	Steel	73	170	210	4882
+Arashi	Nagashima Spa Land	0	60	Steel	38	120	54	1019
+ArieForce One	Fun Spot America Atlanta	4	100	Steel	64	155	146	3400
+Arthur - The Ride	Europa Park	2	180	Steel	26.1	54.1	54	3020
+Astro Storm	Brean Theme Park	0	90	Steel	40	59	59	1476.4
+Atlantica SuperSplash	Europa Park	0	200	Steel	49.7	98.4	98	1279.5
+Atlantis Adventure	Lotte World Adventure	0	108	Steel	46.6	72.2	72.2	2198.1
+AtmosFear	Liseberg	0	120	Steel	80	256	256	1180
+Aurora	Hossoland	0	63	Steel	34.2	65.6	66	1295.9
+Avengers Assemble: Flight Force	Disneyland Paris - Walt Disney Studios Park	3	70	Steel	57	80	80	3267.7
+Backlot Stunt Coaster	Canada's Wonderland	0	64	Steel	40	45.2	31.2	1960
+Backlot Stunt Coaster	Kings Dominion	0	120	Steel	40	50	50	1960
+Balagos	Avonturenpark Hellendoorn	2	68	Steel	37.3	82	82	1509.2
+Balder	Liseberg	0	128	Wood	55.9	118.1	100	3510.5
+Bandit	Movie Park Germany	0	90	Wood	49.7	91.2	81.7	3605.7
+Bandit	Yomiuriland	0	138	Steel	68.4	167.3	256	5118.1
+Banshee	Kings Island	7	160	Steel	68	167	150	4124
+Barnstormer	Walt Disney World - Magic Kingdom	0	60	Steel	25	30	25	794
+Baron 1898	Efteling	2	130	Steel	55.9	98.4	123	1643.7
+Bat	Canada's Wonderland	3	108	Steel	47	116.5	116	935
+Bat	Kings Island	0	112	Steel	51	78	70	2352
+Bat	Lagoon	0	90	Steel	26	48.6	49	1122
+Batgirl Batarang	Six Flags Mexico	3	108	Steel	47	116.5	125	935
+Batman - The Dark Knight	Six Flags New England	5	140	Steel	55	117.8	117	2600
+Batman Gotham City Escape	Parque Warner Madrid	4	111	Steel	64	147.6	147	3313.6
+Batman The Ride	Six Flags Great Adventure	5	90	Steel	50	105	80	2693
+Batman The Ride	Six Flags Great America	5	120	Steel	50	100	85	2700
+Batman The Ride	Six Flags Magic Mountain	5	120	Steel	50	105	85	2700
+Batman The Ride	Six Flags St. Louis	5	120	Steel	50	105	85	2693
+Battle of Blue Fire	Quancheng Euro Park	4	150	Steel	62.1	124.7	125	3464.5
+Battlestar Galactica	Universal Studios Singapore	5	90	Steel	55.9	140.1	140	3185.7
+Bear Coaster	Higashiyama Zoo and Botanical Gardens	0	80	Steel	15.5	15.9	16	479
+Beast	Kings Island	0	250	Wood	64.8	110	141	7361
+Behemoth	Canada's Wonderland	0	180	Steel	77	230	226	5318
+Big Apple Coaster	New York, New York Hotel & Casino	2	160	Steel	67	203	144	4777
+Big Bad John	Magic Springs Theme and Water Park	0	180	Steel	37	32	41	2349
+Big Bang	Freizeitpark Familienland	0	38	Steel	40.4	72.2	72	1738.8
+Big Boom	Nasu Highland Park	1	184	Steel	54.7	126	95	2132.6
+Big One	Pleasure Beach Resort	0	180	Steel	74	213	205	5497
+Big Thunder Mountain	Disneyland Paris - Disneyland Park	0	236	Steel	40.4	72.2	39.3	3953.4
+Bizarro	Six Flags Great Adventure	5	170	Steel	61	137	125	3985
+Black Hole 2000	Seoul Land	2	165	Steel	52.8	113.8	114	3195.5
+Black Mamba	Phantasialand	4	60	Steel	49.7	85.3	88.6	2519.7
+Blue Hawk	Six Flags Over Georgia	5	80	Steel	52	122	122	2739.5
+Blue Streak	Cedar Point	0	105	Wood	40	78	72	2558
+Blue Tornado	Gardaland	5	102	Steel	49.7	109.3	109	2509.8
+Boardwalk Bullet	Kemah Boardwalk	0	105	Wood	51	96	92	3236
+Bob Express	Bobbejaanland	0	150	Steel	22.4	32.8	33	1709.3
+Bobbahn	Heide Park Resort	0	100	Steel	32.9	88.6	88.6	3248
+Boomerang	Family Fun	3	108	Steel	47	116.5	116	935
+Boomerang	Six Flags Darien Lake	3	108	Steel	47	116.5	125	935
+Boomerang-Roller Coaster	Al-Shallal Theme Park	3	108	Steel	47	116.5	116	935
+Boulder Dash	Lake Compounce	0	150	Wood	60	115	115	4725
+Bravely Traversing Tresure Island	Dinosaur Town	5	110	Steel	55	113.8	114	2329.4
+Bruco Miniottovolante	Zoosafari Fasanolandia	0	40	Steel	13.4	12.2	12	393.7
+Bullet Train	Gingko Lake Amusement Park	0	155	Steel	33.2	65.6	65.6	2673.9
+Bumerang	Tashkentland	3	108	Steel	47	116.5	116	935
+Búmeran	Parque Diversiones	3	108	Steel	47	116.5	116	935
+Cagliostro	MagicLand	0	75	Steel	36	55.8	56	1410.8
+Calamity Mine	Walibi Belgium	0	180	Steel	32	50	50	1700
+Candymonium	Hersheypark	0	180	Steel	76	210	210	4636
+Cannibal	Lagoon	0	150	Steel	70	208	208	2735
+Cannon Ball	Lake Winnepesaukah	0	92	Wood	50	70	70	2272
+Canyon Blaster	Adventuredome	4	90	Steel	41	94	66	2423
+Carolina Cyclone	Carowinds	4	90	Steel	41	95	65	2100
+Cedar Creek Mine Ride	Cedar Point	0	180	Steel	35	48	48	2540
+Cheetah Hunt	Busch Gardens Tampa Bay	0	210	Steel	60	102	102	4429
+Chip & Dale's Gadget Coaster	Disneyland	0	44	Steel	21.7	27.9	28	679.1
+Chupacabra	Six Flags Fiesta Texas	5	120	Steel	50	105	80	2693
+Circus Coaster	Luna Park	0	90	Steel	18.6	29.5	29.5	574.2
+Classic Coaster	Washington State Fair	0	105	Wood	50	55	52	2650
+Coaster Blu	Tetysblu Theme Park	0	66	Steel	28.5	42.7	43	1099.1
+Coaster Express	Parque Warner Madrid	0	120	Wood	59	120	120	4574
+Coaster Through the Clouds	Nanchang Sunac Land	0	252	Steel	84.5	242.8	255.9	5105
+Cobra	Djurs Sommerland	3	90	Steel	55.9	85	85	2952
+Cobra's Curse	Busch Gardens Tampa Bay	1	165	Steel	40	70	70	2100
+Colorado Adventure	Phantasialand	0	175	Steel	31.1	85.3	85.3	4199.5
+Colossos - Kampf der Giganten	Heide Park Resort	0	145	Wood	68.4	164	159.1	4409.4
+Colossus	Six Flags Qiddiya City	0	120	Wood	50.2	94.5	88.6	2918.6
+Colossus	Thorpe Park	10	100	Steel	40.4	98.4	98.4	2790
+Columbia Double Loop Coaster	Seoul Land	2	135	Steel	52.8	105	105	2913.4
+Comet	Hersheypark	0	105	Wood	50	84	78	3360
+Comet	Six Flags Great Escape	0	120	Wood	55	95	87	4197
+Comet	Waldameer	0	84	Wood	25	37	25	1300
+Copperhead Strike	Carowinds	5	144	Steel	50	82	80	3255
+Corkscrew	Valleyfair!	3	90	Steel	50	85	85	1950
+Corkscrew	Rusutsu Resort	2	80	Steel	39.1	69.9	70	1254.9
+Corkscrew	Cedar Point	3	120	Steel	48	85	75	2050
+Correcaminos Bip, Bip	Parque Warner Madrid	0	76	Steel	37.3	52.5	53	1574.8
+Corsaire	Cobac Parc	0	60	Steel	24.9	32.8	32.2	984.3
+CraZanity	Six Flags Magic Mountain	0	120	Steel	75	170	170	3000
+Crazy Bats	Phantasialand	0	240	Steel	28.9	38.4	38	3855
+Crazy Cab Coaster	Trans Studio Mini	0	44	Steel	21.7	27.9	28	679.1
+Crazy Crab	Steel Pier	0	95	Steel	37.3	49.2	49	1312.3
+Crazy Mine	Hansa-Park	0	70	Steel	28	49.3	49.3	1213.9
+Crazy Scooter	Happy Valley	2	47	Steel	43.5	49.3	49	1036.7
+Crouching Tiger Hidden Dragon	Yanji Dinosaur Kingdom	1	120	Steel	63.4	191.3	161.7	2854.3
+Crystal Wing	Happy Valley	2	140	Steel	51	106	100	2798
+Cyclone	Luna Park	0	110	Wood	60	75	85	2850.3
+Cyclone	City Park of Culture and Rest	0	80	Steel	34.2	39.3	39	1099
+Cyclops	Mt. Olympus Water & Theme Park	0	60	Wood	58	70	75	1900
+Cú Chulainn Coaster	Emerald Park	0	165	Wood	56	105	105.8	3590
+Dark Knight	Six Flags Great Adventure	0	108	Steel	30	53	53	1267
+Das Große LEGO Rennen	Legoland Deutschland	0	90	Steel	35	51.8	49.8	1312.3
+De Vliegende Hollander	Efteling	0	180	Steel	27.3	42.7	42.7	2001
+Death Rail	Al Zawraa Land	5	96	Steel	49.7	109.3	85	2260.5
+Decepticoaster	Universal Studios Beijing	7	155	Steel	63.8	121.7	105	4150.3
+Defiance	Glenwood Caverns Adventure Park	2	56	Steel	56	75	110	1082.7
+Demon	Six Flags Great America	4	105	Steel	50	103.7	90	2130
+Demon	California's Great America	4	105	Steel	50	102	90	2130
+Desafío	Parque de la Costa	5	96	Steel	49.7	109.3	85	2260.5
+Desmo Race	Mirabilandia	0	60	Steel	49.7	72.2	72.2	1722.4
+Desperado	Buffalo Bill's Resort	0	165	Steel	80	209	225	5843
+Devil's Loop	Legendia Śląskie Wesołe Miasteczko	2	87	Steel	43.5	65.6	66	1148
+Diabolik	Movieland Park	3	90	Steel	50	131.3	131	1013.8
+Diamondback	Frontier City	1	66	Steel	45	56	47	635
+Diamondback	Kings Island	0	180	Steel	80	230	215	5282
+Diavlo	Himeji Central Park	5	108	Steel	48.5	108.3	85	2606
+Diving Coaster: Vanish	Yokohama Cosmoworld	0	118	Steel	62.1	115	121.4	2441.5
+Dizzy Love & Whirling Passion	Discoveryland	4	130	Steel	49.7	108.3	95.2	2624.7
+Dominator	Kings Dominion	5	180	Steel	55	161	148	4210
+Drachenritt	Belantis	0	90	Steel	44	59	59	1641
+DrageKongen	Djurs Sommerland	0	120	Steel	52.8	98.4	98.4	2706.7
+Dragekongen	Fårup Sommerland	0	90	Steel	55.9	95.1	75.5	2625
+Dragon Fyre	Canada's Wonderland	4	90	Steel	50	78	76	2160
+Dragon Khan	PortAventura Park	8	105	Steel	65	148	161	4165
+Dragon Mountain	Marineland	4	105	Steel	56	186	186	5500
+Dragon in Clouds	Happy Valley	4	92	Steel	53.7	117.8	111.8	2454.1
+Dragon in Snowfield	Happy Valley	0	140	Steel	30.1	45.9	46	2575.5
+Dream Coaster	Kamine Park	0	120	Steel	42.3	85.3	85.3	1542
+Dream Coaster	Dream City	3	45	Steel	43.5	82	82	1263.1
+Dwervelwind	Toverland	0	112	Steel	43.5	65.6	66	1515.7
+Dæmonen	Tivoli Gardens	3	106	Steel	48	91.9	65.6	1850.4
+Ednor - L'Attaque	La Ronde	5	96	Steel	49.7	109.3	85	2260.5
+El Condor	Walibi Holland	5	96	Steel	49.7	109.3	85	2260
+El Toro	Six Flags Great Adventure	0	102	Wood	70	181	176	4400
+Emperor	SeaWorld San Diego	3	95	Steel	60	153	143	2411
+Euro Mir	Europa Park	0	273	Steel	49.7	92	86	3215.3
+Eurosat - CanCan Coaster	Europa Park	0	198	Steel	37.3	83.7	84	3024.8
+Excalibur	Valleyfair!	0	137	Steel	54.5	100	105	2415
+Excalibur	Funtown Splashtown U.S.A.	0	118	Wood	55	100	82	2700
+Expedition Everest	Walt Disney World - Disney's Animal Kingdom	0	170	Steel	50	112	80	3884.5
+Expedition GeForce	Holiday Park	0	165	Steel	74.6	190	177	4839
+Exterminator	Kennywood	0	108	Steel	29.1	42.7	43	1377.9
+Fahrenheit	Hersheypark	6	85	Steel	58	121	121	2700
+Falcon	Wuxi Sunac Land	4	120	Steel	73.3	197.5	196.9	4192.9
+Falcon's Flight	Six Flags Qiddiya City	0	180	Steel	155	525	550	13714
+Family Coaster	Children's Grand Park	0	62	Steel	34.2	64.3	64	1295.9
+Famous Jack	Bagatelle	0	90	Steel	29.1	42.7	42.7	1377.9
+Firewhip	Beto Carrero World	5	96	Steel	49.7	109.3	85	2260.5
+Fjord Flying Dragon	Happy Valley	0	90	Wood	54.1	111.6	91.8	3989.5
+Flagermusen	Fårup Sommerland	0	90	Steel	29.1	42.7	43	1377.9
+Flash	Lewa Adventure	2	128	Steel	71.5	200.2	190.3	4176.5
+Flashback	Six Flags New England	3	108	Steel	47	116.5	115	935
+Flashback	Six Flags Great Escape	3	108	Steel	47	116.5	116	935
+Flight Deck	California's Great America	3	146	Steel	50	102	91	2260
+Flight of Fear	Kings Island	4	60	Steel	54	74.2	74	2705
+Fluch des Kraken	Freizeit-Land Geiselwind	3	108	Steel	47	116.5	116	935
+Flucht von Novgorod	Hansa-Park	1	120	Steel	62.1	131.2	131.2	2296.6
+Fly	Canada's Wonderland	0	90	Steel	35	51.8	49.8	1312.3
+Flying Aces	Ferrari World Abu Dhabi	5	150	Steel	75	207.5	207	4223
+Flying Cobras	Carowinds	3	108	Steel	47	116.5	116	935
+Flying Eagle	Legoland Billund	0	90	Steel	26.1	49.2	49.2	1050
+Formula Rossa	Ferrari World Abu Dhabi	0	92	Steel	149.1	170.6	171	6804.5
+Freestyle	Cavallino Matto	1	92	Steel	51	88	84	2210
+Freischütz	Bayern-Park	4	50	Steel	49.7	78.7	78.7	1584.7
+Fujiyama	Fuji-Q Highland	0	216	Steel	80.8	259.2	229.7	6708.7
+Full Throttle	Six Flags Magic Mountain	3	60	Steel	70	160	160	2000
+Fury 325	Carowinds	0	205	Steel	95	325	320	6602
+Fēnix	Toverland	4	120	Steel	40.4	131.2	131	2887
+GateKeeper	Cedar Point	6	160	Steel	67	170	164	4164
+Gatekeeper	Cedar Point	6	180	Steel	67	170	164	4164
+Gemini	Cedar Point	0	140	Steel	60	125.3	118	3935
+Georgia Scorcher	Six Flags Over Georgia	2	84	Steel	54	107	101	3000
+Gesengte Sau	Wiener Prater	0	120	Steel	37.3	78.7	79	2001.3
+GhostRider	Knott's Berry Farm	0	160	Wood	56	118	108	4533
+Ghoster Coaster	Canada's Wonderland	0	80	Wood	35	41	39	1356
+Ghostrider	Knott's Berry Farm	0	165	Wood	56	118	108	4533
+Giant Dipper	Santa Cruz Beach Boardwalk	0	112	Wood	55	70	65	2640
+Giant Splash	Lotte World Adventure Busan - Magic Forest	0	78	Steel	62.8	147.6	146.3	711.9
+Gold Rush	Kijima Kogen Park	0	129	Steel	28.1	42.7	43	1715.9
+Gold Rusher	Six Flags Magic Mountain	0	150	Steel	35	70	70	2590
+Golden Loop	Gold Reef City	1	30	Steel	57	137.8	138	863
+Golden Wings over the Snowfield	Happy Valley	4	92	Steel	53.7	117.8	111.8	2454.1
+Goliath	Six Flags Magic Mountain	0	180	Steel	85	235	255	4500
+Goliath	Walibi Holland	0	92	Steel	65.9	153.7	150.9	3982.9
+Goliath	Six Flags Over Georgia	0	210	Steel	70	200	175	4480
+Goliath	La Ronde	0	100	Steel	68.3	174.8	170.6	4038.8
+Goliath	Six Flags Great America	3	105	Wood	72	165	180	3100
+Good Gravy!	Holiday World	0	65	Steel	37	77	77	721.8
+Gotham City Gauntlet Escape from Arkham Asylum	Six Flags New England	0	92	Steel	28	49.3	49	1213.9
+Goudurix	Parc Astérix	7	80	Steel	55.9	118.1	108	3116.8
+Grand National	Blackpool Pleasure Beach	0	180	Wood	35	62	56	2700
+Grand Showman	Oriental Heritage	4	130	Steel	49.7	108.3	95.1	2624.7
+Great American Scream Machine	Six Flags Over Georgia	0	120	Wood	57	105	89	3450
+Great Bear	Hersheypark	4	175	Steel	58	90	124	2800
+Great Lego Race	Legoland Florida	0	95	Steel	35	51.8	49.8	1312.3
+Great Nor'Easter	Morey's Piers	5	125	Steel	55	115	95	2168.6
+Great White	SeaWorld San Antonio	5	120	Steel	50	108	81.2	2562
+Great White	Morey's Piers	0	120	Wood	50	110	100	3300
+Green Lantern	Six Flags Great Adventure	4	180	Steel	63	154	130	2258
+Green Lantern: First Flight	Six Flags Magic Mountain	3	90	Steel	50	113	100	1650
+Griffon	Busch Gardens Williamsburg	2	180	Steel	71	205	205	3108
+Grizzly	Kings Dominion	0	155	Wood	55	87	94	3150
+Gwazi	Lion Park Resort	1	120	Steel	47.8	80.4	80	1942.3
+Hagrid's Magical Creatures	Islands of Adventure	0	200	Steel	50	65	65	5053
+Hakugei	Nagashima Spa Land	0	170	Steel	66.5	180	180	5443.6
+Hangman	Wild Adventures	3	108	Steel	47	116.5	116	935
+Harley Quinn Crazy Train	Six Flags Great Adventure	0	65	Steel	22.4	26.3	25	1181.1
+Heidi The Ride	Plopsaland Belgium	0	90	Wood	44.3	72.2	67.3	2057.1
+Helix	Liseberg	7	145	Steel	70	130	130	4313
+Hochschaubahn	Wiener Prater	0	210	Wood	34.2	49.3	49	1476.4
+Hollyhock and Roll	Kentucky Kingdom	0	50	Steel	21.7	27.9	28	679.1
+Hot Wheels Nitro	Imagicaa	5	150	Steel	65.2	132	132	2800
+Huracan	Belantis	5	90	Steel	52.8	105	105	1837.3
+Hurler	Carowinds	0	120	Wood	50	75	83	3157
+Hurricane	Race City PCB	0	86	Steel	35	59	59	1427
+Hydra the Revenge	Dorney Park & Wildwater Kingdom	7	155	Steel	53	95	105	3198
+Hyper Coaster	Land of Legends	0	180	Steel	70.2	167.4	164	4199
+Hyperia	Thorpe Park	0	90	Steel	80	236	236	2635
+Hyperion	Energylandia	0	155	Steel	88.5	252	252	4534
+Icon	Pleasure Beach Resort	2	161	Steel	52.8	88.5	82	3750
+Il Tempo Extra Gigante	Hunderfossen Eventyrpark	0	90	Steel	40.4	82	82	1755.3
+Incredible Hulk	Universal Studios Islands of Adventure	7	135	Steel	67	110	104.9	3700
+Incredicoaster	Disney California Adventure Park	1	156	Steel	55	108	108	6072
+Inflaming Beatles	Suzhou Yangcheng Peninsula Theme Park	0	140	Steel	32.4	64	64	1640.4
+Infusion	Pleasure Beach Resort	5	83	Steel	49.7	109.3	109	2260.5
+Intimidator	Carowinds	0	210	Steel	75	232	211	5316
+InvadR	Busch Gardens Williamsburg	0	95	Wood	48	74	74	2200
+Invertigo	California's Great America	6	108	Steel	43.5	138	138	1322
+Iron Dragon	Cedar Point	0	120	Steel	40	76	76	2800
+Iron Gwazi	Busch Gardens Tampa Bay	2	110	Steel	76	206	206	4075
+Iron Menace	Dorney Park & Wildwater Kingdom	4	90	Steel	64	160	152	2169
+Iron Rattler	Six Flags Fiesta Texas	1	110	Steel	70	179	171	3266
+Jack Rabbit	Kennywood	0	96	Wood	45	40	70	2132
+Jaguar!	Knott's Berry Farm	0	120	Steel	35	65	45	2602
+Jersey Devil Coaster	Six Flags Great Adventure	3	150	Steel	57.7	130	130	3000
+Jet Coaster	Tochinoki Family Land	0	180	Steel	41.3	54.2	54	2339.3
+Joker	Six Flags Mexico	0	111	Steel	31	53	27	1351
+Joker	Six Flags Great Adventure	0	63	Steel	38	120	54	1019
+Jolly Rancher Remix	Hersheypark	3	108	Steel	47	116.5	116	935
+Joris en de Draak	Efteling	0	180	Wood	31.1	55.8	55.8	2720
+Joyride	PowerPark	0	75	Steel	31	52.5	52.5	918.7
+Judge Roy Scream	Six Flags Over Texas	0	90	Wood	45	71	65	2670
+Jul's RollerSkates	Julianatoren	0	104	Steel	21.7	27.9	28	679.1
+Jungle Trailblazer	Fantawild Dreamland	0	90	Wood	54.1	111.6	91.8	3989.5
+Jungle Trailblazer	Oriental Heritage	1	150	Wood	55.2	106	104	3264.4
+Jungle Trailblazer	Fantawild Asian Legend	0	130	Wood	54.1	108.3	100.8	3198.8
+Junior Coaster	Gero Land	0	66	Steel	28.5	42.7	43	1099.1
+Jurassic World VelociCoaster	Universal Studios Hollywood	4	155	Steel	70	155	155	4700
+Juvelen	Djurs Sommerland	1	90	Steel	56.5	98.4	98.4	2296
+K2	Karls Erlebnis-Dorf Elstal	0	200	Steel	37.3	78.7	42.7	1738.8
+Kaffeekannen-Express	Karls Erlebnis-Dorf Rövershagen	0	154	Steel	18.6	26.9	6.6	652.9
+Katun	Mirabilandia	6	142	Steel	64.6	164	147.6	3937
+Kawasemi	Tobu Zoo Park	0	90	Steel	52.8	101.7	98.4	2477
+Kenny's Forest Flyer	Dreamworld	0	90	Steel	26	48.6	49	1122
+Kilaueya	Six Flags Mexico	0	105	Steel	43.5	65.6	66	1600
+Kingda Ka	Six Flags Great Adventure	1	28	Steel	128	456	418	3118
+Kondaa	Walibi Belgium	0	90	Steel	70.2	164	164	3937
+Kong	Six Flags Discovery Kingdom	5	96	Steel	49.7	109.3	85	2260.5
+Kopermijn	Drievliet Family Park	0	95	Steel	28	49.3	49	1213.9
+Kraken	SeaWorld Orlando	7	122	Steel	65	149	144	4177
+Krampus Expédition	Nigloland	0	240	Steel	49.1	91.9	91.9	1968.5
+Kráter	Parque del Café	3	60	Steel	52	100	100	1246
+Kumali	Flamingo Land	4	92	Steel	54.9	117.8	111.8	2201.4
+Kumba	Busch Gardens Tampa Bay	7	174	Steel	60	143	135	3978
+Kvasten	Gröna Lund	0	63	Steel	34.2	65.6	65.6	1295.9
+Käpt'n Jack's Wilde Maus	Eifelpark	0	94	Steel	28	49.3	49.3	1213.9
+Kärnan	Hansa-Park	0	180	Steel	77.4	240	227	3900
+La Vibora	Six Flags Over Texas	0	120	Steel	50	60	57	2050
+Lady Bird Coaster	New Reoma World	0	150	Steel	21.8	28.8	29	912.1
+Laff Trakk	Hersheypark	0	120	Steel	30	50	50	1500
+Launch Coaster	Colourful Yunnan Paradise	4	150	Steel	62.1	118.1	118	3464.5
+Lech Coaster	Energylandia	2	180	Steel	60	165	153	3907
+Legend	Holiday World	0	120	Wood	59	99	113	4042
+Leviathan	Canada's Wonderland	0	128	Steel	92	306	306	5486
+Light-Speed Coaster	Hot Go Park - Happy Jungle World	4	130	Steel	49.7	108.3	95.2	2624.7
+Lightning Racer	Hersheypark	0	140	Wood	51.1	91.6	90	3393
+Lightning Rod	Dollywood	0	130	Wood	73	168	165	3800
+Lisebergbanan	Liseberg	0	180	Steel	54.1	98.4	98.4	4035
+Loch Ness Monster	Busch Gardens Williamsburg	2	130	Steel	60	130	114.2	3240
+Loco Motion	St. Louis Union Station	0	117	Steel	15.5	16.7	17	403.5
+Lost Gravity	Walibi Holland	2	143	Steel	54.1	105	105	2231
+Loup-Garou	Walibi Belgium	0	125	Wood	49.7	91.8	77.1	3395.7
+Magnum XL-200	Cedar Point	0	120	Steel	72	205	194.7	5106
+Mako	SeaWorld Orlando	0	180	Steel	73	200	200	4760
+Mamba	Worlds of Fun	0	180	Steel	75	205	205	5600
+Mammut	Gardaland	0	165	Steel	31.1	45.9	46	3264.4
+Manta	SeaWorld Orlando	4	155	Steel	56	140	113	3359
+Manta	SeaWorld San Diego	0	120	Steel	43	30	54	2800
+Matterhorn Blitz	Europa Park	0	185	Steel	35	52.5	53	1256.6
+Maverick	Cedar Point	2	150	Steel	70	105	100	4450
+Max & Moritz	Efteling	0	120	Steel	27.3	46.9	46.9	1706
+Maya Adventure	Formosan Aboriginal Culture Village	5	96	Steel	49.7	109.3	85	2260.5
+Medusa	Six Flags Great Adventure	7	140	Steel	61	142	132	3985
+Medusa	Six Flags Discovery Kingdom	7	195	Steel	65	150	150	3937
+Medusa Steel Coaster	Six Flags Mexico	7	180	Steel	63	150	141	3985
+Megablitz	Wiener Prater	0	90	Steel	43.5	62.3	62	1804.5
+Mighty Canadian Minebuster	Canada's Wonderland	0	122	Wood	55.9	90	87	3828
+Millennium Force	Cedar Point	0	140	Steel	93	310	300	6595
+Mind Eraser	Six Flags America	5	96	Steel	49.7	109.3	85	2260.5
+Mine Blower	Fun Spot America	1	90	Wood	48.5	83	80.5	2290
+Mine Express	Discovery World	0	66	Steel	28.5	42.7	43	1099.1
+Mine Expressen	Fårup Sommerland	0	66	Steel	28.5	42.7	43	1099.1
+Mine Train Ulven	Bakken	0	70	Steel	40.4	60.7	61	1312
+Montu	Busch Gardens Tampa Bay	7	180	Steel	60	150	128	3983
+Mr. Freeze	Six Flags Over Texas	1	55	Steel	70	218	200	1300
+Mr. Freeze Reverse Blast	Six Flags St. Louis	1	55	Steel	70	218	200	1300
+Muntanya Russa	Tibidabo	0	120	Steel	49.7	82	101.7	2339.2
+Mystery Mine	Dollywood	2	150	Steel	43.5	85.3	85	1804.5
+Mystic Timbers	Kings Island	0	150	Wood	53	109	109	3265
+NDH Flying Lion Coaster	Nandaihe International Amusement Center	4	130	Steel	49.7	108.3	95.2	2624.7
+Nefeskesen	Vialand	6	105	Steel	56	140	140	2520
+Nemesis Inferno	Thorpe Park	4	103	Steel	47.8	95.2	92	2460.7
+Nemesis Reborn	Alton Towers	4	80	Steel	50	42.6	104	2349
+Nessie	Hansa-Park	1	130	Steel	49.1	85.3	85.3	2431.1
+New Mexico Rattler	Cliff's Amusement Park	0	75	Wood	47	80	75	2750
+New Revolution	Six Flags Magic Mountain	1	132	Steel	55	113	113	3457
+New Texas Giant	Six Flags Over Texas	0	205	Steel	65	153	147	4200
+Nighthawk	Carowinds	5	180	Steel	51	115	115	2766
+Ninja	Six Flags Magic Mountain	0	195	Steel	55	55	55	2700
+Nitro	Six Flags Great Adventure	0	140	Steel	80	230	215	5394
+Now You See Me: High Roller	Motiongate	0	103	Steel	43.5	55.8	56	1702.8
+Oblivion	Alton Towers	0	75	Steel	68	65	180	1222
+Odyssey	Fantasy Island	5	172	Steel	62	167	141	2923.2
+Oki Doki	Bobbejaanland	0	62	Steel	36	53.5	54	1430.4
+Orion	Kings Island	0	180	Steel	91	287	300	5321
+Outlaw	Adventureland	0	120	Wood	48	67	67	2800
+Outlaw Run	Silver Dollar City	3	87	Wood	68	107	162	2937
+PAW Patrol To The Rescue	Mirabilandia	0	108	Steel	21.3	19.7	19.7	442.9
+Pandemonium	Six Flags Over Texas	0	111	Steel	31	53	27	1351
+Pandemonium	Six Flags St. Louis	0	90	Steel	31	48	27	1351
+Pantheon	Busch Gardens Williamsburg	4	90	Steel	73	180	180	3327
+Pantherian	Kings Dominion	0	180	Steel	90	305	300	5100
+Patriot	Worlds of Fun	4	138	Steel	60	149	123	3081
+Patriot	California's Great America	2	134	Steel	45	91	91	1920
+Pepsi Orange Streak	Nickelodeon Universe	0	150	Steel	30	60	40	2680
+Phaethon	Gyeongju World	6	140	Steel	55.9	147.7	148	3280.8
+Phantom's Revenge	Kennywood	0	117	Steel	85	160	228	3200
+Phoenix	Knoebels Amusement Resort	0	120	Wood	45	78	72	3200
+Pierre de Tonnerre	Parc du Petit Prince	0	90	Steel	18.6	23	23	711.9
+Pikajuna	Linnanmäki	0	95	Steel	23	23	23	961.3
+Pine Tree Rocket	Fantawild Wonderland	0	56	Steel	28.6	38.4	38	833.3
+Pipeline: The Surf Coaster	SeaWorld Orlando	1	110	Steel	60	110	110	2950
+Piraten	Djurs Sommerland	0	120	Steel	37.3	82	82	2756
+Poseidon	Europa Park	0	240	Steel	43.5	75.5	76	2742.8
+Powder Keg: A Blast in the Wilderness	Silver Dollar City	0	173	Steel	64	98	110	3506
+Prairie Screamer	Prairie Playland	0	116	Steel	50	90	80	2600
+Predator	Six Flags Darien Lake	0	110	Wood	50	95	87	3400
+Prowler	Worlds of Fun	0	150	Wood	51.2	102.3	84.9	3074
+Psyké Underground	Walibi Belgium	1	90	Steel	50	90	90	1300
+Pulsar	Walibi Belgium	0	150	Steel	54	115	115	1640
+Pyrenees	Parque Espana-Shima Spain Village	6	113	Steel	62.1	147.7	148	4048.6
+Python	Efteling	2	100	Steel	39.8	73.8	73.8	1280
+Pégase Express	Parc Astérix	0	180	Steel	32.3	68.8	68.8	3044.6
+Queen City Stunt Coaster	Kings Island	0	64	Steel	40	45.2	31.2	1960
+Quimera	Six Flags Mexico	7	150	Steel	65	105	105	2753
+Racer	Kennywood	0	92	Wood	40	72.5	50	4500
+Racer	Kings Island	0	180	Wood	53	88	80	6300
+Racer 75	Kings Dominion	0	150	Wood	53	88	86	3870
+Raging Bull	Six Flags Great America	0	150	Steel	73	202	208	5057
+RailBlazer	California's Great America	3	90	Steel	52	106	100	1800
+Rapterra	Kings Dominion	3	89	Steel	65	145	145	3086
+Raptor	Cedar Point	6	136	Steel	57	137	119	3790
+Raptor	Gardaland	3	90	Steel	55.9	108.3	108	2526.3
+Raven	Holiday World	0	90	Wood	48	80	85	2800
+Ravine Flyer II	Waldameer	0	90	Wood	57	80	118	2900
+Recoil	Wonderla Amusement Park Hyderabad	3	108	Steel	47	116.5	116	935
+Red Force	Ferrari Land	0	39	Steel	111.8	367.3	345	2887.2
+Renegade	Valleyfair!	0	120	Wood	51.3	97.5	91.4	3113
+Revolution	Pleasure Beach Resort	1	66	Steel	45	56	47	635
+Revolution	Bobbejaanland	0	140	Steel	31.1	60.8	61	2362.2
+Revolution	Six Flags Magic Mountain	1	150	Steel	55	113	113	3457
+Rhombus Express	Fantasy Island	0	86	Steel	28.8	17.1	17	967.8
+Ricochet	Carowinds	0	110	Steel	28	45.9	46	1213.9
+RidderStrijd	Avonturenpark Hellendoorn	0	90	Steel	29.1	42.7	42.7	1377.9
+Riddler's Revenge	Six Flags Magic Mountain	6	180	Steel	65	156	146	4370
+Ride of Steel	Six Flags Darien Lake	0	122	Steel	73	208	205	5400
+Ride to Happiness	Plopsaland De Panne	5	105	Steel	55.9	114.8	114.8	3087
+Rita	Alton Towers	0	25	Steel	61.1	68.8	68.8	2099.7
+River King Mine Train	Six Flags St. Louis	0	180	Steel	37	32	41	2500
+Road Runner Express	Six Flags Magic Mountain	0	44	Steel	21.7	27.9	28	679.1
+Roar	Six Flags Discovery Kingdom	0	150	Wood	55	96	83	3200
+Roaring Timbers	Sun World Hon Thom - Exotica Village	0	130	Wood	49.7	106.3	106	2919.9
+Robin Hood	Walibi Holland	0	150	Wood	54	98.4	85	3478
+Roller Coaster	Dream Park	5	102	Steel	49.7	109.3	109.3	2509.8
+Roller Coaster	Great Yarmouth Pleasure Beach	0	210	Wood	45	70	70	3223.1
+Roller Skater	Kijima Kogen Park	0	50	Steel	21.7	27.9	28	679.1
+Ronde des Rondins	Fraispertuis City	0	48	Steel	16.2	10.8	11	197.5
+Rougarou	Cedar Point	4	160	Steel	60	145	137	3900
+Royal Scotsman	Hansa-Park	0	70	Steel	31.1	52.5	52.5	1712.6
+Runaway Mine Train	Six Flags Great Adventure	0	180	Steel	32	42	42	2434
+Runaway Mountain	Six Flags Over Texas	0	120	Steel	45	51	51	2330
+SCOOBY-DOO! Spooky Coaster	Warner Bros. Movie World	0	253	Steel	28	55.8	7	1738.8
+SLC	Wuxi Sunac Land	5	96	Steel	49.7	109.3	85	2260.5
+SOS Tournevis	Parc Astérix	0	90	Steel	19.9	19.7	19.7	652.9
+Sahara Twist	Leofoo Village Theme Park	0	60	Steel	24.9	26.3	26.3	1246.8
+Sapphire Speedster Coaster	Merimbula's Magic Mountain	0	89	Steel	22.4	26.3	26.3	1099.1
+Saw - The Ride	Thorpe Park	3	100	Steel	50	100	100	2000
+Scream	Six Flags Magic Mountain	7	180	Steel	63	150	141	3985
+Scream!	Six Flags Magic Mountain	7	180	Steel	63	150	141	3985
+Screamin' Eagle	Six Flags St. Louis	0	150	Wood	62	110	92	3872
+Sea Dragon	Columbus Zoo and Aquarium	0	90	Wood	25	35	35	1320
+Sea Serpent	Morey's Piers	3	108	Steel	47	116.5	116	935
+Sea Stallion	Six Flags Qiddiya City	0	63	Steel	43.5	39.4	39	1673.2
+Seis Banderas	Six Flags Mexico	0	180	Steel	32	42	42	1969
+Serial Thriller	Dalmaland	5	96	Steel	49.7	109.3	85	2260.5
+Serpent Dragon	Sochi Park	4	150	Steel	62.1	124.7	124.7	3464.5
+Shambhala	PortAventura Park	0	180	Steel	83.3	249.3	255.9	5131.3
+SheiKra	Busch Gardens Tampa Bay	2	180	Steel	60	200	200	3188
+Shock	MagicLand	1	80	Steel	59	114.8	115	2460.7
+Shockwave	Six Flags Over Texas	3	165	Steel	55	116	106	3287
+Sidewinder	Elitch Gardens	1	66	Steel	45	56	47	635
+Sierra Sidewinder	Knott's Berry Farm	0	116	Steel	36.9	64	41	1505.9
+Silver Bullet	Knott's Berry Farm	6	150	Steel	55	146	109	3125
+Silver Star	Europa Park	0	195	Steel	78.3	239	220	5500
+Silver Streak	Canada's Wonderland	0	76	Steel	26	48.6	49	1122
+Sirocco Tower	Six Flags Qiddiya City	0	60	Steel	50	300	300	1800
+Skatteøen	Djurs Sommerland	0	90	Steel	43.5	91.9	72.2	1492.8
+Skull Mountain	Six Flags Great Adventure	0	84	Steel	33	40.5	37	1377
+Sky Scream	Plopsaland Deutschland	1	47	Steel	62	150	150	863
+SkyScreamer	Six Flags Mexico	0	120	Steel	75	242	242	200
+Skyrush	Hersheypark	4	115	Steel	75	200	212	3600
+Snoopy's Racing Railway	Canada's Wonderland	0	60	Steel	31.1	40	40	1312.3
+Soaring Dragon	Fantawild Oriental Legend	5	120	Steel	57.8	160.8	161	3015.1
+SooperDooperLooper	Hersheypark	1	180	Steel	45	62.5	62.5	2614
+Souris Mécaniques	Jardin d'Acclimatation	0	90	Steel	18.6	23	23	711.9
+Space Mountain	Walt Disney World - Magic Kingdom	0	155	Steel	27	90	39	3186
+Space Shuttle	Enchanted Kingdom	3	108	Steel	47	116.5	116	935
+Speed Monster	TusenFryd	3	69	Steel	55.9	101.8	102	2263.8
+Speed of Sound	Walibi Holland	3	108	Steel	47	116.5	116	935
+Speedy Bob	Bobbejaanland	0	85	Steel	28	45.9	46	1213.9
+Spider	Lagoon	0	70	Steel	37.3	50.8	53	1391.1
+Spin Mouse	Greenland	0	116	Steel	29.1	42.7	43	1377.9
+Spinturn Coaster	Nasu Highland Park	0	123	Steel	29.2	69.9	70	1640.4
+SpongeBob SquarePants Rock Bottom Plunge	Nickelodeon Universe	2	120	Steel	43.5	74.5	75	1371.4
+Sprocket Rockets	Six Flags Great America	0	44	Steel	21.7	27.9	28	679.1
+Stampida	PortAventura Park	0	100	Wood	46	84	88	3127
+Star Flyer	Star City	2	65	Steel	38	65.6	66	1148.3
+Starry Sky Ripper	Joyland	5	126	Steel	54.7	131.3	104.3	2805.1
+Stealth	Thorpe Park	0	40	Steel	80	205	205	1312
+Steamin' Demon	Six Flags Great Escape	3	90	Steel	40	85	65	1565
+Steel Curtain	Kennywood	8	120	Steel	75	220	205	4000
+Steel Dolphin	Shanghai Haichang Ocean Park	0	75	Steel	52.8	108.3	108.3	3372.7
+Steel Dragon	Waldameer	0	84	Steel	37.3	50.8	51	1391.1
+Steel Dragon 2000	Nagashima Spa Land	0	240	Steel	95	318.2	306.8	8133.2
+Steel Eel	SeaWorld San Antonio	0	100	Steel	65	150	150	3700
+Steel Force	Dorney Park & Wildwater Kingdom	0	180	Steel	75	200	205	5600
+Steel Force	Dorney Park	0	180	Steel	75	205	205	5600
+Steel Vengeance	Cedar Point	4	150	Steel	74	205	200	5740
+Storm	Magic Park Land	0	55	Steel	28	36.1	36	1066.3
+Storm Chaser	Paultons Park	0	116	Steel	36.9	64	41	1505.9
+Storm Chaser	Kentucky Kingdom	3	120	Steel	58	100	100	2915
+Storm Runner	Hersheypark	3	50	Steel	72	150	180	2600
+Stress Express	Fantawild Asian Legend	3	108	Steel	47	116.5	116	935
+Studio Tour	Movie Park Germany	0	120	Steel	37.3	39.4	39	1745.4
+Super Cyclone	Santa's Village Amusement and Water Park	0	80	Steel	30	32.8	33	1148.3
+Superman - Ultimate Flight	Six Flags Over Georgia	2	120	Steel	51	106	100	2759
+Superman - Ultimate Flight	Six Flags Great Adventure	2	126	Steel	51	106	100	2759
+Superman - Ultimate Flight	Six Flags Great America	2	180	Steel	51	106	100	2798
+Superman Krypton Coaster	Six Flags Fiesta Texas	6	155	Steel	70	168	168	4025
+Superman el Último Escape	Six Flags Mexico	0	184	Steel	74.6	219.8	205	5577.4
+Superman the Ride	Six Flags New England	0	155	Steel	77	208	221	5400
+Superman: El Ultimo Escape	Six Flags Mexico	5	155	Steel	49.7	109.3	85	2260
+Superman: Escape from Krypton	Six Flags Magic Mountain	0	28	Steel	104	415	328	1315
+Superman: The Ride	Six Flags New England	0	180	Steel	77	208	221	5400
+Superman: Tower of Power	Six Flags Over Texas	0	60	Steel	70	325	250	200
+Superman: Ultimate Flight	Six Flags Great Adventure	4	150	Steel	60	106	100	2759
+Superman: Ultimate Flight	Six Flags Discovery Kingdom	0	63	Steel	38	120	54	1019
+Swamp Fox	Family Kingdom Amusement Park	0	120	Wood	50	72	62	2640
+Swarm	Thorpe Park	4	85	Steel	49.7	127	127	2362
+Symbolica	Efteling	0	300	Steel	15	40	40	880
+T3	Kentucky Kingdom	5	96	Steel	49.7	109.3	85	2260.5
+Taiga	Linnanmäki	4	90	Steel	65.9	170.6	105	3622
+Talon	Dorney Park & Wildwater Kingdom	4	120	Steel	58	135	120	3110
+Taron	Phantasialand	0	155	Steel	72.7	98	98	4300
+Tatsu	Six Flags Magic Mountain	4	200	Steel	62	170	111	3602
+Tempesto	Busch Gardens Williamsburg	3	60	Steel	63	157	154	1378
+Tennessee Tornado	Dollywood	3	108	Steel	63	163	128	2682
+Tentomushi	Tobu Zoo Park	0	90	Steel	19.9	19.7	20	652.9
+Terror Twister	Nantong Adventure Land	2	50	Steel	65.3	151.6	152	492.2
+Texas Giant	Six Flags Over Texas	0	180	Wood	62	143	137	4920
+Texas Stingray	SeaWorld San Antonio	0	150	Wood	55	96	100	3379
+The Polar X-plorer	Legoland Billund	0	150	Steel	35	75	75	1247
+Thunder Dolphin	Tokyo Dome City	0	90	Steel	80.8	262.5	218.2	3500
+Thunder Run	Canada's Wonderland	0	84	Steel	40	33	33	1083
+Thunder Striker	Carowinds	0	213	Steel	75	232	211	5316
+Thunderbird	PowerPark	0	93	Wood	48	82	80	2713
+Thunderbird	Holiday World	4	78	Steel	60	140	125	3035
+Thunderbolt	Kennywood	0	101	Wood	55	70	90	3250
+Thunderhawk	Dorney Park & Wildwater Kingdom	0	78	Wood	45	80	65	2767
+Thunderhawk	Michigan's Adventure	5	96	Steel	49.7	109.3	85	2260.5
+Tiger Express	Mer de Sable	0	85	Steel	28	45.9	46	1213.9
+Tiki-Waka	Walibi Belgium	0	90	Steel	41	75	75	1400
+Timber	Walibi Rhône-Alpes	0	32	Wood	40	55.8	54.8	1464
+Timber Terror	Silverwood Theme Park	0	92	Steel	55	85	81	2700
+Timber Wolf	Worlds of Fun	0	133	Wood	53	100	95	4230
+Time Traveler	Silver Dollar City	3	117	Steel	50.3	100	90	3020
+Titan	Six Flags Over Texas	0	210	Steel	85	245	255	5312
+Tom y Jerry	Parque Warner Madrid	0	65	Steel	22.4	26.3	26.3	1181.1
+Tonnerre 2 Zeus	Parc Astérix	0	125	Wood	52	98	98	4044
+Toos-Express	Toverland	0	52	Steel	37.3	39.3	39.3	1049.9
+Top Thrill 2	Cedar Point	0	30	Steel	120	420	400	3422
+Top Thrill Dragster	Cedar Point	0	17	Steel	120	420	400	2800
+Tornado	Adventureland	0	120	Wood	58	93	93	2840
+Tornado	Parque de Atracciones de Madrid	3	120	Steel	49.7	98	98	2624.7
+Tornado	Särkänniemi Amusement Park	5	94	Steel	46.6	82	82	2296.6
+Toxic Garden	Heide Park Resort	5	96	Steel	49.7	109.3	85	2260.5
+Train de la Mine	La Coccinelle	0	60	Steel	24.9	32.8	31.2	984.3
+Tremors	Silverwood Theme Park	0	100	Steel	50	85	99	3158
+Tren Minero	Fantasilandia	0	180	Steel	30.1	45.9	46	2575.5
+Troy	Toverland	0	110	Wood	54	104.5	100.7	3534
+Tsunami	Six Flags Mexico	0	75	Steel	50	60	60	1400
+Tumbili	Kings Dominion	3	95	Steel	48	112	112	1558
+Turbine	Walibi Belgium	1	35	Steel	53	137.8	138	722
+Turbo Track	Ferrari World Abu Dhabi	0	40	Steel	102	131.2	50	656
+Twist	Le Pal	0	90	Steel	43.5	72.2	72	1542
+Twisted Colossus	Six Flags Magic Mountain	2	220	Steel	57	121	128	4990
+Twisted Cyclone	Six Flags Over Georgia	3	120	Steel	50	100	100	2400
+Twisted Timbers	Kings Dominion	0	90	Steel	54	109	109	3351
+Twisted Typhoon	Wild Adventures	5	96	Steel	49.7	109.3	85	2260.5
+Twister	Knoebels Amusement Resort	0	130	Wood	51.5	101.6	89.6	3900
+Twister	Quancheng Euro Park	4	160	Steel	46.6	105	105	2585.3
+Twister	Gröna Lund	0	90	Wood	38	51	46	1544
+Untamed	Walibi Holland	4	106	Steel	57.2	119.8	116.1	3559.7
+V2: Vertical Velocity	Six Flags Discovery Kingdom	0	60	Steel	68	150	150	630
+Valkyria	Liseberg	3	90	Steel	65.2	154.2	164	2296.6
+Valravn	Cedar Point	3	140	Steel	75	223	214	3415
+Vampire	Walibi Belgium	5	96	Steel	49.7	109.3	85	2260
+Vapor Trail	Sesame Place	0	180	Steel	27	43	56	1299.2
+Velocicoaster	Islands of Adventure	4	155	Steel	70	155	155	4700
+Velociraptor	IMG Worlds of Adventure	2	75	Steel	62.1	117.3	117	1476
+Verbolten	Busch Gardens Williamsburg	0	110	Steel	53	88	88	3000
+Vertical Velocity	Six Flags Great America	0	60	Steel	68	185	185	630
+Vertigo	Zoomarine	1	90	Steel	47.8	80.4	80	1942.3
+Vindfald	Tivoli Friheden	2	70	Steel	44.7	75.5	65.6	984.3
+Viper	Six Flags Magic Mountain	7	150	Steel	70	188	171	3830
+Viper	Six Flags Darien Lake	5	124	Steel	50	121	75	3100
+Viper	Six Flags Great America	0	105	Wood	50	100	80	3458
+Viper	Darien Lake	5	108	Steel	50.3	120	115	2800
+Vogel Rok	Efteling	0	101	Steel	40.4	65.6	62.3	2460.6
+Vortex	Canada's Wonderland	0	96	Steel	55	91	85	2361
+Vortex	Carowinds	0	105	Steel	60	90	90	2040
+Voyage	Holiday World	0	165	Wood	67	159	154	6442
+Vuelta al Mundo en 80 Dias	Six Flags Mexico	0	180	Steel	32	42	42	2200
+Vuoristorata	Linnanmäki	0	130	Wood	37.3	75.2	75.2	3149.6
+West Coast Racers	Six Flags Magic Mountain	4	180	Steel	55	67	67	4000
+White Lightning	Fun Spot America	0	75	Wood	44.3	69.7	67.2	2032
+Whizzer	Six Flags Great America	0	120	Steel	42	70	64	3100
+Wicked Cyclone	Six Flags New England	3	150	Steel	55	111	109	3320
+Wild Chipmunk	Lakeside Amusement Park	0	48	Steel	21	41	41	1150
+Wild Mouse	Antibes Land	0	80	Steel	28	45.9	45.9	1213.9
+Wild Mouse	Nagashima Spa Land	0	88	Steel	28	45.9	46	1213.9
+Wild Rider	Panorama Mountain Resort	0	180	Steel	24.9	541	541	5977.7
+Wild Thing	Valleyfair!	0	180	Steel	74	207	196	5460
+Wild West Coaster	Winnoland	0	56	Steel	28.6	38.4	38	833.3
+Wildcat	Frontier City	0	130	Wood	46	75	65	2653
+Wildcat	Lake Compounce	0	75	Wood	48	85	78	2746
+Wildcat	Hersheypark	0	100	Steel	48	140	140	3183
+Wilde Beast	Canada's Wonderland	0	122	Wood	56	82	78	3150
+Wilde Maus	Wiener Prater	0	70	Steel	28	49.3	49	1213.9
+Wildfire	Silver Dollar City	5	136	Steel	66	120	155	3073
+Wildfire	Kolmården	3	120	Wood	71.5	183.8	160.8	4150.3
+Wildfire	Kolmården Wildlife Park	3	155	Steel	71	183	164	3540
+Wipeout	Walibi Holland	0	120	Steel	25	50	50	900
+Wodan - Timbur Coaster	Europa Park	0	180	Wood	62.1	131.2	130	3280
+Wonder Woman Flight of Courage	Six Flags Magic Mountain	3	120	Steel	52	131	130	3300
+Wonder Woman Golden Lasso Coaster	Six Flags Fiesta Texas	3	90	Steel	52	113	100	1800
+Wonder Woman: Lasso of Truth	Six Flags Great Adventure	0	120	Steel	75	200	200	3000
+Wooden Dragons Roller Coaster	Jinan Sunac Land	0	90	Wood	46	75.5	73.2	2644.4
+Wooden Warrior	Quassy Amusement Park	0	60	Wood	35	32	36	1239
+Woodstock Express	Carowinds	0	90	Steel	30	35	35	1300
+Woodstock Express	Kings Island	0	90	Steel	23	33	33	1350
+Wrath of Rakshasa	Six Flags Great America	5	120	Steel	67	180	171	3239
+X-Flight	Six Flags Great America	5	175	Steel	54	120	120	3000
+X-treme Racers	Legoland Billund	0	90	Steel	35	51.8	49.8	1312.3
+X2	Six Flags Magic Mountain	2	210	Steel	76	175	215	3610
+Xcelerator	Knott's Berry Farm	0	62	Steel	82	205	205	2202
+Xpress: Platform 13	Walibi Holland	3	75	Steel	55.9	84.7	85	3267.7
+Yas Waterworld Roller Coaster	Yas Waterworld	0	95	Steel	25	60	60	1312
+YoY	Walibi Holland	6	90	Steel	51	95.1	88.6	2149
+Young Star Coaster	Farglory Ocean Park	0	44	Steel	21.7	27.9	28	679.1
+Yukon Striker	Canada's Wonderland	4	205	Steel	80.8	223	245	3625
+Zadra	Energylandia	3	175	Steel	75	207	206	4180
+Zeus	Mt. Olympus Water & Theme Park	0	85	Wood	60	90	85	2900
+Zimerman	Glorious Fantasyland	3	80	Steel	55	70	65	1565
+Zippin Pippin	Bay Beach Amusement Park	0	90	Wood	42	70	63	2347
+blue fire Megacoaster	Europa Park	4	150	Steel	62.1	124.7	125	3464.5

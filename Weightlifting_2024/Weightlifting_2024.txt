@@ -1,0 +1,9 @@
+Weight.Class	Record.Holder	Country	Total.Weight.Lifted.kg
+61	Li Fabin	China	313
+67	Chen Lijun	China	332
+73	Shi Zhiyong	China	364
+81	Lu Xiaojun	China	374
+89	Karlos Nasar	Bulgaria	396
+96	Fares El-Bakh	Qatar	402
+109	Akbar Djuraev	Uzbekistan	430
+109+	Lasha Tlakhadze	Georgia	488
