@@ -48,4 +48,4 @@ Header | Description
 `FAMILY.INC` | 
 `MED.INC.AFT6` | 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: https://collegescorecard.ed.gov/

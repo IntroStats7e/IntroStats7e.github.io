@@ -11,4 +11,4 @@ Header | Description
 `Date` | Date of measurement 
 `pH` | pH of rain and snow in Allegheny County, Pennsylvania
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: Reference: (J.O.Froliger and R. Kane, "Precipitation: Its Acidic Nature," Science 189 (8 August 1975): 455-457).

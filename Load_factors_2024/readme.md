@@ -18,4 +18,4 @@ Header | Description
 `Year.` | 
 `Decimal.Year` | 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: http://www.transtats.bts.gov/Data_Elements.aspx?Data=2

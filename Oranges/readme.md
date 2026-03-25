@@ -4,5 +4,11 @@ As the number of oranges on a tree increases, the fruit tends to get smaller. Th
 
 The data are in `Oranges.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`AvgWeight.Fruit.lb.` | 
+`Oranges.Tree` | 
+
+This dataset is sourced from: unknown

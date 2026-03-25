@@ -4,5 +4,13 @@ Data on 816 brands of cigarettes. What relationships are there among the nicotin
 
 The data are in `Cigarettes.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Nicotine` | 
+`TAR` | 
+`CO` | 
+`Brand` | 
+
+This dataset is sourced from: http://www.econdataus.com/cigrs.html

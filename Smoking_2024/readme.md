@@ -4,5 +4,12 @@ The Gallup poll tracks cigarette smoking in the United States. How has the perce
 
 The data are in `Smoking_2024.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Date` | 
+`Smoking.pct` | 
+`Year` | 
+
+This dataset is sourced from: Gallup poll Sources: 2019: American Lung Association 2020-2021: Gallup News 2022: Centers for Disease Control and Prevention (CDC) 2023: Gallup News 

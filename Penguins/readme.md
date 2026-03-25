@@ -4,5 +4,13 @@ Emperor penguins are the most accomplished divers among birds, making routine di
 
 The data are in `Penguins.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Dive.Heart.Rate` | 
+`Depth.m.` | 
+`Duration.min.` | 
+`Bird.` | 
+
+This dataset is sourced from: Jessica Meir personal communication

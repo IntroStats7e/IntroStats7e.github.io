@@ -12,4 +12,4 @@ Header | Description
 `Percent_Change` | 
 `Region` | 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: www.census.gov/compendia/statab/rankings.html  NOTE: can also obtain nice tables from Wikipedia  https://en.wikipedia.org/wiki/2020_United_States_census

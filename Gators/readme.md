@@ -4,5 +4,11 @@ Wildlife researchers monitor many wildlife populations by taking aerial photogra
 
 The data are in `Gators.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Weight.lbs.` | 
+`Length.in.` | 
+
+This dataset is sourced from: unknown

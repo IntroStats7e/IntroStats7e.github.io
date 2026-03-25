@@ -4,5 +4,25 @@ The U.S. government provides fuel economy (in miles per gallon) and other inform
 
 The data are in `Fuel_economy_2026.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Model.Year` | 
+`Mfr` | 
+`Division` | 
+`Car.line` | 
+`Class` | 
+`CityMPG` | 
+`HighwayMPG` | 
+`CombinedMPG` | 
+`Guzzler` | 
+`Displacement` | 
+`Cylinders` | 
+`Transmission` | 
+`Gears` | 
+`CityCO2` | 
+`HighwayCO2` | 
+`CombinedCO2` | 
+
+This dataset is sourced from: https://www.fueleconomy.gov/feg/epadata/21data.zip

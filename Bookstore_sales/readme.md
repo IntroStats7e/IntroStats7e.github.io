@@ -4,5 +4,11 @@ Number of sales people working in a bookstore and sales (in $1000) that day. The
 
 The data are in `Bookstore_sales.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Number.of.Sales.People.Working` | 
+`Sales..in..1000.` | 
+
+This dataset is sourced from: invented example

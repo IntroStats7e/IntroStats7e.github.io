@@ -4,5 +4,13 @@ The world men’s Olympic weightlifting records are categorized by weight class 
 
 The data are in `Weightlifting_2024.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Weight.Class` | 
+`Record.Holder` | 
+`Country` | 
+`Total.Weight.Lifted.kg` | 
+
+This dataset is sourced from: https://en.wikipedia.org/wiki/List_of_Olympic_records_in_weightlifting

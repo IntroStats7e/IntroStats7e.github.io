@@ -17,4 +17,4 @@ Header | Description
 `Restaurant.Price.Index` | Estimate of prices of meals and drinks at restaurants and bars relative to NYC 
 `Local.Purchasing.Power.Index` | Relative purchasing power of a certain salary relative to NYC
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: https://www.numbeo.com/cost-of-living/rankings.jsp

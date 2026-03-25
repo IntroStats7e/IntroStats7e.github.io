@@ -21,4 +21,4 @@ Header | Description
 `X200.m.z` | z-score for 200 meter run time 
 `javelin.z` | z-score for javelin throw 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: http://results.nbcolympics.com/track-field/event/women-heptathlon/phase=atw700c00/index.html

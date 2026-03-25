@@ -4,5 +4,12 @@ In a Chance magazine article (Summer 2005), Danielle Vasilescu and Howard Wainer
 
 The data are in `Crowdedness.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Country` | 
+`Crowdedness` | 
+`fertility` | 
+`GDP` | 
+

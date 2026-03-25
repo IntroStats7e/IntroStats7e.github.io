@@ -8,7 +8,7 @@ The variables in this dataset are:
 
 Header | Description
 ---|--------
-`Rank_In_Year` | 
+`Rank_In_Year` | Domestic gross ranking
 `Released` | 
 `Release_Year` | 
 `Title` | 
@@ -29,4 +29,4 @@ Header | Description
 `IMDB_Rating` | 
 `RottenTomatoes_Rating` | 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: www.the-numbers.com/research-analysis

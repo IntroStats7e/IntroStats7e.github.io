@@ -10,4 +10,4 @@ Header | Description
 ---|--------
 `speed.mph.` | Speed of car (miles per hour)
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: Website no longer active Collected by John Beale, engineering student at Stanford

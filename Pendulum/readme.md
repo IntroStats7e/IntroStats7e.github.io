@@ -4,5 +4,11 @@ A student experimenting with a pendulum counted the number of full swings the pe
 
 The data are in `Pendulum.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Swings` | 
+`Length.in.` | 
+
+This dataset is sourced from: unknown

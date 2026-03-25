@@ -24,4 +24,4 @@ Header | Description
 `shelf_2` | Indicator that the cereal is on shelf 2 (1=yes, 0=no) 
 `shelf_3` | Indicator that the cereal is on shelf 3 (1=yes, 0=no) 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: Data collected in a super market

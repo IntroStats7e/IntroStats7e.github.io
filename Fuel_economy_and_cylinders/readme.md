@@ -8,7 +8,7 @@ The variables in this dataset are:
 
 Header | Description
 ---|--------
-`Fuel.Efficiency..mpg.` | 
-`Cylinders` | 
+`Fuel.Efficiency..mpg.` | Car's fuel economy (miles per gallon) 
+`Cylinders` | Number of cylinders 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: unknown

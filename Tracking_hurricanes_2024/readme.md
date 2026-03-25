@@ -4,5 +4,13 @@ The National Hurricane Center (NHC) of the National Oceanic and Atmospheric Admi
 
 The data are in `Tracking_hurricanes_2024.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Year` | 
+`Error_24h` | 
+`Error_48h` | 
+`Error_72h` | 
+
+This dataset is sourced from: https://www.nhc.noaa.gov/verification/pdfs/1970-present_OFCL_ATL_annual_trk_errors_noTDs.pdf  From: https://www.nhc.noaa.gov/verification/pdfs/

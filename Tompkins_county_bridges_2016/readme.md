@@ -4,5 +4,19 @@ New York State inspectors assess all bridges in the state every two years includ
 
 The data are in `Tompkins_county_bridges_2016.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Municipality` | 
+`Location` | 
+`Route` | 
+`Owner` | 
+`Built` | 
+`Date.Inspected` | 
+`SD.FO.Status` | 
+`Condition` | 
+`YearInspected` | 
+`AgeAtInspection` | 
+
+This dataset is sourced from: https://data.ny.gov/Transportation/Bridge-Conditions-NYS-Department-of-Transportation/wpyb-cjy8

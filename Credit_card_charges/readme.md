@@ -8,6 +8,6 @@ The variables in this dataset are:
 
 Header | Description
 ---|--------
-`Charges...` | 
+`Charges` | Credit card charges in a 3-month period ($)
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: modified from raw

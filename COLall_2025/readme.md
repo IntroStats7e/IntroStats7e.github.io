@@ -13,4 +13,4 @@ Header | Description
 `Eggs.dozen.` | Cost of a dozen eggs
 `Bread.white.500g.` | Cost of a 500g loaf of white bread
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: http://www.numbeo.com/cost-of-living

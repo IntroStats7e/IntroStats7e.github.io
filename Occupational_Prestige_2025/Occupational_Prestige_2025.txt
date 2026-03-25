@@ -1,0 +1,1048 @@
+ONET.SOC.2010.Code	OPR.Job.Title	OPR.Field.Title	Prestige1989_GSS	Prestige2012_GSS	Prestige2016_OPR	NumEmployedK	MeanAnnualSal	MedianAnnualSal	Manual	MedSalK
+11-1011.03	Chief Sustainability Officer	Management	64.38	NA	62.04	211.23	258900	206680	0	206.68
+11-1011.00	Chief Executive Officers	Management	70.45	6.58	80.37	211.23	258900	206680	0	206.68
+11-1021.00	General and Operations Manager	Management	50.64	4.94	59.14	3507.81	129330	101280	0	101.28
+11-1031.00	Legislator	Management	60.92	5.6	69.7	32.46	68140	47290	0	47.29
+13-1011.00	Agent and/or Business Manager of Artists, Performers, and Athletes	BusinFinanOperations	51.43	4.6	65.64	12.87	132810	84900	0	84.9
+13-1031.00	Claims Adjuster, Examiner, and/or Investigator	BusinFinanOperations	64.38	4.7	49.65	293.78	75770	75050	0	75.05
+13-1031.01	Claims Adjuster, Examiner, and/or Investigator	BusinFinanOperations	64.38	NA	49.65	293.78	75770	75050	0	75.05
+13-1031.02	Claims Adjuster, Examiner, and/or Investigator	BusinFinanOperations	64.38	NA	49.65	293.78	75770	75050	0	75.05
+13-1032.00	Insurance Appraiser and/or Adjuster	BusinFinanOperations	64.38	NA	44.25	8.67	75660	74520	0	74.52
+13-1041.00	Compliance Officer	BusinFinanOperations	64.38	4.75	55.76	383.62	80190	75670	0	75.67
+13-1041.01	Environmental Compliance Inspector	BusinFinanOperations	64.38	NA	59.55	383.62	80190	75670	0	75.67
+13-1041.02	Licensing Examiner and/or Inspector	BusinFinanOperations	64.38	NA	50.63	383.62	80190	75670	0	75.67
+13-1041.06	Coroner	BusinFinanOperations	64.38	NA	61.78	383.62	80190	75670	0	75.67
+13-1041.03	Equal Opportunity Representative and/or Officer	BusinFinanOperations	64.38	NA	51.38	383.62	80190	75670	0	75.67
+13-1041.04	Government Property Inspector and/or Investigator	BusinFinanOperations	64.38	NA	54.55	383.62	80190	75670	0	75.67
+13-1041.07	Regulatory Affairs Specialist	BusinFinanOperations	64.38	NA	56.99	383.62	80190	75670	0	75.67
+13-1051.00	Cost Estimator	BusinFinanOperations	64.38	3.6	52.27	220.97	79520	74740	0	74.74
+13-1071.00	Human Resources and/or Training	BusinFinanOperations	64.38	4.73	49	895.97	76060	67650	0	67.65
+13-1074.00	Farm Labor Contractor	FarmingFishingForestry	43.32	NA	34.09	0.46	51400	45730	1	45.73
+13-1075.00	Labor Relations Specialist	BusinFinanOperations	64.38	NA	52.7	62.8	94620	89980	0	89.98
+13-1081.02	Logistics Analyst and/or Engineer	BusinFinanOperations	64.38	NA	68.64	228.47	84640	79400	0	79.4
+13-1081.00	Logistician	BusinFinanOperations	64.38	5	58.91	228.47	84640	79400	0	79.4
+13-1081.01	Logistics Analyst and/or Engineer	BusinFinanOperations	64.38	NA	68.64	228.47	84640	79400	0	79.4
+15-1199.00	Other - Computer Science Worker	ComputerMath	73.7	4.75	63.26	947.63	104920	98580	0	98.58
+11-9199.00	Other - Manager	Management	50.64	NA	60.05	947.63	104920	98580	0	98.58
+13-1199.00	Business Operations Specialist	BusinFinanOperations	64.38	3.6	57.48	947.63	104920	98580	0	98.58
+13-1111.00	Management Analyst	BusinFinanOperations	60.65	5	62.37	838.14	115530	99410	0	99.41
+13-1121.00	Meeting and Convention Planner	BusinFinanOperations	64.38	4.85	49.3	122.13	62280	56920	0	56.92
+13-1131.00	Public Relations Manager	Management	59.46	4.1	56.92	101.73	70760	64160	0	64.16
+13-1141.00	Compensation, Benefits, and/or Job Analysis Specialist	BusinFinanOperations	64.38	5.2	54.05	99.85	80620	74530	0	74.53
+13-1151.00	Training and Development Specialist	BusinFinanOperations	64.38	5.2	56.72	403.48	71980	64340	0	64.34
+13-1161.00	Market Research Analyst	LifePhysicalSocialScience	64.38	5.6	57.12	846.37	83190	74680	0	74.68
+13-1199.04	Business Continuity Planner	BusinFinanOperations	64.38	NA	63.46	1103.44	89130	79590	0	79.59
+13-1199.01	Energy Auditor	BusinFinanOperations	65.38	NA	55.68	1103.44	89130	79590	0	79.59
+13-1199.02	Security Management Specialist	BusinFinanOperations	64.38	NA	60.45	1103.44	89130	79590	0	79.59
+13-1199.03	Customs Broker	BusinFinanOperations	64.38	NA	56.34	1103.44	89130	79590	0	79.59
+13-1199.06	Online Merchant	Management	53.52	NA	47.65	1103.44	89130	79590	0	79.59
+13-1199.00	Business Operations Specialist	BusinFinanOperations	64.38	NA	57.48	1103.44	89130	79590	0	79.59
+13-1199.05	Sustainability Specialist	BusinFinanOperations	64.38	NA	60.75	1103.44	89130	79590	0	79.59
+13-2011.01	Accountant	BusinFinanOperations	65.38	NA	62.78	1435.77	90780	79880	0	79.88
+13-2011.02	Auditor	BusinFinanOperations	65.38	NA	60.05	1435.77	90780	79880	0	79.88
+13-2011.00	NA	NA	NA	5.7	NA	1435.77	90780	79880	0	79.88
+13-2031.00	Budget Analyst	BusinFinanOperations	64.38	5.15	59.01	47.31	90880	84940	0	84.94
+13-2041.00	Credit Analyst	BusinFinanOperations	64.38	5.1	50.39	73.2	94750	79420	0	79.42
+13-2051.00	Financial Analyst	BusinFinanOperations	64.38	5.6	67.31	325.22	112950	99010	0	99.01
+13-2052.00	Personal Financial Advisor	BusinFinanOperations	64.38	6	62.71	272.19	150670	99580	0	99.58
+13-2053.00	Insurance Underwriter	BusinFinanOperations	48.4	4.5	46.77	101.31	85610	77860	0	77.86
+13-2099.00	Other - Financial Specialist	BusinFinanOperations	64.38	4.2	64.67	55.29	118950	106090	0	106.09
+13-2051.00	Financial Analyst	BusinFinanOperations	64.38	NA	67.31	55.29	118950	106090	0	106.09
+13-2099.02	Risk Management Specialist	BusinFinanOperations	64.38	NA	60.19	55.29	118950	106090	0	106.09
+13-2061.00	Financial Examiner	BusinFinanOperations	64.38	5.3	63.2	63.44	98140	84300	0	84.3
+13-2071.01	Loan Counselor	BusinFinanOperations	64.38	NA	46.19	27.95	53440	48570	0	48.57
+13-2071.00	Loan Counselor	BusinFinanOperations	64.38	4.65	46.19	27.95	53440	48570	0	48.57
+13-2072.00	Loan Officer	BusinFinanOperations	64.38	NA	49.32	321.09	84490	69990	0	69.99
+13-2081.00	Tax Examiner, Collector, and/or Revenue Agent	BusinFinanOperations	64.38	4.1	47.34	50.25	65370	58530	0	58.53
+13-2082.00	Tax Preparer	BusinFinanOperations	64.38	5.1	50.5	81.65	58160	49010	0	49.01
+13-2099.00	Other - Financial Specialist	BusinFinanOperations	64.38	NA	64.67	122.73	89650	78310	0	78.31
+13-2099.01	Financial Quantitative Analyst	BusinFinanOperations	64.38	NA	68.45	122.73	89650	78310	0	78.31
+13-2099.03	Investment Underwriter	BusinFinanOperations	48.4	NA	59.49	122.73	89650	78310	0	78.31
+13-2099.04	Fraud Examiner, Investigator and/or Analyst	BusinFinanOperations	64.38	NA	58.68	122.73	89650	78310	0	78.31
+15-1121.01	Informatics Nurse Specialist	ComputerMath	64.38	NA	66.31	498.81	110800	103800	0	103.8
+15-1121.00	Computer and Information Scientist	ComputerMath	73.7	6.2	73.02	498.81	110800	103800	0	103.8
+15-1122.00	Computer Security Specialist	ComputerMath	73.7	6	70.53	175.35	124740	120360	0	120.36
+15-1111.00	Computer and Information Scientist	ComputerMath	73.7	6.4	73.02	35.21	157160	145080	0	145.08
+15-1152.00	Computer Specialist	ComputerMath	73.7	NA	69.11	158.72	78640	71530	0	71.53
+15-1151.00	Computer Support Specialist	ComputerMath	73.7	4.85	52.93	689.7	63640	59240	0	59.24
+15-1143.01	Telecommunications Specialist	ComputerMath	64.38	NA	54.39	174.1	133930	129840	0	129.84
+15-1143.00	Network Systems and Data Communications Analyst	ComputerMath	64.38	5.8	69.76	174.1	133930	129840	0	129.84
+15-1141.00	Database Administrator	ComputerMath	53.52	5.5	56.86	76.14	104810	101510	0	101.51
+15-1141.00	Database Administrator	ComputerMath	53.52	NA	56.86	59.92	137030	134700	0	134.7
+15-1199.07	Data Warehousing Specialist	ComputerMath	51.21	NA	49.5	59.92	137030	134700	0	134.7
+15-1199.06	Database Architect	ComputerMath	51.21	NA	65.66	59.92	137030	134700	0	134.7
+15-1199.00	Other - Computer Science Worker	ComputerMath	73.7	NA	63.26	59.92	137030	134700	0	134.7
+15-1142.00	Network and Computer Systems Administrator	ComputerMath	53.52	5.8	68.57	323.02	100580	95360	0	95.36
+15-1131.00	Computer Programmer	ComputerMath	60.51	6	69.27	120.37	107750	99700	0	99.7
+15-1133.00	Computer Software Engineer	ComputerMath	73.7	NA	71.95	1656.88	138110	132270	0	132.27
+15-1132.00	Computer Software Engineer	ComputerMath	73.7	5.75	71.95	1656.88	138110	132270	0	132.27
+15-1199.02	Computer Systems Engineers/Architect	ComputerMath	73.7	NA	73.52	1656.88	138110	132270	0	132.27
+15-1199.01	Software Quality Assurance Engineer and/or Tester	ComputerMath	70.69	NA	65.12	203.04	108460	101800	0	101.8
+15-1133.00	Computer Software Engineer	ComputerMath	73.7	NA	71.95	203.04	108460	101800	0	101.8
+15-1199.00	Other - Computer Science Worker	ComputerMath	73.7	NA	63.26	203.04	108460	101800	0	101.8
+15-1132.00	Computer Software Engineer	ComputerMath	73.7	NA	71.95	203.04	108460	101800	0	101.8
+15-1134.00	Web Developer	ComputerMath	64.38	5.4	63.93	85.35	95570	84960	0	84.96
+15-1134.00	Web Developer	ComputerMath	64.38	NA	63.93	111.06	108820	98540	0	98.54
+15-1199.10	Electronic Commerce Specialist	ComputerMath	51.21	NA	60.13	111.06	108820	98540	0	98.54
+15-1199.00	Other - Computer Science Worker	ComputerMath	73.7	NA	63.26	111.06	108820	98540	0	98.54
+15-1199.12	Document Management Specialist	ComputerMath	51.21	NA	48.59	437.17	112430	104920	0	104.92
+43-9011.00	Computer Operator	OfficeAdminSupport	50.32	4.8	57.3	437.17	112430	104920	0	104.92
+15-1199.00	Other - Computer Science Worker	ComputerMath	73.7	NA	63.26	437.17	112430	104920	0	104.92
+15-1199.09	Information Technology Project Manager	ComputerMath	53.52	NA	68.65	437.17	112430	104920	0	104.92
+15-1199.04	Geospatial Information Scientist and/or Technologist	ComputerMath	64.38	NA	72.94	437.17	112430	104920	0	104.92
+15-1199.08	Business Intelligence Analyst	ComputerMath	64.38	NA	66.62	437.17	112430	104920	0	104.92
+15-1199.11	Video Game Designer	ComputerMath	46.53	NA	65.87	437.17	112430	104920	0	104.92
+15-1199.05	Geographic Information Systems Technician	ComputerMath	40.85	NA	62.72	437.17	112430	104920	0	104.92
+15-1199.03	Web Administrator	ComputerMath	53.52	NA	56.76	437.17	112430	104920	0	104.92
+15-2011.00	Actuary	ComputerMath	44.47	5	57.42	25.47	132500	120000	0	120
+15-2021.00	Mathematician	ComputerMath	63.46	6.2	72.25	2.22	119770	116440	0	116.44
+15-2031.00	Operations Research Analyst	ComputerMath	64.38	5.1	67.42	117.88	95600	83640	0	83.64
+15-2041.02	Clinical Data Manager	ComputerMath	53.52	NA	55.21	29.95	109190	104110	0	104.11
+15-2041.00	Statistician	ComputerMath	55.57	5.4	64.55	29.95	109190	104110	0	104.11
+15-2041.01	Biostatistician	ComputerMath	55.57	NA	68.42	29.95	109190	104110	0	104.11
+15-2099.00	Mathematical Science Occupation	ComputerMath	64.38	6.2	70.8	192.71	119040	108020	0	108.02
+15-2099.00	Mathematical Science Occupation	ComputerMath	64.38	NA	70.8	4.32	83330	70620	0	70.62
+15-2091.00	Mathematical Technician	ComputerMath	40.85	NA	66.35	4.32	83330	70620	0	70.62
+17-1011.00	Architect	EngineeringArchitecture	73.15	6.7	75.6	111.17	100400	93310	0	93.31
+17-1012.00	Landscape Architect	EngineeringArchitecture	64.38	NA	59.89	20.37	83990	79320	0	79.32
+17-1021.00	Cartographer and/or Photogrammetrist	EngineeringArchitecture	51.35	NA	66.58	12.33	78810	76210	0	76.21
+17-1022.00	Surveyor	EngineeringArchitecture	51.35	4.6	51.5	50.74	74000	68540	0	68.54
+17-1022.01	Geodetic Surveyor	EngineeringArchitecture	64.38	NA	67.55	50.74	74000	68540	0	68.54
+17-2011.00	Aerospace Engineer	EngineeringArchitecture	71.6	6.9	83.83	66.66	134330	130720	0	130.72
+17-2021.00	Agricultural Engineer	EngineeringArchitecture	59.54	6.3	65.83	1.86	93490	88750	0	88.75
+17-2031.00	Biomedical Engineer	EngineeringArchitecture	64.27	6.9	80.9	19.32	106700	100730	0	100.73
+17-2041.00	Chemical Engineer	EngineeringArchitecture	73.3	6.5	75.36	21.14	122910	112100	0	112.1
+17-2051.01	Transportation Engineer	EngineeringArchitecture	70.69	NA	64.51	327.95	101160	95890	0	95.89
+17-2051.00	Civil Engineer	EngineeringArchitecture	68.81	6.2	73.1	327.95	101160	95890	0	95.89
+17-2061.00	Computer Hardware Engineer	EngineeringArchitecture	73.7	6.5	69.67	82.66	147770	138080	0	138.08
+17-2071.00	Electrical Engineers	EngineeringArchitecture	64.19	6.7	71.37	185.43	117680	106950	0	106.95
+17-2072.01	Radio Frequency Identification Device Specialist	EngineeringArchitecture	64.38	NA	54.88	96.41	124190	119200	0	119.2
+17-2072.00	Electronics Engineer	EngineeringArchitecture	64.19	NA	72.74	96.41	124190	119200	0	119.2
+17-2081.00	Environmental Engineer	EngineeringArchitecture	70.69	5.8	69.26	39.88	105840	100090	0	100.09
+17-2081.01	Water/Wastewater Engineer	EngineeringArchitecture	70.69	NA	57.06	39.88	105840	100090	0	100.09
+17-2111.00	Health and Safety Engineer	EngineeringArchitecture	70.69	NA	58.92	22.51	108740	103690	0	103.69
+17-2111.01	Industrial Safety and Health Engineer	EngineeringArchitecture	70.69	NA	62.96	22.51	108740	103690	0	103.69
+17-2111.02	Fire-Prevention and Protection Engineer	EngineeringArchitecture	60.42	NA	64.29	22.51	108740	103690	0	103.69
+17-2111.03	Product Safety Engineer	EngineeringArchitecture	70.69	NA	64.8	22.51	108740	103690	0	103.69
+17-2112.01	Human Factors Engineer and Ergonomist	EngineeringArchitecture	70.69	NA	66.78	332.87	103150	99380	0	99.38
+17-2112.00	Industrial Engineers	EngineeringArchitecture	62.26	6	68.17	332.87	103150	99380	0	99.38
+17-2121.01	Marine Engineer and/or Naval Architect	EngineeringArchitecture	59.46	NA	72.84	9.96	108110	100270	0	100.27
+17-2121.00	Marine Architect	EngineeringArchitecture	59.46	6.3	72.4	9.96	108110	100270	0	100.27
+17-2121.02	Marine Engineer and/or Naval Architect	EngineeringArchitecture	59.46	NA	72.84	9.96	108110	100270	0	100.27
+17-2131.00	Materials Engineer	EngineeringArchitecture	60.94	6	64.83	24.63	110430	104100	0	104.1
+17-2141.01	Fuel Cell Engineer	EngineeringArchitecture	70.69	NA	68.45	281.29	105220	99510	0	99.51
+17-2141.02	Automotive Engineer	EngineeringArchitecture	70.69	NA	65.58	281.29	105220	99510	0	99.51
+17-2141.00	Mechanical Engineer	EngineeringArchitecture	64.14	6.6	73.91	281.29	105220	99510	0	99.51
+17-2151.00	Mining and/or Geological Engineer (including Mining Safety Engineer)	EngineeringArchitecture	59.62	5.8	63.26	7.04	105460	100640	0	100.64
+17-2161.00	Nuclear Engineer	EngineeringArchitecture	63.3	6.3	81.45	12.71	126950	125460	0	125.46
+17-2171.00	Petroleum Engineer	EngineeringArchitecture	65.85	6	65.93	20.39	148590	135690	0	135.69
+17-2199.09	Nanosystems Engineer	EngineeringArchitecture	70.69	NA	77.16	150.99	118350	111970	0	111.97
+17-2199.08	Robotics Engineer	EngineeringArchitecture	70.69	NA	77.78	150.99	118350	111970	0	111.97
+17-2199.04	Manufacturing Engineer	EngineeringArchitecture	70.69	NA	66.66	150.99	118350	111970	0	111.97
+17-2199.02	Validation Engineer	EngineeringArchitecture	70.69	NA	63.24	150.99	118350	111970	0	111.97
+17-2199.07	Photonics Engineer	EngineeringArchitecture	70.69	NA	75.62	150.99	118350	111970	0	111.97
+17-2199.00	Other - Engineer	EngineeringArchitecture	70.69	6.6	74.91	150.99	118350	111970	0	111.97
+17-2199.10	Wind Energy Engineer	EngineeringArchitecture	70.69	NA	70.33	150.99	118350	111970	0	111.97
+17-2199.01	Biochemical Engineer	EngineeringArchitecture	64.27	NA	80.51	150.99	118350	111970	0	111.97
+17-2199.03	Energy Engineer	EngineeringArchitecture	70.69	NA	72.79	150.99	118350	111970	0	111.97
+17-2199.11	Solar Energy Systems Engineer	EngineeringArchitecture	70.69	NA	69.82	150.99	118350	111970	0	111.97
+17-2199.06	Microsystems Engineer	EngineeringArchitecture	70.69	NA	74.87	150.99	118350	111970	0	111.97
+17-2199.05	Mechatronics Engineer	EngineeringArchitecture	70.69	NA	74.49	150.99	118350	111970	0	111.97
+17-3011.02	Architectural and/or Civil Drafter	EngineeringArchitecture	51.49	NA	68.37	111.07	65000	61820	0	61.82
+17-3011.01	Architectural and/or Civil Drafter	EngineeringArchitecture	51.49	NA	68.37	111.07	65000	61820	0	61.82
+17-3011.00	Architectural and/or Civil Drafter	EngineeringArchitecture	51.49	4.8	68.37	111.07	65000	61820	0	61.82
+17-3012.02	Electrical and/or Electronics Drafter	EngineeringArchitecture	51.49	NA	59.31	20.68	73110	69260	0	69.26
+17-3012.00	Electrical and/or Electronics Drafter	EngineeringArchitecture	51.49	NA	59.31	20.68	73110	69260	0	69.26
+17-3012.01	Electrical and/or Electronics Drafter	EngineeringArchitecture	51.49	NA	59.31	20.68	73110	69260	0	69.26
+17-3013.00	Mechanical Drafter	EngineeringArchitecture	51.49	NA	57.66	44.85	69920	64060	0	64.06
+17-3019.00	Drafter	EngineeringArchitecture	51.49	NA	49.21	16.58	62980	59260	0	59.26
+17-3021.00	Aerospace Engineering and Operations Technician	EngineeringArchitecture	71.6	NA	84.13	10.64	81280	77830	0	77.83
+17-3022.00	Civil Engineering Technician	EngineeringArchitecture	40.85	NA	70.77	63.56	63770	60700	0	60.7
+17-3023.00	Electrical and/or Electronic Engineering Technician	EngineeringArchitecture	59.88	NA	65.85	97.42	74440	72800	0	72.8
+17-3029.02	Electrical and/or Electronic Engineering Technician	EngineeringArchitecture	59.88	NA	65.85	97.42	74440	72800	0	72.8
+17-3023.01	Electrical and/or Electronic Engineering Technician	EngineeringArchitecture	59.88	NA	65.85	97.42	74440	72800	0	72.8
+17-3029.04	Electrical and/or Electronic Engineering Technician	EngineeringArchitecture	59.88	NA	65.85	97.42	74440	72800	0	72.8
+17-3023.03	Electrical and/or Electronic Engineering Technician	EngineeringArchitecture	59.88	NA	65.85	97.42	74440	72800	0	72.8
+17-3024.01	Robotics Technician	EngineeringArchitecture	40.85	NA	67.73	15.36	72430	65080	0	65.08
+17-3029.03	Electro-Mechanical Technician	EngineeringArchitecture	40.85	NA	64.11	15.36	72430	65080	0	65.08
+17-3024.00	Electro-Mechanical Technician	EngineeringArchitecture	40.85	NA	64.11	15.36	72430	65080	0	65.08
+17-3025.00	Environmental Engineering Technician	EngineeringArchitecture	40.85	NA	64.93	13.78	58780	54000	0	54
+17-3026.00	Industrial Engineering Technicians	EngineeringArchitecture	40.85	NA	65.94	73.02	66640	62610	0	62.61
+17-3029.05	Industrial Engineering Technicians	EngineeringArchitecture	40.85	NA	65.94	73.02	66640	62610	0	62.61
+17-3029.07	Mechanical Engineering Technician	EngineeringArchitecture	40.85	NA	67.61	38.93	67990	64020	0	64.02
+17-3027.00	Mechanical Engineering Technician	EngineeringArchitecture	40.85	NA	67.61	38.93	67990	64020	0	64.02
+17-3027.01	Automotive Engineering Technician	EngineeringArchitecture	40.85	NA	56.31	38.93	67990	64020	0	64.02
+17-3029.00	Other - Engineering Technician	EngineeringArchitecture	48.25	5	66.87	13.22	67360	62790	0	62.79
+17-3029.01	Non-Destructive Testing Specialist	EngineeringArchitecture	64.38	NA	58.59	66.2	75290	73500	0	73.5
+17-3029.12	Nanotechnology Engineering Technician	EngineeringArchitecture	40.85	NA	69.07	66.2	75290	73500	0	73.5
+17-3029.10	Fuel Cell Technician	EngineeringArchitecture	40.85	NA	57.39	66.2	75290	73500	0	73.5
+17-3029.08	Photonics Technician	EngineeringArchitecture	40.85	NA	64.58	66.2	75290	73500	0	73.5
+17-3029.11	Nanotechnology Engineering Technician	EngineeringArchitecture	40.85	NA	69.07	66.2	75290	73500	0	73.5
+17-3029.09	Manufacturing Production Technician	EngineeringArchitecture	40.85	NA	46.17	66.2	75290	73500	0	73.5
+17-3029.06	Manufacturing Engineering Technologist	EngineeringArchitecture	64.38	NA	63.63	66.2	75290	73500	0	73.5
+55-3017.00	Radar and/or Sonar Technician	Military	NA	NA	64.16	66.2	75290	73500	0	73.5
+17-3029.00	Other - Engineering Technician	EngineeringArchitecture	48.25	NA	66.87	66.2	75290	73500	0	73.5
+17-3031.02	Mapping Technician	EngineeringArchitecture	36.1	NA	55.08	56.05	54090	48940	0	48.94
+17-3031.01	Surveying and Mapping Technician	EngineeringArchitecture	36.1	NA	57.44	56.05	54090	48940	0	48.94
+17-3031.00	Surveying and Mapping Technician	EngineeringArchitecture	36.1	3.7	57.44	56.05	54090	48940	0	48.94
+19-1011.00	Animal Scientist	LifePhysicalSocialScience	73.14	NA	63.58	2.46	89450	70140	0	70.14
+19-1012.00	Food Scientist and/or Technologist	LifePhysicalSocialScience	58	5.5	68.73	14.1	88350	82090	0	82.09
+19-1013.00	Soil and Plant Scientist	LifePhysicalSocialScience	54.53	NA	66.87	15.8	77080	68240	0	68.24
+19-1020.01	Biologists	LifePhysicalSocialScience	73.14	6.9	75.11	133.05	100440	91790	0	91.79
+19-1021.00	Biochemist	LifePhysicalSocialScience	73.14	NA	83.93	33.18	120310	107460	0	107.46
+19-1022.00	Microbiologist	LifePhysicalSocialScience	73.14	NA	76.68	21.54	93380	85470	0	85.47
+19-1023.00	Zoologist and/or Wildlife Biologist	LifePhysicalSocialScience	73.14	NA	69.56	17.1	75740	70600	0	70.6
+19-1029.01	Bioinformatics Scientist	LifePhysicalSocialScience	73.14	NA	78.12	61.22	99060	91100	0	91.1
+19-1029.03	Geneticist	LifePhysicalSocialScience	86.05	6	78.64	61.22	99060	91100	0	91.1
+19-1029.00	Other - Biological Scientist	LifePhysicalSocialScience	73.14	NA	75.79	61.22	99060	91100	0	91.1
+19-1029.02	Molecular and Cellular Biologist	LifePhysicalSocialScience	73.14	NA	78.9	61.22	99060	91100	0	91.1
+19-1031.01	Soil and/or Water Conservationist	LifePhysicalSocialScience	54.53	NA	59.01	22.79	73160	68750	0	68.75
+19-1031.02	Range Manager	LifePhysicalSocialScience	64.38	NA	52.81	22.79	73160	68750	0	68.75
+19-1031.00	Conservation Scientist	LifePhysicalSocialScience	54.53	4.6	68.86	22.79	73160	68750	0	68.75
+19-1031.03	Park Naturalist	LifePhysicalSocialScience	54.53	NA	54.27	22.79	73160	68750	0	68.75
+19-1032.00	Forester	LifePhysicalSocialScience	54.53	NA	56.27	9.45	70680	67330	0	67.33
+19-1041.00	Epidemiologist	LifePhysicalSocialScience	73.14	NA	77.63	10.23	90430	81390	0	81.39
+19-1042.00	Medical Scientist (except Epidemiologist)	LifePhysicalSocialScience	86.05	NA	81.23	136.62	112380	100890	0	100.89
+19-1099.00	Other - Life Scientist	LifePhysicalSocialScience	73.14	4.8	67.17	7.49	101520	86950	0	86.95
+19-2011.00	Astronomer	LifePhysicalSocialScience	73.48	6.9	78.59	2.08	128940	127930	0	127.93
+19-2012.00	Physicist	LifePhysicalSocialScience	73.48	NA	82.66	18.35	158270	155680	0	155.68
+19-2021.00	Atmospheric and/or Space Scientist	LifePhysicalSocialScience	63.39	5.9	80.29	9.31	101530	92860	0	92.86
+19-2031.00	Chemist	LifePhysicalSocialScience	73.33	6.7	74.74	83.53	95560	84680	0	84.68
+19-2032.00	Materials Scientist	LifePhysicalSocialScience	73.09	NA	71.41	8.81	112440	106160	0	106.16
+19-2041.03	Industrial Ecologist	LifePhysicalSocialScience	73.09	NA	66	80.73	86710	78980	0	78.98
+19-2041.02	Environmental Restoration Planner	LifePhysicalSocialScience	73.09	NA	61.64	80.73	86710	78980	0	78.98
+19-2041.00	Environmental Scientist	LifePhysicalSocialScience	73.09	6.1	69.62	80.73	86710	78980	0	78.98
+19-2041.01	Climate Change Analyst	LifePhysicalSocialScience	73.09	NA	63.06	80.73	86710	78980	0	78.98
+19-2042.00	Geoscientist (except Hydrologist or Geographer)	LifePhysicalSocialScience	69.75	NA	72.55	24.62	104000	92580	0	92.58
+19-2043.00	Hydrologist	LifePhysicalSocialScience	73.09	NA	63.67	6.15	96410	88770	0	88.77
+19-2099.00	Other - Physical Scientist	LifePhysicalSocialScience	73.09	4.4	75.94	20.82	119050	112280	0	112.28
+19-2099.01	Remote Sensing Scientist and/or Technologist	LifePhysicalSocialScience	64.38	NA	70.51	20.82	119050	112280	0	112.28
+19-3011.01	Environmental Economist	LifePhysicalSocialScience	73.09	NA	66.64	16.42	132650	115730	0	115.73
+19-3011.00	Economist	LifePhysicalSocialScience	62.86	6	67.83	16.42	132650	115730	0	115.73
+19-3022.00	Survey Researcher	LifePhysicalSocialScience	65.02	3.9	51.03	8.19	66670	60960	0	60.96
+19-3032.00	Psychologist - Industrial-Organizational	LifePhysicalSocialScience	69.39	6.4	69.09	1.03	154380	147420	0	147.42
+19-3031.00	NA	NA	NA	NA	NA	71.73	106600	96100	0	96.1
+19-3031.02	Psychologist - Clinical	LifePhysicalSocialScience	69.39	NA	74.21	71.73	106600	96100	0	96.1
+19-3031.03	Psychologist - Counseling	LifePhysicalSocialScience	69.39	NA	69.26	71.73	106600	96100	0	96.1
+19-3031.00	NA	NA	NA	NA	NA	62.79	91990	84940	0	84.94
+19-3031.01	Psychologist - School	LifePhysicalSocialScience	69.39	NA	64.62	62.79	91990	84940	0	84.94
+19-3039.00	Psychologist - Other	LifePhysicalSocialScience	69.39	NA	74.17	14.48	110300	117750	0	117.75
+19-3039.01	Neuropsychologist and/or Clinical Neuropsychologist	LifePhysicalSocialScience	86.05	NA	82.79	14.48	110300	117750	0	117.75
+19-3041.00	Sociologist	LifePhysicalSocialScience	60.75	6.1	60.59	2.89	106710	101770	0	101.77
+19-3051.00	Urban and Regional Planner	LifePhysicalSocialScience	52.32	5.5	61.95	42.69	85940	81800	0	81.8
+19-3091.00	NA	NA	NA	NA	NA	7.72	69780	63800	0	63.8
+19-3091.02	Archeologist	LifePhysicalSocialScience	65.02	NA	71.55	7.72	69780	63800	0	63.8
+19-3091.01	Anthropologist	LifePhysicalSocialScience	65.02	NA	71.94	7.72	69780	63800	0	63.8
+19-3092.00	Geographer	LifePhysicalSocialScience	69.75	NA	62.59	1.46	92460	90880	0	90.88
+19-3093.00	Historian	LifePhysicalSocialScience	65.02	NA	63.96	3.04	76120	72890	0	72.89
+19-3094.00	Political Scientist	LifePhysicalSocialScience	65.02	NA	59.59	5.58	132020	132350	0	132.35
+19-3099.00	Other - Social Scientist	LifePhysicalSocialScience	65.02	6.2	57.61	35.21	102210	95890	0	95.89
+19-3099.01	Transportation Planner	LifePhysicalSocialScience	24.89	NA	52.98	35.21	102210	95890	0	95.89
+19-4011.01	Agricultural and/or Food Science Technician	LifePhysicalSocialScience	40.85	NA	59.87	13.15	46810	43180	0	43.18
+19-4099.02	Precision Agriculture Technician	LifePhysicalSocialScience	40.85	NA	59.5	13.15	46810	43180	0	43.18
+19-4011.00	Agricultural and/or Food Science Technician	LifePhysicalSocialScience	40.85	4.6	59.87	13.15	46810	43180	0	43.18
+19-4011.00	Agricultural and/or Food Science Technician	LifePhysicalSocialScience	40.85	NA	59.87	15.19	54000	49090	0	49.09
+19-4011.02	Agricultural and/or Food Science Technician	LifePhysicalSocialScience	40.85	NA	59.87	15.19	54000	49090	0	49.09
+19-4021.00	Biological Technician	LifePhysicalSocialScience	32.35	4.8	64.95	76.99	56540	51430	0	51.43
+19-4031.00	Chemical Technician	LifePhysicalSocialScience	37.61	5.5	66.09	55.88	60920	56750	0	56.75
+19-4091.00	Environmental Science Technician	LifePhysicalSocialScience	40.85	NA	63.96	32.39	57470	50660	0	50.66
+19-4041.00	Geological and/or Petroleum Technician	LifePhysicalSocialScience	40.85	6.15	67.91	8.86	64590	52440	0	52.44
+19-4041.01	Geophysical Data Technician	LifePhysicalSocialScience	40.85	NA	67.86	8.86	64590	52440	0	52.44
+19-4041.02	Geological Sample Test Technician	LifePhysicalSocialScience	40.85	NA	61.32	8.86	64590	52440	0	52.44
+19-4099.00	Other - Life, Physical and Social Science Technician	LifePhysicalSocialScience	40.85	4.5	58.99	3	61500	55890	0	55.89
+19-4041.00	Geological and/or Petroleum Technician	LifePhysicalSocialScience	40.85	NA	67.91	3	61500	55890	0	55.89
+19-4051.01	Nuclear Equipment Operation Technician	LifePhysicalSocialScience	40.85	NA	70.11	5.4	97520	101740	0	101.74
+19-4051.02	Nuclear Monitoring Technician	LifePhysicalSocialScience	40.85	NA	69.84	5.4	97520	101740	0	101.74
+19-4051.00	Nuclear Technician	LifePhysicalSocialScience	40.85	7	76.86	5.4	97520	101740	0	101.74
+19-4061.00	Social Science Research Assistant	LifePhysicalSocialScience	38.16	5.3	55.41	30.89	62370	56400	0	56.4
+19-4061.01	City and Regional Planning Aide	LifePhysicalSocialScience	38.16	NA	55.29	30.89	62370	56400	0	56.4
+19-4093.00	Forest and Conservation Technician	LifePhysicalSocialScience	40.85	NA	55.95	28.74	54260	51880	0	51.88
+19-4092.00	Forensic Science Technician	LifePhysicalSocialScience	40.85	NA	72.67	17.52	71540	64940	0	64.94
+19-4099.01	Quality Control Analyst	LifePhysicalSocialScience	64.38	NA	54.79	72.23	62640	58350	0	58.35
+19-4099.03	Remote Sensing Technician	LifePhysicalSocialScience	40.85	NA	60	72.23	62640	58350	0	58.35
+19-4099.00	Other - Life, Physical and Social Science Technician	LifePhysicalSocialScience	40.85	NA	58.99	72.23	62640	58350	0	58.35
+29-9011.00	Occupational Health and Safety Specialist	Healthcare	64.38	NA	57.74	122.3	85570	81140	0	81.14
+29-9012.00	Occupational Health and Safety Technician	Healthcare	40.85	NA	56.81	27.27	64250	57920	0	57.92
+21-1012.00	Counselor - Educational, Vocational, and School	CommSocialSvcs	56.69	NA	57.46	327.66	66990	61710	0	61.71
+21-1013.00	Marriage and/or Family Therapist	CommSocialSvcs	62.36	NA	63.48	63.34	68730	58510	0	58.51
+21-1015.00	Counselor - Rehabilitation	CommSocialSvcs	56.69	NA	58.09	84.75	48430	44040	0	44.04
+21-1019.00	Other - Counselor	CommSocialSvcs	56.69	5.07	58.3	35.58	52360	46130	0	46.13
+21-1021.00	Social Worker - Child, Family and/or School	CommSocialSvcs	51.5	NA	53.62	352.16	59190	53940	0	53.94
+21-1022.00	Social Worker - Medical and/or Public Health	CommSocialSvcs	51.5	NA	51.34	185.02	67430	62940	0	62.94
+21-1023.00	Social Worker - Mental Health and/or Substance Abuse	CommSocialSvcs	51.5	NA	53.51	114.68	63870	55960	0	55.96
+21-1029.00	Other - Social Worker	CommSocialSvcs	51.5	5.3	51.38	58.46	68800	63770	0	63.77
+21-1091.00	Health Educator	CommSocialSvcs	73.51	NA	59.47	57.8	69790	62860	0	62.86
+21-1092.00	Probation Officer and/or Correctional Treatment Specialist	CommSocialSvcs	48.4	4.8	47.08	85.87	67880	61800	0	61.8
+21-1093.00	Social and Human Service Assistant	CommSocialSvcs	30.93	4.5	52.14	409.31	44240	41410	0	41.41
+21-1094.00	Social Worker - Medical and/or Public Health	CommSocialSvcs	51.5	NA	51.34	58.55	52610	48200	0	48.2
+21-1099.00	Other - Community and/or Social Service Specialist	CommSocialSvcs	30.93	5.45	49.6	95.31	54020	49690	0	49.69
+21-2011.00	Clergy	CommSocialSvcs	68.96	6.13	59.35	56.64	63720	58920	0	58.92
+21-2021.00	Director of Religious Education or Activities	CommSocialSvcs	43.55	4	55.12	23.27	61740	50140	0	50.14
+21-2099.00	Other - Religious Worker	CommSocialSvcs	43.55	3.5	50.02	11.87	45050	37960	0	37.96
+23-1011.00	Lawyer	LawLegalSvcs	74.77	6.4	72.94	731.34	176470	145760	0	145.76
+23-1012.00	Law Clerk	LawLegalSvcs	64.38	5.7	57.92	14.68	64880	57490	0	57.49
+23-1021.00	Administrative Law Judge, Adjudicator, and/or Hearing Officer	LawLegalSvcs	64.38	6.9	74.45	14.67	119940	111090	0	111.09
+23-1022.00	Arbitrator, Mediator, and/or Conciliator	LawLegalSvcs	64.38	NA	60.72	7.06	95370	71540	0	71.54
+23-1023.00	Judge, Magistrate Judge, and/or Magistrate	LawLegalSvcs	71.49	NA	80.86	24.47	139000	148910	0	148.91
+23-2011.00	Paralegal and/or Legal Assistant	LawLegalSvcs	56.53	5.1	57.49	354.89	66460	60970	0	60.97
+23-2093.00	Title Examiner, Abstractor, and/or Searcher	LawLegalSvcs	64.38	NA	47.92	49.76	59440	53550	0	53.55
+23-2099.00	Other - Legal Support Worker	LawLegalSvcs	64.38	4.55	50.97	43.76	82960	67700	0	67.7
+25-1011.00	Postsecondary Teacher - Business	EduTrainingLibrarySvcs	73.51	NA	62.62	82.98	113240	97130	0	97.13
+25-1021.00	Postsecondary Teacher - Computer Science	EduTrainingLibrarySvcs	73.51	NA	66.56	36.15	106380	96430	0	96.43
+25-1022.00	Postsecondary Teacher - Mathematical Science	EduTrainingLibrarySvcs	73.51	NA	67.33	48.23	95320	81020	0	81.02
+25-1031.00	Postsecondary Teacher - Architecture	EduTrainingLibrarySvcs	73.51	NA	69.37	8.35	114900	105770	0	105.77
+25-1032.00	Postsecondary Teacher - Engineering	EduTrainingLibrarySvcs	73.51	NA	73.42	38.37	120630	106910	0	106.91
+25-1041.00	Postsecondary Teacher - Agricultural Sciences	EduTrainingLibrarySvcs	73.51	NA	63.09	7.55	95610	85260	0	85.26
+25-1042.00	Postsecondary Teacher - Biological Science	EduTrainingLibrarySvcs	73.51	NA	65.2	52.05	102270	83920	0	83.92
+25-1043.00	Postsecondary Teacher - Forestry and/or Conservation Science	EduTrainingLibrarySvcs	73.51	NA	61.18	1.26	102230	101650	0	101.65
+25-1051.00	Postsecondary Teacher - Atmospheric, Earth, Marine and/or Space Sciences	EduTrainingLibrarySvcs	73.51	NA	70.11	11.77	111930	100690	0	100.69
+25-1052.00	Postsecondary Teacher - Chemistry	EduTrainingLibrarySvcs	73.51	NA	66.52	20.21	102630	85810	0	85.81
+25-1053.00	Postsecondary Teacher - Environmental Science	EduTrainingLibrarySvcs	73.51	NA	64.15	7.12	100910	88410	0	88.41
+25-1054.00	Postsecondary Teacher - Physics	EduTrainingLibrarySvcs	73.51	NA	71.36	14.03	106950	98020	0	98.02
+25-1061.00	Postsecondary Teacher - Anthropology and/or Archeology	EduTrainingLibrarySvcs	73.51	NA	67.69	5.03	103640	93650	0	93.65
+25-1062.00	Postsecondary Teacher - Area, Ethnic and/or Cultural Studies	EduTrainingLibrarySvcs	73.51	NA	56.48	11.57	100390	86030	0	86.03
+25-1063.00	Postsecondary Teacher - Economics	EduTrainingLibrarySvcs	73.51	NA	62.38	12.21	133650	115300	0	115.3
+25-1064.00	Postsecondary Teacher - Geography	EduTrainingLibrarySvcs	73.51	NA	56.45	3.48	97660	85600	0	85.6
+25-1065.00	Postsecondary Teacher - Political Science	EduTrainingLibrarySvcs	73.51	NA	63.68	17.09	104910	93810	0	93.81
+25-1066.00	Postsecondary Teacher - Psychology	EduTrainingLibrarySvcs	73.51	NA	67.63	40.61	93990	82140	0	82.14
+25-1067.00	Postsecondary Teacher - Sociology	EduTrainingLibrarySvcs	73.51	NA	64	12.87	97580	82670	0	82.67
+25-1069.00	Postsecondary Teacher - Social Sciences	EduTrainingLibrarySvcs	73.51	NA	59.51	16.9	91710	77750	0	77.75
+25-1071.00	Postsecondary Teacher - Health Specialties	EduTrainingLibrarySvcs	73.51	NA	66.23	225.36	134440	105650	0	105.65
+25-1072.00	Postsecondary Teacher - Nursing	EduTrainingLibrarySvcs	73.51	NA	64.73	72.7	86530	80780	0	80.78
+25-1081.00	Postsecondary Teacher - Education	EduTrainingLibrarySvcs	73.51	NA	63.36	60.86	80750	73240	0	73.24
+25-1082.00	Postsecondary Teacher - Library Science	EduTrainingLibrarySvcs	73.51	NA	56.56	4.22	88190	80310	0	80.31
+25-1111.00	Postsecondary Teacher - Criminal Justice and/or Law Enforcement	EduTrainingLibrarySvcs	73.51	NA	63.38	13.39	83470	69030	0	69.03
+25-1112.00	Postsecondary Teacher - Law	EduTrainingLibrarySvcs	73.51	NA	72.5	14.57	142440	127360	0	127.36
+25-1113.00	Postsecondary Teacher - Social Work	EduTrainingLibrarySvcs	73.51	NA	55.37	11.73	80840	75020	0	75.02
+25-1121.00	Postsecondary Teacher - Art, Drama and/or Music	EduTrainingLibrarySvcs	73.51	NA	58.21	101.5	100840	80360	0	80.36
+25-1122.00	Postsecondary Teacher - Communications	EduTrainingLibrarySvcs	73.51	NA	59.52	28.52	90950	79910	0	79.91
+25-1123.00	Postsecondary Teacher - English Language and/or Literature	EduTrainingLibrarySvcs	73.51	NA	59.73	57.6	87090	78130	0	78.13
+25-1124.00	Postsecondary Teacher - Foreign Language and/or Literature	EduTrainingLibrarySvcs	73.51	NA	63.45	20.82	88490	78760	0	78.76
+25-1125.00	Postsecondary Teacher - History	EduTrainingLibrarySvcs	73.51	NA	64.31	20.61	93120	82140	0	82.14
+25-1126.00	Postsecondary Teacher - Philosophy or Religion	EduTrainingLibrarySvcs	73.51	NA	59.56	20.32	89680	79930	0	79.93
+25-1192.00	Postsecondary Teacher - Home Economics	EduTrainingLibrarySvcs	73.51	NA	52.93	2.66	89630	78410	0	78.41
+25-1193.00	Postsecondary Teacher - Recreation and Fitness Studies	EduTrainingLibrarySvcs	73.51	NA	49.44	13.27	87340	75770	0	75.77
+25-1194.00	Postsecondary Teacher - Vocational Education	EduTrainingLibrarySvcs	73.51	NA	56.36	111.18	68300	62060	0	62.06
+25-1199.00	Postsecondary Teacher - Other	EduTrainingLibrarySvcs	73.51	6.81	58.14	166.98	96570	79870	0	79.87
+25-2011.00	Preschool Teacher (except Special Education)	EduTrainingLibrarySvcs	54.93	5.3	54.85	430.24	41410	37130	0	37.13
+25-2012.00	Kindergarten Teacher (except Special Education)	EduTrainingLibrarySvcs	54.93	NA	55.35	118.58	67790	62690	0	62.69
+25-2021.00	Elementary School Teacher (except Special Education)	EduTrainingLibrarySvcs	64.08	5.8	57.35	1410.07	70740	63680	0	63.68
+25-2022.00	Middle School Teacher (except Special and Vocational Education)	EduTrainingLibrarySvcs	64.08	NA	55.37	626.69	71460	64290	0	64.29
+25-2023.00	Vocational Education Teacher - Middle School	EduTrainingLibrarySvcs	64.08	NA	52.33	12.21	69020	63860	0	63.86
+25-2031.00	Secondary School Teacher (except Special and Vocational Education)	EduTrainingLibrarySvcs	66.37	6.1	57.51	1045.17	73800	65220	0	65.22
+25-2032.00	Vocational Education Teacher - Secondary School	EduTrainingLibrarySvcs	66.37	NA	55.16	90.07	70810	65130	0	65.13
+25-2051.00	Special Education Teacher - Preschool, Kindergarten, and Elementary School	EduTrainingLibrarySvcs	65.06	NA	57.49	24.85	76420	65270	0	65.27
+25-2053.00	Special Education Teacher - Middle School	EduTrainingLibrarySvcs	65.06	NA	57.56	88.85	73630	66600	0	66.6
+25-2054.00	Special Education Teacher - Secondary School	EduTrainingLibrarySvcs	65.06	NA	54.9	158.15	74670	66620	0	66.62
+25-2059.00	NA	NA	NA	5.8	NA	43.7	76000	67190	0	67.19
+25-2059.01	Adaptive Physical Education Specialist	EduTrainingLibrarySvcs	73.51	NA	63.51	43.7	76000	67190	0	67.19
+25-3011.00	Adult Literacy, Remedial Education, and/or GED Teacher and/or Instructor	EduTrainingLibrarySvcs	45.73	NA	59.52	36.89	65430	60560	0	60.56
+25-3021.00	Self-Enrichment Education Teacher	EduTrainingLibrarySvcs	45.73	NA	55.08	272.11	52890	45330	0	45.33
+25-3099.00	Other - Teacher and/or Instructor	EduTrainingLibrarySvcs	45.73	4.2	59.29	444.53	43570	37380	0	37.38
+25-3099.00	Other - Teacher and/or Instructor	EduTrainingLibrarySvcs	45.73	NA	59.29	162.3	48580	39580	0	39.58
+25-3099.02	Tutor	EduTrainingLibrarySvcs	38.16	NA	49.59	162.3	48580	39580	0	39.58
+25-3099.00	Other - Teacher and/or Instructor	EduTrainingLibrarySvcs	45.73	NA	59.29	118.29	70340	64390	0	64.39
+25-4011.00	Archivist	EduTrainingLibrarySvcs	52.04	5.4	56.17	7.15	65700	59910	0	59.91
+25-4012.00	Curator	ArtsDesignEntnSportsMedia	52.04	NA	65.74	12.51	70870	61750	0	61.75
+25-4013.00	Museum Technician and/or Conservator	EduTrainingLibrarySvcs	40.85	NA	61.32	12.67	54890	48670	0	48.67
+25-4021.00	Librarian	EduTrainingLibrarySvcs	54.42	5.4	47.62	133.76	68570	64370	0	64.37
+25-9011.00	Audio-Visual Collections Specialist	EduTrainingLibrarySvcs	64.38	NA	52.01	133.76	68570	64370	0	64.37
+25-4031.00	Library Technician	EduTrainingLibrarySvcs	40.85	3.9	47.74	76.67	42570	39310	0	39.31
+25-9021.00	Farm and/or Home Management Advisor	EduTrainingLibrarySvcs	30.93	NA	51.41	8.11	61430	59770	0	59.77
+25-9031.01	Instructional Designer and/or Technologist	EduTrainingLibrarySvcs	64.38	NA	61.45	207.27	77200	74620	0	74.62
+25-9031.00	Instructional Coordinator	EduTrainingLibrarySvcs	53.52	NA	55.11	207.27	77200	74620	0	74.62
+25-1191.00	Graduate Teaching Assistant	EduTrainingLibrarySvcs	38.16	NA	52.11	145.96	47030	43750	0	43.75
+25-9099.00	Other - Education, Training, or Library Worker	EduTrainingLibrarySvcs	45.73	5	51.98	113.49	54910	49800	0	49.8
+27-1011.00	Art Director	ArtsDesignEntnSportsMedia	57.62	NA	62.83	51.2	125920	106500	0	106.5
+27-1012.00	Craft Artist	ArtsDesignEntnSportsMedia	52.38	NA	47.02	5.83	43610	36600	0	36.6
+27-1013.00	NA	NA	NA	NA	NA	10.91	71420	59300	0	59.3
+27-1014.00	Multi-Media Artist and/or Animator	ArtsDesignEntnSportsMedia	35.55	NA	64.74	29.94	109630	99060	0	99.06
+27-1019.00	Other - Artist	ArtsDesignEntnSportsMedia	35.55	4.7	51.68	7.42	78890	74750	0	74.75
+27-1021.00	Commercial and/or Industrial Designers	ArtsDesignEntnSportsMedia	46.53	NA	65.44	30.81	81870	76250	0	76.25
+27-1022.00	Fashion Designer	ArtsDesignEntnSportsMedia	46.53	NA	67.32	19.94	97030	79290	0	79.29
+27-1023.00	Floral Designer	ArtsDesignEntnSportsMedia	46.53	NA	43.03	43.35	35500	34690	0	34.69
+27-1024.00	Graphic Designer	ArtsDesignEntnSportsMedia	46.53	NA	62.36	212.72	64700	58910	0	58.91
+27-1025.00	Interior Designer	ArtsDesignEntnSportsMedia	46.53	NA	59.41	67.76	68530	62510	0	62.51
+27-1026.00	Merchandising	ArtsDesignEntnSportsMedia	39.29	NA	33.53	175.79	39040	36230	0	36.23
+27-1027.00	Set and/or Exhibit Designer	ArtsDesignEntnSportsMedia	46.53	NA	54.57	10.09	67170	59490	0	59.49
+27-1029.00	Other - Designer	ArtsDesignEntnSportsMedia	46.53	4.73	59.9	9.88	75960	67500	0	67.5
+27-2011.00	Actor	ArtsDesignEntnSportsMedia	57.62	5.6	69.52	62.56	NA	NA	0	NA
+27-2012.02	Director - Stage, Motion Pictures, Television and/or Radio	ArtsDesignEntnSportsMedia	57.62	NA	74.35	154.47	107170	82510	0	82.51
+27-2012.04	Talent Director	ArtsDesignEntnSportsMedia	57.62	NA	58.28	154.47	107170	82510	0	82.51
+27-2012.00	Producer and/or Director	ArtsDesignEntnSportsMedia	57.62	5.6	74.5	154.47	107170	82510	0	82.51
+27-2012.05	Technical Director and/or Manager	ArtsDesignEntnSportsMedia	57.62	NA	63.18	154.47	107170	82510	0	82.51
+27-2012.01	Producer and/or Director	ArtsDesignEntnSportsMedia	57.62	NA	74.5	154.47	107170	82510	0	82.51
+27-2012.03	Program Director	ArtsDesignEntnSportsMedia	57.62	NA	63.92	154.47	107170	82510	0	82.51
+27-2021.00	Athlete and/or Sports Competitor	ArtsDesignEntnSportsMedia	64.66	6.2	71.03	14.93	328830	70280	0	70.28
+27-2022.00	Coach and/or Scout	ArtsDesignEntnSportsMedia	38.06	NA	55.72	238.98	58700	45910	0	45.91
+27-2023.00	Umpire, Referee, and/or Other Sports Official	ArtsDesignEntnSportsMedia	48.72	NA	50.2	14.84	44860	35820	0	35.82
+27-2031.00	Dancer	ArtsDesignEntnSportsMedia	53.49	4.9	51.47	11.51	NA	NA	0	NA
+27-2032.00	Choreographer	ArtsDesignEntnSportsMedia	53.49	NA	57.29	4.19	59090	52000	0	52
+27-2041.01	Music Director and/or Composer	ArtsDesignEntnSportsMedia	46.56	NA	68.28	10.77	87840	62590	0	62.59
+27-2041.04	Music Director and/or Composer	ArtsDesignEntnSportsMedia	46.56	NA	68.28	10.77	87840	62590	0	62.59
+27-2041.00	Music Director and/or Composer	ArtsDesignEntnSportsMedia	46.56	5.1	68.28	10.77	87840	62590	0	62.59
+27-2042.02	Musician and/or Singer	ArtsDesignEntnSportsMedia	46.56	NA	67.07	35.52	NA	NA	0	NA
+27-2042.01	Singer	ArtsDesignEntnSportsMedia	46.56	NA	68.23	35.52	NA	NA	0	NA
+27-2042.00	Musician and/or Singer	ArtsDesignEntnSportsMedia	46.56	NA	67.07	35.52	NA	NA	0	NA
+27-2099.00	Other - Entertainer and/or Performer	ArtsDesignEntnSportsMedia	35.55	2.6	69.23	7.19	NA	NA	0	NA
+27-2099.00	Other - Entertainer and/or Performer	ArtsDesignEntnSportsMedia	35.55	NA	69.23	14.72	NA	NA	0	NA
+27-3011.00	Announcer	ArtsDesignEntnSportsMedia	54.81	4.2	59.1	25.07	86950	44890	0	44.89
+27-3021.00	Broadcast News Analyst	ArtsDesignEntnSportsMedia	42.83	5.3	64.29	45.02	101430	57500	0	57.5
+27-3022.00	Reporter and/or Correspondent	ArtsDesignEntnSportsMedia	59.75	NA	58.74	45.02	101430	57500	0	57.5
+27-3031.00	Public Relations Specialist	ArtsDesignEntnSportsMedia	47.52	4.65	57.72	275.55	77720	66750	0	66.75
+27-3041.00	Editor	ArtsDesignEntnSportsMedia	59.75	5.05	60.51	95.7	85110	75020	0	75.02
+27-3042.00	Technical Writer	ArtsDesignEntnSportsMedia	54.31	5.4	53.65	47.97	86620	80050	0	80.05
+27-3043.00	Author	ArtsDesignEntnSportsMedia	63.05	6.3	68.97	49.45	87590	73690	0	73.69
+27-3043.05	NA	NA	NA	NA	NA	49.45	87590	73690	0	73.69
+27-3043.04	Copy Writer	ArtsDesignEntnSportsMedia	63.05	NA	51.46	49.45	87590	73690	0	73.69
+27-3091.00	Interpreter and/or Translator	ArtsDesignEntnSportsMedia	35.55	NA	58.01	51.56	63080	57090	0	57.09
+23-2091.00	Court Reporter	LawLegalSvcs	64.38	NA	47.85	12.39	71040	63940	0	63.94
+27-3012.00	Announcer	ArtsDesignEntnSportsMedia	54.81	NA	59.1	23.23	87140	61900	0	61.9
+27-3099.00	Other - Media Related Worker	ArtsDesignEntnSportsMedia	42.83	5.5	56.06	23.23	87140	61900	0	61.9
+27-4011.00	Audio and Video Equipment Technician	ArtsDesignEntnSportsMedia	40.85	4.5	49.41	66.7	59260	51640	0	51.64
+27-4012.00	Broadcast Technician	ArtsDesignEntnSportsMedia	42.83	NA	55.84	26.19	71600	57690	0	57.69
+27-4014.00	Sound Engineering Technician	ArtsDesignEntnSportsMedia	40.85	NA	61.14	14.6	74100	59430	0	59.43
+27-4099.00	Media and Communication Equipment Worker	ArtsDesignEntnSportsMedia	29.86	4.4	49.77	9.52	73250	62240	0	62.24
+27-4021.00	Photographer	ArtsDesignEntnSportsMedia	45.11	4.8	54.56	53.63	53380	40760	0	40.76
+27-4031.00	Camera Operator	ArtsDesignEntnSportsMedia	32.84	5.15	57.71	23.94	71890	61800	0	61.8
+27-4032.00	Film and Video Editor	ArtsDesignEntnSportsMedia	59.75	NA	61.76	29.24	83470	66600	0	66.6
+27-4099.00	Media and Communication Equipment Worker	ArtsDesignEntnSportsMedia	29.86	NA	49.77	11.43	75860	71340	0	71.34
+29-1011.00	Chiropractor	Healthcare	50.44	5.9	63.66	41.48	89760	76530	0	76.53
+29-1021.00	Dentist	Healthcare	71.79	6.7	74.22	121.64	191750	166300	0	166.3
+29-1022.00	Oral and Maxillofacial Surgeon	Healthcare	86.05	NA	80.17	4.16	334310	NA	0	NA
+29-1023.00	Orthodontist	Healthcare	71.79	NA	75.88	6.4	243620	NA	0	NA
+29-1024.00	Prosthodontist	Healthcare	86.05	NA	69.63	0.57	240750	234000	0	234
+29-1029.00	Dentist	Healthcare	71.79	NA	74.22	5.92	244470	227690	0	227.69
+29-1031.00	Dietitian and/or Nutritionist	Healthcare	55.61	5.4	58.74	73.86	71280	69680	0	69.68
+29-1041.00	Optometrist	Healthcare	67.16	6.6	74.33	41.39	143000	131860	0	131.86
+29-1051.00	Pharmacist	Healthcare	68.32	6.25	69.71	331.7	134790	136030	0	136.03
+29-1071.00	Physician's Assistant	Healthcare	61.2	6	67.42	145.74	130490	130020	0	130.02
+29-1071.01	Anesthesiologist Assistant	Healthcare	64.38	NA	63.93	145.74	130490	130020	0	130.02
+29-1081.00	Podiatrist	Healthcare	64.86	6.2	66.41	9.47	162520	141650	0	141.65
+29-1122.01	Vision, Orientation and Mobility Specialist	Healthcare	64.38	NA	61.17	144.84	96790	96370	0	96.37
+29-1122.00	Occupational Therapist	Healthcare	55.97	5.9	62.01	144.84	96790	96370	0	96.37
+29-1123.00	Physical Therapist	Healthcare	61.45	6.2	63.3	240.82	100440	99710	0	99.71
+29-1124.00	Radiation Therapist	Healthcare	64.38	6.2	64.25	16.64	104420	98300	0	98.3
+29-1125.00	Recreational Therapist	Healthcare	64.38	4.4	40.29	15.54	60910	57120	0	57.12
+29-1125.01	Other - Therapist	Healthcare	62.36	NA	66.46	15.54	60910	57120	0	57.12
+29-1125.02	Other - Therapist	Healthcare	62.36	NA	66.46	15.54	60910	57120	0	57.12
+29-1126.00	Respiratory Therapist	Healthcare	62.99	5.9	67.49	129.75	80340	77960	0	77.96
+29-1127.00	Speech-Language Pathologist	Healthcare	60.76	5.7	62.44	172.1	92630	89290	0	89.29
+29-1128.00	Other - Therapist	Healthcare	62.36	4.9	66.46	8.06	57050	54860	0	54.86
+29-1129.00	Other - Therapist	Healthcare	62.36	5.9	66.46	16.49	75660	63650	0	63.65
+29-1131.00	Veterinarian	Healthcare	62.28	6.4	73.67	78.22	136300	119100	0	119.1
+29-1141.01	Acute Care Nurse	Healthcare	66.48	NA	69.46	3175.39	94480	86070	0	86.07
+29-1141.02	Advanced Practice Psychiatric Nurse	Healthcare	66.48	NA	69.04	3175.39	94480	86070	0	86.07
+29-1141.00	Registered Nurse	Healthcare	66.48	6.05	68.03	3175.39	94480	86070	0	86.07
+29-1141.04	Clinical Nurse Specialist	Management	64.38	NA	66.6	3175.39	94480	86070	0	86.07
+29-1141.03	Critical Care Nurse	Healthcare	66.48	NA	70.87	3175.39	94480	86070	0	86.07
+29-1151.00	Nurse Anesthetist	Healthcare	64.38	6.4	71.04	47.81	214200	212650	0	212.65
+29-1161.00	Nurse Midwife	Healthcare	41.71	5	57.05	6.96	131570	129650	0	129.65
+29-1171.00	Nurse Practitioner	Healthcare	64.38	6.6	68.15	280.14	128490	126260	0	126.26
+29-1181.00	Audiologist	Healthcare	60.76	5.7	61.6	13.88	92620	87740	0	87.74
+29-1061.00	Anesthesiologist	Healthcare	86.05	NA	78.21	33.47	339470	NA	0	NA
+29-1069.00	Other - Physician and/or Surgeon	Healthcare	86.05	7.23	88.91	15.19	423250	NA	0	NA
+29-1069.00	Other - Physician and/or Surgeon	Healthcare	86.05	NA	88.91	12.04	342860	NA	0	NA
+29-1069.02	Dermatologist	Healthcare	86.05	NA	73.98	12.04	342860	NA	0	NA
+29-1069.00	Other - Physician and/or Surgeon	Healthcare	86.05	NA	88.91	35.1	306640	NA	0	NA
+29-1062.00	Family and General Practitioner	Healthcare	86.05	NA	78.97	112.01	240790	224640	0	224.64
+29-1063.00	Internist	Healthcare	38.16	NA	74.26	67.21	245450	223310	0	223.31
+29-1069.04	Neurologist	Healthcare	86.05	NA	87.94	9.35	271470	NA	0	NA
+29-1069.00	Other - Physician and/or Surgeon	Healthcare	86.05	NA	88.91	9.35	271470	NA	0	NA
+29-1064.00	Obstetrician and/or Gynecologist	Healthcare	86.05	NA	81.4	19.82	278660	NA	0	NA
+29-1065.00	Pediatrician	Healthcare	86.05	NA	81.82	34.87	205860	198690	0	198.69
+29-1069.00	Other - Physician and/or Surgeon	Healthcare	86.05	NA	88.91	11.02	270560	NA	0	NA
+29-1069.07	Pathologist	Healthcare	86.05	NA	76.24	11.02	270560	NA	0	NA
+29-1066.00	Psychiatrist	Healthcare	86.05	NA	78.2	24.83	256930	NA	0	NA
+29-1069.00	Other - Physician and/or Surgeon	Healthcare	86.05	NA	88.91	31.96	353960	NA	0	NA
+29-1069.10	Radiologist	Healthcare	86.05	NA	69.08	31.96	353960	NA	0	NA
+29-1069.03	Hospitalist	Healthcare	64.38	NA	62.18	310.08	248640	236000	0	236
+29-1069.01	Allergist and/or Immunologist	Healthcare	86.05	NA	73.88	310.08	248640	236000	0	236
+29-1069.00	Other - Physician and/or Surgeon	Healthcare	86.05	NA	88.91	310.08	248640	236000	0	236
+29-1069.08	Physical Medicine and Rehabilitation Physician	Healthcare	86.05	NA	76.14	310.08	248640	236000	0	236
+29-1069.11	Sports Medicine Physician	Healthcare	86.05	NA	70.67	310.08	248640	236000	0	236
+29-1069.09	Preventive Medicine Physician	Healthcare	86.05	NA	78.77	310.08	248640	236000	0	236
+29-1069.05	Nuclear Medicine Physician	Healthcare	86.05	NA	82.71	310.08	248640	236000	0	236
+29-1069.12	Urologist	Healthcare	86.05	NA	75.51	310.08	248640	236000	0	236
+29-1069.06	Ophthalmologist	Healthcare	67.16	NA	78.13	11.53	312120	NA	0	NA
+29-1069.00	Other - Physician and/or Surgeon	Healthcare	86.05	NA	88.91	11.53	312120	NA	0	NA
+29-1067.00	Surgeon	Healthcare	86.05	NA	88.15	14.82	378250	NA	0	NA
+29-1067.00	Surgeon	Healthcare	86.05	NA	88.15	1.18	449320	NA	0	NA
+29-1067.00	Surgeon	Healthcare	86.05	NA	88.15	26.37	343990	NA	0	NA
+29-1199.01	Acupuncturist	Healthcare	50.44	NA	70.8	9.37	84260	78220	0	78.22
+29-1199.00	Other - Health Diagnosing and Treating Practitioner	Healthcare	50.44	4.5	69.97	9.37	84260	78220	0	78.22
+29-2021.00	Dental Hygienist	Healthcare	52.23	5.3	54.74	211.63	89890	87530	0	87.53
+29-1199.04	Naturopathic Physician	Healthcare	86.05	NA	72.11	31.1	123840	107990	0	107.99
+29-1199.00	Other - Health Diagnosing and Treating Practitioner	Healthcare	50.44	NA	69.97	31.1	123840	107990	0	107.99
+29-1199.05	Orthoptist	Healthcare	67.16	NA	73.42	31.1	123840	107990	0	107.99
+29-2031.00	Cardiovascular Technologist and/or Technician	Healthcare	56.67	NA	72.1	55.66	70270	66170	0	66.17
+29-2032.00	Diagnostic Medical Sonographer	Healthcare	50.44	5.7	63.6	82.78	89020	84470	0	84.47
+29-2033.00	Nuclear Medicine Technologist	Healthcare	64.38	NA	77.85	16.56	95080	92500	0	92.5
+29-2034.00	Radiologic Technologist and/or Technician	Healthcare	58.48	NA	63.16	221.17	75250	73410	0	73.41
+29-2099.06	Radiologic Technologist and/or Technician	Healthcare	58.48	NA	63.16	221.17	75250	73410	0	73.41
+29-2035.00	Nuclear Medicine Technologist	Healthcare	64.38	NA	77.85	41.34	86600	83740	0	83.74
+29-2099.00	Other - Health Technologist and/or Technician	Healthcare	56.67	5.1	60.35	3.9	131850	132880	0	132.88
+29-2041.00	Emergency Medical Technician and/or Paramedic	Healthcare	61.2	6	67.55	167.04	43100	38930	0	38.93
+29-2041.00	Emergency Medical Technician and/or Paramedic	Healthcare	61.2	NA	67.55	98.77	57450	53180	0	53.18
+29-2051.00	Dietetic Technician	Healthcare	55.61	5.4	48.81	24.24	38440	36520	0	36.52
+29-2052.00	Pharmacy Technician	Healthcare	40.85	NA	56.07	460.28	43330	40300	0	40.3
+29-2053.00	Psychiatric Technician	Healthcare	40.85	NA	57.95	115.94	43650	39700	0	39.7
+29-2055.00	Surgical Technologist	Healthcare	64.38	NA	70.83	110.32	62250	60610	0	60.61
+29-2056.00	Veterinary Technologist and/or Technician	Healthcare	56.67	NA	60.91	122	44040	43740	0	43.74
+29-2057.00	Ophthalmic Medical Technologist and/or Technician	Healthcare	40.85	NA	61.38	73.39	44290	41780	0	41.78
+29-2061.00	Licensed Practical Nurse and/or Licensed Vocational Nurse	Healthcare	59.98	6.5	66.12	630.25	60790	59730	0	59.73
+29-2071.00	Medical Records and Health Information Technicians	Healthcare	52.28	4.9	55.17	185.69	53690	48780	0	48.78
+29-2081.00	Optician (Dispensing)	Healthcare	64.38	5.8	57.29	76.77	47560	44170	0	44.17
+29-2091.00	Orthotist and/or Prosthetist	Healthcare	64.38	NA	70.87	8.82	80500	78100	0	78.1
+29-2092.00	Hearing Aid Specialist	Healthcare	64.38	NA	55.41	10.25	61550	58670	0	58.67
+29-2054.00	Respiratory Therapy Technician	Healthcare	40.85	NA	63.85	171.11	54220	47470	0	47.47
+29-2099.00	Other - Health Technologist and/or Technician	Healthcare	56.67	NA	60.35	171.11	54220	47470	0	47.47
+29-2099.05	Ophthalmic Laboratory Technician	MfgProduction	56.67	NA	54.52	171.11	54220	47470	1	47.47
+29-2099.01	Electroneurodiagnostic Technologist	Healthcare	64.38	NA	69.88	171.11	54220	47470	0	47.47
+29-2071.00	Medical Records and Health Information Technicians	Healthcare	52.28	NA	55.17	34.43	70260	62990	0	62.99
+29-9099.00	Other - Health Diagnosing and Treating Practitioner	Healthcare	50.44	5.2	69.97	34.43	70260	62990	0	62.99
+29-9091.00	Athletic Trainer	Healthcare	64.38	NA	53.46	28.48	61540	57930	0	57.93
+29-9092.00	Genetic Counselor	Healthcare	64.38	NA	68.21	3.05	98130	95770	0	95.77
+29-9099.00	Other - Health Diagnosing and Treating Practitioner	Healthcare	50.44	NA	69.97	18.78	65190	59160	0	59.16
+29-2099.07	Physician's Assistant	Healthcare	61.2	NA	67.42	18.78	65190	59160	0	59.16
+29-9099.00	Other - Health Diagnosing and Treating Practitioner	Healthcare	50.44	NA	69.97	36.9	70800	63630	0	63.63
+29-9099.01	Midwife	Healthcare	41.71	NA	54.33	36.9	70800	63630	0	63.63
+31-1014.00	Nursing Aid, Orderly and/or Attendant	Healthcare	38.16	NA	50.18	1351.76	39610	38200	0	38.2
+31-1015.00	Nursing Aid, Orderly and/or Attendant	Healthcare	38.16	NA	50.18	48.71	38440	36830	0	36.83
+31-1013.00	Psychiatric Aide	Healthcare	38.16	NA	49.75	32.31	41000	39160	0	39.16
+31-2011.00	Occupational Therapist Assistant	Healthcare	38.16	5.1	56.84	46.09	68170	67010	0	67.01
+31-2012.00	Occupational Therapist Aide	Healthcare	38.16	NA	55.37	4.43	42060	36970	0	36.97
+31-2021.00	Physical Therapist Assistant	Healthcare	50.86	5.4	54.22	104	65860	64080	0	64.08
+31-2022.00	Physical Therapist Aide	Healthcare	38.16	NA	49.07	42.39	34810	33520	0	33.52
+31-9011.00	Massage Therapist	Healthcare	64.38	3.87	44.8	92.65	62560	55310	0	55.31
+31-9091.00	Dental Assistant	Healthcare	44.56	4.8	47.54	370.69	47350	46540	0	46.54
+31-9092.00	Medical Assistant	Healthcare	64.38	5.1	55.25	763.04	43350	42000	0	42
+31-9093.00	Medical Equipment Preparer	Healthcare	64.38	NA	53.29	66.79	47410	45280	0	45.28
+31-9094.00	Medical Transcriptionist	Healthcare	64.38	4.9	46.58	52.42	39090	37060	0	37.06
+31-9095.00	Pharmacy Aide	Healthcare	38.16	4.5	48.43	43.83	38980	36200	0	36.2
+31-9096.00	Veterinary Assistant and/or Laboratory Animal Caretaker	Healthcare	64.38	4.5	52.09	115.77	37310	36440	0	36.44
+31-9097.00	Medical Assistant	Healthcare	64.38	5.1	55.25	137.08	43130	41810	0	41.81
+31-9099.01	Speech-Language Pathology Assistant	Healthcare	38.16	NA	61.51	102.23	47010	44490	0	44.49
+31-9099.02	Endoscopy Technician	Healthcare	68.4	5.8	59.45	102.23	47010	44490	0	44.49
+31-9099.00	Other - Healthcare Support Worker	Healthcare	50.86	4.9	55.89	102.23	47010	44490	0	44.49
+33-1011.00	Supervisor/Manager of Correctional Officers	ProtectiveSvcs	37.64	4.75	49.13	52.28	76840	70530	0	70.53
+33-1012.00	Supervisor/Manager of Police and Detectives	ProtectiveSvcs	61.84	6.15	64.84	138.14	106000	101750	0	101.75
+33-1021.00	Supervisor/Manager of Fire Fighting and Prevention Workers	ProtectiveSvcs	59.87	6.2	63.78	84.12	90740	86220	0	86.22
+33-1021.02	Forest Fire Fighting and Prevention Supervisor	ProtectiveSvcs	59.87	NA	61.38	84.12	90740	86220	0	86.22
+33-1021.01	Municipal Fire Fighting and Prevention Supervisor	ProtectiveSvcs	59.87	NA	68.4	84.12	90740	86220	0	86.22
+33-1099.00	Other - Supervisor/Manager of Protective Service Workers	ProtectiveSvcs	53.66	4.2	54.35	64.9	59580	54580	0	54.58
+33-1099.00	Other - Supervisor/Manager of Protective Service Workers	ProtectiveSvcs	53.66	NA	54.35	19.62	67870	65050	0	65.05
+33-2011.00	Fire Fighter	ProtectiveSvcs	52.87	5.7	69.89	315.46	60390	57120	0	57.12
+33-2011.01	Municipal Fire Fighter	ProtectiveSvcs	52.87	NA	64.82	315.46	60390	57120	0	57.12
+33-2011.02	Forest Fire Fighter	ProtectiveSvcs	52.87	NA	62.55	315.46	60390	57120	0	57.12
+33-2021.02	Fire Investigator	ProtectiveSvcs	52.87	NA	63.19	14.2	82510	74160	0	74.16
+33-2021.00	Fire Inspector	ProtectiveSvcs	60.42	5.5	62.53	14.2	82510	74160	0	74.16
+33-2021.01	Fire Inspector	ProtectiveSvcs	60.42	NA	62.53	14.2	82510	74160	0	74.16
+33-2022.00	Forest Fire Inspectors and Prevention Specialists	ProtectiveSvcs	60.42	NA	60.29	2.27	61090	54080	0	54.08
+33-3011.00	Bailiff	ProtectiveSvcs	48.32	4.3	44.99	15.9	58460	53040	0	53.04
+33-3012.00	Correctional Offices and/or Jailer	ProtectiveSvcs	39.81	NA	38.7	351.42	58810	53300	0	53.3
+33-3021.00	Criminal Investigator and/or Special Agent	ProtectiveSvcs	59.99	5.6	67.45	106.73	95930	91100	0	91.1
+33-3021.03	Detective	ProtectiveSvcs	59.99	NA	64.51	106.73	95930	91100	0	91.1
+33-3021.01	Police Detective	ProtectiveSvcs	59.99	NA	66.03	106.73	95930	91100	0	91.1
+33-3021.06	Intelligence Analyst	ProtectiveSvcs	59.99	NA	71.82	106.73	95930	91100	0	91.1
+33-3021.02	Police Identification and Records Officer	ProtectiveSvcs	59.99	NA	58.07	106.73	95930	91100	0	91.1
+33-3031.00	Fish and Game Warden	ProtectiveSvcs	48.32	4.95	51.93	6.29	61120	60380	0	60.38
+33-3041.00	Parking Enforcement Worker	ProtectiveSvcs	37.16	3.3	28.84	7.42	50430	46840	0	46.84
+33-3051.01	Police Patrol Officer	ProtectiveSvcs	59.99	NA	61.81	646.31	76550	72280	0	72.28
+33-3051.00	Police and Sheriff's Patrol Officer	ProtectiveSvcs	59.99	5.76	60.8	646.31	76550	72280	0	72.28
+33-3051.03	Sheriff and/or Deputy Sheriff	ProtectiveSvcs	48.32	NA	65.12	646.31	76550	72280	0	72.28
+33-3021.05	Immigration and/or Customs Inspector	ProtectiveSvcs	59.99	NA	45.56	646.31	76550	72280	0	72.28
+33-3052.00	Transit and Railroad Police	ProtectiveSvcs	59.99	4.9	49.35	2.36	78230	72250	0	72.25
+33-9011.00	Animal Control Worker	ProtectiveSvcs	37.16	4.1	40.32	11.6	48150	43170	0	43.17
+33-9021.00	Private Detective and/or Investigator	ProtectiveSvcs	42.11	5	55.54	34.6	60270	49540	0	49.54
+33-9031.00	Gaming Surveillance Officer and/or Gaming Investigator	ProtectiveSvcs	42.11	NA	48.97	10.66	42460	39210	0	39.21
+33-9032.00	Security Guard	ProtectiveSvcs	42.11	3.7	37.98	1202.94	40440	37070	0	37.07
+33-9091.00	Crossing Guard	ProtectiveSvcs	32.33	4.1	28.14	90.78	40650	36370	0	36.37
+33-9092.00	Lifeguard, Ski Patrol, or Other Recreational Protective Service Worker	ProtectiveSvcs	37.16	3.65	47.75	123.56	31340	30380	0	30.38
+33-9093.00	Transportation Security Officer	ProtectiveSvcs	37.16	4.4	38.62	47.95	51040	50020	0	50.02
+33-9099.00	Other - Protective Service Worker	ProtectiveSvcs	37.16	NA	51.83	72.32	33970	33130	0	33.13
+33-9099.02	Loss Prevention Specialist	ProtectiveSvcs	42.11	NA	44.22	82.5	47420	39360	0	39.36
+33-9099.00	Other - Protective Service Worker	ProtectiveSvcs	37.16	NA	51.83	82.5	47420	39360	0	39.36
+35-1011.00	Chef and/or Head Cook	FoodPrepServing	35.16	4.85	62.51	172.37	62640	58920	0	58.92
+35-1012.00	Supervisor/Manager of Food Preparation and Serving Workers	FoodPrepServing	35.16	4.1	41.28	1176.54	43310	38520	0	38.52
+35-2011.00	Cook - Fast Food	FoodPrepServing	28.07	NA	20.51	673.49	29760	29260	0	29.26
+35-2012.00	Cook - Institutional and Cafeteria	FoodPrepServing	30.76	NA	34.28	435.64	35920	35320	0	35.32
+35-2013.00	Cook - Private Household	FoodPrepServing	29.98	NA	47.66	0.74	49790	42590	0	42.59
+35-2014.00	Cook - Restaurant	FoodPrepServing	30.76	NA	41.88	1412.35	36060	35780	0	35.78
+35-2015.00	Cook - Short Order	FoodPrepServing	28.07	NA	33.61	126.37	33920	34130	0	34.13
+35-2019.00	Cook - Other	FoodPrepServing	30.76	3.7	41.56	18.65	37610	35920	0	35.92
+35-2021.00	Food Preparation Worker	FoodPrepServing	24.08	2.7	26.9	879.61	32960	32420	0	32.42
+35-3011.00	Bartender	FoodPrepServing	24.53	3.6	33.37	711.14	37090	31510	0	31.51
+35-3022.00	Other - Food Preparation Worker	FoodPrepServing	16.78	2.9	22.63	3676.58	30110	29540	0	29.54
+35-3021.00	Other - Food Preparation Worker	FoodPrepServing	16.78	2.8	22.63	3676.58	30110	29540	0	29.54
+35-3022.01	Barista	FoodPrepServing	23.02	NA	27.35	3676.58	30110	29540	0	29.54
+35-3031.00	Waiter/Waitress	FoodPrepServing	28.08	3.6	26.99	2237.85	36530	31940	0	31.94
+35-3041.00	Food Server	FoodPrepServing	21.12	3.9	22.03	267.84	33840	33110	0	33.11
+35-9011.00	Food Service Attendant/Helper	FoodPrepServing	24.08	2.3	22.99	483.39	32730	31180	0	31.18
+35-9021.00	Dishwasher	FoodPrepServing	16.78	2.8	14.5	463.94	31650	31200	0	31.2
+35-9031.00	Host/Hostess	FoodPrepServing	16.78	3.65	30.01	425.02	30750	29220	0	29.22
+35-9099.00	Other - Food Preparation Worker	FoodPrepServing	16.78	3.7	22.63	86.35	35430	33870	0	33.87
+37-1011.00	Supervisor/Manager of Housekeeping and Janitorial Workers	BldgGroundsCleaningMntnce	35.62	4	37.15	171.12	49980	46650	1	46.65
+37-1012.00	Supervisor/Manager of Landscaping, Lawn Service, and Groundskeeping Workers	BldgGroundsCleaningMntnce	36.1	3.9	44.18	126.02	58920	55740	1	55.74
+37-2011.00	Janitor and/or Cleaner (except Maid and/or Housekeeping Cleaner)	BldgGroundsCleaningMntnce	22.33	NA	23.62	2172.5	36250	35020	1	35.02
+37-2012.00	Maid and/or Housekeeping Cleaner	BldgGroundsCleaningMntnce	20.05	3.07	22.66	836.23	34650	33450	1	33.45
+37-2019.00	Other - Building Cleaning Worker	BldgGroundsCleaningMntnce	22.33	3	21.33	13.74	43740	39900	1	39.9
+37-2021.00	Pest Control Worker	BldgGroundsCleaningMntnce	32.34	3.9	33.04	93.76	44650	43470	1	43.47
+37-3011.00	Landscaping and/or Groundskeeping Worker	BldgGroundsCleaningMntnce	28.57	NA	29.55	929.93	39790	37360	1	37.36
+37-3012.00	Pesticide Handler, Sprayer, and/or Applicator	BldgGroundsCleaningMntnce	28.57	NA	31.7	23.52	44480	44070	1	44.07
+37-3013.00	Tree Trimmer and/or Pruner	BldgGroundsCleaningMntnce	28.57	NA	32.12	50.27	52850	49070	1	49.07
+37-3019.00	Other - Grounds Maintenance Worker	BldgGroundsCleaningMntnce	28.57	4	28.27	11.98	46540	43310	1	43.31
+39-1012.00	Gaming Service Worker	PersonalCareRelatedSvcs	29.45	NA	38.45	25.1	62110	61210	0	61.21
+39-1011.00	Gaming Service Worker	PersonalCareRelatedSvcs	29.45	3.5	38.45	25.1	62110	61210	0	61.21
+39-1021.00	Supervisor/Manager of Personal Service Workers	PersonalCareRelatedSvcs	36.75	4.35	53.68	88.14	50650	46060	0	46.06
+39-1021.00	Supervisor/Manager of Personal Service Workers	PersonalCareRelatedSvcs	36.75	NA	53.68	106.44	50090	46690	0	46.69
+39-2011.00	Animal Trainer	PersonalCareRelatedSvcs	21.16	4.1	49.39	19.24	44910	38810	0	38.81
+39-2021.00	Nonfarm Animal Caretaker	PersonalCareRelatedSvcs	21.16	3.7	42.1	268.83	33530	31200	0	31.2
+39-3011.00	Gaming Service Worker	PersonalCareRelatedSvcs	29.45	NA	38.45	80.57	40030	32240	0	32.24
+39-3012.00	Gaming Service Worker	PersonalCareRelatedSvcs	29.45	NA	38.45	8.7	32030	29170	0	29.17
+39-3019.00	Gaming Service Worker	PersonalCareRelatedSvcs	29.45	2.9	38.45	13.3	35650	32710	0	32.71
+39-3021.00	Motion Picture Projectionist	PersonalCareRelatedSvcs	37.94	4.1	41.83	2.61	43800	35160	0	35.16
+39-3031.00	Usher, Lobby Attendant, and/or Ticket Taker	PersonalCareRelatedSvcs	20.03	3	25.52	117.56	30520	29780	0	29.78
+39-3091.00	Amusement and/or Recreation Attendant	PersonalCareRelatedSvcs	25.33	2.6	28.34	361.68	30240	29390	0	29.39
+39-3092.00	Costume Attendant	PersonalCareRelatedSvcs	25.33	NA	35.75	6.3	60230	52370	0	52.37
+39-3093.00	Locker Room, Coatroom, and/or Dressing Room Attendant	PersonalCareRelatedSvcs	25.41	NA	19.97	14.72	34590	33450	0	33.45
+39-3099.00	Other - Entertainment Attendant or Related Worker	PersonalCareRelatedSvcs	25.33	NA	34.92	7.32	34670	33280	0	33.28
+39-4011.00	Embalmer	PersonalCareRelatedSvcs	25.41	4.45	38.59	3.38	56690	54090	0	54.09
+39-9099.00	Other - Personal Care and Service Worker	PersonalCareRelatedSvcs	25.41	2.6	41.41	3.22	44290	41670	0	41.67
+39-4021.00	Funeral Attendant	PersonalCareRelatedSvcs	25.41	NA	37.06	32.62	35200	33850	0	33.85
+39-4031.00	Funeral Director	Management	49.14	4.9	47.55	24.2	58020	51030	0	51.03
+39-5011.00	Barber	PersonalCareRelatedSvcs	35.71	4	36.03	15.99	41570	36150	0	36.15
+39-5012.00	Hairdresser, Hairstylist, and/or Cosmetologist	PersonalCareRelatedSvcs	36.08	3.9	35.83	294.84	41780	34970	0	34.97
+39-5091.00	Makeup Artist	PersonalCareRelatedSvcs	25.41	NA	45.87	4.13	68590	47390	0	47.39
+39-5092.00	Manicurist and/or Pedicurist	PersonalCareRelatedSvcs	25.41	3.5	28.56	144.81	36480	34250	0	34.25
+39-5093.00	Shampooer	PersonalCareRelatedSvcs	25.41	NA	24.15	7.36	29260	29530	0	29.53
+39-5094.00	Skin Care Specialist	PersonalCareRelatedSvcs	25.41	NA	47	65.27	51100	43200	0	43.2
+39-6011.00	Baggage Porter and/or Bellhop	PersonalCareRelatedSvcs	27.26	3.35	25.26	28.78	36100	34840	0	34.84
+39-6012.00	Concierge	PersonalCareRelatedSvcs	31.93	NA	41.65	41.02	40230	37150	0	37.15
+39-9011.00	Child Care Worker	PersonalCareRelatedSvcs	29.25	3.9	44.98	497.45	32070	30370	0	30.37
+39-9011.01	Nanny	PersonalCareRelatedSvcs	29.25	NA	39.22	497.45	32070	30370	0	30.37
+39-9031.00	Fitness Trainer and/or Aerobics Instructor	PersonalCareRelatedSvcs	50.86	3.85	48.3	279.45	51270	46480	0	46.48
+39-9032.00	Recreation Worker	PersonalCareRelatedSvcs	25.33	NA	56.32	281.75	36270	34410	0	34.41
+39-9041.00	Residential Advisor	PersonalCareRelatedSvcs	25.41	4.15	41.77	88.7	40200	37950	0	37.95
+39-9099.00	Other - Personal Care and Service Worker	PersonalCareRelatedSvcs	25.41	NA	41.41	60.39	37190	36980	0	36.98
+41-1011.00	Supervisor/Manager of Retail Sales Workers	SalesRelatedSvcs	44.15	4.05	44.84	1087.89	52030	46730	0	46.73
+41-1012.00	Supervisors/Manager of Non-Retail Sales Workers	SalesRelatedSvcs	44.15	4.8	49.63	227.15	99020	84570	0	84.57
+41-2011.00	Cashier	SalesRelatedSvcs	29.45	3.35	25.77	3298.66	30710	29720	0	29.72
+41-2012.00	Gaming Change Person and/or Booth Cashier	SalesRelatedSvcs	29.45	NA	28.82	20.56	36030	33230	0	33.23
+41-2021.00	Counter and/or Rental Clerk	SalesRelatedSvcs	33.6	3.05	30.97	390.3	41630	37400	0	37.4
+41-2022.00	Parts Salesperson	SalesRelatedSvcs	29.93	3.4	34.55	260.77	41080	36860	0	36.86
+41-2031.00	Retail Salesperson	SalesRelatedSvcs	32.32	3.54	31.04	3684.74	36690	33680	0	33.68
+41-3011.00	Advertising Sales Agent	SalesRelatedSvcs	39.29	4.1	47.09	108.1	75820	61270	0	61.27
+41-3021.00	Insurance Sales Agent	SalesRelatedSvcs	44.85	4.8	39.15	457.51	79700	59080	0	59.08
+41-3031.02	Financial Services Sales Agent	SalesRelatedSvcs	52.8	NA	57.08	479.63	109710	76900	0	76.9
+41-3031.01	Financial Services Sales Agent	SalesRelatedSvcs	52.8	NA	57.08	479.63	109710	76900	0	76.9
+41-3031.00	Securities and Commodities Sales Agent	SalesRelatedSvcs	52.8	5.6	62.78	479.63	109710	76900	0	76.9
+41-3031.03	Securities and Commodities Trader	SalesRelatedSvcs	52.8	NA	65.32	479.63	109710	76900	0	76.9
+41-3041.00	Travel Agent	SalesRelatedSvcs	32.03	4.1	42.83	58.25	50040	47410	0	47.41
+41-3099.01	Energy Broker	SalesRelatedSvcs	32.03	NA	56.87	1142.02	81080	64600	0	64.6
+41-3099.00	Sales Representative - Services	SalesRelatedSvcs	35.58	4.5	33.63	1142.02	81080	64600	0	64.6
+41-4011.00	Other - Sales Representative	SalesRelatedSvcs	35.58	4.6	34.98	311.78	113520	99710	0	99.71
+41-4011.07	Solar Sales Representative and/or Assessor	SalesRelatedSvcs	32.03	NA	44.95	311.78	113520	99710	0	99.71
+41-4012.00	Sales Representative - Wholesale and Manufacturing	SalesRelatedSvcs	48.54	NA	44.16	1288.92	80490	65630	0	65.63
+41-9011.00	Product Promoters and/or Demonstrator	SalesRelatedSvcs	32.09	4.35	38.78	50.79	41090	36970	0	36.97
+41-9012.00	Model	SalesRelatedSvcs	32.09	NA	60.99	3.09	68700	47430	0	47.43
+41-9021.00	Real Estate Broker	SalesRelatedSvcs	48.82	4.9	52.57	51.35	86130	63060	0	63.06
+41-9022.00	Real Estate Sales Agent	SalesRelatedSvcs	48.82	NA	51.33	197.72	69610	54300	0	54.3
+41-9031.00	Sales Engineer	SalesRelatedSvcs	53.16	5.1	56.13	59.34	130550	116950	0	116.95
+41-9041.00	Telemarketer	SalesRelatedSvcs	22.37	2.5	15	81.58	36680	34480	0	34.48
+41-9091.00	NA	NA	NA	2.86	NA	6.22	42200	34910	0	34.91
+41-9099.00	Other - Sales Worker	SalesRelatedSvcs	32.03	3.54	38.6	114.28	54150	44610	0	44.61
+43-1011.00	Supervisor/Manager of Office and Administrative Support Workers	OfficeAdminSupport	50.54	4.7	52.74	1504.57	68620	63450	0	63.45
+43-2011.00	Switchboard Operator (including Answering Service)	OfficeAdminSupport	33.08	3.1	33.98	43.83	40020	36750	0	36.75
+43-2021.00	Telephone Operator	OfficeAdminSupport	39.55	3.6	30.5	4.6	42100	38080	0	38.08
+27-4013.00	Radio Operator	ArtsDesignEntnSportsMedia	42.83	NA	47.41	1.38	53240	49310	0	49.31
+43-2099.00	Communications Equipment Operator	OfficeAdminSupport	33.08	3.5	47.84	1.38	53240	49310	0	49.31
+43-3011.00	Bill and/or Account Collector	OfficeAdminSupport	24.3	3	28.94	190.91	46020	44250	0	44.25
+43-3021.00	Billing Clerk	OfficeAdminSupport	30.89	4.25	38.34	430.22	47120	45590	0	45.59
+43-3021.01	Statement Clerk	OfficeAdminSupport	34.5	NA	40.26	430.22	47120	45590	0	45.59
+43-3021.02	Billing, Cost, and/or Rate Clerk	OfficeAdminSupport	27.9	NA	37.97	430.22	47120	45590	0	45.59
+43-3031.00	Bookkeeping, Accounting, and Auditing Clerks	OfficeAdminSupport	46.64	4.6	51.98	1501.91	49580	47440	0	47.44
+43-3041.00	Gaming Clerk	OfficeAdminSupport	29.45	3.4	35.93	12.56	36750	36110	0	36.11
+43-3051.00	Payroll and/or Timekeeping Clerk	OfficeAdminSupport	41.71	4.3	41.97	157.23	54690	52240	0	52.24
+43-3061.00	Procurement Clerk	OfficeAdminSupport	50.11	3.9	40.13	61.58	47940	46670	0	46.67
+43-3071.00	Teller	OfficeAdminSupport	43.28	4.2	39.14	340.82	38850	37640	0	37.64
+43-3099.00	Clerk - (Brokerage, Court, Municipal, and/or License)	OfficeAdminSupport	33.03	3.9	45.86	44.52	52690	49940	0	49.94
+43-4011.00	Brokerage Clerk	OfficeAdminSupport	33.03	4.8	52.76	48.06	63130	60150	0	60.15
+43-4021.00	Correspondence Clerk	OfficeAdminSupport	34.86	3.7	37.62	4.65	46940	42120	0	42.12
+43-4031.00	Court Clerk	OfficeAdminSupport	33.03	5	49.53	157.96	48760	46110	0	46.11
+43-4031.03	License Clerk	OfficeAdminSupport	40.36	NA	37.54	157.96	48760	46110	0	46.11
+43-4031.02	Municipal Clerk	OfficeAdminSupport	31.49	NA	46.68	157.96	48760	46110	0	46.11
+43-4031.01	Court, Municipal, and/or License Clerk	OfficeAdminSupport	33.03	NA	49.44	157.96	48760	46110	0	46.11
+43-4041.02	Credit Authorizer, Checker, and/or Clerk	OfficeAdminSupport	40.36	NA	39.04	14.29	50380	48000	0	48
+43-4041.01	Credit Authorizer, Checker, and/or Clerk	OfficeAdminSupport	40.36	NA	39.04	14.29	50380	48000	0	48
+43-4041.00	Credit Authorizer, Checker, and/or Clerk	OfficeAdminSupport	40.36	3.4	39.04	14.29	50380	48000	0	48
+43-4051.03	Patient Representative	OfficeAdminSupport	46.08	NA	49.74	2858.71	43520	39680	0	39.68
+43-4051.00	Customer Service Representative	OfficeAdminSupport	40.36	3.53	35.01	2858.71	43520	39680	0	39.68
+43-4061.00	Eligibility Interviewer - Government Program	OfficeAdminSupport	46.1	5	40.45	150.19	51840	50270	0	50.27
+43-4071.00	File Clerk	OfficeAdminSupport	36.06	3.95	32.22	82.29	40730	38130	0	38.13
+43-4081.00	Hotel, Motel, and Resort Desk Clerk	OfficeAdminSupport	31.93	3.5	31.88	263.8	32570	30790	0	30.79
+43-4111.00	Employment Interviewer	BusinFinanOperations	48.79	5	42.69	160.55	42750	40300	0	40.3
+43-4121.00	Library Assistant	OfficeAdminSupport	29.28	3.2	41.54	83.68	35970	34020	0	34.02
+43-4131.00	Loan Clerk	OfficeAdminSupport	40.36	4.9	45.09	203.94	48660	47380	0	47.38
+43-4141.00	New Accounts Clerk	OfficeAdminSupport	48.79	4.3	41.99	41.18	44670	44630	0	44.63
+43-4151.00	Order Clerk	OfficeAdminSupport	31.03	3.7	33.87	91.83	43530	41600	0	41.6
+43-4161.00	Human Resources Assistant	OfficeAdminSupport	36.08	3.9	47.04	101.44	48800	47710	0	47.71
+43-4171.00	Receptionist and/or Information Clerk	OfficeAdminSupport	39.02	4.1	37.97	1003.82	36590	35840	0	35.84
+43-4181.00	Reservation and Transportation Ticket Agent and/or Travel Clerk	OfficeAdminSupport	35.34	3.7	37.27	119.27	46820	40610	0	40.61
+43-4199.00	Other - Information and/or Record Clerk	OfficeAdminSupport	34.5	4.4	39.85	151.76	47840	46210	0	46.21
+43-5011.00	Cargo and/or Freight Agent	OfficeAdminSupport	32.71	4.1	42.54	105.22	52460	48330	0	48.33
+43-5011.01	Freight Forwarder	OfficeAdminSupport	32.71	NA	41.87	105.22	52460	48330	0	48.33
+43-5021.00	Courier and/or Messenger	OfficeAdminSupport	22.3	3.3	31.74	72.01	38350	36710	0	36.71
+43-5031.00	Dispatcher - Police, Fire and Ambulance	OfficeAdminSupport	34.76	3.7	51.4	97.82	52140	48890	0	48.89
+43-5032.00	Dispatcher - Other	OfficeAdminSupport	34.76	NA	53.5	206.09	50830	46860	0	46.86
+43-5041.00	Meter Reader	OfficeAdminSupport	34	4.4	29.44	19.9	53610	47720	0	47.72
+43-5051.00	Postal Service Clerk	OfficeAdminSupport	42.2	4.6	40.7	78.13	59240	59570	0	59.57
+43-5052.00	Postal Service Mail Carrier	OfficeAdminSupport	47.04	4.7	41.32	331.6	59340	56330	0	56.33
+43-5053.00	Postal Service Mail Sorter, Processor, and/or Processing Machine Operator	OfficeAdminSupport	42.2	4	38.56	116.54	56350	53440	0	53.44
+43-5061.00	Production, Planning, and/or Expediting Clerk	OfficeAdminSupport	41.81	4.25	46.41	393.98	57610	53900	0	53.9
+43-5071.00	Shipping, Receiving, and Traffic Clerk	OfficeAdminSupport	32.71	3.9	34.68	844.12	42730	39780	0	39.78
+43-5111.00	Recordkeeping - Weigher, Measurer, Checker, and/or Sampler	OfficeAdminSupport	27.69	3.8	41.31	51.25	44240	43270	0	43.27
+43-6011.00	Executive Secretary and/or Administrative Assistant	OfficeAdminSupport	46.08	4.7	52.24	483.57	73680	70310	0	70.31
+43-6012.00	Legal Secretary	OfficeAdminSupport	56.53	NA	51.43	152.79	56330	50680	0	50.68
+43-6013.00	Medical Secretary	OfficeAdminSupport	46.08	NA	47.44	749.5	43380	40640	0	40.64
+43-6014.00	Secretary	OfficeAdminSupport	46.08	NA	43.53	1785.43	45490	44280	0	44.28
+43-9021.00	Data Entry Keyer	OfficeAdminSupport	41.18	4	37.27	154.23	40130	37790	0	37.79
+43-9022.00	Word Processor and/or Typist	OfficeAdminSupport	40.03	4	36.48	37.2	47170	46450	0	46.45
+43-9031.00	Desktop Publisher	OfficeAdminSupport	50.32	4.8	55.8	5.22	57680	51290	0	51.29
+43-9041.01	Insurance Claims and/or Policy Processing Clerk	OfficeAdminSupport	47.27	NA	42.81	241.65	49530	46900	0	46.9
+43-9041.02	Insurance Claims and/or Policy Processing Clerk	OfficeAdminSupport	47.27	NA	42.81	241.65	49530	46900	0	46.9
+43-9041.00	Insurance Claims and/or Policy Processing Clerk	OfficeAdminSupport	47.27	4.13	42.81	241.65	49530	46900	0	46.9
+43-9051.00	Mail Clerk and Mail Machine Operator (except Postal Service)	OfficeAdminSupport	31.94	3.6	34.57	66.6	38370	36880	0	36.88
+43-9061.00	Office Clerk, General	OfficeAdminSupport	33.88	3.67	39.34	2496.37	43560	40480	0	40.48
+43-9071.00	Office Machine Operator (except Computer)	OfficeAdminSupport	38.51	3.3	36.69	27.96	39600	37450	0	37.45
+43-9081.00	Proofreader and/or Copy Marker	OfficeAdminSupport	43.14	4.5	47.11	5.49	51100	48790	0	48.79
+43-9111.00	Statistical Assistant	OfficeAdminSupport	37.5	4.2	53.56	7.2	53900	50510	0	50.51
+43-9111.01	Bioinformatics Technician	OfficeAdminSupport	32.35	NA	72.31	7.2	53900	50510	0	50.51
+43-9199.00	Other - Office and Administrative Support Worker	OfficeAdminSupport	33.03	2.5	42.51	172.02	46620	43230	0	43.23
+45-1011.00	Supervisor/Manager of Farming, Fishing, and Forestry Workers	FarmingFishingForestry	44.17	4.85	54.42	27.15	60790	57320	1	57.32
+45-1011.06	Supervisor/Manager of Aquacultural Workers	FarmingFishingForestry	50.64	NA	52.08	27.15	60790	57320	1	57.32
+45-1011.05	Supervisor/Manager of Logging Workers	FarmingFishingForestry	43.53	NA	47	27.15	60790	57320	1	57.32
+45-1011.08	Supervisor/Manager of Animal Husbandry and Animal Care Workers	FarmingFishingForestry	50.64	NA	50.84	27.15	60790	57320	1	57.32
+45-1011.07	Supervisor/Manager of Agricultural Crop and Horticultural Workers	FarmingFishingForestry	47.59	NA	51.91	27.15	60790	57320	1	57.32
+45-2011.00	Agricultural Inspector	FarmingFishingForestry	49.45	4.75	52.86	12.66	52170	48010	1	48.01
+45-2021.00	Animal Breeder	FarmingFishingForestry	40.39	4.3	43.69	1.36	53520	47540	1	47.54
+45-2041.00	Grader and/or Sorter of Agricultural Products	FarmingFishingForestry	30.69	3.7	38.48	23.43	34880	34360	1	34.36
+45-2091.00	Agricultural Equipment Operator	FarmingFishingForestry	32.84	3.23	42.58	28.91	41850	39690	1	39.69
+45-2092.01	Nursery Worker	FarmingFishingForestry	25.83	NA	43.23	258.73	36140	34470	1	34.47
+45-2092.00	Farmworker and/or Laborer (Crop, Nursery, and Greenhouse)	FarmingFishingForestry	23.28	NA	39.23	258.73	36140	34470	1	34.47
+45-2092.02	Other - Horticulture Worker	FarmingFishingForestry	37.39	NA	42.66	258.73	36140	34470	1	34.47
+45-2093.00	Farmworker and/or Laborer (Ranch and Farm Animals)	FarmingFishingForestry	23.28	NA	41.79	32.59	37060	35120	1	35.12
+45-2099.00	Other - Agriculture Worker	FarmingFishingForestry	26.77	NA	34.45	6.04	45660	40620	1	40.62
+45-4011.00	Forest and Conservation Worker	FarmingFishingForestry	38.54	4.4	52.6	5.75	36860	33940	1	33.94
+45-4021.00	Faller	FarmingFishingForestry	31.1	3.4	37.74	4.8	61190	53170	1	53.17
+45-4022.00	Logging Equipment Operator	FarmingFishingForestry	33.77	NA	35.11	23.72	49790	48240	1	48.24
+45-4023.00	Log Grader and/or Scaler	FarmingFishingForestry	31.1	NA	37.83	3.64	47120	45600	1	45.6
+45-4029.00	Other - Logging Worker	FarmingFishingForestry	31.1	NA	32.19	2.54	52950	52480	1	52.48
+47-1011.03	Solar Energy Installation Manager	ConstructionExtraction	50.64	NA	55.35	777.42	81340	76760	1	76.76
+47-1011.00	Supervisor/Manager of Construction and/or Extraction Workers	ConstructionExtraction	44.07	4.83	51.16	777.42	81340	76760	1	76.76
+47-2011.00	Boilermaker	ConstructionExtraction	39.64	3.9	42.1	11.13	73840	71140	1	71.14
+47-2021.00	Mason - Brick, Block, Stone, Tile and/or Marble	ConstructionExtraction	36.08	4.2	41.35	56.83	63430	59640	1	59.64
+47-2022.00	Stone Cutter and/or Carver	MfgProduction	29.17	NA	42.88	9.79	56930	51830	1	51.83
+47-2031.00	Carpenter	ConstructionExtraction	38.92	4.6	45.14	700.29	60970	56350	1	56.35
+47-2031.02	Carpenter	ConstructionExtraction	38.92	NA	45.14	700.29	60970	56350	1	56.35
+47-2031.01	Carpenter	ConstructionExtraction	38.92	NA	45.14	700.29	60970	56350	1	56.35
+47-2041.00	Carpet Installer	ConstructionExtraction	34.38	3.6	28.5	15.56	52290	47520	1	47.52
+47-2042.00	Floor Layer	ConstructionExtraction	35.67	NA	34.04	25.15	56680	48840	1	48.84
+47-2043.00	Floor Sander and/or Finisher	ConstructionExtraction	35.67	NA	35.19	5.07	49910	47760	1	47.76
+47-2044.00	Mason - Brick, Block, Stone, Tile and/or Marble	ConstructionExtraction	36.08	NA	41.35	42.42	53920	48910	1	48.91
+47-2051.00	Cement Mason and/or Concrete Finisher	ConstructionExtraction	37.5	4.1	36.65	203.56	57410	50720	1	50.72
+47-2053.00	Mason - Brick, Block, Stone, Tile and/or Marble	ConstructionExtraction	36.08	NA	41.35	1.46	54220	48900	1	48.9
+47-2061.00	Construction Laborer	ConstructionExtraction	36.43	3.4	37.53	1019.09	49280	45300	1	45.3
+47-2071.00	Paving, Surfacing, and/or Tamping Equipment Operator	ConstructionExtraction	33	3.7	35.61	43.08	55170	48980	1	48.98
+47-2072.00	Pile-Driver Operator	ConstructionExtraction	29.86	3.9	40.28	3.01	70260	63550	1	63.55
+47-2073.00	Other - Construction Equipment Operator	ConstructionExtraction	32.84	4.4	37.17	450.37	62180	56160	1	56.16
+47-2081.00	Drywall and/or Ceiling Tile Installer	ConstructionExtraction	34.26	3.8	36.21	90.86	61480	55700	1	55.7
+47-2082.00	Taper	ConstructionExtraction	36.43	NA	29.06	15.56	69300	63350	1	63.35
+47-2111.00	Electrician	ConstructionExtraction	51.27	4.9	54.21	712.58	67810	61590	1	61.59
+47-2121.00	Glazier	ConstructionExtraction	30.26	3.8	39.66	53.39	58320	51100	1	51.1
+47-2131.00	Insulation Worker	ConstructionExtraction	32.59	3.7	33.06	38.51	52080	47540	1	47.54
+47-2132.00	Insulation Worker	ConstructionExtraction	32.59	NA	33.06	22.85	60530	53920	1	53.92
+47-2141.00	Painter and/or Paperhanger	ConstructionExtraction	31.14	3.9	26.96	215.91	52110	47700	1	47.7
+47-2142.00	Painter and/or Paperhanger	ConstructionExtraction	31.14	3.5	26.96	1.83	54020	48460	1	48.46
+47-2151.00	Pipelayer	ConstructionExtraction	44.75	4.5	40.22	34.84	52840	47330	1	47.33
+47-2152.02	Plumber, Pipefitter, and/or Steamfitter	ConstructionExtraction	44.75	NA	40.92	436.16	67840	61550	1	61.55
+47-2152.00	Plumber, Pipefitter, and/or Steamfitter	ConstructionExtraction	44.75	NA	40.92	436.16	67840	61550	1	61.55
+47-2152.01	Plumber, Pipefitter, and/or Steamfitter	ConstructionExtraction	44.75	NA	40.92	436.16	67840	61550	1	61.55
+47-2161.00	Mason - Brick, Block, Stone, Tile and/or Marble	ConstructionExtraction	36.08	3.3	41.35	22.31	59050	52640	1	52.64
+47-2171.00	Reinforcing Iron and/or Rebar Worker	ConstructionExtraction	42.96	3.9	39.37	17.4	60290	54850	1	54.85
+47-2181.00	Roofer	ConstructionExtraction	37.16	3.9	33.86	135.14	55840	50030	1	50.03
+47-2211.00	Sheet Metal Worker	ConstructionExtraction	50.33	3.8	39.68	116.19	64270	58780	1	58.78
+47-2221.00	Structural Iron and Steel Worker	ConstructionExtraction	42.96	4.8	44.03	63.78	68220	62760	1	62.76
+47-2231.00	Solar Photovoltaic Installer	ConstructionExtraction	40.85	4.4	50.43	24.51	53140	48800	1	48.8
+47-3011.00	Helper - Brickmasons, Blockmasons, Stonemasons, and/or Tile and Marble Setters	ConstructionExtraction	26.08	NA	37.42	16.46	45590	42470	1	42.47
+47-3012.00	Helper - Carpenters	ConstructionExtraction	28.92	NA	34.56	21.77	40860	39380	1	39.38
+47-3013.00	Helper - Electricians	ConstructionExtraction	40.6	NA	38.93	68.67	41240	38340	1	38.34
+47-3014.00	Helper - Painters, Paperhangers, Plasterers, and/or Stucco Masons	ConstructionExtraction	29.5	NA	32.2	7.7	38750	37010	1	37.01
+47-3015.00	Helper - Pipelayers, Plumbers, Pipefitters, and/or Steamfitters	ConstructionExtraction	35.49	NA	37.11	45.3	39460	37650	1	37.65
+47-3016.00	Helper - Roofers	ConstructionExtraction	29.5	NA	30.3	4.54	42280	38620	1	38.62
+47-3019.00	Other - Helper	ConstructionExtraction	39.53	3.3	32.07	27.25	43090	40220	1	40.22
+47-4011.00	Construction and/or Building Inspector	ConstructionExtraction	46.85	4.9	58.33	133.64	72880	67700	1	67.7
+47-4021.00	Elevator Installer and/or Repairer	ConstructionExtraction	39.02	4.3	40.01	23.99	100060	102420	1	102.42
+47-4031.00	Fence Erector	ConstructionExtraction	35.67	3.3	28.42	21.47	46650	44410	1	44.41
+47-4041.00	Hazardous Materials Removal Worker	ConstructionExtraction	39.53	4.8	43.29	49.96	53430	47280	1	47.28
+47-4051.00	Highway Maintenance Worker	ConstructionExtraction	35.67	4.3	33.02	150.86	49070	47360	1	47.36
+47-4061.00	Rail-Track Laying and/or Maintenance Equipment Operator	ConstructionExtraction	40.09	4.4	38.09	18.77	67330	67000	1	67
+47-4071.00	Septic Tank Servicer and/or Sewer Pipe Cleaner	ConstructionExtraction	22.33	3.4	22.96	27.9	49590	46910	1	46.91
+47-5011.00	Derrick Operator (Oil and Gas)	ConstructionExtraction	41.5	5.1	43.09	11.51	58330	58210	1	58.21
+47-5012.00	Rotary Drill Operator	ConstructionExtraction	36.95	NA	47.58	12.18	67320	61770	1	61.77
+47-5013.00	Other - Oil and Gas Worker	ConstructionExtraction	41.5	NA	42.7	46.15	59390	55750	1	55.75
+53-7032.00	Excavating and Related Machinery Operator	TransportationMaterialMoving	37.73	4.2	38.78	32.63	55500	50050	1	50.05
+47-5021.00	Earth Driller (except Oil and Gas)	ConstructionExtraction	39.82	4.25	48.04	18.01	60250	56660	1	56.66
+47-5031.00	Explosives Worker, Ordnance Handling Expert, and/or Blaster	ConstructionExtraction	37.5	4.1	54.95	4.61	65600	61590	1	61.59
+47-5021.00	Earth Driller (except Oil and Gas)	ConstructionExtraction	39.82	NA	48.04	4.61	65600	61590	1	61.59
+47-5041.00	Mining Machine Operator	ConstructionExtraction	35.06	4.25	38.36	15.7	62110	61420	1	61.42
+47-5061.00	Mining Machine Operator	ConstructionExtraction	35.06	4	38.36	1.96	68540	66660	1	66.66
+53-7111.00	Shuttle Car Operator	TransportationMaterialMoving	24.89	3.6	31.57	5.16	63620	64070	1	64.07
+53-7033.00	Excavating and Related Machinery Operator	TransportationMaterialMoving	37.73	NA	38.78	5.16	63620	64070	1	64.07
+47-5042.00	Mining Machine Operator	ConstructionExtraction	35.06	NA	38.36	2.56	65290	68910	1	68.91
+47-5049.00	Mining Machine Operator	ConstructionExtraction	35.06	NA	38.36	2.56	65290	68910	1	68.91
+47-5051.00	Rock Splitter	ConstructionExtraction	36.43	NA	31.7	3.61	47830	46530	1	46.53
+47-5071.00	Roustabout	ConstructionExtraction	36.43	4.6	40.65	43.83	47730	46340	1	46.34
+47-5081.00	Helper - Extraction Workers	ConstructionExtraction	38.02	3.5	36.63	7.36	46990	45520	1	45.52
+47-5099.00	Other - Extraction Worker	ConstructionExtraction	39.53	3.6	40.46	7.12	53050	49580	1	49.58
+47-5049.00	Mining Machine Operator	ConstructionExtraction	35.06	NA	38.36	7.12	53050	49580	1	49.58
+49-1011.00	Supervisor/Manager of Mechanics, Installers, and/or Repairers	InstallMntnceRepair	49.82	4.5	50.94	589.88	79020	75820	1	75.82
+49-2011.00	Computer, Automated Teller, and/or Office Machine Repairer	InstallMntnceRepair	36.57	4.9	47.96	77.58	48290	45760	1	45.76
+49-2021.01	Radio Mechanic	InstallMntnceRepair	38.88	NA	48.03	11.81	64360	61310	1	61.31
+49-2021.00	Telecommunications Equipment Installer and/or Repairer	InstallMntnceRepair	36.38	4.05	43.76	11.81	64360	61310	1	61.31
+49-2022.00	Telecommunications Equipment Installer and/or Repairer	InstallMntnceRepair	36.38	NA	43.76	159.67	64010	61270	1	61.27
+49-2091.00	Avionics Technician	InstallMntnceRepair	40.85	5.7	65.61	21.28	77080	77420	1	77.42
+49-2092.00	Electric Motor, Power Tool, and/or Related Repairer	InstallMntnceRepair	38.53	4.2	44.67	16.01	52550	49230	1	49.23
+49-2093.00	Electrical and Electronics Installer and/or Repairer	InstallMntnceRepair	38.88	5.5	52.01	7.92	76380	79160	1	79.16
+49-2094.00	Electrical and Electronics Installer and/or Repairer	InstallMntnceRepair	38.88	4	52.01	58.32	69810	66680	1	66.68
+49-2095.00	Electrical and Electronics Installer and/or Repairer	InstallMntnceRepair	38.88	NA	52.01	24.79	92840	96600	1	96.6
+49-2096.00	Electrical and Electronics Installer and/or Repairer	InstallMntnceRepair	38.88	3.5	52.01	8.9	47570	45570	1	45.57
+49-2097.00	Home Entertainment Equipment Installer and/or Repairer	InstallMntnceRepair	31.55	4	39.94	24.72	52720	48380	1	48.38
+49-2098.00	Security and/or Fire Alarm Systems Installer	InstallMntnceRepair	31.55	4.3	41.82	83.54	57400	56430	1	56.43
+49-3011.00	Aircraft Mechanic and/or Service Technician	InstallMntnceRepair	52.86	5.5	60.26	137.63	76260	75020	1	75.02
+49-3021.00	Automotive Mechanic and/or Service Technician	InstallMntnceRepair	39.64	4.3	41.17	151.91	55220	48740	1	48.74
+49-3022.00	Automotive Mechanic and/or Service Technician	InstallMntnceRepair	39.64	3.1	41.17	16.89	46010	45320	1	45.32
+49-3023.00	Automotive Mechanic and/or Service Technician	InstallMntnceRepair	39.64	4.63	41.17	676.57	51940	47770	1	47.77
+49-3023.02	Automotive Mechanic and/or Service Technician	InstallMntnceRepair	39.64	NA	41.17	676.57	51940	47770	1	47.77
+49-3023.01	Automotive Mechanic and/or Service Technician	InstallMntnceRepair	39.64	NA	41.17	676.57	51940	47770	1	47.77
+49-3031.00	Bus and Truck Mechanic and/or Diesel Engine Specialist	InstallMntnceRepair	43.64	4.4	44.61	285.03	59920	58970	1	58.97
+49-3041.00	Farm Equipment Mechanic	InstallMntnceRepair	36.41	4.6	43.37	36.83	52120	49210	1	49.21
+49-3042.00	Mobile Heavy Equipment Mechanic	InstallMntnceRepair	44.82	NA	48.07	177.28	64340	61900	1	61.9
+49-3043.00	Rail Car Repairer	InstallMntnceRepair	31.55	NA	43.99	19.48	65690	65030	1	65.03
+49-3051.00	Motorboat Mechanic	InstallMntnceRepair	31.55	3.8	45.59	23.23	52620	49990	1	49.99
+49-3052.00	Motorcycle Mechanic	InstallMntnceRepair	31.55	NA	40.74	14.33	47960	46270	1	46.27
+49-3053.00	Mechanic - Power Equipment and/or Small Engine	InstallMntnceRepair	27.75	NA	44.03	36.08	45180	44140	1	44.14
+49-3091.00	Bicycle Repairer	InstallMntnceRepair	31.55	3.75	33.19	13.98	39360	38320	1	38.32
+49-3092.00	Recreational Vehicle Service Technician	InstallMntnceRepair	40.85	NA	41.7	17.36	50690	47950	1	47.95
+49-3093.00	Tire Repairer and/or Changer	InstallMntnceRepair	31.55	NA	29.29	101.52	37280	35790	1	35.79
+49-9011.00	Mechanical Door Repairer	InstallMntnceRepair	31.55	4.2	32.97	27.8	51640	48650	1	48.65
+49-9012.00	Control and Valve Installer and/or Repairer	InstallMntnceRepair	35.67	NA	40.51	47.78	72360	70100	1	70.1
+49-9021.01	Heating, Air Conditioning, and Refrigeration Mechanic and/or Installer	InstallMntnceRepair	42	NA	41.99	397.45	59620	57300	1	57.3
+49-9021.02	Refrigeration Mechanic and/or Installer	InstallMntnceRepair	42	NA	29.85	397.45	59620	57300	1	57.3
+49-9021.00	Heating, Air Conditioning, and Refrigeration Mechanic and/or Installer	InstallMntnceRepair	42	4.6	41.99	397.45	59620	57300	1	57.3
+49-9031.00	Home Appliance Repairer	InstallMntnceRepair	37.61	3.9	39.06	29.95	50640	47170	1	47.17
+49-9041.00	Industrial Machinery Mechanic	InstallMntnceRepair	29.51	4.05	48.34	412.65	63690	61420	1	61.42
+49-9043.00	Machinery Maintenance Worker	InstallMntnceRepair	25.88	3.4	36.56	58.04	58500	57350	1	57.35
+49-9044.00	Millwright	InstallMntnceRepair	42.75	3.7	43.13	37.93	64310	62980	1	62.98
+49-9045.00	Refractory Materials Repairer	InstallMntnceRepair	31.55	NA	41.61	0.54	49900	48410	1	48.41
+49-9051.00	Electrical Power-Line Installers and Repairers	InstallMntnceRepair	38.53	4.75	48.15	120.17	85900	85420	1	85.42
+49-9052.00	Electrical Power-Line Installers and Repairers	InstallMntnceRepair	38.53	3.6	48.15	98.95	69040	64640	1	64.64
+49-9061.00	Camera and/or Photographic Equipment Repairer	InstallMntnceRepair	35.49	3.75	43.53	2.54	58870	46850	1	46.85
+49-9062.00	Medical Equipment Repairer	InstallMntnceRepair	31.55	NA	54.58	64.4	64140	60670	1	60.67
+49-9063.00	Musical Instrument Repairer and/or Tuner	InstallMntnceRepair	35.49	NA	45.4	6.17	46250	42800	1	42.8
+49-9064.00	Watch Repairer	InstallMntnceRepair	35.49	NA	46.5	1.88	56140	58140	1	58.14
+49-9069.00	Precision Instrument and Equipment Repairer	InstallMntnceRepair	31.55	NA	50.81	10.33	65710	62040	1	62.04
+49-9071.00	Maintenance and Repair Worker - General	InstallMntnceRepair	43.53	4.5	38.01	1503.15	49650	46700	1	46.7
+49-9081.00	Wind Turbine Service Technician	InstallMntnceRepair	40.85	4.9	53.7	9.8	65380	61770	1	61.77
+49-9091.00	Coin, Vending, and/or Amusement Machine Servicer and/or Repairer	InstallMntnceRepair	31.55	3.25	31.6	36.1	45840	44980	1	44.98
+49-9092.00	Commercial Diver	InstallMntnceRepair	35.67	5	51.48	2.79	75570	61300	1	61.3
+49-9094.00	Locksmith and/or Safe Repairer	InstallMntnceRepair	39.17	3.55	42.43	14.79	52130	48380	1	48.38
+49-9095.00	Manufactured Building and Mobile Home Installer	InstallMntnceRepair	31.55	4	38.09	2.91	39820	38980	1	38.98
+49-9096.00	Rigger	InstallMntnceRepair	42.34	4.5	39.08	23.87	62020	56220	1	56.22
+49-9097.00	Signal and Track Switch Repairer	InstallMntnceRepair	31.55	4.9	46.53	9.2	81810	82710	1	82.71
+49-9098.00	Helper - Installation, Maintenance and/or Repair Workers	InstallMntnceRepair	33.38	3.4	36.63	101.89	38720	36710	1	36.71
+49-9099.01	Geothermal Technician	InstallMntnceRepair	40.85	NA	65.44	175.86	50480	46500	1	46.5
+49-9099.00	Other - Installation, Maintenance, and Repair Worker	InstallMntnceRepair	43.53	NA	38.64	175.86	50480	46500	1	46.5
+49-9093.00	Fabric Mender	InstallMntnceRepair	31.55	NA	32.09	175.86	50480	46500	1	46.5
+51-1011.00	Supervisor/Manager of Production Workers	MfgProduction	47.07	5	54.73	671.16	71730	65930	1	65.93
+51-2011.00	Aircraft Production Worker	MfgProduction	30	4.6	46.42	29.81	62860	61240	1	61.24
+51-2021.00	Coil Winder, Taper, and/or Finisher	MfgProduction	30.41	3.4	38.41	11.9	46020	44890	1	44.89
+51-2031.00	Engine and/or Other Machine Assembler	MfgProduction	43.53	3.9	46.34	47.96	53470	50270	1	50.27
+51-2041.00	Structural Metal Fabricator and Fitter	MfgProduction	42.96	3.8	44.8	57.81	50640	48480	1	48.48
+51-2091.00	Fiberglass Laminator and/or Fabricator	MfgProduction	29.17	3.9	39.07	20.38	43920	40200	1	40.2
+51-2093.00	Timing Device Assembler, Adjuster, and/or Calibrator	MfgProduction	39.64	NA	48.4	0.4	52840	48840	1	48.84
+51-3011.00	Baker and/or Bakery Production Worker	MfgProduction	34.86	4.6	44.82	220.23	35550	34950	1	34.95
+51-3021.00	Butcher and/or Meat Cutter	MfgProduction	34.66	3.37	34.34	136.33	39680	37650	1	37.65
+51-3022.00	Meat, Poultry, and/or Fish Cutter and Trimmer	MfgProduction	34.66	NA	27.5	138.3	36840	36300	1	36.3
+51-3023.00	Slaughterer and/or Meat Packer	MfgProduction	34.66	NA	21.57	71.31	38710	38160	1	38.16
+51-3091.00	Food and Tobacco Roasting, Baking, and Drying Machine Operator and/or Tender	MfgProduction	22.73	2.9	33.53	19.57	42410	39850	1	39.85
+51-3092.00	Food Batchmaker	MfgProduction	29.57	3.5	36.46	169.19	40890	38460	1	38.46
+51-3093.00	Food Batchmaker	MfgProduction	29.57	2.85	36.46	29.73	39770	38550	1	38.55
+51-3099.00	Food Batchmaker	MfgProduction	29.57	3.8	36.46	63.97	37630	36890	1	36.89
+51-4021.00	Extruding, Forming, Pressing, and Compacting Machine Setter, Operator, and/or Tender	MfgProduction	32.09	4	43.6	63.37	45440	44390	1	44.39
+51-4022.00	Forging Machine Setter, Operator, and/or Tender	MfgProduction	35.61	4.1	41	9.17	47350	46990	1	46.99
+51-4023.00	Rolling Machine Setter, Operator, and/or Tender	MfgProduction	39.56	4	38.1	24.75	49290	47040	1	47.04
+51-4031.00	Cutting, Slicing, Punching, and Press Machine Setter, Operator, and/or Tender	MfgProduction	33.61	4.2	38.97	179.23	44260	42400	1	42.4
+51-4032.00	Drilling and Boring Machine Tool Setter, Operator, and/or Tender	MfgProduction	36.95	4.3	42.54	5.74	47490	44620	1	44.62
+51-4033.00	Grinding, Lapping, Polishing, and Buffing Machine Tool Setter, Operator, and Tender	MfgProduction	22.75	3.35	39.61	75.26	44450	42610	1	42.61
+51-4034.00	Lathe and Turning Machine Tool Setter, Operator, and/or Tender	MfgProduction	37.24	3.9	39.71	19.56	48850	47110	1	47.11
+51-4035.00	Milling and Planing Machine Setter, Operator, and/or Tender	MfgProduction	32.03	3.8	40.35	13.99	50020	47200	1	47.2
+51-4041.00	Machinist	MfgProduction	46.93	4.2	47.51	290.72	54600	50840	1	50.84
+51-4051.00	Metal-Refining Furnace Operator and/or Tender	MfgProduction	40.26	3.7	42.48	20.87	54340	50250	1	50.25
+51-4052.00	Pourer and/or Caster	MfgProduction	33.74	NA	36.19	5.46	50110	48690	1	48.69
+51-4061.00	Model Maker	MfgProduction	38.66	4.1	44.7	2.84	64920	64190	1	64.19
+51-4062.00	Patternmaker	MfgProduction	36.62	NA	42.75	2.15	54550	49670	1	49.67
+51-4071.00	Foundry Mold and Coremaker	MfgProduction	33.74	4	39.15	11.78	45130	44300	1	44.3
+51-4072.00	Other - Machine Tool Setter, Operator, and/or Tender	MfgProduction	32.84	NA	40.55	158.98	42060	38870	1	38.87
+51-4081.00	Multiple Machine Tool Setter, Operator, and/or Tender	MfgProduction	32.84	4	43.38	127.79	43990	41600	1	41.6
+51-4111.00	Tool and Die Maker	MfgProduction	42.93	4.1	44.27	58.15	62020	61490	1	61.49
+51-4121.06	Welder, Cutter, Solderer, and/or Brazer	MfgProduction	41.89	NA	42.29	421.73	52640	48940	1	48.94
+51-4121.07	Solderer and/or Brazer	MfgProduction	33.09	NA	39.17	421.73	52640	48940	1	48.94
+51-4121.00	Welder, Cutter, Solderer, and/or Brazer	MfgProduction	41.89	4.05	42.29	421.73	52640	48940	1	48.94
+51-4122.00	Welding, Soldering, and Brazing Machine Setter, Operator, and/or Tender	MfgProduction	33.09	NA	42.48	33.02	47120	45350	1	45.35
+51-4191.00	Heat Treating Equipment Setter, Operator, and/or Tender	MfgProduction	39.93	4.3	42.42	14.95	46540	44240	1	44.24
+51-4192.00	Lay-Out Worker	MfgProduction	29.52	4.2	39.43	6.66	60110	62270	1	62.27
+51-4193.00	Plating and Coating Machine Setter, Operator, and/or Tender	MfgProduction	36.2	3.7	42	31.97	42550	39740	1	39.74
+51-4194.00	Tool Grinder, Filer, and/or Sharpener	MfgProduction	25.87	3.35	37.52	6.66	48520	46410	1	46.41
+51-4199.00	Other - Metal and/or Plastic Worker	MfgProduction	35.71	4.5	37.29	20.37	44780	41200	1	41.2
+51-5111.00	Prepress Technician and/or Worker	MfgProduction	28.54	3.85	47.48	23.59	46540	45070	1	45.07
+51-5112.00	Printing Machine Operator	MfgProduction	39.47	4	41.71	151.45	44450	41860	1	41.86
+51-5113.00	Bookbinder and/or Publishing Production Worker	MfgProduction	31.58	3.6	44.64	38.88	40860	38100	1	38.1
+51-6011.00	Laundry and/or Dry-Cleaning Worker	MfgProduction	31.85	3.15	22.17	185	31880	31050	1	31.05
+51-6021.00	Presser	MfgProduction	28.54	3.6	31.63	28.7	32340	32240	1	32.24
+51-6031.00	Sewer and/or Sewing Machine Operator	MfgProduction	27.5	3.6	29.28	116.13	35000	34440	1	34.44
+51-6041.00	Shoe and Leather Worker and/or Repairer	MfgProduction	36.14	3.8	34.64	7.23	37030	36020	1	36.02
+51-6042.00	Shoe Machine Operator and/or Tender	MfgProduction	32.57	3.5	32.49	4.63	36570	36970	1	36.97
+51-6051.00	Tailor, Dressmaker, and/or Custom Sewer	MfgProduction	42.48	NA	45.15	3.39	33860	32240	1	32.24
+51-6052.00	Tailor, Dressmaker, and/or Custom Sewer	MfgProduction	42.48	4.4	45.15	14.95	40190	36650	1	36.65
+51-6061.00	Textile Machine Setter, Operator and/or Tender	MfgProduction	33.29	2.9	34.99	6.65	37570	35340	1	35.34
+51-6062.00	Textile Machine Setter, Operator and/or Tender	MfgProduction	33.29	3.3	34.99	9.76	37040	36620	1	36.62
+51-6063.00	Textile Machine Setter, Operator and/or Tender	MfgProduction	33.29	3.4	34.99	15.98	37880	37130	1	37.13
+51-6064.00	Textile Machine Setter, Operator and/or Tender	MfgProduction	33.29	3	34.99	23.55	37100	35530	1	35.53
+51-6091.00	Extruding, Forming, Pressing, and Compacting Machine Setter, Operator, and/or Tender	MfgProduction	32.09	3.8	43.6	14.52	45270	44030	1	44.03
+51-6092.00	Fabric and/or Apparel Patternmaker	MfgProduction	27.59	4.3	39.66	2.67	66750	62510	1	62.51
+51-6093.00	Upholsterer	MfgProduction	34.75	3.8	39.64	25.74	44820	42730	1	42.73
+51-6099.00	Other - Textile, Apparel, and/or Furnishings Worker	MfgProduction	34.05	3.7	35.49	15.08	37430	35130	1	35.13
+51-7011.00	Cabinetmaker and/or Bench Carpenter	MfgProduction	43.81	4.4	45.68	88.46	44620	43260	1	43.26
+51-7021.00	Furniture Finisher	MfgProduction	38.94	3.9	43.73	14.38	42490	39790	1	39.79
+51-7031.00	Woodworker	MfgProduction	36.31	4.1	44.71	0.59	52510	45040	1	45.04
+51-7032.00	Woodworker	MfgProduction	36.31	NA	44.71	0.26	52330	48630	1	48.63
+51-7041.00	Sawing Machine Setter, Operator, and/or Tender	MfgProduction	33.77	4	37.04	43.57	40120	38000	1	38
+51-7042.00	Woodworking Machine Setter, Operator, and/or Tender	MfgProduction	22.18	3.7	40.7	61.25	40360	38260	1	38.26
+51-7099.00	Woodworker	MfgProduction	36.31	3.9	44.71	7.83	39520	37760	1	37.76
+51-8011.00	Nuclear Power Reactor Operator	MfgProduction	43.28	5.75	66.51	5.76	121240	120350	1	120.35
+51-8012.00	Power Distributor and Dispatcher	MfgProduction	43.28	NA	51.71	9.04	105460	104750	1	104.75
+51-8013.00	Power Plant Operator	MfgProduction	43.28	NA	57.63	31.49	91880	97010	1	97.01
+51-8021.00	Stationary Engineer and/or Boiler Operator	MfgProduction	40.16	4.8	47.76	33.84	73170	67640	1	67.64
+51-8031.00	Water and Liquid Waste Treatment Plant and/or System Operator	MfgProduction	38.49	4.2	46.76	120.71	58050	54890	1	54.89
+51-8091.00	Chemical Plant and/or System Operator	MfgProduction	42.89	NA	57.81	17.98	79450	80030	1	80.03
+51-8092.00	Gas Plant Operator	MfgProduction	42.89	NA	49.78	15.93	83020	82560	1	82.56
+51-8093.00	Petroleum Pump System Operator, Refinery Operator, and/or Gauger	MfgProduction	42.89	4.9	44.91	33.36	88120	94580	1	94.58
+51-8099.03	Biomass Plant Technician	MfgProduction	42.89	NA	57.78	15.37	59890	56940	1	56.94
+51-8099.00	Other - Plant and System Operator	MfgProduction	42.89	NA	49.11	15.37	59890	56940	1	56.94
+51-8099.04	Hydroelectric Plant Technician	MfgProduction	40.85	NA	58.04	15.37	59890	56940	1	56.94
+51-8099.01	Biofuels Processing Technician	MfgProduction	40.85	NA	57.15	15.37	59890	56940	1	56.94
+51-8099.02	Methane/Landfill Gas Generation System Technician	MfgProduction	40.85	NA	49.63	15.37	59890	56940	1	56.94
+51-9011.00	Chemical Equipment Operator and/or Tender	MfgProduction	32.84	3.55	55.26	120.26	57350	51720	1	51.72
+51-9012.00	Separating, Filtering, Precipitating, and Still Machine Setter, Operator, and/or Tender	MfgProduction	29.71	NA	42.71	53.17	51960	48120	1	48.12
+51-9021.00	Crushing, Grinding, and Polishing Machine Setter, Operator, and/or Tenders	MfgProduction	30.57	3.2	34.23	26.21	46390	44510	1	44.51
+51-9022.00	Grinding and/or Polishing Worker	MfgProduction	22.75	NA	38.29	12.29	41490	38940	1	38.94
+51-9023.00	Mixing and Blending Machine Setter, Operator, and/or Tender	MfgProduction	25.82	NA	39.23	105.74	47950	46100	1	46.1
+51-9031.00	Cutter and/or Trimmer	MfgProduction	25.56	3.3	29.73	7.22	39260	37040	1	37.04
+51-9032.00	Cutting, Slicing, Punching, and Press Machine Setter, Operator, and/or Tender	MfgProduction	33.61	NA	38.97	52.72	44700	44310	1	44.31
+51-9041.00	Extruding, Forming, Pressing, and Compacting Machine Setter, Operator, and/or Tender	MfgProduction	32.09	2.9	43.6	57.08	44610	42670	1	42.67
+51-9051.00	Furnace, Kiln, Oven, Drier, and Kettle Operator and/or Tender	MfgProduction	40.26	4.1	38.69	14.82	47540	45640	1	45.64
+51-9061.00	Inspector, Tester, Sorter, Sampler and/or Weigher	MfgProduction	41.8	4.17	42.49	584.63	49260	45850	1	45.85
+51-9071.06	Gem and/or Diamond Worker	MfgProduction	44.55	NA	58.01	24.06	52000	47450	1	47.45
+51-9071.01	Jeweler and/or Precious Stone Worker	MfgProduction	44.55	NA	57.32	24.06	52000	47450	1	47.45
+51-9071.00	Jeweler and/or Precious Stone Worker	MfgProduction	44.55	4.4	57.32	24.06	52000	47450	1	47.45
+51-9071.07	Precious Metal Worker	MfgProduction	44.55	NA	53.71	24.06	52000	47450	1	47.45
+51-9081.00	Dental Laboratory Technician	MfgProduction	55.93	4.97	55.69	34.19	52390	47690	1	47.69
+51-9082.00	Medical Appliance Technician	MfgProduction	55.93	NA	57.58	12.55	48860	44960	1	44.96
+51-9083.00	Ophthalmic Laboratory Technician	MfgProduction	56.67	NA	54.52	18.24	41280	37720	1	37.72
+51-9111.00	Packaging and Filling Machine Operator and/or Tender	MfgProduction	25.11	3	30.96	371.6	41200	38330	1	38.33
+51-9123.00	Painting, Coating, and/or Decorating Worker	MfgProduction	29.83	NA	41.66	10.7	44050	40230	1	40.23
+51-9122.00	Painting, Coating, and/or Decorating Worker	MfgProduction	29.83	NA	41.66	155.88	48480	45560	1	45.56
+51-9121.00	Coating, Painting, and Spraying Machine Setter, Operator, and/or Tender	MfgProduction	29.83	3.63	38.02	155.88	48480	45560	1	45.56
+51-9141.00	Semiconductor Processor	MfgProduction	28.16	4.1	54.52	26.45	48970	45850	1	45.85
+51-9151.00	Photographic Process Worker	MfgProduction	37.98	3.9	45.95	5.77	41900	35620	1	35.62
+51-9199.00	Other - Production Worker	MfgProduction	30	3.9	34.89	187.67	51030	48550	1	48.55
+51-4011.00	Computer-Controlled Machine Tool Operator	MfgProduction	32.84	5.1	49.71	187.67	51030	48550	1	48.55
+51-9199.00	Other - Production Worker	MfgProduction	30	NA	34.89	28.03	67650	63440	1	63.44
+51-4012.00	Numerical Tool and/or Process Control Programmer	MfgProduction	39.52	NA	58.01	28.03	67650	63440	1	63.44
+51-9191.00	Cementing and Gluing Machine Operator and/or Tender	MfgProduction	35.16	3.1	34.63	12.51	44400	43540	1	43.54
+51-9192.00	Cleaning, Washing, and Metal Pickling Equipment Operator and/or Tender	MfgProduction	24.67	2.8	28.52	15.21	41500	39340	1	39.34
+51-9193.00	Cooling and Freezing Equipment Operator and/or Tender	MfgProduction	42	3.8	41	6.5	44840	42420	1	42.42
+51-9194.00	Etcher and/or Engraver	MfgProduction	38.17	4.25	46.56	8.14	42780	40040	1	40.04
+51-9195.00	Molding and Casting Worker	MfgProduction	32	3.67	41.01	38.48	44710	43310	1	43.31
+51-9195.04	Glass Blower, Molder, Bender, and/or Finisher	MfgProduction	29.17	NA	47.69	38.48	44710	43310	1	43.31
+51-9195.07	Molding and Casting Worker	MfgProduction	32	NA	41.01	38.48	44710	43310	1	43.31
+51-9195.03	Stone Cutter and/or Carver	MfgProduction	29.17	NA	42.88	38.48	44710	43310	1	43.31
+51-9195.05	Potter	MfgProduction	32.36	NA	39.92	38.48	44710	43310	1	43.31
+51-9196.00	Paper Goods Machine Setter, Operator, and/or Tenders	MfgProduction	32.84	3.67	38.53	96.46	48910	47250	1	47.25
+51-9197.00	Tire Builder	MfgProduction	32.36	3.15	29.93	20.66	53930	54080	1	54.08
+51-9198.00	Helper - Production Workers	MfgProduction	30.8	3.3	33.4	181.81	38160	36700	1	36.7
+51-9199.00	Other - Production Worker	MfgProduction	30	NA	34.89	243.5	41400	37430	1	37.43
+51-9199.01	Recycling and Reclamation Worker	MfgProduction	27.72	NA	34.22	243.5	41400	37430	1	37.43
+53-1011.00	Aircraft Cargo Handling Supervisor	TransportationMaterialMoving	41.72	NA	50.01	9.02	64950	58920	1	58.92
+53-2011.00	Airline Pilots, Copilots, and/or Flight Engineer	TransportationMaterialMoving	61.02	6.18	76.01	93.67	250050	219140	1	219.14
+53-2012.00	Commercial Pilot	TransportationMaterialMoving	61.02	NA	73.56	52.75	138010	113080	1	113.08
+53-2021.00	Air Traffic Controller	TransportationMaterialMoving	64.76	6.2	67.24	22.31	136790	137380	1	137.38
+53-2022.00	Airfield Operations Specialist	TransportationMaterialMoving	64.76	NA	66.78	18.32	62140	51140	1	51.14
+53-2031.00	Flight Attendant	PersonalCareRelatedSvcs	42.05	4.6	50.16	126.02	70980	68370	0	68.37
+53-3011.00	Ambulance Driver and/or Attendant	TransportationMaterialMoving	50.86	4.6	55.13	11.52	34420	32580	1	32.58
+53-3031.00	Driver/Sales Worker	TransportationMaterialMoving	23.87	3.9	38.42	463.12	38230	35420	1	35.42
+53-3032.00	Truck Driver	TransportationMaterialMoving	30.23	NA	36.36	2044.4	55990	54320	1	54.32
+53-3033.00	Truck Driver	TransportationMaterialMoving	30.23	NA	36.36	1003.96	46090	42470	1	42.47
+53-3022.00	Bus Driver - School	TransportationMaterialMoving	32.07	NA	32.2	371.53	45210	45660	1	45.66
+53-3021.00	Bus Driver - Transit and Intercity	TransportationMaterialMoving	32.07	3.9	36.52	184.99	59860	60170	1	60.17
+53-3022.00	Bus Driver - School	TransportationMaterialMoving	32.07	NA	32.2	204.93	36920	35240	1	35.24
+53-3041.00	Taxi Driver and/or Chauffeur	TransportationMaterialMoving	28.15	3.2	30.79	204.93	36920	35240	1	35.24
+53-3041.00	Taxi Driver and/or Chauffeur	TransportationMaterialMoving	28.15	NA	30.79	17.77	35120	34680	1	34.68
+53-3099.00	Other - Motor Vehicle Operator	TransportationMaterialMoving	37.93	3.5	32.89	51.14	39970	35690	1	35.69
+53-4011.00	Locomotive Engineer	TransportationMaterialMoving	41.34	5.7	56.64	32.39	75870	74770	1	74.77
+53-4013.00	Rail Transportation Worker	TransportationMaterialMoving	47.01	NA	43.35	2.43	57580	57070	1	57.07
+53-4021.00	Rail Transportation Worker	TransportationMaterialMoving	47.01	4.6	43.35	13.61	62840	63540	1	63.54
+53-4012.00	Locomotive Firer	TransportationMaterialMoving	41.34	NA	40.97	13.61	62840	63540	1	63.54
+53-4031.00	Rail Transportation Worker	TransportationMaterialMoving	47.01	5.1	43.35	46.49	72220	71130	1	71.13
+53-4041.00	Subway and/or Streetcar Operator	TransportationMaterialMoving	47.01	NA	35.25	14.86	77370	84270	1	84.27
+53-4099.00	Rail Transportation Worker	TransportationMaterialMoving	47.01	NA	43.35	1.83	50730	44660	1	44.66
+53-5011.00	Sailor and/or Marine Oiler	TransportationMaterialMoving	34.16	4.4	48.53	29.96	53470	48400	1	48.4
+53-5021.02	Mate of Water Vessels	TransportationMaterialMoving	54.48	NA	54.62	34.52	97820	88730	1	88.73
+53-5021.01	Captain of Water Vessels	TransportationMaterialMoving	54.48	NA	64.01	34.52	97820	88730	1	88.73
+53-5021.00	Captain of Water Vessels	TransportationMaterialMoving	54.48	5.07	64.01	34.52	97820	88730	1	88.73
+53-5021.03	Pilot of Water Vessels	TransportationMaterialMoving	54.48	NA	59.69	34.52	97820	88730	1	88.73
+53-5022.00	Motorboat Operator	TransportationMaterialMoving	24.89	NA	37.37	2.71	51810	46420	1	46.42
+53-5031.00	Ship Engineer	TransportationMaterialMoving	42.61	5	62.16	8.86	100550	94270	1	94.27
+53-6011.00	Bridge and Lock Tender	TransportationMaterialMoving	27.58	3.6	47.74	3.46	50070	49120	1	49.12
+53-6021.00	Parking Lot Attendant	TransportationMaterialMoving	21.22	2.4	19.46	118.13	32700	32840	1	32.84
+53-6031.00	Service Station Attendant	TransportationMaterialMoving	21.44	3.1	26.56	92.53	34530	33820	1	33.82
+53-6099.00	Other - Transportation Workers	TransportationMaterialMoving	35.94	3.95	32.89	24.94	42110	39110	1	39.11
+53-6041.00	Traffic Technician	TransportationMaterialMoving	40.85	NA	47.38	7.53	56680	52240	1	52.24
+53-6051.01	Aviation Inspectors	TransportationMaterialMoving	41.8	NA	43.74	27.67	83920	87290	1	87.29
+53-6051.07	Transportation Inspector	TransportationMaterialMoving	41.8	NA	45.39	27.67	83920	87290	1	87.29
+53-6051.08	Freight and Cargo Inspector	TransportationMaterialMoving	41.8	NA	43.69	27.67	83920	87290	1	87.29
+53-6051.00	Transportation Inspector	TransportationMaterialMoving	41.8	3.4	45.39	27.67	83920	87290	1	87.29
+53-6061.00	Transportation Attendant	PersonalCareRelatedSvcs	42.05	4.3	39.27	20.19	36780	35620	0	35.62
+53-6099.00	Other - Transportation Workers	TransportationMaterialMoving	35.94	NA	32.89	10.94	43530	40300	1	40.3
+53-7011.00	Conveyor Operator and/or Tender	TransportationMaterialMoving	26.75	3.2	35.32	24.66	42900	39260	1	39.26
+53-7021.00	Crane and/or Tower Operator	TransportationMaterialMoving	42.34	4.8	44.65	42.26	68040	64690	1	64.69
+53-7031.00	Dredge Operator	TransportationMaterialMoving	29.86	NA	35.07	0.94	53700	50440	1	50.44
+53-7041.00	Hoist and/or Winch Operator	TransportationMaterialMoving	36.22	3.6	36.39	2.23	65810	55950	1	55.95
+53-7051.00	Industrial Truck and/or Tractor Operator	TransportationMaterialMoving	35.16	3.8	35.64	778.92	45720	44470	1	44.47
+53-7061.00	Cleaner of Vehicles and/or Equipment	TransportationMaterialMoving	19.38	2.95	23.63	365.29	35250	34150	1	34.15
+53-7062.00	Laborer - Freight, Stock, and/or Material Moving	TransportationMaterialMoving	26.86	3.15	31.24	3008.3	39760	37660	1	37.66
+53-7063.00	Machine Feeder and/or Offbearer	TransportationMaterialMoving	36.7	3.5	30.46	44.5	41000	39250	1	39.25
+53-7064.00	Packer and/or Packager	TransportationMaterialMoving	22.05	2.9	28.05	645.21	35450	34830	1	34.83
+43-5081.03	Stock Clerk and/or Order Filler	OfficeAdminSupport	27.43	NA	29.93	2872.68	37990	36390	0	36.39
+43-5081.02	Marking Clerk	OfficeAdminSupport	27.9	NA	28.23	2872.68	37990	36390	0	36.39
+43-5081.04	Stock Clerk and/or Order Filler	OfficeAdminSupport	27.43	NA	29.93	2872.68	37990	36390	0	36.39
+43-5081.00	Order Filler - Wholesale and/or Retail Sales	OfficeAdminSupport	23.56	3.07	33.89	2872.68	37990	36390	0	36.39
+43-5081.01	Stock Clerk and/or Order Filler	OfficeAdminSupport	27.43	NA	29.93	2872.68	37990	36390	0	36.39
+53-7071.00	Gas Compressor and/or Gas Pumping Station Operator	TransportationMaterialMoving	21.44	NA	38.92	4.4	63810	61870	1	61.87
+53-7072.00	Pump Operator	TransportationMaterialMoving	32.84	3.9	42.25	11.57	58650	54690	1	54.69
+53-7073.00	Wellhead Pumper	TransportationMaterialMoving	26.75	NA	30.01	18.23	69930	71830	1	71.83
+53-7081.00	Refuse and/or Recyclable Material Collector	TransportationMaterialMoving	27.72	3.7	30.19	135.43	47810	45760	1	45.76
+53-7121.00	Tank Car, Truck, and Ship Loader	TransportationMaterialMoving	26.86	3.8	35.27	11.4	60530	58620	1	58.62
+53-7199.00	Other - Material Moving Worker	TransportationMaterialMoving	26.75	3.2	37.44	23.97	45840	40310	1	40.31
+53-7032.00	Excavating and Related Machinery Operator	TransportationMaterialMoving	37.73	NA	38.78	23.97	45840	40310	1	40.31

@@ -4,5 +4,12 @@ A study compared the effectiveness of several antidepressants by examining the e
 
 The data are in `Antidepressants.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Study` | 
+`Treated` | 
+`Placebo` | 
+
+This dataset is sourced from: unknown

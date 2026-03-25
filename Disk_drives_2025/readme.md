@@ -4,5 +4,11 @@ Disk drive capacity is often given in terabytes (TB), where 1 TB = 1000 gigabyte
 
 The data are in `Disk_drives_2025.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Capacity.TB.` | 
+`Price...` | 
+
+This dataset is sourced from: https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=32+TB+hard+drive&rh=i%3Aaps%2Ck%3A32+TB+hard+drive

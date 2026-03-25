@@ -8,9 +8,9 @@ The variables in this dataset are:
 
 Header | Description
 ---|--------
-`Age` | 
-`Male` | 
-`Female` | 
-`Total` | 
+`Age` | Age range (years) 
+`Male` | Number of licensed U.S. drivers with sex recorded as Male (millions)
+`Female` | Number of licensed U.S. drivers with sex recorded as Female (millions) 
+`Total` | Total number of licensed U.S. drivers (millions)  
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: http://www.fhwa.dot.gov/policyinformation/statistics.cfm

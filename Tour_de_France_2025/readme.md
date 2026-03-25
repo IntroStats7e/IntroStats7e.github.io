@@ -21,4 +21,4 @@ Header | Description
 `Starting.Riders` | Number of riders who started the race
 `Finishing.Riders` | Number of riders who finished the race
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: http://bikeraceinfo.com/tdf/tdfstats.html

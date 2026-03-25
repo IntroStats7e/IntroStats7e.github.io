@@ -11,4 +11,4 @@ Header | Description
 `AgeGroup` | Age category
 `BloodType` | Individual's blood type
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: https://doi.org/10.1101/2020.03.11.20031096

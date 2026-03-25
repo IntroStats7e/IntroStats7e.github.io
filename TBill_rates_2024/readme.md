@@ -4,5 +4,11 @@ The data give the federal rate on 3-month Treasury bills from 1950 to 1980 and Y
 
 The data are in `TBill_rates_2024.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Year` | 
+`Avg.Rate` | 
+
+This dataset is sourced from: https://fred.stlouisfed.org/series/TB3MS/downloaddata

@@ -4,5 +4,26 @@ Burger King publishes full nutrition information on its menu. These data are for
 
 The data are in `Burger_King_items.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Item` | 
+`Serving.size` | 
+`Calories` | 
+`Fat.Cal` | 
+`Protein.g.` | 
+`Fat.g.` | 
+`Sat.Fat.g.` | 
+`Trans.fat.g.` | 
+`Chol.mg.` | 
+`Sodium.mg.` | 
+`Carbs.g.` | 
+`Fiber.g.` | 
+`Sugar.g.` | 
+`Meat` | 
+`Breakfast` | 
+`Not.Breakfast` | 
+`CarbsxMeat` | 
+
+This dataset is sourced from: https://www.bk.com/pdfs/nutrition.pdf

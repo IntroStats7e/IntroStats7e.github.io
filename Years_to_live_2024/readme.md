@@ -4,5 +4,13 @@ Insurance companies and other organizations use actuarial tables to estimate the
 
 The data are in `Years_to_live_2024.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Age` | 
+`Life.Expectancy` | 
+`Males` | 
+`Females` | 
+
+This dataset is sourced from: https://www.ssa.gov/oact/STATS/table4c6.html

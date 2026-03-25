@@ -4,5 +4,12 @@ Scores on SAT tests for 162 students at the same school. (The identity of the sc
 
 The data are in `SAT_scores.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Verbal` | 
+`Math` | 
+`Sex` | 
+
+This dataset is sourced from: Real data—source unspecified to protect privacy

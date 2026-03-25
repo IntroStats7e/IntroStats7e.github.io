@@ -11,4 +11,4 @@ Header | Description
 `Smokers` | Cholesterol values for participants who smoke
 `Ex.Smokers` | Cholesterol values for participants who smoked no more than 5 years, then stopped
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: unknown

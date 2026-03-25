@@ -4,5 +4,51 @@ The Department of Population Health at NYU Langone Health and the Robert F. Wagn
 
 The data are in `City_Health_2024.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`State` | 
+`City` | 
+`Group` | 
+`PrenatalCarePct` | 
+`LowBirthweightPct` | 
+`FirearmSuicides` | 
+`TeenBirths` | 
+`FirearmHomicides` | 
+`PrematureDeathsAllCauses` | 
+`BreastCancerDeaths` | 
+`OpioidOverdoseDeaths` | 
+`CVDDeaths` | 
+`ColorectalCancerDeaths` | 
+`HighBloodPressure` | 
+`HighSchoolCompletionPct` | 
+`UnemploymentPct` | 
+`Uninsured` | 
+`Smoking` | 
+`ChronicAbsenteeism` | 
+`ChildrenInPoverty` | 
+`RentBurden` | 
+`YouthNotInWorkSchool` | 
+`LeadExposureRisk` | 
+`HousingWithLeadRisk` | 
+`Diabetes` | 
+`RoutineCheckup` | 
+`BroadbandConnection` | 
+`IndependentLivingDiff` | 
+`FreqPhysicalDistress` | 
+`DentalCare` | 
+`RaceDiversity` | 
+`IncomeIneq` | 
+`PhysicalInactivity` | 
+`Obesity` | 
+`BingeDrinking` | 
+`RaceSegregation` | 
+`FreqMentalDistress` | 
+`ParkAccess` | 
+`Walkability` | 
+`MinPopDensity` | 
+`MaxPopDensity` | 
+`PopDensGroup` | 
+
+This dataset is sourced from: City Health Dashboard (https://www.cityhealthdashboard.com/)

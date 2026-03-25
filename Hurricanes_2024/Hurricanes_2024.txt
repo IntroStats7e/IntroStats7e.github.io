@@ -1,0 +1,340 @@
+Year	month	Saffir-Simpson	Central_Pressure	Max_wind	name
+1851	Jun	1	974	80	
+1851	Aug	3	955	100	Great Middle Florida
+1852	Aug	3	961	100	Great Mobile
+1852	Sep	1	982	70	
+1852	Oct	2	965	90	Middle Florida
+1853	Oct	1	965	70	
+1854	Jun	1	982	70	
+1854	Sep	3	950	100	Great Carolina
+1854	Sep	2	965	90	Matagorda
+1855	Sep	3	945	110	Middle Gulf Shore
+1856	Aug	4	934	130	Last Island
+1856	Aug	2	965	90	Southeastern States
+1857	Sep	2	961	90	
+1858	Sep	1	976	80	New England
+1859	Sep	1	982	70	
+1859	Oct	1	974	80	
+1860	Aug	3	945	110	
+1860	Sep	2	965	90	
+1860	Oct	2	965	90	
+1861	Aug	1	978	70	Key West
+1861	Sep	1	985	70	Equinoctial
+1861	Nov	1	985	70	Expedition
+1862	None				
+1863	None				
+1864	None				
+1865	Sep	2	965	90	Sabine River
+1865	Oct	2	969	90	
+1866	Jul	2	965	90	
+1867	Jun	1	985	70	
+1867	Oct	2	965	90	Galveston
+1868	None				
+1869	Aug	2	965	90	Lower Texas Coast
+1869	Sep	1	982	70	
+1869	Sep	3	963	100	Eastern New England
+1869	Oct	2	965	90	Saxby's Gale
+1870	Jul	1	982	70	Mobile
+1870	Oct	1	970	70	Twin Key West (I)
+1870	Oct	1	977	80	Twin Key West (II)
+1871	Aug	3	955	100	
+1871	Aug	2	965	90	
+1871	Sep	1	982	70	
+1872	None				
+1873	Sep	1	982	70	
+1873	Oct	3	959	100	
+1874	Sep	1	981	80	
+1875	Sep	3	955	100	
+1876	Sep	1	980	80	
+1876	Oct	2	973	90	
+1877	Sep	1	982	70	
+1877	Oct	3	955	100	
+1878	Sep	2	970	90	
+1878	Oct	2	963	90	
+1879	Aug	3	971	100	
+1879	Aug	2	964	90	
+1879	Sep	3	945	110	
+1880	Aug	3	931	110	
+1880	Aug	2	972	90	
+1880	Sep	1	987	70	
+1880	Oct	1	982	70	
+1881	Aug	2	970	90	
+1881	Sep	2	975	90	
+1882	Sep	3	949	110	
+1882	Oct	1	985	70	
+1883	Sep	2	965	90	
+1884	None				
+1885	Aug	2	970	90	
+1886	Jun	2	970	85	
+1886	Jun	2	970	85	
+1886	Jun	2	970	85	
+1886	Jul	1	982	70	
+1886	Aug	4	925	130	Indianola
+1886	Sep	1	973	80	
+1886	Oct	3	950	105	
+1887	Jul	1	978	75	
+1887	Aug	1	946	65	
+1887	Sep	1	973	75	
+1887	Oct	1	978	75	
+1888	Jun	1	982	70	
+1888	Aug	3	945	110	
+1888	Oct	2	970	95	
+1889	Sep	1	982	70	
+1890	None				
+1891	Jul	1	974	80	
+1891	Aug	1	985	70	
+1892	None				
+1893	Aug	1	986	75	Midnight Storm
+1893	Aug	3	954	100	Sea Islands
+1893	Sep	2	970	85	
+1893	Oct	4	948	115	Chenier Caminanda
+1893	Oct	3	955	105	
+1894	Sep	2	975	90	
+1894	Oct	3	950	105	
+1895	Aug	1	963	65	
+1896	Jul	2	970	85	
+1896	Sep	1	985	70	
+1896	Sep	3	960	110	
+1897	Sep	1	978	75	
+1898	Aug	1	982	70	
+1898	Aug	1	980	75	
+1898	Oct	4	938	115	
+1899	Aug	2	979	85	
+1899	Aug	3	945	105	
+1899	Oct	2	955	95	
+1900	Sep	4	936	120	Galveston
+1901	Jul	1	983	70	
+1901	Aug	1	973	75	
+1902	None				
+1903	Sep	1	974	80	
+1903	Sep	1	990	70	
+1904	Sep	1	985	70	
+1904	Oct	1	985	70	
+1905	None				
+1906	Jun	1	979	75	
+1906	Sep	1	977	80	
+1906	Sep	2	958	95	
+1906	Oct	3	953	105	
+1907	None				
+1908	Jul	1	985	70	
+1909	Jun	2	972	85	
+1909	Jul	3	959	100	Velasco
+1909	Aug	1	955	65	
+1909	Sep	3	952	105	Grand Isle
+1909	Oct	3	957	100	
+1910	Sep	2	965	90	
+1910	Oct	2	955	95	
+1911	Aug	1	982	70	
+1911	Aug	2	972	85	
+1912	Sep	1	986	65	
+1912	Oct	2	970	85	
+1913	Jun	1	986	65	
+1913	Sep	1	976	75	
+1913	Oct	1	989	65	
+1914	None				
+1915	Aug	1	990	65	
+1915	Aug	4	940	115	Galveston
+1915	Sep	1	982	80	
+1915	Sep	3	944	110	New Orleans
+1916	Jul	3	950	105	
+1916	Jul	2	960	95	
+1916	Aug	4	932	115	
+1916	Oct	2	970	95	
+1917	Sep	3	949	100	
+1918	Aug	3	955	105	
+1918	Aug	1	988	65	
+1919	Sep	4	927	130	
+1920	Sep	2	975	85	
+1921	Jun	1	980	80	
+1921	Oct	3	958	100	Tampa Bay
+1922	None				
+1923	Oct	1	983	70	
+1924	Aug	1	963	65	
+1924	Sep	1	980	75	
+1924	Oct	1	975	80	
+1925	None				
+1926	Jul	2	967	90	
+1926	Aug	3	955	100	
+1926	Sep	4	930	125	Great Miami
+1926	Oct	1	949	75	
+1927	None				
+1928	Aug	2	977	85	
+1928	Sep	4	929	125	Lake Okeechobee
+1929	Jun	1	982	80	
+1929	Sp-Oc	3	948	100	
+1930	None				
+1931	None				
+1932	Aug	4	935	130	Freeport
+1932	Sep	1	979	75	
+1933	Jl-Au	1	975	80	
+1933	Aug	1	963	80	
+1933	Sep	3	940	110	
+1933	Sep	3	948	110	
+1933	Sep	2	952	85	
+1934	Jun	2	966	85	
+1934	Jul	1	979	75	
+1934	Sep	1	975	65	
+1935	Sep	5	892	160	Labor Day
+1935	Nov	2	965	85	
+1936	Jun	1	987	70	
+1936	Jul	2	964	90	
+1936	Sep	1	964	75	
+1937	None				
+1938	Aug	1	995	65	
+1938	Sep	3	941	105	Great New England
+1939	Aug	1	985	65	
+1940	Aug	2	972	85	
+1940	Aug	2	972	85	
+1941	Sep	3	942	110	
+1941	Oct	2	980	85	
+1942	Aug	1	992	65	
+1942	Aug	3	950	100	
+1943	Jul	2	967	90	
+1944	Aug	1	985	70	
+1944	Sep	2	954	90	Great Atlantic
+1944	Oct	3	949	105	
+1945	Jun	1	985	70	
+1945	Aug	3	963	100	
+1945	Sep	4	949	115	
+1946	Oct	1	980	75	
+1947	Aug	1	984	70	
+1947	Sep	4	943	115	
+1947	Oct	2	965	90	
+1948	Sep	1	983	70	
+1948	Sep	4	940	115	
+1948	Oct	2	963	90	
+1949	Aug	1	977	70	
+1949	Aug	4	954	115	
+1949	Oct	2	965	95	
+1950	Aug	1	979	75	Baker
+1950	Sep	3	960	105	Easy
+1950	Oct	4	955	115	King
+1951	None				
+1952	Aug	2	980	85	Able
+1953	Aug	1	975	80	Barbara
+1953	Sep	1	975	80	Florence
+1953	Oct	1	980	75	Hazel
+1954	Aug	3	955	100	Carol
+1954	Sep	2	950	95	Edna
+1954	Oct	4	938	115	Hazel
+1955	Aug	2	962	85	Connie
+1955	Sep	2	955	90	Ione
+1956	Sep	1	974	80	Flossy
+1957	Jun	3	946	110	Audrey
+1958	Sep	3	938	110	Helene
+1959	Jul	1	995	65	Cindy
+1959	Jul	1	980	75	Debra
+1959	Sep	4	951	115	Gracie
+1960	Sep	4	930	125	Donna
+1960	Sep	1	980	80	Ethel
+1961	Sep	4	931	125	Carla
+1962	None				
+1963	None				
+1964	Aug	2	968	95	Cleo
+1964	Sep	2	966	95	Dora
+1964	Oct	2	959	90	Hilda
+1964	Oct	2	970	90	Isbell
+1965	Sep	4	946	115	Betsy
+1966	Jun	3	962	100	Alma
+1966	Oct	2	984	85	Inez
+1967	Sep	3	940	100	Beulah
+1968	Oct	2	978	85	Gladys
+1969	Aug	5	900	150	Camille
+1970	Aug	4	944	120	Celia
+1971	Sep	2	978		Edith
+1971	Sep	1	979		Fern
+1971	Sep	1	995		Ginger
+1972	Jun	1	980		Agnes
+1973	None				
+1974	Sep	3	952		Carmen
+1975	Sep	3	955		Eloise
+1976	Aug	1	980		Belle
+1977	Sep	1	995		Babe
+1978	None				
+1979	Jul	1	986		Bob
+1979	Sep	2	970		David
+1979	Sep	3	946		Frederic
+1980	Aug	3	945	100	Allen
+1981	None				
+1982	None				
+1983	Aug	3	962	100	Alicia
+1984	Sep	2	949	95	Diana
+1985	Jul	1	1003	65	Bob
+1985	Aug	1	987	80	Danny
+1985	Sep	3	959	100	Elena
+1985	Sep	3	942	90	Gloria
+1985	Oct	1	971	75	Juan
+1985	Nov	2	967	85	Kate
+1986	Jun	1	990	75	Bonnie
+1986	Aug	1	990	65	Charley
+1987	Oct	1	993	65	Floyd
+1988	Sep	1	984	70	Florence
+1989	Aug	1	986	70	Chantal
+1989	Sep	4	934	120	Hugo
+1989	Oct	1	983	75	Jerry
+1990	None				
+1991	Aug	2	962	90	Bob
+1992	Aug	5	922	145	Andrew
+1993	Aug	3	961	100	Emily
+1994	None				
+1995	Aug	2	973	85	Erin
+1995	Oct	3	942	100	Opal
+1996	Jul	2	974	90	Bertha
+1996	Sep	3	954	100	Fran
+1997	Jul	1	984	70	Danny
+1998	Aug	2	964	95	Bonnie
+1998	Sep	1	987	70	Earl
+1998	Sep	2	964	90	Georges
+1999	Aug	3	951	100	Bret
+1999	Sep	2	956	90	Floyd
+1999	Oct	2	964	95	Irene
+2000	None				
+2001	None				
+2002	Oct	1	963	80	Lili
+2003	Jul	1	979	80	Claudette
+2003	Sep	2	957	90	Isabel
+2004	Aug	1	972	70	Alex
+2004	Aug	4	941	130	Charley
+2004	Aug	1	985	65	Gaston
+2004	Sep	2	960	90	Frances
+2004	Sep	3	946	105	Ivan
+2004	Sep	3	950	105	Jeanne
+2005	Jul	1	991	65	Cindy
+2005	Jul	3	946	105	Dennis
+2005	Aug	3	920	110	Katrina
+2005	Sep	1	982	65	Ophelia
+2005	Sep	3	937	100	Rita
+2005	Oct	3	950	105	Wilma
+2006	None				
+2007	Sep	1	985	80	Humberto
+2008	Jul	1	967	75	Dolly
+2008	Sep	2	954	90	Gustav
+2008	Sep	2	950	95	Ike
+2009	None				
+2010	None				
+2011	Aug	1	952	75	Irene
+2012	Aug	1	966	70	Isaac
+2012	Oct	1	942	65	Sandy
+2013	None				
+2014	Jul	2	973	85	Arthur
+2015	None				
+2016	Sep	1	981	70	Hermine
+2016	Oct	2	963	85	Matthew
+2017	Aug	4	937	115	Harvey
+2017	Sep	4	931	115	Irma
+2017	Oct	1	983	65	Nate
+2018	Sep	1	956	80	Florence
+2018	Oct	5	919	140	Michael
+2019	Jul	1	993	65	Barry
+2019	Sep	2	956	85	Dorian
+2020	Jul	1	973	80	Hanna
+2020	Aug	1	986	80	Isaias
+2020	Aug	4	939	130	Laura
+2020	Sep	2	965	95	Sally
+2020	Oct	2	970	85	Delta
+2020	Oct	3	970	100	Zeta
+2021	Aug	4	931	130	Ida
+2021	Sep	1	991	65	Nicholas
+2022	Sep	4	941	130	Ian
+2022	Nov	1	980	60	Nicole
+2023	Aug	3	950	100	Idalia

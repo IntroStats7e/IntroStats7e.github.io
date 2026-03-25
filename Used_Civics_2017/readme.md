@@ -4,5 +4,15 @@ The web site www.autotrader.com lists cars for sale. On January 22 2017, it list
 
 The data are in `Used_Civics_2017.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Price` | 
+`miles.000.` | 
+`age` | 
+`miles` | 
+`year` | 
+`model` | 
+
+This dataset is sourced from: www.autotrader.com accessed on 22 Jan 2017 with a search for Honda Civics for sale by owner. 

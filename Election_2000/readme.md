@@ -4,5 +4,14 @@ The outcome of the 2000 U.S. presidential election was determined in Florida ami
 
 The data are in `Election_2000.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`County` | 
+`Gore` | 
+`Bush` | 
+`Buchanan` | 
+`Nader` | 
+
+This dataset is sourced from: http://www.american.edu/spa/ccps/Data-Sets.cfm

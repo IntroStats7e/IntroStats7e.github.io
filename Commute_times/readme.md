@@ -10,4 +10,4 @@ Header | Description
 ---|--------
 `Commute.Time` | Length of commute (minutes)
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: Data from a survey of workers at a company. The data have been modified to protect confidentiality.

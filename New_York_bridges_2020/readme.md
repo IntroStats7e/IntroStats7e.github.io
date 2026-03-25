@@ -4,5 +4,21 @@ New York State inspectors assess all bridges in the state every two years includ
 
 The data are in `New_York_bridges_2020.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Region` | 
+`County` | 
+`Municipality` | 
+`BIN` | 
+`Location` | 
+`Feature.Carried` | 
+`Feature.Crossed` | 
+`Owner` | 
+`Year.Built.or.Replaced` | 
+`Date.of.Last.Inspection` | 
+`Poor.Status` | 
+`Poor01` | 
+
+This dataset is sourced from: https://data.ny.gov/Transportation/Bridge-Conditions-NYS-Department-of-Transportation/wpyb-cjy8

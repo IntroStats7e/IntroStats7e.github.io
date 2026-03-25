@@ -4,5 +4,12 @@ Fast food is often considered unhealthy because much of it is high in both fat a
 
 The data are in `Burgers.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Fat` | 
+`Sodium` | 
+`Calories` | 
+
+This dataset is sourced from: unknown

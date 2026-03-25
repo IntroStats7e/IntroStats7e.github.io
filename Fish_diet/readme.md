@@ -11,4 +11,4 @@ Header | Description
 `Diet.Counts` | 
 `Cancer.Counts` | 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: Lancet, June 2001, “Fatty Fish Consumption and Risk of Prostate Cancer,” 

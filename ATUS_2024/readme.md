@@ -27,4 +27,4 @@ Header | Description
 `FamilyMin` | Total nonwork-related time respondent spent with family members (minutes)  
 `FriendsMin` | Total nonwork-related time respondent spent with friends (minutes) 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: https://www.bls.gov/tus/data/datafiles-2024.htm

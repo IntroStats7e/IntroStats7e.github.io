@@ -4,5 +4,14 @@ Ballplayers have been signing ever larger contracts. The highest salaries (in mi
 
 The data are in `Baseball_salaries_2024.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Year` | 
+`CPI` | 
+`Player` | 
+`Salary.in.Nominal..` | 
+`Salary.in.2024.` | 
+
+This dataset is sourced from: https://sabr.org/research/article/mlbs-annual-salary-leaders-since-1874/

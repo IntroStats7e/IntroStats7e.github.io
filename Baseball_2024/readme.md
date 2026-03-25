@@ -47,4 +47,4 @@ Header | Description
 `Overall.Games` | Overall games played
 `Overall.Avg.Att` | Overall average attendance
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: http://www.baseball-reference.com/leagues/MLB/2024.shtml

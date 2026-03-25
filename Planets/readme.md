@@ -4,5 +4,13 @@ On August 24, 2006, the International Astronomical Union voted that Pluto is not
 
 The data are in `Planets.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Planet` | 
+`Position.Number` | 
+`Distance.from.sun.million.miles.` | 
+`Length.of.year.earth.years.` | 
+
+This dataset is sourced from: http://www.enchantedlearning.com/subjects/astronomy/planets/

@@ -11,4 +11,4 @@ Header | Description
 `SwiftEffect` | Response to question about whether Taylor Swift's attendance at the Super Bowl (2024) would affect the respondent's decision to watch
 `AgeGroup` | Age range of the respondent 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: https://www.shu.edu/business/news/number-planning-to-watch-super-bowl-up-taylor-swift.html  The Seton Hall Sports Poll

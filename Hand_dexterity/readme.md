@@ -4,5 +4,16 @@ Physical therapists measure a patient’s manual dexterity with a simple task. T
 
 The data are in `Hand_dexterity.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Time.sec.` | 
+`Speed` | 
+`Age.yr.` | 
+`Dominant` | 
+`Gender.` | 
+`HD` | 
+`hand.used` | 
+
+This dataset is sourced from: Hand Dexterity in Children:  Administration and Normative Values of the Functional Dexterity Test (FDT),  Gloria R Gogola, MD, Paul F Velleman, PhD,  Shuai Xu, BS, MS, Adrianne M Morse, BA. Barbara Lacy BS, Dorit Aaron, MA OTR CHT FAOTA, J Hand Surg Am. 2013 Dec;38(12):2426-31. doi: 10.1016/jhsa.2013.08.123. Epub 2013 Nov 1

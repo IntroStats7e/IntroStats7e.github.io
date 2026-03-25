@@ -25,4 +25,4 @@ Header | Description
 `YdsAfterCatch` | 
 `FirstDowns` | 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: https://www.espn.com/nfl/stats/player/_/stat/receiving/season/2024/seasontype/2

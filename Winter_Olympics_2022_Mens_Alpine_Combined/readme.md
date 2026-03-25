@@ -13,4 +13,3 @@ Header | Description
 `Downhill.Time..s.` | 
 `Slalom.Time..s.` | 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt

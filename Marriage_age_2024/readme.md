@@ -4,5 +4,12 @@ The estimated median age at fist marriage by sex from 1890 to 2017 is provided b
 
 The data are in `Marriage_age_2024.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Year` | 
+`Men` | 
+`Women` | 
+
+This dataset is sourced from: https://www.census.gov/data/tables/time-series/demo/families/marital.html

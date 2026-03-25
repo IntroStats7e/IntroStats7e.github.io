@@ -18,4 +18,4 @@ Header | Description
 `sector` | Business sector
 `Banks` | Indicator that company is a bank (1=yes, 0=no)
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: Forbes magazine

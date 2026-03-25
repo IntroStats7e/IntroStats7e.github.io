@@ -4,5 +4,13 @@ Fertility (births/woman) and Female life expectancy for 219 countries of the wor
 
 The data are in `Fertility_and_life_expectancy_2024.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Country.Name` | 
+`Country.Code` | 
+`Life.Exp` | 
+`Fertility` | 
+
+This dataset is sourced from: http://data.worldbank.org/indicator/SP.DYN.LE00.FE.IN  for life expectancy at birth http://data.worldbank.org/indicator/SP.DYN.TFRT.IN for fertility rates 

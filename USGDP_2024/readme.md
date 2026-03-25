@@ -4,5 +4,12 @@ The data give the gross domestic product (GDP) of the United States in trillions
 
 The data are in `USGDP_2024.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Year` | 
+`GDP..T.` | 
+`Years.since.1950` | 
+
+This dataset is sourced from: The data give the gross domestic product (GDP) of the United States in trillions of 2012 dollars and time. 

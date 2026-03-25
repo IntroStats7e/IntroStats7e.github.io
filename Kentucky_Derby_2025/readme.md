@@ -21,4 +21,4 @@ Header | Description
 `Owner` | Name of winning horse's owner
 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: www.kentuckyderby.ag/kentuckyderby-results.php or https://en.wikipedia.org/wiki/Kentucky_Derby

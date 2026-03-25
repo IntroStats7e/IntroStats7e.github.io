@@ -4,5 +4,18 @@ We know from common sense and from Physics that heavier cars need more fuel, but
 
 The data are in `Fuel_efficiency.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Model` | 
+`Eng.Size` | 
+`Cylinders` | 
+`MSRP` | 
+`City.Mpg` | 
+`Highway.Mpg` | 
+`Weight` | 
+`Type` | 
+`Country` | 
+
+This dataset is sourced from: Consumer Reports

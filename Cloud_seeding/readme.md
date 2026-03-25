@@ -11,4 +11,4 @@ Header | Description
 `Unseeded.Clouds` | Rainfall from unseeded clouds (acre-feet) 
 `Seeded.Clouds` | Rainfall from clouds seeded with silver iodide (acre-feet)
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: Chambers, Cleveland, Kleiner, and Tukey. (1983). Graphical Methods for Data Analysis. Wadsworth International Group, Belmont, CA, 351. Original Source: Simpson, Alsen, and Eden. (1975). A Bayesian analysis of a multiplicative treatment effect in weather modification. Technometrics 17, 161-166.

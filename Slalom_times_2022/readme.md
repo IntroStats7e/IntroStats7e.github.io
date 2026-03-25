@@ -18,4 +18,4 @@ Header | Description
 `Total` | 
 `Behind` | 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: https://en.wikipedia.org/wiki/Alpine_skiing_at_the_2022_Winter_Olympics_%E2%80%93_Men%27s_slalom

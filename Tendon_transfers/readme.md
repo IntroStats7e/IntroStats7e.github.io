@@ -14,4 +14,4 @@ Header | Description
 `Patient` | 
 `Hand` | 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: The Journal of Hand Surgery / Vol. 28A No. 6 November 2003 "Prospective Evaluation of Biceps to Triceps and Deltoid to Triceps for Elbow Extension in Tetraplegia,"Mary Jane Mulcahey, MS, Cheryl Lutz, MS, Scott H. Kozin, MD, Randal R. Betz, MD, Philadelphia, PA 

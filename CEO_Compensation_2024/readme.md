@@ -15,4 +15,4 @@ Header | Description
 `CEO.Pay.M.` | CEO pay (millions of dollars) 
 `mid.68` | Indicator for whether this CEO pay value is within +/- 1 SD of the mean CEO pay 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: https://aflcio.org/paywatch/company-pay-ratios

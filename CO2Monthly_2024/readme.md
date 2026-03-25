@@ -4,5 +4,14 @@ Climate scientists are concerned about the increase in carbon dioxide (CO2) leve
 
 The data are in `CO2Monthly_2024.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Year` | 
+`month` | 
+`date` | 
+`Year.frac` | 
+`CO2` | 
+
+This dataset is sourced from: https://scrippsco2.ucsd.edu/assets/data/atmospheric/stations/in_situ_co2/monthly/monthly_in_situ_co2_mlo.csv

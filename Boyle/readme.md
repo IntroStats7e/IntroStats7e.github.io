@@ -4,5 +4,11 @@ Scientist Robert Boyle examined the relationship between the volume in which a g
 
 The data are in `Boyle.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Height` | 
+`Pressure` | 
+
+This dataset is sourced from: http://jap.physiology.org/content/87/4/1543

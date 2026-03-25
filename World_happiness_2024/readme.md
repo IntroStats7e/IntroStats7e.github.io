@@ -19,4 +19,4 @@ Header | Description
 `Positive.affect` | 
 `Negative.affect` | 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: https://worldhappiness.report/data/

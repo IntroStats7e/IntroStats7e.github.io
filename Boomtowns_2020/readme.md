@@ -13,4 +13,4 @@ Header | Description
 `Nonfarm.employment` | Number of non-farm jobs (in thousands) 
 `Size` | "Large" areas have a current nonfarm employment base of at least 450,000 jobs. "Midsize" areas range from 150,000 to 450,000 jobs. "Small" areas have as many as 150,000 jobs.
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: http://www.newgeography.com/content/005974-all-cities-rankings-2018-best-cities-job-growth

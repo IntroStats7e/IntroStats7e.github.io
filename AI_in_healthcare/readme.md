@@ -11,4 +11,4 @@ Header | Description
 `Global.North.South` | Whether the respondent lives in the Global North or the Global South
 `AI.Improve.Healthcare` | Respondent's level of confidence that AI can improve health care 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: Paper: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2835159  Dataset: https://figshare.com/articles/dataset/Dataset_Multinational_attitudes_towards_AI_in_healthcare_and_diagnostics_among_hospital_patients_Cross-sectional_evidence_from_the_COMFORT_study/24964488

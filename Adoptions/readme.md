@@ -13,4 +13,4 @@ Header | Description
 `Population.2014.` | State population in 2014
 `Adoptions.per.100000` | Adoptions per 100,000 population
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: www.census.gov

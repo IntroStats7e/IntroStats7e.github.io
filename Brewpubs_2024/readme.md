@@ -11,4 +11,3 @@ Header | Description
 `Brewpubs` |  Number of brewpubs in the United States that year
 `Year` | Year
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt

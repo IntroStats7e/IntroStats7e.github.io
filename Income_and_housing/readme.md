@@ -4,5 +4,12 @@ How are housing costs related to median family income?
 
 The data are in `Income_and_housing.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`State` | 
+`Median.income` | 
+`Housing.Cost` | 
+
+This dataset is sourced from: Office of Federal Housing Enterprise Oversight

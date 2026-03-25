@@ -4,5 +4,12 @@
 
 The data are in `Hard_water.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Mortality` | 
+`Calcium` | 
+`Region` | 
+
+This dataset is sourced from: unknown

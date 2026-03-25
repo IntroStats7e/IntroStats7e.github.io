@@ -16,4 +16,4 @@ Header | Description
 `Time.hrs.` | Total race time for winning car (hours) 
 `Distance.miles.` | Distance of that year's Indy 500 race (miles) 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: https://en.wikipedia.org/wiki/List_of_Indianapolis_500_winners

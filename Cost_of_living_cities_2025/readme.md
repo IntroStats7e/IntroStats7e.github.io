@@ -13,4 +13,4 @@ Header | Description
 `Water..1.5.l.` | Cost of 1.5 l bottle of water
 `Bread..white.` | Cost of a loaf of white bread
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: https://www.numbeo.com/cost-of-living/rankings.jsp

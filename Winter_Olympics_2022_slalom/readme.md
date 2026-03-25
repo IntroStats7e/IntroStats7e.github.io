@@ -18,4 +18,4 @@ Header | Description
 `Rank2` | 
 `TimeSec` | 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+This dataset is sourced from: https://www.olympics.com/en/olympic-games/beijing-2022/results/alpine-skiing/men-slalom

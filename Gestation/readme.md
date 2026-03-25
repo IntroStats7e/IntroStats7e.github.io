@@ -4,5 +4,12 @@ For humans, pregnancy lasts about 280 days. In other species of animals, the len
 
 The data are in `Gestation.txt`
 
+The variables in this dataset are: 
 
-This dataset is sourced from: https://www.niaaa.nih.gov/sites/default/files/pcyr1970-2022.txt
+Header | Description
+---|--------
+`Animal` | 
+`Gestation.days.` | 
+`Life.Expectancy.yrs.` | 
+
+This dataset is sourced from: unknown
