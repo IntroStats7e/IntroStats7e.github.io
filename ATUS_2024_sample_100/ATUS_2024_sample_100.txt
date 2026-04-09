@@ -1,0 +1,101 @@
+RespondentID	AgeYrs	Sex	NumHHChildren	LaborForceStatus	EmployedFTPT	MultipleJobs	TotalHrsWorked	WorkHoursVary	Industry	Occupation	EnrolledHSCollege	EnrolledFTPT	NonworkAloneMin	ChildcareMin	EldercareMin	FamilyMin	FriendsMin
+20240201241283	62	Male	1	Employed - At Work	Part-time	No	8	No	Agriculture, forestry, fishing, and hunting	Farming, fishing, and forestry occupations	NA	NA	105	0	0	760	75
+20240706242277	29	Female	2	Not in labor force	NA	NA	NA	NA	NA	NA	Not enrolled	NA	0	465	0	815	0
+20240402240176	22	Female	2	Not in labor force	NA	NA	NA	NA	NA	NA	College	Full-time	240	0	0	450	0
+20240807240094	24	Male	0	Employed - At Work	Full-time	No	40	No	Manufacturing	Construction and maintenance occupations	Not enrolled	NA	435	0	0	0	0
+20240301241995	56	Female	0	Employed - At Work	Part-time	No	25	No	Manufacturing	Production, transportation, and material moving occupations	NA	NA	220	0	0	180	300
+20240706241225	61	Female	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	480	0	0	300	0
+20240403240509	85	Male	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	0	0	0	780	0
+20240111231641	68	Male	0	Employed - At Work	Part-time	No	30	No	Construction	Construction and maintenance occupations	NA	NA	480	0	0	0	0
+20240605241849	30	Female	2	Employed - At Work	Full-time	No	40	No	Educational and health services	Management, professional, and related occupations	Not enrolled	NA	165	395	0	731	3
+20240807241934	66	Male	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	380	0	0	625	0
+20240504241778	74	Male	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	120	0	0	780	0
+20240605241926	28	Male	1	Employed - At Work	Full-time	No	40	No	Manufacturing	Production, transportation, and material moving occupations	Not enrolled	NA	785	0	0	140	0
+20240112231374	71	Male	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	625	0	0	170	0
+20240211231109	28	Female	0	Employed - At Work	Part-time	No	25	No	Other services	Service occupations	Not enrolled	NA	268	0	0	35	0
+20241008240977	70	Male	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	885	0	0	285	0
+20240111232312	43	Male	0	Employed - At Work	Full-time	No	40	No	Agriculture, forestry, fishing, and hunting	Farming, fishing, and forestry occupations	Not enrolled	NA	570	0	655	330	0
+20240302241338	75	Male	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	360	0	0	275	0
+20240605241325	64	Female	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	565	0	0	275	0
+20240908241174	45	Female	2	Employed - At Work	Full-time	No	50	No	Professional and business services	Sales and office occupations	Not enrolled	NA	20	685	0	805	0
+20240302241118	29	Male	0	Employed - At Work	Part-time	No	10	No	Wholesale and retail trade	Production, transportation, and material moving occupations	Not enrolled	NA	390	0	0	0	0
+20240101240865	61	Male	0	Employed - At Work	Full-time	No	40	No	Public administration	Sales and office occupations	NA	NA	210	0	0	0	0
+20240201241794	31	Female	4	Employed - At Work	Full-time	No	40	No	Wholesale and retail trade	Sales and office occupations	Not enrolled	NA	95	80	0	340	0
+20240112231897	80	Female	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	469	0	0	0	138
+20240201240284	19	Female	2	Unemployed - Looking	NA	NA	NA	NA	NA	NA	Not enrolled	NA	740	0	0	40	0
+20240112230871	59	Male	0	Employed - At Work	Full-time	No	40	No	Financial activities	Management, professional, and related occupations	NA	NA	15	0	0	585	0
+20240909240536	33	Female	2	Not in labor force	NA	NA	NA	NA	NA	NA	College	Full-time	450	550	180	490	0
+20241110241978	26	Male	0	Employed - At Work	Full-time	No	50	No	Manufacturing	Construction and maintenance occupations	Not enrolled	NA	660	0	0	0	0
+20241009242153	66	Female	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	122	0	0	613	0
+20240605241683	46	Male	1	Employed - At Work	Full-time	No	40	No	Wholesale and retail trade	Sales and office occupations	Not enrolled	NA	165	755	0	630	0
+20240807240568	85	Male	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	375	0	0	0	0
+20240404241628	68	Female	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	240	0	0	600	0
+20240404242356	79	Male	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	675	0	0	0	0
+20241110242304	76	Male	0	Unemployed - Looking	NA	NA	NA	NA	NA	NA	NA	NA	390	0	0	555	0
+20241009241863	58	Male	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	125	0	0	685	0
+20240403240640	54	Male	0	Employed - At Work	Part-time	No	34	No	Educational and health services	Management, professional, and related occupations	NA	NA	53	0	0	806	180
+20240706241634	33	Male	0	Employed - At Work	Full-time	No	40	No	Information	Management, professional, and related occupations	Not enrolled	NA	149	0	0	251	0
+20240212232256	73	Female	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	260	0	0	820	0
+20240312230786	36	Female	2	Employed - At Work	Full-time	No	40	No	Educational and health services	Management, professional, and related occupations	Not enrolled	NA	110	810	0	595	0
+20240504242245	69	Female	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	180	0	0	690	0
+20240302241967	53	Male	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	518	0	0	422	0
+20240403241551	57	Male	0	Employed - At Work	Full-time	No	40	No	Public administration	Service occupations	NA	NA	395	0	0	430	0
+20240301241965	31	Female	0	Employed - At Work	Full-time	No	45	No	Leisure and hospitality	Management, professional, and related occupations	Not enrolled	NA	50	0	0	0	0
+20241109242349	44	Female	2	Employed - At Work	Full-time	No	40	No	Public administration	Sales and office occupations	Not enrolled	NA	14	0	0	891	539
+20241110242082	65	Female	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	175	0	0	800	0
+20240706240188	16	Male	3	Not in labor force	NA	NA	NA	NA	NA	NA	High school	Part-time	80	0	0	700	0
+20241110240272	21	Female	0	Employed - At Work	Part-time	No	30	No	Other services	Service occupations	Not enrolled	NA	290	0	0	0	0
+20241211240299	16	Male	1	Unemployed - Looking	NA	NA	NA	NA	NA	NA	High school	Full-time	210	0	0	69	0
+20240605242191	71	Male	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	461	0	0	120	0
+20240706241564	85	Female	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	0	0	0	585	0
+20241009242131	76	Female	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	585	0	0	240	0
+20240705241202	85	Male	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	495	0	0	0	165
+20240201242303	49	Male	0	Not in labor force	NA	NA	NA	NA	NA	NA	Not enrolled	NA	730	0	0	0	0
+20240403240869	52	Female	0	Employed - At Work	Full-time	No	48	No	Manufacturing	Sales and office occupations	NA	NA	371	0	0	0	0
+20240303241007	38	Male	0	Employed - At Work	Full-time	Yes	70	No	Manufacturing	Management, professional, and related occupations	Not enrolled	NA	340	0	0	0	0
+20240403241121	64	Female	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	240	0	0	0	360
+20240404241755	46	Male	1	Not in labor force	NA	NA	NA	NA	NA	NA	Not enrolled	NA	810	0	0	0	0
+20240907241402	32	Female	4	Not in labor force	NA	NA	NA	NA	NA	NA	Not enrolled	NA	0	520	0	995	0
+20240808240282	22	Female	0	Employed - At Work	Part-time	No	18	No	Professional and business services	Management, professional, and related occupations	College	Full-time	400	0	0	45	60
+20240302240869	63	Female	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	120	0	0	345	0
+20240112231084	53	Female	0	Employed - At Work	Full-time	No	40	No	Professional and business services	Management, professional, and related occupations	NA	NA	330	0	0	0	0
+20241110240794	37	Female	2	Employed - At Work	Part-time	No	NA	Yes	Educational and health services	Management, professional, and related occupations	Not enrolled	NA	133	448	0	570	0
+20240201241481	64	Male	0	Employed - At Work	Full-time	No	50	No	Financial activities	Management, professional, and related occupations	NA	NA	240	0	0	0	0
+20240907241717	57	Female	1	Employed - At Work	Full-time	No	40	No	Professional and business services	Production, transportation, and material moving occupations	NA	NA	148	0	0	452	0
+20240101240575	71	Male	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	840	0	0	0	0
+20240908241903	80	Male	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	475	0	0	300	0
+20240908242043	79	Male	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	345	0	0	315	0
+20241009241198	43	Female	0	Employed - At Work	Full-time	Yes	54	No	Other services	Service occupations	Not enrolled	NA	495	0	0	0	0
+20240907240978	53	Male	1	Employed - At Work	Full-time	No	40	No	Leisure and hospitality	Service occupations	NA	NA	109	0	0	331	0
+20241109241021	64	Male	3	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	675	0	0	270	0
+20240201241793	77	Male	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	900	0	0	0	0
+20241211241691	74	Female	0	Employed - At Work	Part-time	No	8	No	Educational and health services	Management, professional, and related occupations	NA	NA	170	0	0	495	90
+20240201241089	77	Female	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	220	0	0	560	0
+20240302241302	67	Male	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	210	0	0	570	0
+20240908240672	51	Male	0	Employed - At Work	Full-time	No	40	No	Wholesale and retail trade	Sales and office occupations	NA	NA	420	0	0	0	0
+20240605241315	52	Female	0	Employed - At Work	Part-time	No	30	No	Educational and health services	Service occupations	NA	NA	435	0	0	415	0
+20240908241292	64	Male	0	Unemployed - Looking	NA	NA	NA	NA	NA	NA	NA	NA	0	0	0	1085	180
+20240302240644	61	Female	0	Employed - At Work	Part-time	No	32	No	Educational and health services	Management, professional, and related occupations	NA	NA	232	0	0	157	0
+20240806240147	20	Female	0	Employed - At Work	Part-time	No	20	No	Information	Service occupations	College	Full-time	228	0	0	0	268
+20240112230810	28	Male	0	Employed - At Work	Full-time	No	NA	Yes	Manufacturing	Construction and maintenance occupations	Not enrolled	NA	122	0	0	0	0
+20240807240666	50	Female	0	Employed - At Work	Full-time	No	40	No	Manufacturing	Production, transportation, and material moving occupations	NA	NA	417	0	273	783	0
+20240908240823	39	Male	3	Employed - At Work	Full-time	No	45	No	Construction	Sales and office occupations	Not enrolled	NA	30	810	0	800	0
+20240201242185	33	Female	1	Not in labor force	NA	NA	NA	NA	NA	NA	Not enrolled	NA	520	775	0	290	0
+20241211241848	67	Female	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	226	0	689	559	0
+20240605241096	51	Male	3	Employed - At Work	Full-time	No	50	No	Financial activities	Management, professional, and related occupations	NA	NA	0	0	30	885	0
+20240201241839	44	Male	0	Employed - At Work	Full-time	No	50	No	Manufacturing	Management, professional, and related occupations	Not enrolled	NA	70	0	0	195	0
+20240101241559	70	Female	0	Employed - At Work	Full-time	No	40	No	Professional and business services	Production, transportation, and material moving occupations	NA	NA	515	0	0	0	0
+20240302241733	29	Female	0	Employed - At Work	Full-time	No	40	No	Transportation and utilities	Management, professional, and related occupations	Not enrolled	NA	0	0	0	922	0
+20240504240540	75	Female	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	0	0	0	720	0
+20240807241669	41	Male	1	Employed - At Work	Full-time	No	42	No	Manufacturing	Sales and office occupations	Not enrolled	NA	280	889	0	635	0
+20240403240030	80	Male	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	75	0	0	680	100
+20240605241602	80	Male	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	430	0	0	0	0
+20241110241211	33	Male	3	Employed - At Work	Full-time	No	40	No	Wholesale and retail trade	Sales and office occupations	Not enrolled	NA	0	610	0	565	0
+20241212241037	34	Male	1	Employed - At Work	Full-time	No	45	No	Leisure and hospitality	Management, professional, and related occupations	Not enrolled	NA	240	90	0	210	180
+20241110240673	52	Male	0	Employed - At Work	Full-time	No	40	No	Professional and business services	Sales and office occupations	NA	NA	315	0	0	0	0
+20240212230720	25	Male	0	Employed - At Work	Full-time	No	40	No	Financial activities	Sales and office occupations	Not enrolled	NA	310	0	0	0	90
+20240112231228	31	Male	3	Employed - At Work	Full-time	No	40	No	Transportation and utilities	Sales and office occupations	College	Full-time	0	630	0	690	0
+20240908241555	66	Female	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	510	0	0	300	0
+20240111231868	57	Female	0	Employed - At Work	Part-time	No	21	No	Financial activities	Sales and office occupations	NA	NA	600	0	0	390	0
+20241110240655	71	Female	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	830	0	0	60	0
+20240504241044	77	Male	0	Not in labor force	NA	NA	NA	NA	NA	NA	NA	NA	815	0	0	0	0

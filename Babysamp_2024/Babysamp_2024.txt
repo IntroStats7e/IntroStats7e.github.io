@@ -1,0 +1,201 @@
+year	month	day	facility	hospital_birth	mat_age	mat_nativity	mat_race	mat_hisp	mat_edu	mat_bmi	marital	prior_live_births	prior_births_total	prenatal_care	prenatal_care_tri	prenatal_care_month	fertility_asst_reprod_trt	labor_induced	delivery_method	APGAR5	APGAR10	singleton	plurality	infant_sex	weeks_gestation	birthwt_gms	nicu	Preterm
+2024	8	2_Mon	Hospital	Hospital	36	Born in U.S.	Black only	Non-Hispanic	Associate degree	53.4	Married	8	8	Yes	2nd trimester	4	No	Y	Vaginal	10	NA	Single	Single	M	40	3856	No	0
+2024	4	1_Sun	Hospital	Hospital	32	Born in U.S.	Black only	Non-Hispanic	Some college credit, but not a degree	57.2	Married	2	8	Yes	2nd trimester	6	No	N	C-Section	2	2	Single	Single	F	38	1700	Yes	0
+2024	3	5_Thu	Hospital	Hospital	35	Born in U.S.	White only	Non-Hispanic	Bachelor’s degree	31.1	Married	1	1	Yes	1st trimester	2	No	N	Vaginal	9	NA	Single	Single	M	39	3020	No	0
+2024	9	5_Thu	Hospital	Hospital	21	Born in U.S.	Black only	Puerto Rican	9th through 12th grade with no diploma	50.8	Unmarried	1	1	Yes	1st trimester	2	No	Y	C-Section	8	NA	Single	Single	M	41	2550	No	0
+2024	3	6_Fri	Hospital	Hospital	29	Born in U.S.	White only	Non-Hispanic	Master’s degree	25.2	Married	2	2	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	M	38	3640	No	0
+2024	10	3_Tue	Hospital	Hospital	26	Born in U.S.	White only	Non-Hispanic	Doctorate or Professional Degree	21.6	Married	1	1	Yes	1st trimester	3	No	Y	Vaginal	8	NA	Single	Single	M	40	2948	No	0
+2024	11	7_Sat	Hospital	Hospital	17	Born in U.S.	White only	Non-Hispanic	9th through 12th grade with no diploma	24	Unmarried	1	2	Yes	1st trimester	3	No	Y	Vaginal	9	NA	Single	Single	F	39	3220	No	0
+2024	10	1_Sun	Hospital	Hospital	30	Born outside U.S.	Black only	Other and unknown Hispanic origin	Bachelor’s degree	31.1	Married	1	3	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	M	37	2980	No	0
+2024	3	5_Thu	Hospital	Hospital	26	Born in U.S.	Black only	Non-Hispanic	High school graduate or GED completed	99.9	Unmarried	3	7	Yes	1st trimester	2	No	N	C-Section	9	NA	Single	Single	M	37	3460	No	0
+2024	12	1_Sun	Hospital	Hospital	36	Born in U.S.	White only	Non-Hispanic	Master’s degree	23.1	Married	2	2	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	M	39	3250	No	0
+2024	4	7_Sat	Hospital	Hospital	32	Born in U.S.	White only	Non-Hispanic	Master’s degree	23.9	Married	1	1	Yes	1st trimester	3	No	Y	C-Section	9	NA	Single	Single	M	38	3080	NA	0
+2024	10	6_Fri	Hospital	Hospital	28	Born in U.S.	Black only	Non-Hispanic	Some college credit, but not a degree	28.3	Married	3	3	Yes	1st trimester	3	No	N	Vaginal	7	NA	Single	Single	M	36	3110	No	1
+2024	3	3_Tue	Hospital	Hospital	43	Born in U.S.	White only	Non-Hispanic	Master’s degree	41.2	Married	3	4	Yes	1st trimester	3	No	Y	Vaginal	9	NA	Single	Single	F	39	3940	Yes	0
+2024	5	4_Wed	Hospital	Hospital	24	Born in U.S.	White only	Non-Hispanic	Bachelor’s degree	21.8	Married	2	3	Yes	1st trimester	3	No	Y	Vaginal	9	NA	Single	Single	F	39	2880	No	0
+2024	11	6_Fri	Hospital	Hospital	28	Born in U.S.	White only	Non-Hispanic	High school graduate or GED completed	28.2	Married	3	3	Yes	3rd trimester	8	No	N	C-Section	9	NA	Single	Single	M	39	3205	No	0
+2024	3	5_Thu	Hospital	Hospital	26	Born in U.S.	White only	Non-Hispanic	Bachelor’s degree	35.5	Married	2	2	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	M	39	3458	No	0
+2024	11	2_Mon	Hospital	Hospital	29	Born in U.S.	White only	Non-Hispanic	Bachelor’s degree	24.8	Married	1	2	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	F	40	3888	No	0
+2024	9	4_Wed	Hospital	Hospital	26	Born in U.S.	Black only	Non-Hispanic	High school graduate or GED completed	25.6	Unmarried	3	3	Yes	1st trimester	2	No	N	Vaginal	9	NA	Single	Single	M	39	3680	No	0
+2024	6	1_Sun	Hospital	Hospital	29	Born in U.S.	More than once race	Non-Hispanic	High school graduate or GED completed	29.1	Unmarried	1	1	Yes	1st trimester	2	No	Y	Vaginal	8	NA	Single	Single	M	36	2729	No	1
+2024	4	1_Sun	Hospital	Hospital	36	Born outside U.S.	White only	Central and South American	Doctorate or Professional Degree	19.5	Married	1	1	Yes	1st trimester	2	No	N	Vaginal	9	NA	Single	Single	F	39	2270	Yes	0
+2024	9	6_Fri	Hospital	Hospital	19	Born in U.S.	White only	Non-Hispanic	High school graduate or GED completed	26.2	Unmarried	1	1	Yes	2nd trimester	6	No	Y	Vaginal	9	NA	Single	Single	F	37	2990	No	0
+2024	2	2_Mon	Hospital	Hospital	31	Born in U.S.	White only	Non-Hispanic	Some college credit, but not a degree	22.1	NA	2	2	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	M	39	3415	No	0
+2024	4	6_Fri	Hospital	Hospital	31	Born in U.S.	White only	Non-Hispanic	Bachelor’s degree	18.3	Unmarried	2	3	Yes	1st trimester	2	No	Y	Vaginal	NA	NA	Single	Single	M	39	2466	No	0
+2024	11	3_Tue	Hospital	Hospital	33	Born in U.S.	White only	Non-Hispanic	Doctorate or Professional Degree	25.1	Married	1	1	Yes	1st trimester	2	No	N	Vaginal	9	NA	Single	Single	F	38	2865	No	0
+2024	7	1_Sun	Hospital	Hospital	25	Born in U.S.	White only	Other and unknown Hispanic origin	Bachelor’s degree	24.7	Unmarried	1	2	Yes	1st trimester	3	No	N	Vaginal	8	NA	Single	Single	M	39	3790	No	0
+2024	9	3_Tue	Hospital	Hospital	30	Born in U.S.	White only	Non-Hispanic	Some college credit, but not a degree	21.6	Married	2	2	Yes	1st trimester	2	No	N	C-Section	9	NA	Single	Single	F	39	3075	No	0
+2024	10	1_Sun	Hospital	Hospital	39	Born outside U.S.	White only	Central and South American	Some college credit, but not a degree	41.4	Married	3	5	Yes	2nd trimester	4	No	N	Vaginal	9	NA	Single	Single	F	39	3390	No	0
+2024	11	2_Mon	Hospital	Hospital	34	Born in U.S.	More than once race	Non-Hispanic	Some college credit, but not a degree	22.6	Unmarried	2	5	Yes	1st trimester	3	No	N	C-Section	8	NA	Single	Single	M	30	1956	Yes	1
+2024	9	2_Mon	Hospital	Hospital	31	Born in U.S.	White only	Non-Hispanic	Bachelor’s degree	25.8	Married	3	3	Yes	1st trimester	2	No	N	Vaginal	9	NA	Single	Single	F	40	3450	No	0
+2024	1	3_Tue	Hospital	Hospital	35	Born outside U.S.	Asian only	Non-Hispanic	Bachelor’s degree	24.1	NA	1	1	Yes	1st trimester	2	No	Y	Vaginal	9	NA	Single	Single	M	38	3000	No	0
+2024	9	3_Tue	Hospital	Hospital	30	Born in U.S.	White only	Non-Hispanic	Bachelor’s degree	20.5	Married	3	3	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	M	38	3140	No	0
+2024	3	6_Fri	Hospital	Hospital	31	Born in U.S.	White only	Non-Hispanic	Associate degree	32.3	Married	2	3	Yes	1st trimester	3	No	N	C-Section	6	NA	Single	Single	F	38	2590	Yes	0
+2024	1	4_Wed	Hospital	Hospital	41	Born in U.S.	White only	Non-Hispanic	Master’s degree	25.1	Married	5	5	Yes	1st trimester	3	No	Y	Vaginal	9	NA	Single	Single	F	43	3480	No	0
+2024	9	2_Mon	Hospital	Hospital	18	Born in U.S.	White only	Non-Hispanic	High school graduate or GED completed	34.3	Unmarried	1	1	Yes	1st trimester	3	No	N	C-Section	8	NA	Single	Single	F	40	3220	No	0
+2024	1	5_Thu	Hospital	Hospital	18	Born outside U.S.	White only	Puerto Rican	High school graduate or GED completed	23.9	Unmarried	1	1	Yes	1st trimester	3	No	Y	Vaginal	9	NA	Single	Single	F	40	2900	No	0
+2024	3	6_Fri	Hospital	Hospital	30	Born in U.S.	White only	Non-Hispanic	High school graduate or GED completed	36.6	Married	3	3	Yes	1st trimester	3	No	Y	Vaginal	8	NA	Single	Single	M	36	3544	Yes	1
+2024	4	3_Tue	Hospital	Hospital	24	Born in U.S.	White only	Mexican	9th through 12th grade with no diploma	22	NA	1	1	Yes	1st trimester	2	No	Y	Vaginal	8	NA	Single	Single	M	39	3845	No	0
+2024	5	6_Fri	Hospital	Hospital	42	Born outside U.S.	Black only	NA	NA	20.2	NA	2	3	Yes	1st trimester	2	No	N	C-Section	9	NA	Single	Single	M	37	2695	No	0
+2024	2	2_Mon	Hospital	Hospital	35	Born in U.S.	White only	Non-Hispanic	Bachelor’s degree	26.4	Married	1	1	Yes	1st trimester	3	No	Y	Vaginal	9	NA	Single	Single	F	39	3544	No	0
+2024	10	1_Sun	Hospital	Hospital	33	Born in U.S.	White only	Non-Hispanic	Associate degree	29.9	Married	2	2	Yes	1st trimester	2	No	N	Vaginal	9	NA	Single	Single	M	41	4240	No	0
+2024	8	6_Fri	Hospital	Hospital	29	Born in U.S.	White only	Non-Hispanic	Some college credit, but not a degree	25.7	Married	2	2	Yes	1st trimester	3	No	Y	Vaginal	9	NA	Single	Single	M	40	4190	No	0
+2024	1	5_Thu	Hospital	Hospital	27	Born in U.S.	More than once race	Non-Hispanic	Some college credit, but not a degree	18.9	Unmarried	1	2	Yes	1st trimester	2	No	N	Vaginal	8	NA	Single	Single	M	40	3395	Yes	0
+2024	6	5_Thu	Hospital	Hospital	41	Born outside U.S.	White only	Mexican	Master’s degree	27.1	Married	3	3	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	M	39	3590	No	0
+2024	5	3_Tue	Hospital	Hospital	25	Born outside U.S.	White only	Central and South American	High school graduate or GED completed	23	Unmarried	2	4	Yes	1st trimester	3	No	N	C-Section	8	NA	Single	Single	M	39	3118	No	0
+2024	10	4_Wed	Hospital	Hospital	29	Born in U.S.	Black only	Non-Hispanic	Associate degree	39.9	Unmarried	4	4	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	F	36	3289	No	1
+2024	3	6_Fri	Hospital	Hospital	36	Born in U.S.	White only	Non-Hispanic	9th through 12th grade with no diploma	21.9	Unmarried	3	NA	NA	NA	NA	No	N	C-Section	8	NA	Single	Single	F	38	3159	Yes	0
+2024	5	6_Fri	Hospital	Hospital	30	Born in U.S.	White only	Non-Hispanic	Bachelor’s degree	25	Unmarried	2	2	Yes	1st trimester	2	No	N	Vaginal	9	NA	Single	Single	F	40	3245	No	0
+2024	12	2_Mon	Hospital	Hospital	18	Born outside U.S.	White only	Mexican	8th grade or less	22.9	NA	1	1	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	M	39	2800	No	0
+2024	9	5_Thu	Hospital	Hospital	31	Born in U.S.	Black only	Non-Hispanic	High school graduate or GED completed	36	Married	3	3	Yes	3rd trimester	7	No	N	Vaginal	10	NA	Single	Single	M	37	3460	No	0
+2024	9	2_Mon	Hospital	Hospital	34	Born in U.S.	White only	Non-Hispanic	Master’s degree	32.6	Married	2	3	Yes	1st trimester	2	No	N	Vaginal	7	NA	Single	Single	M	39	3370	Yes	0
+2024	6	6_Fri	Hospital	Hospital	33	Born in U.S.	White only	Non-Hispanic	High school graduate or GED completed	99.9	Married	4	5	Yes	1st trimester	2	No	N	Vaginal	9	NA	Single	Single	M	40	4040	No	0
+2024	2	6_Fri	Hospital	Hospital	25	Born outside U.S.	White only	Central and South American	Some college credit, but not a degree	24	Married	1	2	Yes	1st trimester	2	No	N	C-Section	9	NA	Single	Single	F	38	3289	No	0
+2024	10	2_Mon	Hospital	Hospital	26	Born in U.S.	Black only	Puerto Rican	9th through 12th grade with no diploma	29.5	Unmarried	4	6	Yes	1st trimester	3	No	N	C-Section	9	NA	Single	Single	M	39	3360	No	0
+2024	3	1_Sun	Hospital	Hospital	37	Born in U.S.	White only	Mexican	Bachelor’s degree	25.8	Unmarried	4	5	Yes	1st trimester	2	No	N	Vaginal	9	NA	Single	Single	F	38	3230	No	0
+2024	5	1_Sun	Hospital	Hospital	33	Born in U.S.	White only	Mexican	Bachelor’s degree	28.5	NA	2	2	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	F	39	3790	Yes	0
+2024	9	6_Fri	Hospital	Hospital	29	Born outside U.S.	Asian only	Non-Hispanic	Master’s degree	21.4	Married	1	1	Yes	1st trimester	3	No	N	C-Section	9	NA	Single	Single	F	41	3714	No	0
+2024	10	6_Fri	Hospital	Hospital	23	Born in U.S.	White only	Non-Hispanic	High school graduate or GED completed	20.4	Unmarried	2	2	Yes	2nd trimester	4	No	N	C-Section	9	NA	Single	Single	F	39	3275	No	0
+2024	5	3_Tue	Hospital	Hospital	33	Born in U.S.	White only	Cuban	Bachelor’s degree	25	Married	1	1	Yes	1st trimester	1	No	N	Vaginal	9	NA	Single	Single	F	38	3260	No	0
+2024	5	6_Fri	Hospital	Hospital	32	Born outside U.S.	White only	Central and South American	Some college credit, but not a degree	30.9	Married	4	4	Yes	2nd trimester	5	No	N	C-Section	10	NA	Single	Single	M	38	3410	No	0
+2024	6	7_Sat	Hospital	Hospital	29	Born in U.S.	White only	Non-Hispanic	Master’s degree	27.5	Unmarried	1	1	Yes	1st trimester	3	No	N	C-Section	9	NA	Single	Single	M	33	4040	No	1
+2024	1	6_Fri	Hospital	Hospital	27	Born outside U.S.	Asian only	Non-Hispanic	Bachelor’s degree	17.6	NA	1	1	Yes	1st trimester	2	No	N	Vaginal	9	NA	Single	Single	M	40	3402	No	0
+2024	6	5_Thu	Hospital	Hospital	41	Born outside U.S.	Asian only	Non-Hispanic	9th through 12th grade with no diploma	31.8	Married	2	NA	Yes	1st trimester	3	No	Y	Vaginal	9	NA	Single	Single	M	36	4092	No	1
+2024	10	4_Wed	Hospital	Hospital	26	Born in U.S.	White only	Non-Hispanic	Bachelor’s degree	29.9	Unmarried	1	1	Yes	1st trimester	3	No	Y	Vaginal	9	NA	Single	Single	F	38	3490	No	0
+2024	2	5_Thu	Hospital	Hospital	16	Born in U.S.	White only	Central and South American	9th through 12th grade with no diploma	99.9	Unmarried	1	1	No	No prenatal care	0	No	N	Vaginal	9	NA	Single	Single	F	38	2930	No	0
+2024	7	6_Fri	Hospital	Hospital	25	Born in U.S.	White only	Non-Hispanic	High school graduate or GED completed	33.1	Unmarried	1	1	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	M	40	2948	No	0
+2024	6	7_Sat	Hospital	Hospital	31	Born in U.S.	White only	Non-Hispanic	9th through 12th grade with no diploma	38.1	Unmarried	3	8	Yes	1st trimester	3	No	N	C-Section	9	NA	Single	Single	M	38	3010	No	0
+2024	8	6_Fri	Hospital	Hospital	26	Born outside U.S.	White only	Mexican	High school graduate or GED completed	35.3	Unmarried	3	3	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	M	39	3890	No	0
+2024	11	2_Mon	Hospital	Hospital	28	Born in U.S.	White only	Mexican	Some college credit, but not a degree	35.7	Unmarried	2	2	Yes	1st trimester	2	No	N	C-Section	9	NA	Single	Single	F	39	3946	No	0
+2024	1	4_Wed	Hospital	Hospital	26	Born in U.S.	Black only	Non-Hispanic	9th through 12th grade with no diploma	39.9	Unmarried	3	3	Yes	1st trimester	2	No	N	C-Section	9	NA	Multiple	Twin	M	40	2230	No	0
+2024	1	3_Tue	Hospital	Hospital	46	Born outside U.S.	White only	Central and South American	9th through 12th grade with no diploma	27.7	Unmarried	4	5	Yes	1st trimester	1	No	N	C-Section	8	NA	Single	Single	F	34	1984	Yes	1
+2024	7	5_Thu	Hospital	Hospital	33	Born in U.S.	Black only	Non-Hispanic	Associate degree	36.2	Married	1	1	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	F	38	2870	No	0
+2024	7	1_Sun	Hospital	Hospital	23	Born in U.S.	White only	Central and South American	Some college credit, but not a degree	35.5	Unmarried	1	1	Yes	1st trimester	3	No	N	C-Section	9	NA	Single	Single	M	36	2720	No	1
+2024	9	7_Sat	Hospital	Hospital	32	Born in U.S.	Black only	Non-Hispanic	High school graduate or GED completed	29.8	Unmarried	3	4	Yes	1st trimester	2	No	Y	Vaginal	9	NA	Single	Single	M	37	2665	No	0
+2024	9	2_Mon	Hospital	Hospital	32	Born outside U.S.	Asian only	Non-Hispanic	High school graduate or GED completed	18.6	Married	1	2	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	M	36	2380	No	1
+2024	7	1_Sun	Hospital	Hospital	23	Born in U.S.	White only	Non-Hispanic	High school graduate or GED completed	21.2	Unmarried	3	3	Yes	1st trimester	3	No	N	C-Section	8	NA	Single	Single	F	37	3265	No	0
+2024	9	7_Sat	Hospital	Hospital	33	Born in U.S.	White only	Non-Hispanic	High school graduate or GED completed	28.3	Married	2	2	Yes	1st trimester	2	No	Y	Vaginal	9	NA	Single	Single	F	37	3507	No	0
+2024	12	5_Thu	Hospital	Hospital	34	Born in U.S.	White only	Mexican	Some college credit, but not a degree	99.9	Unmarried	3	3	NA	NA	NA	No	Y	Vaginal	9	NA	Single	Single	M	37	3150	No	0
+2024	10	4_Wed	Hospital	Hospital	20	Born in U.S.	White only	Central and South American	Some college credit, but not a degree	30.2	Unmarried	1	1	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	F	39	3140	No	0
+2024	3	3_Tue	Hospital	Hospital	44	Born outside U.S.	Asian only	Non-Hispanic	Bachelor’s degree	23	Married	1	1	Yes	1st trimester	3	Yes	Y	C-Section	8	NA	Single	Single	M	36	3714	No	1
+2024	2	2_Mon	Hospital	Hospital	22	Born in U.S.	White only	Non-Hispanic	High school graduate or GED completed	28	Unmarried	3	4	Yes	1st trimester	3	No	Y	Vaginal	9	NA	Single	Single	F	40	3289	No	0
+2024	5	6_Fri	Hospital	Hospital	27	Born outside U.S.	Asian only	Non-Hispanic	Bachelor’s degree	21.2	Married	3	4	Yes	2nd trimester	4	No	N	Vaginal	9	NA	Single	Single	M	39	3540	No	0
+2024	8	4_Wed	Hospital	Hospital	23	Born in U.S.	White only	NA	High school graduate or GED completed	17.1	Unmarried	1	2	NA	NA	NA	No	N	Vaginal	9	NA	Single	Single	M	39	3000	No	0
+2024	12	3_Tue	Hospital	Hospital	26	Born in U.S.	White only	Mexican	High school graduate or GED completed	54.3	Unmarried	3	4	Yes	1st trimester	3	No	N	C-Section	8	NA	Single	Single	M	39	3850	No	0
+2024	12	7_Sat	Hospital	Hospital	35	Born in U.S.	White only	Non-Hispanic	High school graduate or GED completed	23	Unmarried	3	5	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	M	42	3280	No	0
+2024	4	4_Wed	Hospital	Hospital	26	Born in U.S.	White only	Non-Hispanic	High school graduate or GED completed	31.5	Unmarried	3	5	Yes	2nd trimester	5	No	Y	Vaginal	9	NA	Single	Single	F	42	3580	No	0
+2024	5	4_Wed	Hospital	Hospital	28	Born outside U.S.	Asian only	Non-Hispanic	Some college credit, but not a degree	17.2	Married	1	1	Yes	1st trimester	2	No	N	Vaginal	9	NA	Single	Single	F	37	2985	No	0
+2024	11	7_Sat	Hospital	Hospital	24	Born in U.S.	Black only	Non-Hispanic	Associate degree	22.7	Unmarried	2	2	No	No prenatal care	0	No	N	Vaginal	9	NA	Single	Single	F	37	2070	No	0
+2024	3	5_Thu	Hospital	Hospital	25	Born in U.S.	Asian only	NA	NA	25	NA	2	2	Yes	1st trimester	3	No	N	C-Section	9	NA	Single	Single	M	38	3545	No	0
+2024	6	4_Wed	Hospital	Hospital	36	Born outside U.S.	White only	Non-Hispanic	Bachelor’s degree	27.4	Married	1	1	Yes	1st trimester	3	Yes	N	C-Section	9	NA	Single	Single	M	37	3610	No	0
+2024	4	3_Tue	Hospital	Hospital	35	Born in U.S.	White only	Non-Hispanic	Doctorate or Professional Degree	24	Married	1	2	Yes	1st trimester	1	No	N	Vaginal	9	NA	Single	Single	M	40	3260	No	0
+2024	10	6_Fri	Hospital	Hospital	39	Born outside U.S.	White only	Non-Hispanic	Master’s degree	30.4	Married	2	3	Yes	1st trimester	2	No	N	C-Section	9	NA	Single	Single	M	37	3487	No	0
+2024	5	3_Tue	Hospital	Hospital	38	Born outside U.S.	Black only	Non-Hispanic	9th through 12th grade with no diploma	40.2	Unmarried	3	3	Yes	2nd trimester	4	No	Y	Vaginal	9	NA	Single	Single	M	40	3359	No	0
+2024	10	3_Tue	Hospital	Hospital	31	Born in U.S.	Black only	Non-Hispanic	High school graduate or GED completed	28.2	Unmarried	5	8	Yes	1st trimester	2	No	Y	Vaginal	9	NA	Single	Single	M	39	3095	No	0
+2024	3	7_Sat	Hospital	Hospital	39	Born in U.S.	White only	Mexican	Some college credit, but not a degree	35.1	NA	1	1	Yes	1st trimester	2	No	Y	Vaginal	9	NA	Single	Single	M	39	3530	No	0
+2024	1	5_Thu	Hospital	Hospital	26	Born in U.S.	White only	Other and unknown Hispanic origin	9th through 12th grade with no diploma	51.6	Unmarried	3	4	Yes	2nd trimester	4	No	Y	Vaginal	8	NA	Single	Single	M	31	2870	No	1
+2024	9	4_Wed	Hospital	Hospital	24	Born outside U.S.	White only	Mexican	High school graduate or GED completed	37.9	Married	4	4	Yes	1st trimester	3	No	Y	Vaginal	9	NA	Single	Single	M	36	4135	No	1
+2024	7	5_Thu	Hospital	Hospital	34	Born in U.S.	White only	Non-Hispanic	Master’s degree	21.9	Married	1	1	Yes	1st trimester	2	No	Y	C-Section	9	NA	Single	Single	M	36	3970	No	1
+2024	1	3_Tue	Hospital	Hospital	28	Born in U.S.	Black only	Non-Hispanic	High school graduate or GED completed	20.1	Unmarried	2	2	No	No prenatal care	0	No	N	Vaginal	9	NA	Single	Single	F	37	2925	No	0
+2024	12	6_Fri	Hospital	Hospital	41	Born in U.S.	White only	Non-Hispanic	Bachelor’s degree	31.7	Married	2	2	Yes	1st trimester	2	No	N	C-Section	9	NA	Single	Single	M	37	3025	No	0
+2024	1	3_Tue	Hospital	Hospital	23	Born outside U.S.	White only	Central and South American	High school graduate or GED completed	20.9	Married	1	1	Yes	1st trimester	3	No	N	C-Section	9	NA	Single	Single	F	37	3250	No	0
+2024	5	7_Sat	Hospital	Hospital	31	Born in U.S.	White only	Non-Hispanic	Master’s degree	24.3	Married	1	1	Yes	1st trimester	2	No	N	Vaginal	9	NA	Single	Single	M	40	3835	No	0
+2024	12	6_Fri	Freestanding Birth Center	Not Hospital	29	Born in U.S.	White only	Non-Hispanic	Some college credit, but not a degree	22.6	Married	2	2	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	F	40	3798	No	0
+2024	5	6_Fri	Hospital	Hospital	36	Born outside U.S.	White only	Non-Hispanic	9th through 12th grade with no diploma	26.4	NA	4	4	Yes	1st trimester	1	No	N	C-Section	9	NA	Single	Single	M	36	3215	No	1
+2024	8	3_Tue	Hospital	Hospital	26	Born in U.S.	White only	Non-Hispanic	Bachelor’s degree	52.3	Married	2	2	Yes	1st trimester	3	No	N	C-Section	9	NA	Single	Single	M	37	2977	No	0
+2024	7	6_Fri	Hospital	Hospital	26	Born in U.S.	White only	Non-Hispanic	Bachelor’s degree	21.6	Unmarried	2	2	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	M	38	2910	No	0
+2024	9	3_Tue	Hospital	Hospital	20	Born in U.S.	White only	Non-Hispanic	Some college credit, but not a degree	25.3	Unmarried	2	3	Yes	2nd trimester	5	No	N	Vaginal	9	NA	Single	Single	M	46	2778	No	0
+2024	12	2_Mon	Hospital	Hospital	35	Born in U.S.	White only	Non-Hispanic	Master’s degree	30.7	NA	2	2	Yes	1st trimester	2	Yes	N	C-Section	9	NA	Single	Single	M	36	3852	No	1
+2024	12	7_Sat	Freestanding Birth Center	Not Hospital	36	Born in U.S.	White only	Non-Hispanic	Master’s degree	24.6	Married	1	1	Yes	1st trimester	2	No	N	Vaginal	9	NA	Single	Single	M	39	3742	No	0
+2024	11	2_Mon	Hospital	Hospital	32	Born in U.S.	White only	Non-Hispanic	Some college credit, but not a degree	40.7	Married	1	1	Yes	2nd trimester	5	No	N	C-Section	9	NA	Single	Single	M	40	4480	No	0
+2024	8	2_Mon	Hospital	Hospital	26	Born in U.S.	Black only	Non-Hispanic	Bachelor’s degree	39.1	Unmarried	1	1	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	M	43	3255	No	0
+2024	3	5_Thu	Hospital	Hospital	36	Born in U.S.	White only	Non-Hispanic	Bachelor’s degree	29.2	NA	1	3	Yes	1st trimester	2	Yes	Y	C-Section	10	NA	Single	Single	M	40	3915	No	0
+2024	1	6_Fri	Hospital	Hospital	26	Born in U.S.	White only	Mexican	High school graduate or GED completed	21	Married	3	3	Yes	1st trimester	2	No	Y	Vaginal	9	NA	Single	Single	F	39	4006	No	0
+2024	12	6_Fri	Hospital	Hospital	32	Born outside U.S.	White only	Other and unknown Hispanic origin	High school graduate or GED completed	54.9	NA	3	3	Yes	1st trimester	3	No	Y	Vaginal	9	NA	Single	Single	M	40	3720	No	0
+2024	1	6_Fri	Hospital	Hospital	26	Born in U.S.	Black only	Non-Hispanic	9th through 12th grade with no diploma	24.8	Unmarried	6	6	Yes	1st trimester	2	No	N	Vaginal	8	NA	Multiple	Twin	M	29	1343	Yes	1
+2024	5	6_Fri	Hospital	Hospital	33	Born in U.S.	White only	Non-Hispanic	Master’s degree	29	Married	2	5	Yes	1st trimester	2	No	Y	Vaginal	9	NA	Single	Single	F	39	3080	No	0
+2024	4	3_Tue	Hospital	Hospital	28	Born in U.S.	White only	Non-Hispanic	High school graduate or GED completed	41.6	Married	2	2	Yes	1st trimester	2	No	N	C-Section	9	NA	Single	Single	M	40	2892	No	0
+2024	1	4_Wed	Hospital	Hospital	42	Born in U.S.	White only	Non-Hispanic	Associate degree	21.9	Married	3	3	Yes	2nd trimester	4	No	N	Vaginal	9	NA	Single	Single	F	42	2500	No	0
+2024	8	4_Wed	Hospital	Hospital	23	Born outside U.S.	White only	Mexican	High school graduate or GED completed	23	NA	1	1	Yes	1st trimester	2	No	N	Vaginal	9	NA	Single	Single	F	39	2785	No	0
+2024	12	2_Mon	Hospital	Hospital	36	Born in U.S.	Asian only	Non-Hispanic	Bachelor’s degree	33.4	Married	2	2	Yes	1st trimester	2	No	N	Vaginal	9	NA	Single	Single	F	38	3300	No	0
+2024	6	2_Mon	Hospital	Hospital	24	Born in U.S.	Black only	Non-Hispanic	High school graduate or GED completed	32.6	Unmarried	5	5	Yes	1st trimester	3	No	N	C-Section	9	NA	Single	Single	M	39	3402	No	0
+2024	12	7_Sat	Hospital	Hospital	32	Born in U.S.	White only	Non-Hispanic	Some college credit, but not a degree	44.3	Unmarried	3	3	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	M	39	3660	No	0
+2024	3	1_Sun	Hospital	Hospital	29	Born in U.S.	White only	Non-Hispanic	Bachelor’s degree	31.9	Married	1	1	Yes	1st trimester	3	No	Y	C-Section	9	NA	Single	Single	M	39	3275	No	0
+2024	5	3_Tue	Hospital	Hospital	35	Born in U.S.	White only	Non-Hispanic	Some college credit, but not a degree	27.3	Unmarried	3	5	Yes	1st trimester	2	No	N	Vaginal	9	NA	Single	Single	M	40	3200	No	0
+2024	9	7_Sat	Hospital	Hospital	35	Born outside U.S.	White only	Other and unknown Hispanic origin	High school graduate or GED completed	23.2	NA	5	7	Yes	1st trimester	3	No	N	C-Section	9	NA	Single	Single	F	36	3090	Yes	1
+2024	1	1_Sun	Home	Not Hospital	34	Born in U.S.	White only	Non-Hispanic	Bachelor’s degree	25	Married	4	4	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	M	38	3010	No	0
+2024	12	5_Thu	Hospital	Hospital	27	Born in U.S.	White only	Non-Hispanic	Some college credit, but not a degree	24	Married	3	5	Yes	1st trimester	2	No	N	Vaginal	9	NA	Single	Single	M	37	3033	No	0
+2024	2	6_Fri	Hospital	Hospital	19	Born in U.S.	Black only	Non-Hispanic	High school graduate or GED completed	17.2	Unmarried	1	1	Yes	1st trimester	2	No	Y	Vaginal	9	NA	Single	Single	M	37	2850	No	0
+2024	1	5_Thu	Hospital	Hospital	24	Born in U.S.	White only	Mexican	High school graduate or GED completed	37.6	Married	3	3	Yes	2nd trimester	5	No	Y	Vaginal	9	NA	Single	Single	F	44	2670	No	0
+2024	10	2_Mon	Hospital	Hospital	23	Born in U.S.	Black only	Non-Hispanic	High school graduate or GED completed	23.3	Unmarried	1	1	Yes	1st trimester	1	No	Y	Vaginal	9	NA	Single	Single	M	42	2930	No	0
+2024	9	4_Wed	Hospital	Hospital	37	Born in U.S.	Black only	Non-Hispanic	Associate degree	46.2	Unmarried	3	4	Yes	1st trimester	2	No	Y	Vaginal	8	NA	Single	Single	M	37	3280	No	0
+2024	2	3_Tue	Hospital	Hospital	25	Born outside U.S.	White only	Mexican	High school graduate or GED completed	32.1	Married	2	2	Yes	1st trimester	2	No	N	C-Section	9	NA	Single	Single	F	38	3175	No	0
+2024	8	2_Mon	Hospital	Hospital	30	Born in U.S.	White only	Non-Hispanic	Some college credit, but not a degree	32.9	Married	3	3	Yes	1st trimester	3	No	Y	C-Section	9	NA	Single	Single	M	35	3089	No	1
+2024	9	6_Fri	Hospital	Hospital	21	Born in U.S.	White only	Non-Hispanic	High school graduate or GED completed	28.3	Unmarried	2	2	Yes	1st trimester	2	No	Y	Vaginal	9	NA	Single	Single	F	39	3317	No	0
+2024	5	7_Sat	Hospital	Hospital	30	Born outside U.S.	White only	Non-Hispanic	Some college credit, but not a degree	19.9	Married	2	2	Yes	2nd trimester	4	No	N	Vaginal	9	NA	Single	Single	M	40	3490	No	0
+2024	8	2_Mon	Hospital	Hospital	23	Born in U.S.	White only	Mexican	High school graduate or GED completed	99.9	NA	3	3	No	No prenatal care	0	No	N	C-Section	9	NA	Single	Single	F	42	2988	No	0
+2024	6	5_Thu	Hospital	Hospital	36	Born in U.S.	White only	Non-Hispanic	Master’s degree	20	Married	3	5	Yes	1st trimester	2	No	Y	Vaginal	10	NA	Single	Single	M	38	2883	No	0
+2024	1	2_Mon	Hospital	Hospital	23	Born in U.S.	White only	Non-Hispanic	High school graduate or GED completed	39.3	Married	2	2	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	F	41	3226	No	0
+2024	5	2_Mon	Hospital	Hospital	27	Born in U.S.	White only	Mexican	Some college credit, but not a degree	27.1	Unmarried	1	1	Yes	1st trimester	2	No	N	C-Section	9	NA	Single	Single	M	39	3390	No	0
+2024	3	3_Tue	Hospital	Hospital	38	Born in U.S.	Black only	Non-Hispanic	High school graduate or GED completed	36.3	Unmarried	1	1	Yes	1st trimester	3	No	N	C-Section	6	NA	Single	Single	F	39	2850	No	0
+2024	11	2_Mon	Hospital	Hospital	23	NA	White only	Non-Hispanic	High school graduate or GED completed	50.5	Married	2	2	Yes	1st trimester	3	No	N	C-Section	8	NA	Single	Single	M	37	3160	Yes	0
+2024	1	4_Wed	Hospital	Hospital	27	Born in U.S.	White only	Non-Hispanic	High school graduate or GED completed	27.6	Unmarried	1	1	Yes	1st trimester	3	No	Y	Vaginal	8	NA	Single	Single	M	41	4480	No	0
+2024	8	6_Fri	Hospital	Hospital	23	Born in U.S.	White only	Non-Hispanic	Some college credit, but not a degree	23	Unmarried	3	3	Yes	2nd trimester	5	No	N	Vaginal	9	NA	Single	Single	M	35	2997	No	1
+2024	4	5_Thu	Hospital	Hospital	22	Born outside U.S.	White only	Central and South American	High school graduate or GED completed	18.4	Unmarried	2	1	Yes	1st trimester	3	No	N	C-Section	10	NA	Multiple	Twin	M	38	2940	No	0
+2024	9	6_Fri	Hospital	Hospital	37	Born outside U.S.	White only	Central and South American	8th grade or less	33.1	Married	6	6	Yes	2nd trimester	5	No	Y	Vaginal	9	NA	Single	Single	F	40	3997	No	0
+2024	11	1_Sun	Hospital	Hospital	18	Born in U.S.	Black only	Non-Hispanic	9th through 12th grade with no diploma	28.2	Unmarried	3	3	Yes	2nd trimester	5	No	N	Vaginal	9	NA	Single	Single	F	36	2930	No	1
+2024	9	6_Fri	Hospital	Hospital	37	Born in U.S.	White only	Non-Hispanic	Master’s degree	26.4	Married	3	3	Yes	1st trimester	3	No	N	C-Section	9	NA	Single	Single	F	39	3828	No	0
+2024	6	3_Tue	Hospital	Hospital	31	Born in U.S.	White only	Non-Hispanic	Doctorate or Professional Degree	29	Married	1	1	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	M	30	2920	No	1
+2024	4	5_Thu	Hospital	Hospital	44	Born in U.S.	White only	Non-Hispanic	Bachelor’s degree	23.8	Married	3	5	Yes	1st trimester	3	No	N	C-Section	9	NA	Single	Single	M	37	3510	No	0
+2024	9	7_Sat	Hospital	Hospital	31	Born outside U.S.	Asian only	Non-Hispanic	Master’s degree	23.3	Married	1	1	Yes	1st trimester	2	No	Y	C-Section	6	NA	Single	Single	F	40	3340	Yes	0
+2024	3	1_Sun	Hospital	Hospital	24	Born outside U.S.	White only	Other and unknown Hispanic origin	High school graduate or GED completed	20.1	Married	1	1	Yes	3rd trimester	9	No	N	Vaginal	9	NA	Single	Single	M	33	3147	No	1
+2024	11	1_Sun	Hospital	Hospital	16	Born in U.S.	Black only	Non-Hispanic	9th through 12th grade with no diploma	18.9	Unmarried	2	2	Yes	2nd trimester	4	No	N	C-Section	1	5	Single	Single	M	34	1729	No	1
+2024	7	6_Fri	Hospital	Hospital	30	Born outside U.S.	White only	Puerto Rican	High school graduate or GED completed	21	Unmarried	2	2	Yes	1st trimester	1	No	N	C-Section	8	NA	Single	Single	M	39	3125	No	0
+2024	1	5_Thu	Hospital	Hospital	25	Born outside U.S.	NHOPI only	Mexican	High school graduate or GED completed	18.3	Married	2	2	Yes	1st trimester	3	No	Y	Vaginal	8	NA	Single	Single	F	40	3629	No	0
+2024	3	5_Thu	Hospital	Hospital	26	Born in U.S.	Black only	Non-Hispanic	High school graduate or GED completed	53.4	Unmarried	2	3	Yes	1st trimester	1	No	Y	Vaginal	9	NA	Single	Single	F	41	3440	No	0
+2024	5	4_Wed	Hospital	Hospital	34	Born outside U.S.	White only	Mexican	Bachelor’s degree	41	NA	2	2	Yes	1st trimester	3	No	Y	C-Section	7	NA	Single	Single	F	40	3425	No	0
+2024	2	6_Fri	Hospital	Hospital	39	Born in U.S.	White only	Non-Hispanic	Bachelor’s degree	25.1	Unmarried	1	1	Yes	1st trimester	2	No	N	Vaginal	9	NA	Single	Single	M	34	2325	No	1
+2024	2	4_Wed	Hospital	Hospital	36	Born in U.S.	White only	Non-Hispanic	Some college credit, but not a degree	21.3	Married	2	3	Yes	1st trimester	2	No	N	Vaginal	9	NA	Single	Single	F	38	3450	No	0
+2024	4	2_Mon	Hospital	Hospital	27	Born in U.S.	White only	Non-Hispanic	High school graduate or GED completed	25.8	Unmarried	4	4	Yes	1st trimester	1	No	N	Vaginal	9	NA	Single	Single	M	40	3830	No	0
+2024	9	1_Sun	Hospital	Hospital	26	Born outside U.S.	White only	Central and South American	8th grade or less	27.1	Married	2	3	Yes	2nd trimester	4	No	N	Vaginal	9	NA	Single	Single	F	41	3572	No	0
+2024	4	6_Fri	Hospital	Hospital	31	Born in U.S.	Black only	Non-Hispanic	Associate degree	30.2	Married	1	1	Yes	1st trimester	3	No	Y	Vaginal	9	NA	Single	Single	M	40	3030	No	0
+2024	4	3_Tue	Hospital	Hospital	26	Born in U.S.	White only	Non-Hispanic	Bachelor’s degree	27.7	Married	1	1	Yes	1st trimester	2	No	N	Vaginal	9	NA	Single	Single	M	39	4750	No	0
+2024	12	3_Tue	Hospital	Hospital	27	Born in U.S.	Black only	Non-Hispanic	Some college credit, but not a degree	40.2	Unmarried	1	2	Yes	2nd trimester	4	No	Y	Vaginal	9	NA	Single	Single	F	38	2330	No	0
+2024	12	2_Mon	Hospital	Hospital	31	Born outside U.S.	White only	Central and South American	8th grade or less	32.6	Unmarried	3	3	Yes	1st trimester	2	No	N	Vaginal	9	NA	Single	Single	M	38	3820	No	0
+2024	4	1_Sun	Hospital	Hospital	35	Born in U.S.	Asian only	Non-Hispanic	Some college credit, but not a degree	32.4	Married	3	3	Yes	1st trimester	2	No	Y	Vaginal	9	NA	Single	Single	M	43	3500	No	0
+2024	5	6_Fri	Hospital	Hospital	32	Born outside U.S.	Asian only	Non-Hispanic	Bachelor’s degree	19.6	Married	1	1	Yes	1st trimester	2	No	Y	Vaginal	8	NA	Single	Single	F	40	2910	No	0
+2024	11	3_Tue	Hospital	Hospital	40	Born in U.S.	White only	Non-Hispanic	Master’s degree	23.8	Married	1	2	Yes	2nd trimester	5	No	Y	C-Section	9	NA	Single	Single	M	39	3030	No	0
+2024	7	4_Wed	Hospital	Hospital	23	Born in U.S.	Black only	Non-Hispanic	High school graduate or GED completed	27.1	Unmarried	2	2	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	F	40	3220	No	0
+2024	10	3_Tue	Hospital	Hospital	35	Born in U.S.	White only	Non-Hispanic	Master’s degree	24.8	Married	2	2	No	No prenatal care	0	No	N	Vaginal	8	NA	Single	Single	F	41	3580	No	0
+2024	3	2_Mon	Hospital	Hospital	34	Born in U.S.	White only	Mexican	9th through 12th grade with no diploma	23.8	Unmarried	4	4	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	F	39	3340	No	0
+2024	11	3_Tue	Hospital	Hospital	28	Born in U.S.	White only	Non-Hispanic	Master’s degree	22.9	Married	1	1	Yes	1st trimester	2	No	N	Vaginal	9	NA	Single	Single	M	38	3730	No	0
+2024	1	3_Tue	Hospital	Hospital	29	Born in U.S.	White only	Non-Hispanic	Bachelor’s degree	19.4	Married	1	1	Yes	1st trimester	2	No	N	C-Section	8	NA	Single	Single	F	36	2892	No	1
+2024	10	1_Sun	Hospital	Hospital	34	Born in U.S.	White only	Non-Hispanic	Some college credit, but not a degree	48.1	Married	3	5	Yes	1st trimester	2	No	Y	Vaginal	9	NA	Single	Single	F	40	3170	No	0
+2024	11	7_Sat	Hospital	Hospital	22	Born in U.S.	White only	Mexican	Some college credit, but not a degree	16.6	NA	1	1	Yes	1st trimester	1	No	Y	Vaginal	9	NA	Single	Single	M	38	2610	No	0
+2024	2	2_Mon	Hospital	Hospital	31	Born in U.S.	White only	Non-Hispanic	High school graduate or GED completed	22.9	Married	5	7	Yes	1st trimester	3	No	Y	Vaginal	9	NA	Multiple	Twin	F	38	2570	No	0
+2024	6	5_Thu	Hospital	Hospital	36	Born outside U.S.	White only	Mexican	9th through 12th grade with no diploma	41	Married	2	3	Yes	2nd trimester	4	No	N	C-Section	9	NA	Single	Single	F	38	3524	No	0
+2024	3	3_Tue	Hospital	Hospital	24	Born in U.S.	White only	Mexican	High school graduate or GED completed	30.8	NA	3	3	Yes	2nd trimester	4	No	N	Vaginal	9	NA	Single	Single	F	40	2890	No	0
+2024	11	6_Fri	Hospital	Hospital	36	Born in U.S.	White only	Non-Hispanic	Doctorate or Professional Degree	21.5	Married	1	1	No	No prenatal care	0	No	Y	C-Section	9	NA	Single	Single	F	39	2500	No	0
+2024	4	1_Sun	Hospital	Hospital	36	Born in U.S.	White only	Non-Hispanic	High school graduate or GED completed	26.6	Married	1	1	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	F	42	2530	No	0
+2024	3	3_Tue	Hospital	Hospital	35	Born in U.S.	White only	Non-Hispanic	Bachelor’s degree	29.1	Married	2	3	Yes	2nd trimester	4	No	N	C-Section	9	NA	Single	Single	F	39	3970	No	0
+2024	2	5_Thu	Hospital	Hospital	34	Born in U.S.	Black only	Non-Hispanic	Some college credit, but not a degree	33.9	Married	1	1	Yes	1st trimester	3	No	Y	C-Section	9	NA	Single	Single	M	37	2800	No	0
+2024	10	1_Sun	Hospital	Hospital	35	Born in U.S.	White only	Non-Hispanic	Bachelor’s degree	26.8	NA	3	3	Yes	2nd trimester	4	No	Y	Vaginal	9	NA	Single	Single	M	39	3830	No	0
+2024	3	4_Wed	Hospital	Hospital	32	Born in U.S.	White only	Non-Hispanic	Bachelor’s degree	35.2	Married	2	2	Yes	1st trimester	2	No	N	C-Section	8	NA	Single	Single	F	39	3610	No	0
+2024	8	4_Wed	Hospital	Hospital	28	Born in U.S.	More than once race	Mexican	NA	23.4	NA	2	2	Yes	1st trimester	1	No	Y	Vaginal	9	NA	Single	Single	M	41	3926	No	0
+2024	10	4_Wed	Hospital	Hospital	30	Born in U.S.	White only	Central and South American	Some college credit, but not a degree	25.5	Unmarried	1	2	Yes	1st trimester	2	No	Y	Vaginal	9	NA	Single	Single	F	40	3530	Yes	0
+2024	11	5_Thu	Hospital	Hospital	38	Born in U.S.	More than once race	Non-Hispanic	Bachelor’s degree	23.6	Married	2	3	Yes	1st trimester	3	Yes	N	C-Section	9	NA	Single	Single	F	39	3235	No	0
+2024	12	4_Wed	Hospital	Hospital	33	Born outside U.S.	Asian only	Non-Hispanic	Master’s degree	21.6	Married	1	1	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	M	39	3100	No	0
+2024	9	2_Mon	Hospital	Hospital	31	Born in U.S.	White only	Non-Hispanic	Master’s degree	22	NA	1	1	Yes	1st trimester	2	No	Y	Vaginal	9	NA	Single	Single	M	40	4140	No	0
+2024	4	2_Mon	Hospital	Hospital	33	Born in U.S.	White only	Non-Hispanic	High school graduate or GED completed	31.7	Married	2	2	Yes	1st trimester	2	Yes	N	C-Section	9	NA	Single	Single	F	37	2135	No	0
+2024	12	2_Mon	Hospital	Hospital	26	Born in U.S.	White only	Non-Hispanic	Bachelor’s degree	30.9	Unmarried	1	1	Yes	1st trimester	2	No	Y	Vaginal	8	NA	Single	Single	M	37	3175	No	0
+2024	1	7_Sat	Hospital	Hospital	25	Born in U.S.	White only	Other and unknown Hispanic origin	9th through 12th grade with no diploma	31.2	Unmarried	2	2	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	F	37	3545	No	0
+2024	10	4_Wed	Hospital	Hospital	21	Born in U.S.	White only	Non-Hispanic	High school graduate or GED completed	21.5	Married	1	1	Yes	1st trimester	2	No	N	Vaginal	9	NA	Single	Single	F	42	3714	No	0
+2024	7	6_Fri	Hospital	Hospital	16	Born in U.S.	White only	Non-Hispanic	High school graduate or GED completed	17.4	Unmarried	1	1	Yes	2nd trimester	6	No	N	Vaginal	9	NA	Single	Single	F	31	3510	No	1
+2024	9	7_Sat	Hospital	Hospital	20	Born in U.S.	White only	Non-Hispanic	High school graduate or GED completed	19.4	Married	1	1	Yes	1st trimester	2	No	N	Vaginal	9	NA	Single	Single	M	40	3572	No	0
+2024	4	5_Thu	Hospital	Hospital	28	Born in U.S.	White only	Non-Hispanic	Bachelor’s degree	23.7	Married	1	2	Yes	1st trimester	2	No	N	Vaginal	8	NA	Single	Single	F	30	2807	No	1
+2024	12	2_Mon	Hospital	Hospital	41	Born in U.S.	White only	Mexican	Some college credit, but not a degree	34.6	NA	3	4	Yes	1st trimester	1	No	N	C-Section	9	NA	Single	Single	F	39	3295	No	0
+2024	1	2_Mon	Hospital	Hospital	35	Born in U.S.	White only	Non-Hispanic	Bachelor’s degree	25.8	Married	2	4	Yes	1st trimester	2	No	N	C-Section	9	NA	Single	Single	M	39	4510	No	0
+2024	10	7_Sat	Hospital	Hospital	35	Born in U.S.	White only	Non-Hispanic	Master’s degree	23.3	Married	3	3	Yes	1st trimester	2	No	N	Vaginal	8	NA	Single	Single	F	36	3340	No	1
+2024	4	2_Mon	Hospital	Hospital	34	Born in U.S.	White only	Non-Hispanic	Bachelor’s degree	35.7	Married	3	3	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	F	41	3368	No	0
+2024	12	7_Sat	Hospital	Hospital	38	Born outside U.S.	White only	Mexican	High school graduate or GED completed	25	NA	4	5	Yes	1st trimester	3	No	N	Vaginal	9	NA	Single	Single	F	38	3610	No	0
+2024	4	4_Wed	Hospital	Hospital	19	Born in U.S.	White only	Non-Hispanic	High school graduate or GED completed	22.1	Unmarried	1	1	Yes	1st trimester	2	No	N	Vaginal	9	NA	Single	Single	F	38	3600	No	0
