@@ -1,0 +1,14 @@
+Country	Swimmer Name	Heat#	Time (seconds)
+Germany	Leonie Märtens	1	249.62
+Argentina	Agostina Hein	1	254.24
+Kazakhstan	Anastasiya Zelinskaya	1	271.71
+Curaçao	Natalia Jean Kuipers	1	273.46
+Jordan	Karin Belbeisi	1	277.30
+USA	Katie Ledecky	3	242.19
+Australia	Ariarne Titmus	3	242.46
+Germany	Isabel Marie Gose	3	243.83
+China	Li Bingjie	3	243.96
+China	Liu Yaxin	3	244.39
+Japan	Waka Kobori	3	248.02
+Brazil	Gabrielle Roncatto	3	250.46
+Hungary	Ajna Késely	3	248.90
