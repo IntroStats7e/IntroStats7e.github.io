@@ -1,0 +1,8 @@
+# Hearing
+
+Fitting someone for a hearing aid requires assessing the patient’s hearing ability. In one method of assessment, the patient listens to a tape of 50  English words. The tape is played at low volume, and the patient is asked to repeat the words. The patient’s hearing  ability score is the number of words perceived correctly. Four tapes of equivalent difficulty are available so that each ear can be tested with more than one hearing aid. These lists were created to be equally difficult to perceive in silence, but hearing aids must work in the  presence of background noise. Researchers had 24 subjects with normal hearing compare two of the tapes when a  background noise was present, with the order of the tapes randomized. Is it reasonable to assume that the two lists are still equivalent for purposes of the hearing test when there is background noise? Base your decision on a  confidence interval for the mean difference in the  number of words people might misunderstand. 
+
+The data are in `Hearing.txt`
+
+
+This dataset is sourced from: Faith Loven, A Study of the In-terlist Equivalency of the CID W-22 Word List  Presented in Quiet and in Noise. University of Iowa [1981])

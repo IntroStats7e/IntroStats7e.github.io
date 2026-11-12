@@ -8,6 +8,6 @@ The variables in this dataset are:
 
 Header | Description
 ---|--------
-`Temp` | 
+`Temp` | Body temperature (degrees Fahrenheit) 
 
 This dataset is sourced from: http://www.oaklandairport.com/news/statistics/passenger-history/  http://www.oaklandairport.com/wp-content/uploads/2016/08/enplanements_deplanements_FY10-1.xls

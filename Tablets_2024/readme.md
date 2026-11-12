@@ -1,6 +1,6 @@
 # Tablets 2024
 
-Cnet.com tests tablet computers and continuously updates its list. As of January 2014, the list included the battery life (in hours) and luminous intensity (i.e., screen brightness, in cd/m^2).
+Are the size and battery life of smartwatches related? Best Smart Watches compares the specs of many smartwatch models. 
 
 The data are in `Tablets_2024.txt`
 

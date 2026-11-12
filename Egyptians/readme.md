@@ -1,5 +1,7 @@
 # Egyptians
 
+
+
 The data are in `Egyptians.txt`
 
 The variables in this dataset are: 
