@@ -1,0 +1,21 @@
+Age	Education	Count
+25-34	Not HS Grad	12
+25-34	HS	62
+25-34	1-3 Years College	55
+25-34	>= 4 Years College	94
+35-44	Not HS Grad	18
+35-44	HS	55
+35-44	1-3 Years College	53
+35-44	>= 4 Years College	96
+45-54	Not HS Grad	18
+45-54	HS	52
+45-54	1-3 Years College	48
+45-54	>= 4 Years College	82
+55-64	Not HS Grad	20
+55-64	HS	61
+55-64	1-3 Years College	53
+55-64	>= 4 Years College	72
+65+	Not HS Grad	30
+65+	HS	90
+65+	1-3 Years College	76
+65+	>= 4 Years College	100

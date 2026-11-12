@@ -1,0 +1,15 @@
+Position Title	2016	2020
+Asst To The President And Cabinet Secretary	176461	183000
+Asst To The President And Chief Of Staff	176461	183000
+Asst To The President And Deputy National Security Advisor	174714	183000
+Asst To The President And Director Of Presidential Personnel	172200	183000
+Asst To The President And National Security Advisor	176461	183000
+Asst To The President And Press Secretary	176461	183000
+Chief Calligrapher	100110	109200
+Deputy Asst To The President And Deputy Director Of Communications	142044	158000
+Deputy Asst To The President And Director Of Intergovernmental Affairs	157299	168000
+Deputy Director And Senior Advisor For Records Management	127038	149600
+Director Of Records Management	145162	170800
+Director Of Stenography	117846	98900
+Executive Clerk	145162	170800
+Special Asst To The President And Deputy Director Of Advance	103489	145000

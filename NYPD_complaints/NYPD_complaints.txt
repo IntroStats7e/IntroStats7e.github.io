@@ -1,0 +1,7 @@
+Complaint	Gender	Count
+None	Man	9126
+None	Woman	3533
+Unsubstantiated	Man	12078
+Unsubstantiated	Woman	2965
+Substantiated	Man	5091
+Substantiated	Woman	741

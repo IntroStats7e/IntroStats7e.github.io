@@ -1,0 +1,21 @@
+Institution	In-State	Out-of-State
+University of Akron Main Campus	11463	15500
+Ball State University	9896	26468
+Bloomsburg University of Pennsylvania	10958	22782
+University of California-Irvine	13700	42692
+Central State University	6346	8346
+Clarion University of Pennsylvania	11175	16054
+Dakota State University	9276	12249
+Fairmont State University	7514	16324
+Lock Haven University	10878	20702
+New College of Florida	6916	29944
+Oakland University	12606	24230
+University of Pittsburgh	19080	32052
+Savannah State University	5743	16204
+Louisiana State University	11950	28627
+West Liberty University	7680	15620
+Central Texas College	2700	7050
+Worcester State University	10161	16241
+Wright State University	9254	18398
+Wayne State University	13097	27991
+University of Wyoming	5400	17490
